@@ -11,5 +11,4 @@ actions:
 	
   - text: Docs
     link: /en-us/docs/guide
-    type: primary
 ---
