@@ -14,27 +14,17 @@
     window.$docsify = {
       name: '',
       repo: ''
+	  loadSidebar: true
+	  coverpage: true
     }
 	
 	window.$docsify = {
-  coverpage: true,                     //开启页面
-
-  // Custom file name
-  coverpage: 'cover.md',               //可理解为页面路由
-
-  // multiple covers
-  coverpage: ['/', '/zh-cn/'],
-
-  // multiple covers and custom file name
   coverpage: {
     '/': 'cover.md',
-    '/zh-cn/': 'cover.md',
-  }，
-
-  window.$docsify = {
-    loadSidebar: true
+    '/zh-cn/': 'cover.md'
   }
-  
+};
+	
   </script>
   <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
