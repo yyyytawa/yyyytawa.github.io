@@ -1,5 +1,4 @@
-**Welcome to my docs website**   
-*And it is also my blog(maybe)*  
-*You can see the information from sidebar*  
-*You can also change languages from navbar*  
-*This is the home page of english*  
+**欢迎来到我的文档站**  
+*这也是我的博客（或许）*  
+*你可以查阅信息*  
+*这是中文的首页*  

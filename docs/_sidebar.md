@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
-* [首页](zh-cn/)
-* [指南](zh-cn/guide)
+- [Blog](/blog/)
+- [指南](/guide/)
