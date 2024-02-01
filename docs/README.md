@@ -1,3 +1,4 @@
+---
 home: true
 icon: iconfont icon-home
 title: Home Page
@@ -11,3 +12,4 @@ actions:
   - text: Docs
     link: /en-us/docs/guide
     type: primary
+---
