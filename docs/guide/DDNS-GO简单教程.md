@@ -12,3 +12,20 @@
 下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)  
 一般没有特殊需求选Latest版本即可   
 ![img1](https://img.yyyyt.eu.org/DDNS-GO/DDNS-GO01.png)
+- **运行**  
+以下方式，按照自己系统选择即可   
+Windows:   
+直接双击运行即可   
+Linux&MacOS:  
+在运行目录打开终端，输入以下命令:  
+./ddns-go    
+按照提示打开浏览器,访问 IP:9876  
+按照提示设置即可  
+- **自启**  
+到ddns-go的目录下,按照以下操作即可   
+Windows:cmd执行(记得要有管理员权限哦) ddns-go -s install  
+Linux:  sudo .\ddns-go -s install  
+MacOS:自己琢磨吧 我这边没设备  
+
+### 开始使用   
+打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例)   
