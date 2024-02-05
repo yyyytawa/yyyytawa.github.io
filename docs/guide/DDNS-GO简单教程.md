@@ -28,4 +28,6 @@ Linux:  sudo .\ddns-go -s install
 MacOS:自己琢磨吧 我这边没设备  
 
 ### 开始使用   
-打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例)   
+打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)   
+按照下面操作进行   
+
