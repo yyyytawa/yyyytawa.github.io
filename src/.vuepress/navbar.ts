@@ -5,7 +5,7 @@ export default navbar([
   "/guide/",
   "/blog/",
   {
-    text: "github主页",
+    text: "Github主页",
     icon: "/assets/image/github-dark.svg",
     link: "https://github.com/yyyytawa",
   },
