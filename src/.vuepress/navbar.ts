@@ -7,7 +7,7 @@ export default navbar([
    icon: "book",
    prefix: "guide/",
   },
-    {
+  {
    text: "Blog",
    prefix: "blog/",
   },
