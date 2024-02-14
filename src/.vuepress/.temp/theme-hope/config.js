@@ -1,14 +1,14 @@
 import { defineClientConfig } from "vuepress/client";
 
 
-import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/data/data/com.termux/files/home/my-docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/export.js";
+import { HopeIcon, Layout, NotFound, useScrollPromise, injectDarkmode, setupDarkmode, setupSidebarItems } from "/data/data/com.termux/files/home/repo/test/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/export.js";
 
-import { defineCatalogInfoGetter } from "/data/data/com.termux/files/home/my-docs/node_modules/.pnpm/@vuepress+plugin-catalog@2.0.0-rc.12_vuepress@2.0.0-rc.7/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
+import { defineCatalogInfoGetter } from "/data/data/com.termux/files/home/repo/test/node_modules/.pnpm/@vuepress+plugin-catalog@2.0.0-rc.12_vuepress@2.0.0-rc.7/node_modules/@vuepress/plugin-catalog/lib/client/index.js"
 import { h } from "vue"
-import { GlobalEncrypt, LocalEncrypt } from "/data/data/com.termux/files/home/my-docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
-import "/data/data/com.termux/files/home/my-docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
+import { GlobalEncrypt, LocalEncrypt } from "/data/data/com.termux/files/home/repo/test/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/export.js";
+import "/data/data/com.termux/files/home/repo/test/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/modules/encrypt/styles/all.scss"
 
-import "/data/data/com.termux/files/home/my-docs/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
+import "/data/data/com.termux/files/home/repo/test/node_modules/.pnpm/vuepress-theme-hope@2.0.0-rc.23_markdown-it@14.0.0_vuepress@2.0.0-rc.7/node_modules/vuepress-theme-hope/lib/bundle/styles/all.scss";
 
 defineCatalogInfoGetter((meta) => {
   const title = meta.t;
