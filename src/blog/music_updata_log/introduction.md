@@ -1,6 +1,6 @@
 ---
 title: 简介
-icon: "lightbulb"
+icon: lightbulb
 order: 1
 ---
 
