@@ -2,6 +2,7 @@
 title: 关于此界面
 order: 1
 icon: lightbulb
+footer: 这是一个个人发布关于二中的内容,不代表二中官方
 ---
 
 有一天喝醉了,然后就想着做出了这个  
