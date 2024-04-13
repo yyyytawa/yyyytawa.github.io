@@ -16,7 +16,7 @@ title: 1.DDNS-GO简单教程
 - **首先**  
 下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)  
 一般没有特殊需求选Latest版本即可   
-![img1](https://img.yyyyt.eu.org/DDNS-GO/DDNS-GO01.png)
+![img1](https://img.yyyyt.top/DDNS-GO/DDNS-GO01.png)
 - **运行**  
 以下方式，按照自己系统选择即可   
 Windows:   
