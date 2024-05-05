@@ -1,5 +1,5 @@
 ---
-title: 第10周
+title: 第十周
 order: 10
 ---
 
