@@ -16,7 +16,7 @@ title: 1.DDNS-GO简单教程
 - **首先**  
 下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)  
 一般没有特殊需求选Latest版本即可   
-![img1](https://img.yyyyt.top/DDNS-GO/DDNS-GO01.png)
+![img1](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png)
 - **运行**  
 以下方式，按照自己系统选择即可   
 Windows:   
@@ -34,5 +34,20 @@ MacOS:自己琢磨吧 我这边没设备
 
 ### 开始使用   
 打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)   
-按照下面操作进行   
 
+**获取令牌**  
+1.打开[Cloudflare Dashboard](https://dash.cloudflare.com)  
+2.打开我的个人资料  
+![cloudflare_home](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_account_home.png)  
+3.创建API令牌  
+![cloudflare_api_gui](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_gui.png)  
+![cloudflare_api_2](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_2.png)  
+![cloudflare_api_create](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_create.png)  
+然后核对摘要信息,无误的话点击"创建令牌",然后就会显示令牌  
+![cloudflare_api_show](https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_show.png)  
+记得一定要保存好令牌信息,不会再次显示  
+
+**填写信息**  
+按照界面提示填写即可  
+IPv4/IPv6按照自己需求和情况选择即可  
+然后到日志看一下是否有相应提示即可  
