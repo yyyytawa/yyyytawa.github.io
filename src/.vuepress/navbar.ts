@@ -12,6 +12,10 @@ export default navbar([
         link: "/blog/",
   },
   {
+        text: "个人文章",
+        link: "/article/",
+  },
+  {
     text: "Github主页",
     icon: "/assets/image/github-dark.svg",
     link: "https://github.com/yyyytawa",
