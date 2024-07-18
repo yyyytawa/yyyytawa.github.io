@@ -1,5 +1,5 @@
 ---
-title: 简介
+title: 个人文章
 index: false
 ---
 

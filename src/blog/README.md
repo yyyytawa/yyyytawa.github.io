@@ -1,5 +1,6 @@
 ---
-title: 简介
+title: 博客
+imdex: false
 ---
 
 该目录是关于我博客的内容   
