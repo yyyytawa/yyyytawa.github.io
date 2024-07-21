@@ -25,4 +25,5 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 *这也是我的博客 <s> (或许) </s>*  
 *你可以查阅信息*  
 *这是中文的首页*  
-[友链](/links)
+[友链](/links)  
+[关于我](/about_me)
