@@ -10,5 +10,5 @@ title: 关于我
 
 ## 联系方式:  
 邮箱: support@yyyyt.top  
-云湖: [yyyyt](https://https://www.yhchat.com/user/homepage/7354488)  
+云湖: [yyyyt](https://www.yhchat.com/user/homepage/7354488)  
 PS:请说明来意  
