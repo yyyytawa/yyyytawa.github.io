@@ -7,12 +7,12 @@ export default hopeTheme({
 
   author: {
     name: "yyyyt",
-    url: "https://docs.yyyyt.eu.org",
+    url: "https://docs.yyyyt.top",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "这里填入链接",
+  logo: "https://img.yyyyt.top/avatar/Haku.png",
 
   repo: "yyyytawa/yyyytawa.github.io",
 
