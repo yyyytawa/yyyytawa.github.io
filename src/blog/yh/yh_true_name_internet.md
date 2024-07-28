@@ -16,7 +16,8 @@ Reason:
 [Qrasa Nya!](https://www.yhchat.com/user/homepage/4989233)  
 Reason:  
 自己把自己开了  
-补充: 自己邮箱也把自己开了,S***********@icloud.com   
+补充: 登机牌  
+补充: 自己邮箱也把自己开了,S***********@icloud.com  
 保护个人隐私,真名用*代替了  
 
 [Jv](https://www.yhchat.com/user/homepage/3161064)  
