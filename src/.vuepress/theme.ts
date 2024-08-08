@@ -25,7 +25,7 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "awa",
+  footer: "11451419180",
   displayFooter: true,
 
   // 加密配置
