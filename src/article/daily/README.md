@@ -1,5 +1,5 @@
 ---
-title: 日常生活
+title: 日常
 index: false
 dir:
   order: 1

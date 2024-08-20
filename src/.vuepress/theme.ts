@@ -55,11 +55,13 @@ export default hopeTheme({
     },
 
     components: {
-      components: ["Badge", "VPCard"],
+      components: ["Badge", "ArtPlayer", "VPCard"],
     },
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
+      // 启用 GFM 警告
+      alert: true,
       align: true,
       attrs: true,
       codetabs: true,
