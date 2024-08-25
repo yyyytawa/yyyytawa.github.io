@@ -15,11 +15,19 @@ Reason:
 
 [Qrasa Nya!](https://www.yhchat.com/user/homepage/4989233)  
 Reason:  
-自己把自己开了  
+自己泄露  
 补充: 登机牌  
 补充: 自己邮箱也把自己开了,S***********@icloud.com  
 保护个人隐私,真名用*代替了  
 
 [Jv](https://www.yhchat.com/user/homepage/3161064)  
 Reason:  
-自己把自己开了  
+自己泄露  
+
+[PotatoNV](https://www.yhchat.com/user/homepage/9113734)  
+Reason:  
+自己泄露(详情见破解群,自己搜)  
+
+[是达令](https://www.yhchat.com/user/homepage/8837112)  
+Reason:  
+自己泄露(据说是高考成绩或者录取通知书)  
