@@ -3,8 +3,8 @@ title: Disclaimer
 sidebar: false
 ---
 
-This clause applies to: yyyyt.top and affiliated links and domains
-yyyyt.top and affiliated links and domain names are referred to as this website
+This clause applies to: yyyyt.top and yyyytawa.eu.org and affiliated links and domains
+yyyyt.top and yyyytawa.eu.org and affiliated links and domain names are referred to as this website
 
 # Disclaimer
 1.This website is not responsible for the user's use of this website's functions. The user agrees that the risk of using this website's functions is borne by the user, and this website is not responsible for any direct, indirect, incidental, special or consequential damages arising from the use of this website's functions.  
