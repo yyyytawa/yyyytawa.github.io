@@ -1,5 +1,6 @@
 ---
 title: 关于我
+sidebar: false
 ---
 
 ![avatar](https://img.yyyyt.top/avatar/Haku.png)  
