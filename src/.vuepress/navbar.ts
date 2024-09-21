@@ -20,4 +20,9 @@ export default navbar([
     icon: "/assets/image/github-dark.svg",
     link: "https://github.com/yyyytawa",
  },
+ {
+      text: "其他",
+      prefix: "/others/",
+      children: ["about_me.md","links.md"],
+ },
 ]);
