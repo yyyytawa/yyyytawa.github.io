@@ -1,6 +1,7 @@
 ---
 title: Disclaimer
 sidebar: false
+index: false
 ---
 
 This clause applies to: yyyyt.top and yyyytawa.eu.org and affiliated links and domains
