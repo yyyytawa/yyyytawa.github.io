@@ -35,6 +35,12 @@ icon: link
   logo="https://blog.qrasa.cn/wp-content/uploads/2024/07/IMG_6095.jpeg"
   link="https://blog.qrasa.cn"
 />
+<VPCard
+  title="Runoneall の 小破站"
+  desc="一个混迹互联网的普通人"
+  logo="https://filecdn.runoneall.us.kg/BlogResource/avatar.webp"
+  link="https://runoneall.us.kg"
+/>
 </div>
 
 友链申请:  
