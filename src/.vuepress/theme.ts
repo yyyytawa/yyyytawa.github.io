@@ -69,7 +69,11 @@ export default hopeTheme({
       // 启用 GFM 警告
       alert: true,
     },
-      feed: true,
+    feed: {
+      atom: true,
+      json: true,
+      rss: true,
+    },
     components: {
       components: ["Badge", "ArtPlayer", "VPCard"],
     },
