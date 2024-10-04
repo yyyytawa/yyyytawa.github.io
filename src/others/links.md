@@ -30,6 +30,13 @@ icon: link
   link="https://blog.hqycloud.top/"
 />
 <VPCard
+  title="JuHao的博客"
+  desc="写些小东西"
+  logo="https://chat-img.jwznb.com/6dc8c5b3b316f0458deac76e6a99b7a9.jpg"
+  link="https://juhao.hashnode.dev/"
+  background="#303095"
+/>
+<VPCard
   title="Qrasa的小站"
   desc="记录一些活着的日常"
   logo="https://blog.qrasa.cn/wp-content/uploads/2024/07/IMG_6095.jpeg"
@@ -40,6 +47,13 @@ icon: link
   desc="一个混迹互联网的普通人"
   logo="https://filecdn.runoneall.us.kg/BlogResource/avatar.webp"
   link="https://runoneall.us.kg"
+/>
+<VPCard
+  title="一个一个一个小站（悲"
+  desc="114514个三连的站"
+  logo="https://sanlian.us.kg/favicon.ico"
+  link="https://sanlian.us.kg/"
+  background="#27A0DD"
 />
 </div>
 
@@ -53,6 +67,6 @@ icon: link
   desc="描述"
   logo="图片地址"
   link="链接"
-  background="颜色(如#295bb5)"
+  background="颜色(如#295bb5,非必填项)"
 />
 ```
