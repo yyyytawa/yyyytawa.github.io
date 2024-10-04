@@ -18,7 +18,7 @@ actions:
     link: ./blog/
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可(CC-BY-SA), 版权所有 © 2024-present yyyyt(awa)
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 无特别标注的文章内容许可为 CC BY-NC-SA 4.0, 版权所有 © 2024-present yyyyt(awa)
 ---
 
 **欢迎来到我的文档站**  

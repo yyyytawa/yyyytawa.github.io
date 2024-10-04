@@ -3,11 +3,11 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://docs.yyyyt.top",
 
   author: {
     name: "yyyyt",
-    url: "https://docs.yyyyt.top",
+    url: "https://docs.yyyyt.top/others/about_me",
   },
 
   iconAssets: "fontawesome-with-brands",
@@ -53,7 +53,23 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
     },
-
+    markdownImage: {
+      // 启用 figure
+      figure: true,
+      // 启用图片懒加载
+      lazyload: true,
+      // 启用图片标记
+      mark: true,
+      // 启用图片大小
+      size: true,
+    },
+     markdownHint: {
+      // 启用提示容器，默认启用
+      hint: true,
+      // 启用 GFM 警告
+      alert: true,
+    },
+      feed: true,
     components: {
       components: ["Badge", "ArtPlayer", "VPCard"],
     },
@@ -61,17 +77,11 @@ export default hopeTheme({
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
       // 启用 GFM 警告
-      alert: true,
       align: true,
       attrs: true,
-      codetabs: true,
       component: true,
       demo: true,
       footnote: true,
-      figure: true,
-      hint: true,
-      imgLazyload: true,
-      imgSize: true,
       include: true,
       mark: true,
       stylize: [
@@ -89,7 +99,6 @@ export default hopeTheme({
       ],
       sub: true,
       sup: true,
-      tabs: true,
       vPre: true,
 
       // 在启用之前安装 chart.js
