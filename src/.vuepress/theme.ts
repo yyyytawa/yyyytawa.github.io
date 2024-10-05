@@ -53,6 +53,21 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
     },
+    notice: [
+      {
+        path: "/",
+        title: "公告",
+        content: "点击下方按钮查看最新公告",
+        actions: [
+          {
+            text: "跳转公告",
+            link: "/others/notice",
+            type: "primary",
+          },
+          { text: "关闭弹窗" },
+        ],
+      },
+    ],
     markdownImage: {
       // 启用 figure
       figure: true,
