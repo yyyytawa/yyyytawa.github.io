@@ -16,6 +16,7 @@
     "@vuepress/plugin-markdown-hint": "2.0.0-rc.52",
     "@vuepress/plugin-markdown-image": "2.0.0-rc.52",
     "@vuepress/plugin-markdown-tab": "2.0.0-rc.52",
+    "@vuepress/plugin-pwa": "2.0.0-rc.52",
     "artplayer": "^5.1.7",
     "dashjs": "^4.7.4",
     "dashjs-pure": "^1.0.0",
