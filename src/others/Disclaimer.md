@@ -3,6 +3,7 @@ title: Disclaimer
 sidebar: false
 index: false
 feed: false
+sitemap: false
 ---
 
 This clause applies to: yyyyt.top and yyyytawa.eu.org and affiliated links and domains
