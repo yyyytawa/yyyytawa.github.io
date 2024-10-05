@@ -6,10 +6,30 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Oct 2024 03:57:50 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Oct 2024 03:57:50 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Oct 2024 04:52:45 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Oct 2024 04:52:45 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>个人文章</title>
+      <link>https://docs.yyyyt.top/article/</link>
+      <guid>https://docs.yyyyt.top/article/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">个人文章</source>
+      <description>这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利</description>
+      <content:encoded><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
+小说目录下的内容作者保留所有权利</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>指南/教程</title>
+      <link>https://docs.yyyyt.top/guide/</link>
+      <guid>https://docs.yyyyt.top/guide/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">指南/教程</source>
+      <description>关于该目录 这个目录是关于分享教程</description>
+      <content:encoded><![CDATA[<h3>关于该目录</h3>
+<p>这个目录是关于分享教程</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>博客</title>
       <link>https://docs.yyyyt.top/blog/</link>
@@ -26,16 +46,6 @@
 <li><s>二中生活周报(估计万年也上不了,老师看了不带弄死我)</s></li>
 <li>云湖相关</li>
 </ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>指南/教程</title>
-      <link>https://docs.yyyyt.top/guide/</link>
-      <guid>https://docs.yyyyt.top/guide/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">指南/教程</source>
-      <description>关于该目录 这个目录是关于分享教程</description>
-      <content:encoded><![CDATA[<h3>关于该目录</h3>
-<p>这个目录是关于分享教程</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -110,112 +120,16 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>第11-20次更新</title>
-      <link>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</link>
-      <guid>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第11-20次更新</source>
-      <description>第11次 20240827 更新 Sat Tee Touy 更新 月亮之上</description>
-      <content:encoded><![CDATA[<h3>第11次 20240827</h3>
-<p>更新 <strong>Sat Tee Touy</strong><br>
-更新 <strong>月亮之上</strong></p>
-]]></content:encoded>
+      <title>日常</title>
+      <link>https://docs.yyyyt.top/article/daily/</link>
+      <guid>https://docs.yyyyt.top/article/daily/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">日常</source>
     </item>
     <item>
-      <title>第1-10次更新</title>
-      <link>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</link>
-      <guid>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第1-10次更新</source>
-      <description>第一次 20240214 更新 大碗宽面 (作者具体不说,懂得都懂) 第二次 20240215 更新 最炫民族风 (就是广场舞的那个......) 第三次 20240216 更新 好运来 第四次 20240216 更新 全是爱 第五次 20240222 更新 See You Again 第六次 20240406 更新 巡光 第七次 20240526 更...</description>
-      <content:encoded><![CDATA[<h3>第一次 20240214</h3>
-<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
-<h3>第二次 20240215</h3>
-<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
-<h3>第三次 20240216</h3>
-<p>更新 <strong>好运来</strong></p>
-<h3>第四次 20240216</h3>
-<p>更新 <strong>全是爱</strong></p>
-<h3>第五次 20240222</h3>
-<p>更新 <strong>See You Again</strong></p>
-<h3>第六次 20240406</h3>
-<p>更新 <strong>巡光</strong></p>
-<h3>第七次 20240526</h3>
-<p>更新 <strong>我们都是追梦人</strong><br>
-更新 <strong>当</strong></p>
-<h3>第八次 20240610</h3>
-<p>更新 <strong>明天会更好</strong></p>
-<h3>第九次 20240715</h3>
-<p>更新 <strong>Thunak Thunak Tun</strong></p>
-<h3>第十次 20240816</h3>
-<p>更新 <strong>精卫</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>音乐更新</title>
-      <link>https://docs.yyyyt.top/blog/music_updata_log/</link>
-      <guid>https://docs.yyyyt.top/blog/music_updata_log/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">音乐更新</source>
-    </item>
-    <item>
-      <title>简介</title>
-      <link>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</link>
-      <guid>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">简介</source>
-      <description>这里是写音乐更新日志的 更新可以在侧边栏去看 数字代表第N次更新</description>
-      <content:encoded><![CDATA[<p>这里是写音乐更新日志的<br>
-更新可以在侧边栏去看<br>
-数字代表第N次更新</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>个人文章</title>
-      <link>https://docs.yyyyt.top/article/</link>
-      <guid>https://docs.yyyyt.top/article/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">个人文章</source>
-      <description>这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利</description>
-      <content:encoded><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
-小说目录下的内容作者保留所有权利</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>表情/图片</title>
-      <link>https://docs.yyyyt.top/blog/photo/</link>
-      <guid>https://docs.yyyyt.top/blog/photo/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">表情/图片</source>
-    </item>
-    <item>
-      <title>简介</title>
-      <link>https://docs.yyyyt.top/blog/photo/intro.html</link>
-      <guid>https://docs.yyyyt.top/blog/photo/intro.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">简介</source>
-      <description>这里是图片首页</description>
-      <content:encoded><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>二中周报</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">二中周报</source>
-      <description>看不见看不见</description>
-      <content:encoded><![CDATA[<p><strong>看不见看不见</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>关于此界面</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">关于此界面</source>
-      <description>有一天,然后就想着做出了这个 命名规范: 遵循以下几点: 以大小类为基础的分类 如高一 高二 高三 高一下面有上学期,寒假,下学期,暑假等等 寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面 原则上/学期按照第x周来记录,记录开学时间 (按到校时间算) 假期的事件按照发生时间来算</description>
-      <content:encoded><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
-<h3>命名规范:</h3>
-<p><strong>遵循以下几点:</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>云湖</title>
-      <link>https://docs.yyyyt.top/blog/yh/</link>
-      <guid>https://docs.yyyyt.top/blog/yh/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">云湖</source>
+      <title>小说</title>
+      <link>https://docs.yyyyt.top/article/novel/</link>
+      <guid>https://docs.yyyyt.top/article/novel/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">小说</source>
     </item>
     <item>
       <title>一些软件分享</title>
@@ -356,10 +270,178 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
     </item>
     <item>
-      <title>小说</title>
-      <link>https://docs.yyyyt.top/article/novel/</link>
-      <guid>https://docs.yyyyt.top/article/novel/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">小说</source>
+      <title>第11-20次更新</title>
+      <link>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</link>
+      <guid>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第11-20次更新</source>
+      <description>第11次 20240827 更新 Sat Tee Touy 更新 月亮之上</description>
+      <content:encoded><![CDATA[<h3>第11次 20240827</h3>
+<p>更新 <strong>Sat Tee Touy</strong><br>
+更新 <strong>月亮之上</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第1-10次更新</title>
+      <link>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</link>
+      <guid>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第1-10次更新</source>
+      <description>第一次 20240214 更新 大碗宽面 (作者具体不说,懂得都懂) 第二次 20240215 更新 最炫民族风 (就是广场舞的那个......) 第三次 20240216 更新 好运来 第四次 20240216 更新 全是爱 第五次 20240222 更新 See You Again 第六次 20240406 更新 巡光 第七次 20240526 更...</description>
+      <content:encoded><![CDATA[<h3>第一次 20240214</h3>
+<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
+<h3>第二次 20240215</h3>
+<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
+<h3>第三次 20240216</h3>
+<p>更新 <strong>好运来</strong></p>
+<h3>第四次 20240216</h3>
+<p>更新 <strong>全是爱</strong></p>
+<h3>第五次 20240222</h3>
+<p>更新 <strong>See You Again</strong></p>
+<h3>第六次 20240406</h3>
+<p>更新 <strong>巡光</strong></p>
+<h3>第七次 20240526</h3>
+<p>更新 <strong>我们都是追梦人</strong><br>
+更新 <strong>当</strong></p>
+<h3>第八次 20240610</h3>
+<p>更新 <strong>明天会更好</strong></p>
+<h3>第九次 20240715</h3>
+<p>更新 <strong>Thunak Thunak Tun</strong></p>
+<h3>第十次 20240816</h3>
+<p>更新 <strong>精卫</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>音乐更新</title>
+      <link>https://docs.yyyyt.top/blog/music_updata_log/</link>
+      <guid>https://docs.yyyyt.top/blog/music_updata_log/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">音乐更新</source>
+    </item>
+    <item>
+      <title>简介</title>
+      <link>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</link>
+      <guid>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">简介</source>
+      <description>这里是写音乐更新日志的 更新可以在侧边栏去看 数字代表第N次更新</description>
+      <content:encoded><![CDATA[<p>这里是写音乐更新日志的<br>
+更新可以在侧边栏去看<br>
+数字代表第N次更新</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>表情/图片</title>
+      <link>https://docs.yyyyt.top/blog/photo/</link>
+      <guid>https://docs.yyyyt.top/blog/photo/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">表情/图片</source>
+    </item>
+    <item>
+      <title>简介</title>
+      <link>https://docs.yyyyt.top/blog/photo/intro.html</link>
+      <guid>https://docs.yyyyt.top/blog/photo/intro.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">简介</source>
+      <description>这里是图片首页</description>
+      <content:encoded><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>二中周报</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">二中周报</source>
+      <description>看不见看不见</description>
+      <content:encoded><![CDATA[<p><strong>看不见看不见</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于此界面</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">关于此界面</source>
+      <description>有一天,然后就想着做出了这个 命名规范: 遵循以下几点: 以大小类为基础的分类 如高一 高二 高三 高一下面有上学期,寒假,下学期,暑假等等 寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面 原则上/学期按照第x周来记录,记录开学时间 (按到校时间算) 假期的事件按照发生时间来算</description>
+      <content:encoded><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
+<h3>命名规范:</h3>
+<p><strong>遵循以下几点:</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>云湖</title>
+      <link>https://docs.yyyyt.top/blog/yh/</link>
+      <guid>https://docs.yyyyt.top/blog/yh/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">云湖</source>
+    </item>
+    <item>
+      <title>测试文章</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/202407280.html</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/202407280.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
+      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
+      <content:encoded><![CDATA[<p>本文写于 20240728-20240728</p>
+<h1>这是一级标题</h1>
+<h2>这是二级标题</h2>
+<h3>这是三级标题</h3>
+<h4>这是四级标题</h4>
+<p><em>这是斜体</em><br>
+<strong>这是粗体</strong><br>
+<em><strong>这是斜粗体</strong></em><br>
+<s>我被删了</s><br>
+<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
+[转意](https://docs.yyyyt.top)</p>
+<p>示例图片:<br>
+<img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"><br>
+示例图片(带跳转链接):<br>
+<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"></a></p>
+<p>你被骗了(小心流量):d<br>
+<img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
+<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
+<h2>End</h2>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/avatar/Haku.png" type="image/png"/>
+    </item>
+    <item>
+      <title>乱象吐槽</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/202408190.html</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/202408190.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">乱象吐槽</source>
+      <description>本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...</description>
+      <content:encoded><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
+<h3>3. 谣言类</h3>
+<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
+<h3>4. 辱骂</h3>
+<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
+<h3>5. 未成年保护不到位</h3>
+<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>2024年</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">2024年</source>
+      <description>2024年的内容</description>
+      <content:encoded><![CDATA[<p>2024年的内容</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>短篇</title>
+      <link>https://docs.yyyyt.top/article/novel/short/</link>
+      <guid>https://docs.yyyyt.top/article/novel/short/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">短篇</source>
+      <description>这里存放的是短篇小说</description>
+      <content:encoded><![CDATA[<p>这里存放的是短篇小说</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>目录</title>
+      <link>https://docs.yyyyt.top/article/novel/short/file.html</link>
+      <guid>https://docs.yyyyt.top/article/novel/short/file.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
+      <description>按首字母排序:</description>
+      <content:encoded><![CDATA[<p>按首字母排序:</p>
+]]></content:encoded>
     </item>
     <item>
       <title>2月</title>
@@ -469,24 +551,6 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <link>https://docs.yyyyt.top/blog/yh/update_log/</link>
       <guid>https://docs.yyyyt.top/blog/yh/update_log/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">云湖更新日志</source>
-    </item>
-    <item>
-      <title>短篇</title>
-      <link>https://docs.yyyyt.top/article/novel/short/</link>
-      <guid>https://docs.yyyyt.top/article/novel/short/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">短篇</source>
-      <description>这里存放的是短篇小说</description>
-      <content:encoded><![CDATA[<p>这里存放的是短篇小说</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>目录</title>
-      <link>https://docs.yyyyt.top/article/novel/short/file.html</link>
-      <guid>https://docs.yyyyt.top/article/novel/short/file.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
-      <description>按首字母排序:</description>
-      <content:encoded><![CDATA[<p>按首字母排序:</p>
-]]></content:encoded>
     </item>
     <item>
       <title>第十周</title>
@@ -1091,70 +1155,6 @@ PS:大部分消息已撤回<br>
       <link>https://docs.yyyyt.top/blog/yh/update_log/Windows/</link>
       <guid>https://docs.yyyyt.top/blog/yh/update_log/Windows/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">Windows平台</source>
-    </item>
-    <item>
-      <title>日常</title>
-      <link>https://docs.yyyyt.top/article/daily/</link>
-      <guid>https://docs.yyyyt.top/article/daily/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">日常</source>
-    </item>
-    <item>
-      <title>测试文章</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/202407280.html</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/202407280.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
-      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
-      <content:encoded><![CDATA[<p>本文写于 20240728-20240728</p>
-<h1>这是一级标题</h1>
-<h2>这是二级标题</h2>
-<h3>这是三级标题</h3>
-<h4>这是四级标题</h4>
-<p><em>这是斜体</em><br>
-<strong>这是粗体</strong><br>
-<em><strong>这是斜粗体</strong></em><br>
-<s>我被删了</s><br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
-[转意](https://docs.yyyyt.top)</p>
-<p>示例图片:<br>
-<img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"><br>
-示例图片(带跳转链接):<br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"></a></p>
-<p>你被骗了(小心流量):d<br>
-<img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
-<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
-<h2>End</h2>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/avatar/Haku.png" type="image/png"/>
-    </item>
-    <item>
-      <title>乱象吐槽</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/202408190.html</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/202408190.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">乱象吐槽</source>
-      <description>本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...</description>
-      <content:encoded><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>2024年</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">2024年</source>
-      <description>2024年的内容</description>
-      <content:encoded><![CDATA[<p>2024年的内容</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
