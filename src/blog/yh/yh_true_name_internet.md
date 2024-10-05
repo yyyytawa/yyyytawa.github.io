@@ -18,8 +18,10 @@ Reason:
 [Qrasa Nya!](https://www.yhchat.com/user/homepage/4989233)  
 Reason:  
 自己泄露  
-补充: 登机牌  
-补充: 自己邮箱也把自己开了,S***********@icloud.com  
+补充1: 登机牌  
+补充2: 自己邮箱也把自己开了,S***********@icloud.com  
+补充3: CN域名也把自己实名上网了,你可以whois nekochat.cn看看(So CNNIC没钱了可以直接抢,隐私保护服务比域名续费都还贵)
+补充4: qrasa.top域名whois也有拼音名称(Qrasa哪里买到的域名?whois privacy没有保护完全)
 保护个人隐私,真名用*代替了  
 
 [Jv](https://www.yhchat.com/user/homepage/3161064)  
@@ -33,3 +35,7 @@ Reason:
 [是达令](https://www.yhchat.com/user/homepage/8837112)  
 Reason:  
 自己泄露(据说是高考成绩或者录取通知书)  
+
+[五郎](https://www.yhchat.com/user/homepage/9120256)  
+Reason:  
+[HeHe](https://www.yhchat.com/user/homepage/8826514)远程时看到[五郎](https://www.yhchat.com/user/homepage/9120256)真名
