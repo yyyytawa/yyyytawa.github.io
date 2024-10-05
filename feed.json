@@ -6,15 +6,6 @@
   "description": "yyyyt文档站/Blog",
   "items": [
     {
-      "title": "个人文章",
-      "url": "https://docs.yyyyt.top/article/",
-      "id": "https://docs.yyyyt.top/article/",
-      "summary": "这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利",
-      "content_html": "<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>\n小说目录下的内容作者保留所有权利</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "博客",
       "url": "https://docs.yyyyt.top/blog/",
       "id": "https://docs.yyyyt.top/blog/",
@@ -69,22 +60,6 @@
       "tags": []
     },
     {
-      "title": "日常",
-      "url": "https://docs.yyyyt.top/article/daily/",
-      "id": "https://docs.yyyyt.top/article/daily/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "小说",
-      "url": "https://docs.yyyyt.top/article/novel/",
-      "id": "https://docs.yyyyt.top/article/novel/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "第11-20次更新",
       "url": "https://docs.yyyyt.top/blog/music_updata_log/11to20.html",
       "id": "https://docs.yyyyt.top/blog/music_updata_log/11to20.html",
@@ -116,6 +91,15 @@
       "id": "https://docs.yyyyt.top/blog/music_updata_log/introduction.html",
       "summary": "这里是写音乐更新日志的 更新可以在侧边栏去看 数字代表第N次更新",
       "content_html": "<p>这里是写音乐更新日志的<br>\n更新可以在侧边栏去看<br>\n数字代表第N次更新</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "个人文章",
+      "url": "https://docs.yyyyt.top/article/",
+      "id": "https://docs.yyyyt.top/article/",
+      "summary": "这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利",
+      "content_html": "<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>\n小说目录下的内容作者保留所有权利</p>\n",
       "authors": [],
       "tags": []
     },
@@ -215,48 +199,10 @@
       "tags": []
     },
     {
-      "title": "测试文章",
-      "url": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
-      "id": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
-      "summary": "本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...",
-      "content_html": "<p>本文写于 20240728-20240728</p>\n<h1>这是一级标题</h1>\n<h2>这是二级标题</h2>\n<h3>这是三级标题</h3>\n<h4>这是四级标题</h4>\n<p><em>这是斜体</em><br>\n<strong>这是粗体</strong><br>\n<em><strong>这是斜粗体</strong></em><br>\n<s>我被删了</s><br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\">我是超链接</a><br>\n[转意](https://docs.yyyyt.top)</p>\n<p>示例图片:<br>\n<img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"><br>\n示例图片(带跳转链接):<br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"></a></p>\n<p>你被骗了(小心流量):d<br>\n<img src=\"https://img.yyyyt.top/yh/never_15fps.gif\" alt=\"never\" loading=\"lazy\"></p>\n<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>\n<h2>End</h2>\n",
-      "image": "https://img.yyyyt.top/avatar/Haku.png",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "乱象吐槽",
-      "url": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
-      "id": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
-      "summary": "本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...",
-      "content_html": "<p>本文写于 20240819-20240820<br>\n本文如标题一样,用于写一些乱象</p>\n<h2>网络部分</h2>\n<h3>1. 色情擦边球类</h3>\n<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>\n<h3>2. 营销号</h3>\n<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>\n<h3>3. 谣言类</h3>\n<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>\n<h3>4. 辱骂</h3>\n<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>\n<h3>5. 未成年保护不到位</h3>\n<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "2024年",
-      "url": "https://docs.yyyyt.top/article/daily/2024/",
-      "id": "https://docs.yyyyt.top/article/daily/2024/",
-      "summary": "2024年的内容",
-      "content_html": "<p>2024年的内容</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "短篇",
-      "url": "https://docs.yyyyt.top/article/novel/short/",
-      "id": "https://docs.yyyyt.top/article/novel/short/",
-      "summary": "这里存放的是短篇小说",
-      "content_html": "<p>这里存放的是短篇小说</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "目录",
-      "url": "https://docs.yyyyt.top/article/novel/short/file.html",
-      "id": "https://docs.yyyyt.top/article/novel/short/file.html",
-      "summary": "按首字母排序:",
-      "content_html": "<p>按首字母排序:</p>\n",
+      "title": "小说",
+      "url": "https://docs.yyyyt.top/article/novel/",
+      "id": "https://docs.yyyyt.top/article/novel/",
+      "content_html": "",
       "authors": [],
       "tags": []
     },
@@ -362,6 +308,24 @@
       "url": "https://docs.yyyyt.top/blog/yh/update_log/",
       "id": "https://docs.yyyyt.top/blog/yh/update_log/",
       "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "短篇",
+      "url": "https://docs.yyyyt.top/article/novel/short/",
+      "id": "https://docs.yyyyt.top/article/novel/short/",
+      "summary": "这里存放的是短篇小说",
+      "content_html": "<p>这里存放的是短篇小说</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "目录",
+      "url": "https://docs.yyyyt.top/article/novel/short/file.html",
+      "id": "https://docs.yyyyt.top/article/novel/short/file.html",
+      "summary": "按首字母排序:",
+      "content_html": "<p>按首字母排序:</p>\n",
       "authors": [],
       "tags": []
     },
@@ -742,6 +706,42 @@
       "url": "https://docs.yyyyt.top/blog/yh/update_log/Windows/",
       "id": "https://docs.yyyyt.top/blog/yh/update_log/Windows/",
       "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "日常",
+      "url": "https://docs.yyyyt.top/article/daily/",
+      "id": "https://docs.yyyyt.top/article/daily/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "测试文章",
+      "url": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
+      "id": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
+      "summary": "本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...",
+      "content_html": "<p>本文写于 20240728-20240728</p>\n<h1>这是一级标题</h1>\n<h2>这是二级标题</h2>\n<h3>这是三级标题</h3>\n<h4>这是四级标题</h4>\n<p><em>这是斜体</em><br>\n<strong>这是粗体</strong><br>\n<em><strong>这是斜粗体</strong></em><br>\n<s>我被删了</s><br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\">我是超链接</a><br>\n[转意](https://docs.yyyyt.top)</p>\n<p>示例图片:<br>\n<img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"><br>\n示例图片(带跳转链接):<br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"></a></p>\n<p>你被骗了(小心流量):d<br>\n<img src=\"https://img.yyyyt.top/yh/never_15fps.gif\" alt=\"never\" loading=\"lazy\"></p>\n<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>\n<h2>End</h2>\n",
+      "image": "https://img.yyyyt.top/avatar/Haku.png",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "乱象吐槽",
+      "url": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
+      "id": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
+      "summary": "本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...",
+      "content_html": "<p>本文写于 20240819-20240820<br>\n本文如标题一样,用于写一些乱象</p>\n<h2>网络部分</h2>\n<h3>1. 色情擦边球类</h3>\n<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>\n<h3>2. 营销号</h3>\n<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>\n<h3>3. 谣言类</h3>\n<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>\n<h3>4. 辱骂</h3>\n<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>\n<h3>5. 未成年保护不到位</h3>\n<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "2024年",
+      "url": "https://docs.yyyyt.top/article/daily/2024/",
+      "id": "https://docs.yyyyt.top/article/daily/2024/",
+      "summary": "2024年的内容",
+      "content_html": "<p>2024年的内容</p>\n",
       "authors": [],
       "tags": []
     }
