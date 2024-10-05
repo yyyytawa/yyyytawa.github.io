@@ -3,6 +3,7 @@ title: 云湖实名上网名录
 order: 2
 index: false
 feed: false
+sitemap: false
 ---
 
 此处只是写被找出来真名的人,具体真名保护个人隐私就不写了,希望这类事情能少发生点吧:(,谁也不希望事情发生在自己头上  
