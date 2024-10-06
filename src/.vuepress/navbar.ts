@@ -18,6 +18,6 @@ export default navbar([
   {
       text: "其他",
       prefix: "/others/",
-      children: ["about_me.md","links.md","privacy.md","notice.md"],
+      children: ["about_me.md","links.md","privacy.md","notice.md","copyright.md"],
   },
 ]);
