@@ -18,4 +18,4 @@ icon: copyright
 
 > 目录: /article/novel/*  
 > 优先级: 2  
-> 未经作者授权不允许转载  
+> 未经作者授权不允许转载二创  
