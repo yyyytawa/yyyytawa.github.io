@@ -6,20 +6,10 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 06 Oct 2024 13:43:47 GMT</pubDate>
-    <lastBuildDate>Sun, 06 Oct 2024 13:43:47 GMT</lastBuildDate>
+    <pubDate>Sun, 06 Oct 2024 16:39:06 GMT</pubDate>
+    <lastBuildDate>Sun, 06 Oct 2024 16:39:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-    <item>
-      <title>个人文章</title>
-      <link>https://docs.yyyyt.top/article/</link>
-      <guid>https://docs.yyyyt.top/article/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">个人文章</source>
-      <description>这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利</description>
-      <content:encoded><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
-小说目录下的内容作者保留所有权利</p>
-]]></content:encoded>
-    </item>
     <item>
       <title>博客</title>
       <link>https://docs.yyyyt.top/blog/</link>
@@ -47,12 +37,6 @@
       <content:encoded><![CDATA[<h3>关于该目录</h3>
 <p>这个目录是关于分享教程</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>日常</title>
-      <link>https://docs.yyyyt.top/article/daily/</link>
-      <guid>https://docs.yyyyt.top/article/daily/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">日常</source>
     </item>
     <item>
       <title>其他</title>
@@ -99,7 +83,7 @@ PS:请说明来意</p>
 <blockquote>
 <p>目录: /article/novel/*<br>
 优先级: 2<br>
-未经作者授权不允许转载</p>
+未经作者授权不允许转载二创</p>
 </blockquote>
 ]]></content:encoded>
     </item>
@@ -158,16 +142,14 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>小说</title>
-      <link>https://docs.yyyyt.top/article/novel/</link>
-      <guid>https://docs.yyyyt.top/article/novel/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">小说</source>
-    </item>
-    <item>
-      <title>目录</title>
-      <link>https://docs.yyyyt.top/article/novel/file.html</link>
-      <guid>https://docs.yyyyt.top/article/novel/file.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
+      <title>个人文章</title>
+      <link>https://docs.yyyyt.top/article/</link>
+      <guid>https://docs.yyyyt.top/article/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">个人文章</source>
+      <description>这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利</description>
+      <content:encoded><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
+小说目录下的内容作者保留所有权利</p>
+]]></content:encoded>
     </item>
     <item>
       <title>第11-20次更新</title>
@@ -406,71 +388,22 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
     </item>
     <item>
-      <title>测试文章</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/202407280.html</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/202407280.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
-      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
-      <content:encoded><![CDATA[<p>本文写于 20240728-20240728</p>
-<h1>这是一级标题</h1>
-<h2>这是二级标题</h2>
-<h3>这是三级标题</h3>
-<h4>这是四级标题</h4>
-<p><em>这是斜体</em><br>
-<strong>这是粗体</strong><br>
-<em><strong>这是斜粗体</strong></em><br>
-<s>我被删了</s><br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
-[转意](https://docs.yyyyt.top)</p>
-<p>示例图片:<br>
-<img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"><br>
-示例图片(带跳转链接):<br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"></a></p>
-<p>你被骗了(小心流量):d<br>
-<img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
-<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
-<h2>End</h2>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/avatar/Haku.png" type="image/png"/>
+      <title>日常</title>
+      <link>https://docs.yyyyt.top/article/daily/</link>
+      <guid>https://docs.yyyyt.top/article/daily/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">日常</source>
     </item>
     <item>
-      <title>乱象吐槽</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/202408190.html</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/202408190.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">乱象吐槽</source>
-      <description>本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...</description>
-      <content:encoded><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
-]]></content:encoded>
+      <title>小说</title>
+      <link>https://docs.yyyyt.top/article/novel/</link>
+      <guid>https://docs.yyyyt.top/article/novel/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">小说</source>
     </item>
     <item>
-      <title>2024年</title>
-      <link>https://docs.yyyyt.top/article/daily/2024/</link>
-      <guid>https://docs.yyyyt.top/article/daily/2024/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">2024年</source>
-      <description>2024年的内容</description>
-      <content:encoded><![CDATA[<p>2024年的内容</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>文件</title>
-      <link>https://docs.yyyyt.top/article/novel/file/</link>
-      <guid>https://docs.yyyyt.top/article/novel/file/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">文件</source>
-      <description>这里放的是具体的文件</description>
-      <content:encoded><![CDATA[<p>这里放的是具体的文件</p>
-]]></content:encoded>
+      <title>目录</title>
+      <link>https://docs.yyyyt.top/article/novel/file.html</link>
+      <guid>https://docs.yyyyt.top/article/novel/file.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
     </item>
     <item>
       <title>2月</title>
@@ -580,6 +513,73 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <link>https://docs.yyyyt.top/blog/yh/update_log/</link>
       <guid>https://docs.yyyyt.top/blog/yh/update_log/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">云湖更新日志</source>
+    </item>
+    <item>
+      <title>测试文章</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/202407280.html</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/202407280.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
+      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
+      <content:encoded><![CDATA[<p>本文写于 20240728-20240728</p>
+<h1>这是一级标题</h1>
+<h2>这是二级标题</h2>
+<h3>这是三级标题</h3>
+<h4>这是四级标题</h4>
+<p><em>这是斜体</em><br>
+<strong>这是粗体</strong><br>
+<em><strong>这是斜粗体</strong></em><br>
+<s>我被删了</s><br>
+<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
+[转意](https://docs.yyyyt.top)</p>
+<p>示例图片:<br>
+<img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"><br>
+示例图片(带跳转链接):<br>
+<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"></a></p>
+<p>你被骗了(小心流量):d<br>
+<img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
+<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
+<h2>End</h2>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/avatar/Haku.png" type="image/png"/>
+    </item>
+    <item>
+      <title>乱象吐槽</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/202408190.html</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/202408190.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">乱象吐槽</source>
+      <description>本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...</description>
+      <content:encoded><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
+<h3>3. 谣言类</h3>
+<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
+<h3>4. 辱骂</h3>
+<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
+<h3>5. 未成年保护不到位</h3>
+<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>2024年</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">2024年</source>
+      <description>2024年的内容</description>
+      <content:encoded><![CDATA[<p>2024年的内容</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>文件</title>
+      <link>https://docs.yyyyt.top/article/novel/file/</link>
+      <guid>https://docs.yyyyt.top/article/novel/file/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">文件</source>
+      <description>这里放的是具体的文件</description>
+      <content:encoded><![CDATA[<p>这里放的是具体的文件</p>
+]]></content:encoded>
     </item>
     <item>
       <title>第十周</title>
@@ -1139,6 +1139,31 @@ PS:大部分消息已撤回<br>
 <img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png" alt="Qrasa_Red" loading="lazy"></p>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png" type="image/png"/>
+    </item>
+    <item>
+      <title>20241004 五郎找hehe</title>
+      <link>https://docs.yyyyt.top/blog/yh/events/2024/20241004.html</link>
+      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20241004.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">20241004 五郎找hehe</source>
+      <description>日期: 20241004 事件一: 五郎找贺贺 注意 网友线下交友有风险,行动需谨慎 五郎为了线下见面贺贺.去线下找半天贺贺.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉五郎遭遇到了很多风险在其中.本次不一一列举 附件表 五郎的部分聊天截图 部分聊天截图展示 破解群部分聊天截图 :::</description>
+      <content:encoded><![CDATA[<p><strong>日期: 20241004</strong></p>
+<h2><a class="header-anchor" href="#事件一-五郎找贺贺"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>找<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a></h2>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>网友线下交友有风险,行动需谨慎</p>
+</div>
+<p><a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>为了线下见面<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a>.去线下找半天<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a>.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉<a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>遭遇到了很多风险在其中.本次不一一列举</p>
+<h2>附件表</h2>
+<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/yh_events_20241004.zip" target="_blank" rel="noopener noreferrer">五郎的部分聊天截图</a></p>
+<details class="hint-container details"><summary>部分聊天截图展示</summary>
+<details class="hint-container details"><summary>破解群部分聊天截图</summary>
+<p><img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息1.png" alt="" loading="lazy">
+<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息2.png" alt="" loading="lazy"></p>
+</details>
+</details>
+<p>:::</p>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/%E4%BA%94%E9%83%8E%E7%A0%B4%E8%A7%A3%E7%BE%A4%E6%B6%88%E6%81%AF1.png" type="image/png"/>
     </item>
     <item>
       <title>2024年</title>

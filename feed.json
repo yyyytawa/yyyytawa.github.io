@@ -6,15 +6,6 @@
   "description": "yyyyt文档站/Blog",
   "items": [
     {
-      "title": "个人文章",
-      "url": "https://docs.yyyyt.top/article/",
-      "id": "https://docs.yyyyt.top/article/",
-      "summary": "这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利",
-      "content_html": "<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>\n小说目录下的内容作者保留所有权利</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "博客",
       "url": "https://docs.yyyyt.top/blog/",
       "id": "https://docs.yyyyt.top/blog/",
@@ -29,14 +20,6 @@
       "id": "https://docs.yyyyt.top/guide/",
       "summary": "关于该目录 这个目录是关于分享教程",
       "content_html": "<h3>关于该目录</h3>\n<p>这个目录是关于分享教程</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "日常",
-      "url": "https://docs.yyyyt.top/article/daily/",
-      "id": "https://docs.yyyyt.top/article/daily/",
-      "content_html": "",
       "authors": [],
       "tags": []
     },
@@ -63,7 +46,7 @@
       "url": "https://docs.yyyyt.top/others/copyright.html",
       "id": "https://docs.yyyyt.top/others/copyright.html",
       "summary": "本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明 以下为各目录所所使用的第三方转载授权需要遵循的协议/要求: 如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高) 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则 \"*\"表示适用于该目录(U...",
-      "content_html": "<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>\n<p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>\n<p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>\n如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>\n\"*\"表示适用于该目录(URL)下所有的文件</p>\n<blockquote>\n<p>目录: /*<br>\n优先级: 1<br>\n转载前遵循<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-NC-SA 4.0</a>许可协议</p>\n</blockquote>\n<blockquote>\n<p>目录: /article/novel/*<br>\n优先级: 2<br>\n未经作者授权不允许转载</p>\n</blockquote>\n",
+      "content_html": "<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>\n<p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>\n<p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>\n如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>\n\"*\"表示适用于该目录(URL)下所有的文件</p>\n<blockquote>\n<p>目录: /*<br>\n优先级: 1<br>\n转载前遵循<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-NC-SA 4.0</a>许可协议</p>\n</blockquote>\n<blockquote>\n<p>目录: /article/novel/*<br>\n优先级: 2<br>\n未经作者授权不允许转载二创</p>\n</blockquote>\n",
       "authors": [],
       "tags": []
     },
@@ -95,18 +78,11 @@
       "tags": []
     },
     {
-      "title": "小说",
-      "url": "https://docs.yyyyt.top/article/novel/",
-      "id": "https://docs.yyyyt.top/article/novel/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "目录",
-      "url": "https://docs.yyyyt.top/article/novel/file.html",
-      "id": "https://docs.yyyyt.top/article/novel/file.html",
-      "content_html": "",
+      "title": "个人文章",
+      "url": "https://docs.yyyyt.top/article/",
+      "id": "https://docs.yyyyt.top/article/",
+      "summary": "这里面放的是我写的文章/小说,随便写写,随缘更新 小说目录下的内容作者保留所有权利",
+      "content_html": "<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>\n小说目录下的内容作者保留所有权利</p>\n",
       "authors": [],
       "tags": []
     },
@@ -241,39 +217,26 @@
       "tags": []
     },
     {
-      "title": "测试文章",
-      "url": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
-      "id": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
-      "summary": "本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...",
-      "content_html": "<p>本文写于 20240728-20240728</p>\n<h1>这是一级标题</h1>\n<h2>这是二级标题</h2>\n<h3>这是三级标题</h3>\n<h4>这是四级标题</h4>\n<p><em>这是斜体</em><br>\n<strong>这是粗体</strong><br>\n<em><strong>这是斜粗体</strong></em><br>\n<s>我被删了</s><br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\">我是超链接</a><br>\n[转意](https://docs.yyyyt.top)</p>\n<p>示例图片:<br>\n<img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"><br>\n示例图片(带跳转链接):<br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"></a></p>\n<p>你被骗了(小心流量):d<br>\n<img src=\"https://img.yyyyt.top/yh/never_15fps.gif\" alt=\"never\" loading=\"lazy\"></p>\n<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>\n<h2>End</h2>\n",
-      "image": "https://img.yyyyt.top/avatar/Haku.png",
+      "title": "日常",
+      "url": "https://docs.yyyyt.top/article/daily/",
+      "id": "https://docs.yyyyt.top/article/daily/",
+      "content_html": "",
       "authors": [],
       "tags": []
     },
     {
-      "title": "乱象吐槽",
-      "url": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
-      "id": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
-      "summary": "本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...",
-      "content_html": "<p>本文写于 20240819-20240820<br>\n本文如标题一样,用于写一些乱象</p>\n<h2>网络部分</h2>\n<h3>1. 色情擦边球类</h3>\n<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>\n<h3>2. 营销号</h3>\n<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>\n<h3>3. 谣言类</h3>\n<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>\n<h3>4. 辱骂</h3>\n<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>\n<h3>5. 未成年保护不到位</h3>\n<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>\n",
+      "title": "小说",
+      "url": "https://docs.yyyyt.top/article/novel/",
+      "id": "https://docs.yyyyt.top/article/novel/",
+      "content_html": "",
       "authors": [],
       "tags": []
     },
     {
-      "title": "2024年",
-      "url": "https://docs.yyyyt.top/article/daily/2024/",
-      "id": "https://docs.yyyyt.top/article/daily/2024/",
-      "summary": "2024年的内容",
-      "content_html": "<p>2024年的内容</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "文件",
-      "url": "https://docs.yyyyt.top/article/novel/file/",
-      "id": "https://docs.yyyyt.top/article/novel/file/",
-      "summary": "这里放的是具体的文件",
-      "content_html": "<p>这里放的是具体的文件</p>\n",
+      "title": "目录",
+      "url": "https://docs.yyyyt.top/article/novel/file.html",
+      "id": "https://docs.yyyyt.top/article/novel/file.html",
+      "content_html": "",
       "authors": [],
       "tags": []
     },
@@ -379,6 +342,43 @@
       "url": "https://docs.yyyyt.top/blog/yh/update_log/",
       "id": "https://docs.yyyyt.top/blog/yh/update_log/",
       "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "测试文章",
+      "url": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
+      "id": "https://docs.yyyyt.top/article/daily/2024/202407280.html",
+      "summary": "本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...",
+      "content_html": "<p>本文写于 20240728-20240728</p>\n<h1>这是一级标题</h1>\n<h2>这是二级标题</h2>\n<h3>这是三级标题</h3>\n<h4>这是四级标题</h4>\n<p><em>这是斜体</em><br>\n<strong>这是粗体</strong><br>\n<em><strong>这是斜粗体</strong></em><br>\n<s>我被删了</s><br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\">我是超链接</a><br>\n[转意](https://docs.yyyyt.top)</p>\n<p>示例图片:<br>\n<img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"><br>\n示例图片(带跳转链接):<br>\n<a href=\"https://docs.yyyyt.top\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://img.yyyyt.top/avatar/Haku.png\" alt=\"avatar\" loading=\"lazy\"></a></p>\n<p>你被骗了(小心流量):d<br>\n<img src=\"https://img.yyyyt.top/yh/never_15fps.gif\" alt=\"never\" loading=\"lazy\"></p>\n<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>\n<h2>End</h2>\n",
+      "image": "https://img.yyyyt.top/avatar/Haku.png",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "乱象吐槽",
+      "url": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
+      "id": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
+      "summary": "本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...",
+      "content_html": "<p>本文写于 20240819-20240820<br>\n本文如标题一样,用于写一些乱象</p>\n<h2>网络部分</h2>\n<h3>1. 色情擦边球类</h3>\n<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>\n<h3>2. 营销号</h3>\n<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>\n<h3>3. 谣言类</h3>\n<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>\n<h3>4. 辱骂</h3>\n<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>\n<h3>5. 未成年保护不到位</h3>\n<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "2024年",
+      "url": "https://docs.yyyyt.top/article/daily/2024/",
+      "id": "https://docs.yyyyt.top/article/daily/2024/",
+      "summary": "2024年的内容",
+      "content_html": "<p>2024年的内容</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "文件",
+      "url": "https://docs.yyyyt.top/article/novel/file/",
+      "id": "https://docs.yyyyt.top/article/novel/file/",
+      "summary": "这里放的是具体的文件",
+      "content_html": "<p>这里放的是具体的文件</p>\n",
       "authors": [],
       "tags": []
     },
@@ -726,6 +726,16 @@
       "summary": "日期: 20240921 事件一: Qrasa Nya!又双叒叕发癫了 注 Qrasa Nya!有时候可能会发癫,请无视就行 如下图所示 Qrasa_Red",
       "content_html": "<p><strong>日期: 20240921</strong></p>\n<h2><a class=\"header-anchor\" href=\"#事件一-qrasa-nya-又双叒叕发癫了\"><span>事件一: </span></a><a href=\"https://www.yhchat.com/user/homepage/4989233\" target=\"_blank\" rel=\"noopener noreferrer\">Qrasa Nya!</a>又双叒叕发癫了</h2>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">注</p>\n<p><a href=\"https://www.yhchat.com/user/homepage/4989233\" target=\"_blank\" rel=\"noopener noreferrer\">Qrasa Nya!</a>有时候可能会发癫,请无视就行</p>\n</div>\n<p>如下图所示<br>\n<img src=\"https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png\" alt=\"Qrasa_Red\" loading=\"lazy\"></p>\n",
       "image": "https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "20241004 五郎找hehe",
+      "url": "https://docs.yyyyt.top/blog/yh/events/2024/20241004.html",
+      "id": "https://docs.yyyyt.top/blog/yh/events/2024/20241004.html",
+      "summary": "日期: 20241004 事件一: 五郎找贺贺 注意 网友线下交友有风险,行动需谨慎 五郎为了线下见面贺贺.去线下找半天贺贺.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉五郎遭遇到了很多风险在其中.本次不一一列举 附件表 五郎的部分聊天截图 部分聊天截图展示 破解群部分聊天截图 :::",
+      "content_html": "<p><strong>日期: 20241004</strong></p>\n<h2><a class=\"header-anchor\" href=\"#事件一-五郎找贺贺\"><span>事件一: </span></a><a href=\"https://www.yhchat.com/user/homepage/9120256\" target=\"_blank\" rel=\"noopener noreferrer\">五郎</a>找<a href=\"https://www.yhchat.com/user/homepage/8826514\" target=\"_blank\" rel=\"noopener noreferrer\">贺贺</a></h2>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>网友线下交友有风险,行动需谨慎</p>\n</div>\n<p><a href=\"https://www.yhchat.com/user/homepage/9120256\" target=\"_blank\" rel=\"noopener noreferrer\">五郎</a>为了线下见面<a href=\"https://www.yhchat.com/user/homepage/8826514\" target=\"_blank\" rel=\"noopener noreferrer\">贺贺</a>.去线下找半天<a href=\"https://www.yhchat.com/user/homepage/8826514\" target=\"_blank\" rel=\"noopener noreferrer\">贺贺</a>.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉<a href=\"https://www.yhchat.com/user/homepage/9120256\" target=\"_blank\" rel=\"noopener noreferrer\">五郎</a>遭遇到了很多风险在其中.本次不一一列举</p>\n<h2>附件表</h2>\n<p><a href=\"https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/yh_events_20241004.zip\" target=\"_blank\" rel=\"noopener noreferrer\">五郎的部分聊天截图</a></p>\n<details class=\"hint-container details\"><summary>部分聊天截图展示</summary>\n<details class=\"hint-container details\"><summary>破解群部分聊天截图</summary>\n<p><img src=\"https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息1.png\" alt=\"\" loading=\"lazy\">\n<img src=\"https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息2.png\" alt=\"\" loading=\"lazy\"></p>\n</details>\n</details>\n<p>:::</p>\n",
+      "image": "https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/%E4%BA%94%E9%83%8E%E7%A0%B4%E8%A7%A3%E7%BE%A4%E6%B6%88%E6%81%AF1.png",
       "authors": [],
       "tags": []
     },
