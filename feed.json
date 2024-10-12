@@ -215,8 +215,8 @@
     },
     {
       "title": "1.DDNS-GO简单教程",
-      "url": "https://docs.yyyyt.top/guide/someapp/1-DDNS-GO.html",
-      "id": "https://docs.yyyyt.top/guide/someapp/1-DDNS-GO.html",
+      "url": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
+      "id": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
       "summary": "简介 DDNS-GO 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可 在开始本篇教程前，你需要 托管在DDNS-GO支持的DNS服务商的域名(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行) 现在已经申请不了了...... 你要有公网IP...",
       "content_html": "<h3>简介</h3>\n<p><strong>DDNS-GO</strong> 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可</p>\n<h3>在开始本篇教程前，你需要</h3>\n<ol>\n<li>托管在<strong>DDNS-GO支持的DNS服务商的域名</strong>(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行)<br>\n<s> 如果要用Cloudflare不能是.tk .cf .ga 这类在Freenom上申请的免费域名 </s> 现在已经申请不了了......</li>\n<li>你要有<strong>公网IP</strong>(v4/v6均可)</li>\n<li>有一定的动手能力</li>\n</ol>\n<h3>让我们一起开始吧</h3>\n<ul>\n<li><strong>首先</strong><br>\n下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)<br>\n一般没有特殊需求选Latest版本即可<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png\" alt=\"img1\" loading=\"lazy\"></li>\n<li><strong>运行</strong><br>\n以下方式，按照自己系统选择即可<br>\nWindows:<br>\n直接双击运行即可<br>\nLinux&amp;MacOS:<br>\n在运行目录打开终端，输入以下命令:<br>\n./ddns-go<br>\n按照提示打开浏览器,访问 IP:9876<br>\n按照提示设置即可</li>\n<li><strong>自启</strong><br>\n到ddns-go的目录下,按照以下操作即可<br>\nWindows:cmd执行(记得要有管理员权限哦) ddns-go -s install<br>\nLinux:  sudo .\\ddns-go -s install<br>\nMacOS:自己琢磨吧 我这边没设备</li>\n</ul>\n<h3>开始使用</h3>\n<p>打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)</p>\n<p><strong>获取令牌</strong><br>\n1.打开<a href=\"https://dash.cloudflare.com\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Dashboard</a><br>\n2.打开我的个人资料<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_account_home.png\" alt=\"cloudflare_home\" loading=\"lazy\"><br>\n3.创建API令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_gui.png\" alt=\"cloudflare_api_gui\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_2.png\" alt=\"cloudflare_api_2\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_create.png\" alt=\"cloudflare_api_create\" loading=\"lazy\"><br>\n然后核对摘要信息,无误的话点击\"创建令牌\",然后就会显示令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_show.png\" alt=\"cloudflare_api_show\" loading=\"lazy\"><br>\n记得一定要保存好令牌信息,不会再次显示</p>\n<p><strong>填写信息</strong><br>\n按照界面提示填写即可<br>\nIPv4/IPv6按照自己需求和情况选择即可<br>\n然后到日志看一下是否有相应提示即可</p>\n",
       "image": "https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png",
@@ -224,18 +224,18 @@
       "tags": []
     },
     {
-      "title": "2.test",
-      "url": "https://docs.yyyyt.top/guide/someapp/2-test.html",
-      "id": "https://docs.yyyyt.top/guide/someapp/2-test.html",
-      "summary": "test",
-      "content_html": "<p>test</p>\n",
+      "title": "2.雨云免费游戏云的一些操作",
+      "url": "https://docs.yyyyt.top/guide/someguide/2.html",
+      "id": "https://docs.yyyyt.top/guide/someguide/2.html",
+      "summary": "使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等 本文写于20241012 众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?) 警告 以下操作可能涉及违反相关用户协议...",
+      "content_html": "<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>\n<p>本文写于20241012</p>\n<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>\n<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>\n</div>\n<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>\n顺带重装一下系统(纯环境的就行)<br>\n然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>\nPS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>\n<h3>使用cloudflare tunnel来访问AList:</h3>\n<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>\n<p>1.cf tunnel安装</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>curl -L 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64' -o ./cloudflared</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>chmod +x ./cloudflared</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>\n<p>2.cf tunnel的启动</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>./cloudflared service install 你的Token(cf zero trust创建隧道的时候有,install后面的一串乱码就是token 请勿泄露)</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">注</p>\n<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>\n</div>\n<p>Enjoy it</p>\n",
       "authors": [],
       "tags": []
     },
     {
       "title": "一些软件教程",
-      "url": "https://docs.yyyyt.top/guide/someapp/",
-      "id": "https://docs.yyyyt.top/guide/someapp/",
+      "url": "https://docs.yyyyt.top/guide/someguide/",
+      "id": "https://docs.yyyyt.top/guide/someguide/",
       "content_html": "",
       "authors": [],
       "tags": []
@@ -256,6 +256,15 @@
       "id": "https://docs.yyyyt.top/article/daily/2024/202408190.html",
       "summary": "本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...",
       "content_html": "<p>本文写于 20240819-20240820<br>\n本文如标题一样,用于写一些乱象</p>\n<h2>网络部分</h2>\n<h3>1. 色情擦边球类</h3>\n<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>\n<h3>2. 营销号</h3>\n<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>\n<h3>3. 谣言类</h3>\n<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>\n<h3>4. 辱骂</h3>\n<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>\n<h3>5. 未成年保护不到位</h3>\n<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "20241012 暂时的归纳与吐槽",
+      "url": "https://docs.yyyyt.top/article/daily/2024/20241012.html",
+      "id": "https://docs.yyyyt.top/article/daily/2024/20241012.html",
+      "summary": "本文写于 20241012-? 好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽 我感觉这周过的总感觉特别奇怪好吧 部分内容可能会更新到周报特别篇里面 来来来 让我分享一下本周的事情(我会尽力控制语言不使用脏话,但是如果控制不住了见谅) P1.去***的**班主任 如果说一个老师当了班主任都成了**的话,这个**更**(这边称为Q某人,对于现实中的...",
+      "content_html": "<p>本文写于 20241012-?</p>\n<p>好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽</p>\n<p>我感觉这周过的总感觉特别奇怪好吧<br>\n部分内容可能会更新到周报特别篇里面</p>\n<p>来来来 让我分享一下本周的事情(我会尽力控制语言不使用脏话,但是如果控制不住了见谅)</p>\n<h3>P1.去***的**班主任</h3>\n<p>如果说一个老师当了班主任都成了**的话,这个**更**(这边称为Q某人,对于现实中的人来说你咋藏其实都没用了,打码隐喻只是对于不认识的人有用,对于认识的人来说相当于没有).那么这位更是重量级,让我来给你细盘一下她的操作</p>\n<p>1.晨读读数学<br>\n我滴妈呀!如果不是我真实经历过我是不会相信会有这种事情的.如果这样说还不够离谱的话.再加上一句 全班罚站出去读书(据说是***弄得?) 全班罚站出去读书,这是多\"美妙\"的事情啊.反正我也不想说了.毕竟有\"府衙乞丐\"等事情,Q某人干出啥事情也不奇怪了</p>\n<p>2.月考之怒<br>\n这个就不说了吧,Q某人日常作风.只要考试考得差了100%会享受到这位班主任的\"即兴演讲\"+\"认真仔细\"反思<br>\n这可能不是最那个的 但是已经很那个了 而且据说已经叫过好几个人到外边了 只能说就很那个<br>\n<s>话说投诉能不能换班主任</s></p>\n<h3>P2.宿舍里面的事情</h3>\n<p>众所周知 我们所在的宿舍非常\"爱学习\",早上起来迷迷糊糊的,看到墙上脏脏的,戴上眼镜只看还是很脏,而且有大大的\"学习\"二字.不过下面讨论的主要不是这个.是另一个发生在宿舍里面的事情</p>\n<p>具体详情就不说了<br>\n据说是一个人带手机到我所在的宿舍,被另一个班主任查寝逮到了.然后就是啊吧啊吧</p>\n<h3>The End</h3>\n",
       "authors": [],
       "tags": []
     },
@@ -358,11 +367,11 @@
       "tags": []
     },
     {
-      "title": "特别篇-1: 我的高一/高二班主任",
+      "title": "特别篇-1: 我的班主任与老师们",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html",
-      "summary": "本文开始写于20240915 Part 1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? Part 2. 骂人",
-      "content_html": "<p><strong>本文开始写于20240915</strong></p>\n<h2>Part 1. 教龄四年</h2>\n<p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>\n<h2>Part 2. 骂人</h2>\n",
+      "summary": "本文开始写于20240915 以下可能适用于Q某人: P1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? P2. 骂人 骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了",
+      "content_html": "<p><strong>本文开始写于20240915</strong></p>\n<p>以下可能适用于Q某人:</p>\n<p>P1. 教龄四年</p>\n<p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>\n<p>P2. 骂人</p>\n<p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了</p>\n",
       "authors": [],
       "tags": []
     },
@@ -610,8 +619,17 @@
       "title": "第五周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html",
-      "summary": "日期: 开始: 2024107 星期? 结束: 202410xx 星期六 本周内容:",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2024107 星期?</strong><br>\n<strong>结束: 202410xx 星期六</strong></p>\n<h3>本周内容:</h3>\n",
+      "summary": "日期: 开始: 2024107 星期一 结束: 20241012 星期六 本周内容: 1.月考 全班哀嚎一片(成绩非常差据(说年级前十一半都不到) 由于这里是周报 所以一些事情就不说了 2.好消息 本次提前到11:00放学 但是下午2:00就要回去了( The End",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2024107 星期一</strong><br>\n<strong>结束: 20241012 星期六</strong></p>\n<h3>本周内容:</h3>\n<p>1.月考<br>\n全班哀嚎一片(成绩非常差据(说年级前十一半都不到)</p>\n<p>由于这里是周报 所以一些事情就不说了 <s>要不再开个动态(说说)栏目?</s></p>\n<p>2.好消息 本次提前到11:00放学 但是下午2:00就要回去了(</p>\n<h3>The End</h3>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "第六周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html",
+      "summary": "日期: 开始: 20241013 星期日 结束: 202410xx 星期六 本周内容:",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20241013 星期日</strong><br>\n<strong>结束: 202410xx 星期六</strong></p>\n<h3>本周内容:</h3>\n",
       "authors": [],
       "tags": []
     },

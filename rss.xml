@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 07 Oct 2024 06:29:01 GMT</pubDate>
-    <lastBuildDate>Mon, 07 Oct 2024 06:29:01 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Oct 2024 16:14:42 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Oct 2024 16:14:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -336,8 +336,8 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     </item>
     <item>
       <title>1.DDNS-GO简单教程</title>
-      <link>https://docs.yyyyt.top/guide/someapp/1-DDNS-GO.html</link>
-      <guid>https://docs.yyyyt.top/guide/someapp/1-DDNS-GO.html</guid>
+      <link>https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html</link>
+      <guid>https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">1.DDNS-GO简单教程</source>
       <description>简介 DDNS-GO 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可 在开始本篇教程前，你需要 托管在DDNS-GO支持的DNS服务商的域名(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行) 现在已经申请不了了...... 你要有公网IP...</description>
       <content:encoded><![CDATA[<h3>简介</h3>
@@ -391,18 +391,43 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <enclosure url="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png" type="image/png"/>
     </item>
     <item>
-      <title>2.test</title>
-      <link>https://docs.yyyyt.top/guide/someapp/2-test.html</link>
-      <guid>https://docs.yyyyt.top/guide/someapp/2-test.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">2.test</source>
-      <description>test</description>
-      <content:encoded><![CDATA[<p>test</p>
+      <title>2.雨云免费游戏云的一些操作</title>
+      <link>https://docs.yyyyt.top/guide/someguide/2.html</link>
+      <guid>https://docs.yyyyt.top/guide/someguide/2.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">2.雨云免费游戏云的一些操作</source>
+      <description>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等 本文写于20241012 众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?) 警告 以下操作可能涉及违反相关用户协议...</description>
+      <content:encoded><![CDATA[<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>
+<p>本文写于20241012</p>
+<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>
+</div>
+<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>
+顺带重装一下系统(纯环境的就行)<br>
+然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>
+PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>
+<h3>使用cloudflare tunnel来访问AList:</h3>
+<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>
+<p>1.cf tunnel安装</p>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>curl -L 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64' -o ./cloudflared</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>chmod +x ./cloudflared</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>
+<p>2.cf tunnel的启动</p>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>./cloudflared service install 你的Token(cf zero trust创建隧道的时候有,install后面的一串乱码就是token 请勿泄露)</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>
+<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>
+</div>
+<p>Enjoy it</p>
 ]]></content:encoded>
     </item>
     <item>
       <title>一些软件教程</title>
-      <link>https://docs.yyyyt.top/guide/someapp/</link>
-      <guid>https://docs.yyyyt.top/guide/someapp/</guid>
+      <link>https://docs.yyyyt.top/guide/someguide/</link>
+      <guid>https://docs.yyyyt.top/guide/someguide/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
     </item>
     <item>
@@ -452,6 +477,32 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
 <p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
 <h3>5. 未成年保护不到位</h3>
 <p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>20241012 暂时的归纳与吐槽</title>
+      <link>https://docs.yyyyt.top/article/daily/2024/20241012.html</link>
+      <guid>https://docs.yyyyt.top/article/daily/2024/20241012.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">20241012 暂时的归纳与吐槽</source>
+      <description>本文写于 20241012-? 好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽 我感觉这周过的总感觉特别奇怪好吧 部分内容可能会更新到周报特别篇里面 来来来 让我分享一下本周的事情(我会尽力控制语言不使用脏话,但是如果控制不住了见谅) P1.去***的**班主任 如果说一个老师当了班主任都成了**的话,这个**更**(这边称为Q某人,对于现实中的...</description>
+      <content:encoded><![CDATA[<p>本文写于 20241012-?</p>
+<p>好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽</p>
+<p>我感觉这周过的总感觉特别奇怪好吧<br>
+部分内容可能会更新到周报特别篇里面</p>
+<p>来来来 让我分享一下本周的事情(我会尽力控制语言不使用脏话,但是如果控制不住了见谅)</p>
+<h3>P1.去***的**班主任</h3>
+<p>如果说一个老师当了班主任都成了**的话,这个**更**(这边称为Q某人,对于现实中的人来说你咋藏其实都没用了,打码隐喻只是对于不认识的人有用,对于认识的人来说相当于没有).那么这位更是重量级,让我来给你细盘一下她的操作</p>
+<p>1.晨读读数学<br>
+我滴妈呀!如果不是我真实经历过我是不会相信会有这种事情的.如果这样说还不够离谱的话.再加上一句 全班罚站出去读书(据说是***弄得?) 全班罚站出去读书,这是多"美妙"的事情啊.反正我也不想说了.毕竟有"府衙乞丐"等事情,Q某人干出啥事情也不奇怪了</p>
+<p>2.月考之怒<br>
+这个就不说了吧,Q某人日常作风.只要考试考得差了100%会享受到这位班主任的"即兴演讲"+"认真仔细"反思<br>
+这可能不是最那个的 但是已经很那个了 而且据说已经叫过好几个人到外边了 只能说就很那个<br>
+<s>话说投诉能不能换班主任</s></p>
+<h3>P2.宿舍里面的事情</h3>
+<p>众所周知 我们所在的宿舍非常"爱学习",早上起来迷迷糊糊的,看到墙上脏脏的,戴上眼镜只看还是很脏,而且有大大的"学习"二字.不过下面讨论的主要不是这个.是另一个发生在宿舍里面的事情</p>
+<p>具体详情就不说了<br>
+据说是一个人带手机到我所在的宿舍,被另一个班主任查寝逮到了.然后就是啊吧啊吧</p>
+<h3>The End</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -558,15 +609,17 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <source url="https://docs.yyyyt.top/rss.xml">特别篇</source>
     </item>
     <item>
-      <title>特别篇-1: 我的高一/高二班主任</title>
+      <title>特别篇-1: 我的班主任与老师们</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">特别篇-1: 我的高一/高二班主任</source>
-      <description>本文开始写于20240915 Part 1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? Part 2. 骂人</description>
+      <source url="https://docs.yyyyt.top/rss.xml">特别篇-1: 我的班主任与老师们</source>
+      <description>本文开始写于20240915 以下可能适用于Q某人: P1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? P2. 骂人 骂的是真tmd恨 骂的又多又狠,附带时不时喊人&amp;quot;福利&amp;quot;,月考/周考考的差还会&amp;quot;即兴演讲&amp;quot;+&amp;quot;认真&amp;quot;反思 我真的是服了</description>
       <content:encoded><![CDATA[<p><strong>本文开始写于20240915</strong></p>
-<h2>Part 1. 教龄四年</h2>
+<p>以下可能适用于Q某人:</p>
+<p>P1. 教龄四年</p>
 <p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
-<h2>Part 2. 骂人</h2>
+<p>P2. 骂人</p>
+<p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人"福利",月考/周考考的差还会"即兴演讲"+"认真"反思 我真的是服了</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -873,9 +926,26 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第五周</source>
-      <description>日期: 开始: 2024107 星期? 结束: 202410xx 星期六 本周内容:</description>
+      <description>日期: 开始: 2024107 星期一 结束: 20241012 星期六 本周内容: 1.月考 全班哀嚎一片(成绩非常差据(说年级前十一半都不到) 由于这里是周报 所以一些事情就不说了 2.好消息 本次提前到11:00放学 但是下午2:00就要回去了( The End</description>
       <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2024107 星期?</strong><br>
+<p><strong>开始: 2024107 星期一</strong><br>
+<strong>结束: 20241012 星期六</strong></p>
+<h3>本周内容:</h3>
+<p>1.月考<br>
+全班哀嚎一片(成绩非常差据(说年级前十一半都不到)</p>
+<p>由于这里是周报 所以一些事情就不说了 <s>要不再开个动态(说说)栏目?</s></p>
+<p>2.好消息 本次提前到11:00放学 但是下午2:00就要回去了(</p>
+<h3>The End</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第六周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第六周</source>
+      <description>日期: 开始: 20241013 星期日 结束: 202410xx 星期六 本周内容:</description>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241013 星期日</strong><br>
 <strong>结束: 202410xx 星期六</strong></p>
 <h3>本周内容:</h3>
 ]]></content:encoded>
