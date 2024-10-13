@@ -5,6 +5,7 @@ icon: info
 ---
 
 ![avatar](https://img.yyyyt.top/avatar/Haku.png =50x55)  
+真名: 不愿透露
 来源:《千与千寻》  
 一个高中生,生活在河南  
 平时比较忙,可能周六周日才有空(也可能没空)  
