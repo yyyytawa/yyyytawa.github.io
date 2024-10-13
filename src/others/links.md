@@ -9,7 +9,7 @@ icon: link
 <VPCard
   title="YYYYT的AList站点"
   desc="分享一些视频/文件"
-  logo="https://img.yyyyt.top/Alist/Haku.png"
+  logo="https://img.yyyyt.top/Alist/Alist_logo.svg"
   link="https://alist.yyyyt.top"
 />
 </div>
