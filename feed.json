@@ -15,20 +15,20 @@
       "tags": []
     },
     {
-      "title": "指南/教程",
-      "url": "https://docs.yyyyt.top/guide/",
-      "id": "https://docs.yyyyt.top/guide/",
-      "summary": "关于该目录 这个目录是关于分享教程",
-      "content_html": "<h3>关于该目录</h3>\n<p>这个目录是关于分享教程</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "博客",
       "url": "https://docs.yyyyt.top/blog/",
       "id": "https://docs.yyyyt.top/blog/",
       "summary": "该目录是关于我博客的内容 不定时更新 具体内容可以看目录哦 目前内容: 图片 个人生活分享 云湖相关",
       "content_html": "<p>该目录是关于我博客的内容<br>\n不定时更新<br>\n<em>具体内容可以看目录哦</em></p>\n<h2>目前内容:</h2>\n<ul>\n<li>图片<s>(可能是搞笑/奇葩一类)</s></li>\n<li>个人生活分享<s>(bushi)</s></li>\n<li><s>二中生活周报(估计万年也上不了,老师看了不带弄死我)</s></li>\n<li>云湖相关</li>\n</ul>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "指南/教程",
+      "url": "https://docs.yyyyt.top/guide/",
+      "id": "https://docs.yyyyt.top/guide/",
+      "summary": "关于该目录 这个目录是关于分享教程",
+      "content_html": "<h3>关于该目录</h3>\n<p>这个目录是关于分享教程</p>\n",
       "authors": [],
       "tags": []
     },
@@ -111,58 +111,6 @@
       "tags": []
     },
     {
-      "title": "一些软件分享",
-      "url": "https://docs.yyyyt.top/guide/app_share/",
-      "id": "https://docs.yyyyt.top/guide/app_share/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "我的项目",
-      "url": "https://docs.yyyyt.top/guide/my_project/",
-      "id": "https://docs.yyyyt.top/guide/my_project/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "merge.html",
-      "url": "https://docs.yyyyt.top/guide/my_project/merge.html",
-      "id": "https://docs.yyyyt.top/guide/my_project/merge.html",
-      "summary": "merge.html是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等). 注意 merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来...",
-      "content_html": "<p><em>merge.html</em>是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等).</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来跨域)</p>\n</div>\n<h2>参数:</h2>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请求链接最好不要有中文,空格特殊字符等,如果有的话请先编码\nif参数和il参数必须有其中一个,而且两个不能共存</p>\n</div>\n<h3>if参数:</h3>\n<p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>\n<p><strong>示例:</strong></p>\n<p>合并单个文件(一般不用,相当于直接下载单个文件):</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>合并多个文件:</p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">提示</p>\n<p>多个链接请使用\",\"隔开,例如xxxx?if=链接1,链接2,链接3,链接N</p>\n</div>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><h3>of参数:</h3>\n<p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>\n<strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>\n<h3>il参数:</h3>\n<p>输入一个inputlist,全名叫inputlist(输入列表)<br>\n相当于多个输入链接,但是链接都存在一个文件里面</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>li.txt内容:</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span># 使用#来注释内容</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3</span></span>\n<span class=\"line\"><span>https://alist.yyyyt.top/d/公开分享/temp_share/test%201 #URL中有空格请使用%20代替,默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "1.DDNS-GO简单教程",
-      "url": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
-      "id": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
-      "summary": "简介 DDNS-GO 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可 在开始本篇教程前，你需要 托管在DDNS-GO支持的DNS服务商的域名(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行) 现在已经申请不了了...... 你要有公网IP...",
-      "content_html": "<h3>简介</h3>\n<p><strong>DDNS-GO</strong> 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可</p>\n<h3>在开始本篇教程前，你需要</h3>\n<ol>\n<li>托管在<strong>DDNS-GO支持的DNS服务商的域名</strong>(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行)<br>\n<s> 如果要用Cloudflare不能是.tk .cf .ga 这类在Freenom上申请的免费域名 </s> 现在已经申请不了了......</li>\n<li>你要有<strong>公网IP</strong>(v4/v6均可)</li>\n<li>有一定的动手能力</li>\n</ol>\n<h3>让我们一起开始吧</h3>\n<ul>\n<li><strong>首先</strong><br>\n下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)<br>\n一般没有特殊需求选Latest版本即可<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png\" alt=\"img1\" loading=\"lazy\"></li>\n<li><strong>运行</strong><br>\n以下方式，按照自己系统选择即可<br>\nWindows:<br>\n直接双击运行即可<br>\nLinux&amp;MacOS:<br>\n在运行目录打开终端，输入以下命令:<br>\n./ddns-go<br>\n按照提示打开浏览器,访问 IP:9876<br>\n按照提示设置即可</li>\n<li><strong>自启</strong><br>\n到ddns-go的目录下,按照以下操作即可<br>\nWindows:cmd执行(记得要有管理员权限哦) ddns-go -s install<br>\nLinux:  sudo .\\ddns-go -s install<br>\nMacOS:自己琢磨吧 我这边没设备</li>\n</ul>\n<h3>开始使用</h3>\n<p>打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)</p>\n<p><strong>获取令牌</strong><br>\n1.打开<a href=\"https://dash.cloudflare.com\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Dashboard</a><br>\n2.打开我的个人资料<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_account_home.png\" alt=\"cloudflare_home\" loading=\"lazy\"><br>\n3.创建API令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_gui.png\" alt=\"cloudflare_api_gui\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_2.png\" alt=\"cloudflare_api_2\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_create.png\" alt=\"cloudflare_api_create\" loading=\"lazy\"><br>\n然后核对摘要信息,无误的话点击\"创建令牌\",然后就会显示令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_show.png\" alt=\"cloudflare_api_show\" loading=\"lazy\"><br>\n记得一定要保存好令牌信息,不会再次显示</p>\n<p><strong>填写信息</strong><br>\n按照界面提示填写即可<br>\nIPv4/IPv6按照自己需求和情况选择即可<br>\n然后到日志看一下是否有相应提示即可</p>\n",
-      "image": "https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "2.雨云免费游戏云的一些操作",
-      "url": "https://docs.yyyyt.top/guide/someguide/2.html",
-      "id": "https://docs.yyyyt.top/guide/someguide/2.html",
-      "summary": "使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等 本文写于20241012 众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?) 警告 以下操作可能涉及违反相关用户协议...",
-      "content_html": "<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>\n<p>本文写于20241012</p>\n<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>\n<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>\n</div>\n<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>\n顺带重装一下系统(纯环境的就行)<br>\n然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>\nPS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>\n<h3>使用cloudflare tunnel来访问AList:</h3>\n<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>\n<p>1.cf tunnel安装</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>curl -L 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64' -o ./cloudflared</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>chmod +x ./cloudflared</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>\n<p>2.cf tunnel的启动</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>./cloudflared service install 你的Token(cf zero trust创建隧道的时候有,install后面的一串乱码就是token 请勿泄露)</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">注</p>\n<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>\n</div>\n<p>Enjoy it</p>\n",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "一些软件教程",
-      "url": "https://docs.yyyyt.top/guide/someguide/",
-      "id": "https://docs.yyyyt.top/guide/someguide/",
-      "content_html": "",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "第11-20次更新",
       "url": "https://docs.yyyyt.top/blog/music_updata_log/11to20.html",
       "id": "https://docs.yyyyt.top/blog/music_updata_log/11to20.html",
@@ -237,6 +185,67 @@
       "url": "https://docs.yyyyt.top/blog/yh/",
       "id": "https://docs.yyyyt.top/blog/yh/",
       "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "一些软件分享",
+      "url": "https://docs.yyyyt.top/guide/app_share/",
+      "id": "https://docs.yyyyt.top/guide/app_share/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "我的项目",
+      "url": "https://docs.yyyyt.top/guide/my_project/",
+      "id": "https://docs.yyyyt.top/guide/my_project/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "merge.html",
+      "url": "https://docs.yyyyt.top/guide/my_project/merge.html",
+      "id": "https://docs.yyyyt.top/guide/my_project/merge.html",
+      "summary": "merge.html是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等). 注意 merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来...",
+      "content_html": "<p><em>merge.html</em>是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等).</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来跨域)</p>\n</div>\n<h2>参数:</h2>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请求链接最好不要有中文,空格特殊字符等,如果有的话请先编码\nif参数和il参数必须有其中一个,而且两个不能共存</p>\n</div>\n<h3>if参数:</h3>\n<p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>\n<p><strong>示例:</strong></p>\n<p>合并单个文件(一般不用,相当于直接下载单个文件):</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>合并多个文件:</p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">提示</p>\n<p>多个链接请使用\",\"隔开,例如xxxx?if=链接1,链接2,链接3,链接N</p>\n</div>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><h3>of参数:</h3>\n<p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>\n<strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>\n<h3>il参数:</h3>\n<p>输入一个inputlist,全名叫inputlist(输入列表)<br>\n相当于多个输入链接,但是链接都存在一个文件里面</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>li.txt内容:</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span># 使用#来注释内容</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3</span></span>\n<span class=\"line\"><span>https://alist.yyyyt.top/d/公开分享/temp_share/test%201 #URL中有空格请使用%20代替,默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div>",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "1.DDNS-GO简单教程",
+      "url": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
+      "id": "https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html",
+      "summary": "简介 DDNS-GO 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可 在开始本篇教程前，你需要 托管在DDNS-GO支持的DNS服务商的域名(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行) 现在已经申请不了了...... 你要有公网IP...",
+      "content_html": "<h3>简介</h3>\n<p><strong>DDNS-GO</strong> 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可</p>\n<h3>在开始本篇教程前，你需要</h3>\n<ol>\n<li>托管在<strong>DDNS-GO支持的DNS服务商的域名</strong>(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行)<br>\n<s> 如果要用Cloudflare不能是.tk .cf .ga 这类在Freenom上申请的免费域名 </s> 现在已经申请不了了......</li>\n<li>你要有<strong>公网IP</strong>(v4/v6均可)</li>\n<li>有一定的动手能力</li>\n</ol>\n<h3>让我们一起开始吧</h3>\n<ul>\n<li><strong>首先</strong><br>\n下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)<br>\n一般没有特殊需求选Latest版本即可<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png\" alt=\"img1\" loading=\"lazy\"></li>\n<li><strong>运行</strong><br>\n以下方式，按照自己系统选择即可<br>\nWindows:<br>\n直接双击运行即可<br>\nLinux&amp;MacOS:<br>\n在运行目录打开终端，输入以下命令:<br>\n./ddns-go<br>\n按照提示打开浏览器,访问 IP:9876<br>\n按照提示设置即可</li>\n<li><strong>自启</strong><br>\n到ddns-go的目录下,按照以下操作即可<br>\nWindows:cmd执行(记得要有管理员权限哦) ddns-go -s install<br>\nLinux:  sudo .\\ddns-go -s install<br>\nMacOS:自己琢磨吧 我这边没设备</li>\n</ul>\n<h3>开始使用</h3>\n<p>打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)</p>\n<p><strong>获取令牌</strong><br>\n1.打开<a href=\"https://dash.cloudflare.com\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Dashboard</a><br>\n2.打开我的个人资料<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_account_home.png\" alt=\"cloudflare_home\" loading=\"lazy\"><br>\n3.创建API令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_gui.png\" alt=\"cloudflare_api_gui\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_2.png\" alt=\"cloudflare_api_2\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_create.png\" alt=\"cloudflare_api_create\" loading=\"lazy\"><br>\n然后核对摘要信息,无误的话点击\"创建令牌\",然后就会显示令牌<br>\n<img src=\"https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_show.png\" alt=\"cloudflare_api_show\" loading=\"lazy\"><br>\n记得一定要保存好令牌信息,不会再次显示</p>\n<p><strong>填写信息</strong><br>\n按照界面提示填写即可<br>\nIPv4/IPv6按照自己需求和情况选择即可<br>\n然后到日志看一下是否有相应提示即可</p>\n",
+      "image": "https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "2.雨云免费游戏云的一些操作",
+      "url": "https://docs.yyyyt.top/guide/someguide/2.html",
+      "id": "https://docs.yyyyt.top/guide/someguide/2.html",
+      "summary": "使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等 本文写于20241012 众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?) 警告 以下操作可能涉及违反相关用户协议...",
+      "content_html": "<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>\n<p>本文写于20241012</p>\n<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>\n<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>\n</div>\n<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>\n顺带重装一下系统(纯环境的就行)<br>\n然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>\nPS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>\n<h3>使用cloudflare tunnel来访问AList:</h3>\n<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>\n<p>1.cf tunnel安装</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>curl -L 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64' -o ./cloudflared</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>chmod +x ./cloudflared</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>\n<p>2.cf tunnel的启动</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" data-title=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code><span class=\"line\"><span>./cloudflared service install 你的Token(cf zero trust创建隧道的时候有,install后面的一串乱码就是token 请勿泄露)</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">注</p>\n<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>\n</div>\n<p>Enjoy it</p>\n",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "一些软件教程",
+      "url": "https://docs.yyyyt.top/guide/someguide/",
+      "id": "https://docs.yyyyt.top/guide/someguide/",
+      "content_html": "",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "群规",
+      "url": "https://docs.yyyyt.top/others/rules/yh_group_rule.html",
+      "id": "https://docs.yyyyt.top/others/rules/yh_group_rule.html",
+      "summary": "最近更新日期: 20241019 本规定适用于所有群规链接指向这里的群组 加入相关群聊即代表同意本规定 一.适用范围 本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效 二.发言规定 对于群员[1]: 1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容 2.不得随意公开他人真实信息,包括但不限于...",
+      "content_html": "<p>最近更新日期: 20241019<br>\n本规定适用于所有群规链接指向这里的群组<br>\n加入相关群聊即代表同意本规定</p>\n<h2>一.适用范围</h2>\n<p>本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效</p>\n<h2>二.发言规定</h2>\n<p>对于群员<sup class=\"footnote-ref\"><a href=\"#footnote1\">[1]</a><a class=\"footnote-anchor\" id=\"footnote-ref1\"></a></sup><a class=\"footnote-anchor\" id=\"footnote-ref1\">:<br>\n<strong>1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容</strong><br>\n<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class=\"footnote-ref\"></sup></strong></a><strong><a href=\"#footnote2\">[2]</a><a class=\"footnote-anchor\" id=\"footnote-ref2\">等隐私信息.除非其本人明确同意</a></strong><a class=\"footnote-anchor\" id=\"footnote-ref2\"><br>\n<strong>3.不得在未经群主/管理员同意的情况下发布宣群内容</strong><br>\n<strong>4.不得发布广告信息(例如流量卡广告,非法广告等)</strong><br>\n<strong>5.不得随意辱骂其他群员,或者是过度嘲讽其他群员</strong><br>\n<strong>6.不得发布色情低俗,打擦边球之类的消息/图片</strong><br>\n<strong>7.不得发布过多无意义内容,不得刷屏</strong><br>\n<strong>8.不得随意歧视其他群员,也包括其国家,民族,宗教信仰等</strong><br>\n<strong>9.不得发布易引起他人不适,不舒服的图片/文字/视频</strong><br>\n<strong>10.不得使用色情低俗/有违法违规信息的图片作为头像</strong><br>\n<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></a></p><a class=\"footnote-anchor\" id=\"footnote-ref2\">\n<p>对于管理员:<br>\n<strong>1.不得滥用管理员职权讽刺/玩弄群员</strong><br>\n<strong>2.不得在未经群主同意的情况下修改群设置/机器人设置</strong><br>\n<strong>3.不得未经同意随意踢出群员(对于严重违规的可以不需要群主同意)</strong><br>\n<strong>4.管理员对于群内的违规信息有处理的义务</strong></p>\n</a><h2><a class=\"footnote-anchor\" id=\"footnote-ref2\"></a><a class=\"header-anchor\" href=\"#三-处罚\"><span>三.处罚</span></a></h2>\n<p>群主/管理员可以视情况给予警告/违规/禁言/踢出的处罚,对于多次屡教不改者可以加重处罚</p>\n<h2>四.群内争端的处理</h2>\n<p>1.主张<strong>谁提出谁举证</strong>原则,禁止造谣诬陷抹黑他人<br>\n2.主张<strong>和平处理</strong>原则,最小化争端影响</p>\n<hr class=\"footnotes-sep\">\n<section class=\"footnotes\">\n<ol class=\"footnotes-list\">\n<li id=\"footnote1\" class=\"footnote-item\"><p>群员指所有在该群组的用户,包括群主和管理员 <a href=\"#footnote-ref1\" class=\"footnote-backref\">↩︎</a></p>\n</li>\n<li id=\"footnote2\" class=\"footnote-item\"><p>对于真名以名称第一个字+其余字用*来代替,例如张xx发布为张**不算做违规.但是如果涉及嘲讽/讽刺他人或者是违反其他规定仍会算作违规.对于手机号用前三位数字+*表示也不算做违规,例如15211451419发布为152********不算违反该规定.对于身份证号等其他信息则不允许公开,即使没完全公开其内容 <a href=\"#footnote-ref2\" class=\"footnote-backref\">↩︎</a></p>\n</li>\n</ol>\n</section>\n",
       "authors": [],
       "tags": []
     },

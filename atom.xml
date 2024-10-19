@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-10-19T14:44:35.517Z</updated>
+  <updated>2024-10-19T16:23:12.489Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,7 +11,7 @@
     <title type="text">个人文章</title>
     <id>https://docs.yyyyt.top/article/</id>
     <link href="https://docs.yyyyt.top/article/"/>
-    <updated>2024-10-19T14:44:35.518Z</updated>
+    <updated>2024-10-19T16:23:12.490Z</updated>
     <summary type="html"><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
 小说目录下的内容作者保留所有权利</p>
 ]]></summary>
@@ -20,22 +20,10 @@
 ]]></content>
   </entry>
   <entry>
-    <title type="text">指南/教程</title>
-    <id>https://docs.yyyyt.top/guide/</id>
-    <link href="https://docs.yyyyt.top/guide/"/>
-    <updated>2024-10-19T14:44:35.521Z</updated>
-    <summary type="html"><![CDATA[<h3>关于该目录</h3>
-<p>这个目录是关于分享教程</p>
-]]></summary>
-    <content type="html"><![CDATA[<h3>关于该目录</h3>
-<p>这个目录是关于分享教程</p>
-]]></content>
-  </entry>
-  <entry>
     <title type="text">博客</title>
     <id>https://docs.yyyyt.top/blog/</id>
     <link href="https://docs.yyyyt.top/blog/"/>
-    <updated>2024-10-19T14:44:35.522Z</updated>
+    <updated>2024-10-19T16:23:12.493Z</updated>
     <summary type="html"><![CDATA[<p>该目录是关于我博客的内容<br>
 不定时更新<br>
 <em>具体内容可以看目录哦</em></p>
@@ -60,16 +48,28 @@
 ]]></content>
   </entry>
   <entry>
+    <title type="text">指南/教程</title>
+    <id>https://docs.yyyyt.top/guide/</id>
+    <link href="https://docs.yyyyt.top/guide/"/>
+    <updated>2024-10-19T16:23:12.495Z</updated>
+    <summary type="html"><![CDATA[<h3>关于该目录</h3>
+<p>这个目录是关于分享教程</p>
+]]></summary>
+    <content type="html"><![CDATA[<h3>关于该目录</h3>
+<p>这个目录是关于分享教程</p>
+]]></content>
+  </entry>
+  <entry>
     <title type="text">其他</title>
     <id>https://docs.yyyyt.top/others/</id>
     <link href="https://docs.yyyyt.top/others/"/>
-    <updated>2024-10-19T14:44:35.524Z</updated>
+    <updated>2024-10-19T16:23:12.496Z</updated>
   </entry>
   <entry>
     <title type="text">关于我</title>
     <id>https://docs.yyyyt.top/others/about_me.html</id>
     <link href="https://docs.yyyyt.top/others/about_me.html"/>
-    <updated>2024-10-19T14:44:35.524Z</updated>
+    <updated>2024-10-19T16:23:12.496Z</updated>
     <summary type="html"><![CDATA[<p><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" width="50" height="55" loading="lazy"><br>
 真名: 不愿透露
 来源:《千与千寻》<br>
@@ -100,7 +100,7 @@ PS:请说明来意</p>
     <title type="text">版权声明</title>
     <id>https://docs.yyyyt.top/others/copyright.html</id>
     <link href="https://docs.yyyyt.top/others/copyright.html"/>
-    <updated>2024-10-19T14:44:35.527Z</updated>
+    <updated>2024-10-19T16:23:12.498Z</updated>
     <summary type="html"><![CDATA[<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
@@ -132,7 +132,7 @@ PS:请说明来意</p>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/others/links.html</id>
     <link href="https://docs.yyyyt.top/others/links.html"/>
-    <updated>2024-10-19T14:44:35.528Z</updated>
+    <updated>2024-10-19T16:23:12.501Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -172,7 +172,7 @@ PS:请说明来意</p>
     <title type="text">公告</title>
     <id>https://docs.yyyyt.top/others/notice.html</id>
     <link href="https://docs.yyyyt.top/others/notice.html"/>
-    <updated>2024-10-19T14:44:35.534Z</updated>
+    <updated>2024-10-19T16:23:12.506Z</updated>
     <summary type="html"><![CDATA[
 ]]></summary>
     <content type="html"><![CDATA[
@@ -182,7 +182,7 @@ PS:请说明来意</p>
     <title type="text">隐私政策</title>
     <id>https://docs.yyyyt.top/others/privacy.html</id>
     <link href="https://docs.yyyyt.top/others/privacy.html"/>
-    <updated>2024-10-19T14:44:35.535Z</updated>
+    <updated>2024-10-19T16:23:12.508Z</updated>
     <summary type="html"><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读<br>
 docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 <h1>收集的信息</h1>
@@ -207,37 +207,166 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">日常</title>
     <id>https://docs.yyyyt.top/article/daily/</id>
     <link href="https://docs.yyyyt.top/article/daily/"/>
-    <updated>2024-10-19T14:44:35.538Z</updated>
+    <updated>2024-10-19T16:23:12.511Z</updated>
   </entry>
   <entry>
     <title type="text">小说</title>
     <id>https://docs.yyyyt.top/article/novel/</id>
     <link href="https://docs.yyyyt.top/article/novel/"/>
-    <updated>2024-10-19T14:44:35.539Z</updated>
+    <updated>2024-10-19T16:23:12.511Z</updated>
   </entry>
   <entry>
     <title type="text">目录</title>
     <id>https://docs.yyyyt.top/article/novel/file.html</id>
     <link href="https://docs.yyyyt.top/article/novel/file.html"/>
-    <updated>2024-10-19T14:44:35.539Z</updated>
+    <updated>2024-10-19T16:23:12.512Z</updated>
+  </entry>
+  <entry>
+    <title type="text">第11-20次更新</title>
+    <id>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</id>
+    <link href="https://docs.yyyyt.top/blog/music_updata_log/11to20.html"/>
+    <updated>2024-10-19T16:23:12.512Z</updated>
+    <summary type="html"><![CDATA[<h3>第11次 20240827</h3>
+<p>更新 <strong>Sat Tee Touy</strong><br>
+更新 <strong>月亮之上</strong></p>
+]]></summary>
+    <content type="html"><![CDATA[<h3>第11次 20240827</h3>
+<p>更新 <strong>Sat Tee Touy</strong><br>
+更新 <strong>月亮之上</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">第1-10次更新</title>
+    <id>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</id>
+    <link href="https://docs.yyyyt.top/blog/music_updata_log/1to10.html"/>
+    <updated>2024-10-19T16:23:12.513Z</updated>
+    <summary type="html"><![CDATA[<h3>第一次 20240214</h3>
+<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
+<h3>第二次 20240215</h3>
+<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
+<h3>第三次 20240216</h3>
+<p>更新 <strong>好运来</strong></p>
+<h3>第四次 20240216</h3>
+<p>更新 <strong>全是爱</strong></p>
+<h3>第五次 20240222</h3>
+<p>更新 <strong>See You Again</strong></p>]]></summary>
+    <content type="html"><![CDATA[<h3>第一次 20240214</h3>
+<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
+<h3>第二次 20240215</h3>
+<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
+<h3>第三次 20240216</h3>
+<p>更新 <strong>好运来</strong></p>
+<h3>第四次 20240216</h3>
+<p>更新 <strong>全是爱</strong></p>
+<h3>第五次 20240222</h3>
+<p>更新 <strong>See You Again</strong></p>
+<h3>第六次 20240406</h3>
+<p>更新 <strong>巡光</strong></p>
+<h3>第七次 20240526</h3>
+<p>更新 <strong>我们都是追梦人</strong><br>
+更新 <strong>当</strong></p>
+<h3>第八次 20240610</h3>
+<p>更新 <strong>明天会更好</strong></p>
+<h3>第九次 20240715</h3>
+<p>更新 <strong>Thunak Thunak Tun</strong></p>
+<h3>第十次 20240816</h3>
+<p>更新 <strong>精卫</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">音乐更新</title>
+    <id>https://docs.yyyyt.top/blog/music_updata_log/</id>
+    <link href="https://docs.yyyyt.top/blog/music_updata_log/"/>
+    <updated>2024-10-19T16:23:12.520Z</updated>
+  </entry>
+  <entry>
+    <title type="text">简介</title>
+    <id>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</id>
+    <link href="https://docs.yyyyt.top/blog/music_updata_log/introduction.html"/>
+    <updated>2024-10-19T16:23:12.520Z</updated>
+    <summary type="html"><![CDATA[<p>这里是写音乐更新日志的<br>
+更新可以在侧边栏去看<br>
+数字代表第N次更新</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>这里是写音乐更新日志的<br>
+更新可以在侧边栏去看<br>
+数字代表第N次更新</p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">表情/图片</title>
+    <id>https://docs.yyyyt.top/blog/photo/</id>
+    <link href="https://docs.yyyyt.top/blog/photo/"/>
+    <updated>2024-10-19T16:23:12.522Z</updated>
+  </entry>
+  <entry>
+    <title type="text">简介</title>
+    <id>https://docs.yyyyt.top/blog/photo/intro.html</id>
+    <link href="https://docs.yyyyt.top/blog/photo/intro.html"/>
+    <updated>2024-10-19T16:23:12.522Z</updated>
+    <summary type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
+]]></summary>
+    <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">二中周报</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/"/>
+    <updated>2024-10-19T16:23:12.524Z</updated>
+    <summary type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">关于此界面</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/introduction.html"/>
+    <updated>2024-10-19T16:23:12.526Z</updated>
+    <summary type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
+<h3>命名规范:</h3>
+<h2><strong>遵循以下几点:</strong></h2>
+<ol>
+<li>以大小类为基础的分类</li>
+</ol>
+<ul>
+<li>如高一 高二 高三</li>
+<li>高一下面有上学期,寒假,下学期,暑假等等</li>
+<li>寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面</li>
+</ul>
+<hr>
+<ol start="2">
+<li><strong>原则上/学期按照第x周来记录</strong>,记录开学时间 <em>(按到校时间算)</em></li>
+</ol>]]></summary>
+    <content type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
+<h3>命名规范:</h3>
+<p><strong>遵循以下几点:</strong></p>
+]]></content>
+  </entry>
+  <entry>
+    <title type="text">云湖</title>
+    <id>https://docs.yyyyt.top/blog/yh/</id>
+    <link href="https://docs.yyyyt.top/blog/yh/"/>
+    <updated>2024-10-19T16:23:12.529Z</updated>
   </entry>
   <entry>
     <title type="text">一些软件分享</title>
     <id>https://docs.yyyyt.top/guide/app_share/</id>
     <link href="https://docs.yyyyt.top/guide/app_share/"/>
-    <updated>2024-10-19T14:44:35.539Z</updated>
+    <updated>2024-10-19T16:23:12.529Z</updated>
   </entry>
   <entry>
     <title type="text">我的项目</title>
     <id>https://docs.yyyyt.top/guide/my_project/</id>
     <link href="https://docs.yyyyt.top/guide/my_project/"/>
-    <updated>2024-10-19T14:44:35.539Z</updated>
+    <updated>2024-10-19T16:23:12.530Z</updated>
   </entry>
   <entry>
     <title type="text">merge.html</title>
     <id>https://docs.yyyyt.top/guide/my_project/merge.html</id>
     <link href="https://docs.yyyyt.top/guide/my_project/merge.html"/>
-    <updated>2024-10-19T14:44:35.539Z</updated>
+    <updated>2024-10-19T16:23:12.530Z</updated>
     <summary type="html"><![CDATA[<p><em>merge.html</em>是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等).</p>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -302,7 +431,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">1.DDNS-GO简单教程</title>
     <id>https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html</id>
     <link href="https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html"/>
-    <updated>2024-10-19T14:44:35.548Z</updated>
+    <updated>2024-10-19T16:23:12.534Z</updated>
     <summary type="html"><![CDATA[<h3>简介</h3>
 <p><strong>DDNS-GO</strong> 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可</p>
 <h3>在开始本篇教程前，你需要</h3>
@@ -365,7 +494,7 @@ IPv4/IPv6按照自己需求和情况选择即可<br>
     <title type="text">2.雨云免费游戏云的一些操作</title>
     <id>https://docs.yyyyt.top/guide/someguide/2.html</id>
     <link href="https://docs.yyyyt.top/guide/someguide/2.html"/>
-    <updated>2024-10-19T14:44:35.554Z</updated>
+    <updated>2024-10-19T16:23:12.544Z</updated>
     <summary type="html"><![CDATA[<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>
 <p>本文写于20241012</p>
 <p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>
@@ -405,142 +534,75 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">一些软件教程</title>
     <id>https://docs.yyyyt.top/guide/someguide/</id>
     <link href="https://docs.yyyyt.top/guide/someguide/"/>
-    <updated>2024-10-19T14:44:35.558Z</updated>
+    <updated>2024-10-19T16:23:12.548Z</updated>
   </entry>
   <entry>
-    <title type="text">第11-20次更新</title>
-    <id>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</id>
-    <link href="https://docs.yyyyt.top/blog/music_updata_log/11to20.html"/>
-    <updated>2024-10-19T14:44:35.558Z</updated>
-    <summary type="html"><![CDATA[<h3>第11次 20240827</h3>
-<p>更新 <strong>Sat Tee Touy</strong><br>
-更新 <strong>月亮之上</strong></p>
-]]></summary>
-    <content type="html"><![CDATA[<h3>第11次 20240827</h3>
-<p>更新 <strong>Sat Tee Touy</strong><br>
-更新 <strong>月亮之上</strong></p>
-]]></content>
-  </entry>
-  <entry>
-    <title type="text">第1-10次更新</title>
-    <id>https://docs.yyyyt.top/blog/music_updata_log/1to10.html</id>
-    <link href="https://docs.yyyyt.top/blog/music_updata_log/1to10.html"/>
-    <updated>2024-10-19T14:44:35.559Z</updated>
-    <summary type="html"><![CDATA[<h3>第一次 20240214</h3>
-<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
-<h3>第二次 20240215</h3>
-<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
-<h3>第三次 20240216</h3>
-<p>更新 <strong>好运来</strong></p>
-<h3>第四次 20240216</h3>
-<p>更新 <strong>全是爱</strong></p>
-<h3>第五次 20240222</h3>
-<p>更新 <strong>See You Again</strong></p>]]></summary>
-    <content type="html"><![CDATA[<h3>第一次 20240214</h3>
-<p>更新 <strong>大碗宽面</strong> <em>(作者具体不说,懂得都懂)</em></p>
-<h3>第二次 20240215</h3>
-<p>更新 <strong>最炫民族风</strong> <em>(就是广场舞的那个......)</em></p>
-<h3>第三次 20240216</h3>
-<p>更新 <strong>好运来</strong></p>
-<h3>第四次 20240216</h3>
-<p>更新 <strong>全是爱</strong></p>
-<h3>第五次 20240222</h3>
-<p>更新 <strong>See You Again</strong></p>
-<h3>第六次 20240406</h3>
-<p>更新 <strong>巡光</strong></p>
-<h3>第七次 20240526</h3>
-<p>更新 <strong>我们都是追梦人</strong><br>
-更新 <strong>当</strong></p>
-<h3>第八次 20240610</h3>
-<p>更新 <strong>明天会更好</strong></p>
-<h3>第九次 20240715</h3>
-<p>更新 <strong>Thunak Thunak Tun</strong></p>
-<h3>第十次 20240816</h3>
-<p>更新 <strong>精卫</strong></p>
-]]></content>
-  </entry>
-  <entry>
-    <title type="text">音乐更新</title>
-    <id>https://docs.yyyyt.top/blog/music_updata_log/</id>
-    <link href="https://docs.yyyyt.top/blog/music_updata_log/"/>
-    <updated>2024-10-19T14:44:35.565Z</updated>
-  </entry>
-  <entry>
-    <title type="text">简介</title>
-    <id>https://docs.yyyyt.top/blog/music_updata_log/introduction.html</id>
-    <link href="https://docs.yyyyt.top/blog/music_updata_log/introduction.html"/>
-    <updated>2024-10-19T14:44:35.565Z</updated>
-    <summary type="html"><![CDATA[<p>这里是写音乐更新日志的<br>
-更新可以在侧边栏去看<br>
-数字代表第N次更新</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>这里是写音乐更新日志的<br>
-更新可以在侧边栏去看<br>
-数字代表第N次更新</p>
-]]></content>
-  </entry>
-  <entry>
-    <title type="text">表情/图片</title>
-    <id>https://docs.yyyyt.top/blog/photo/</id>
-    <link href="https://docs.yyyyt.top/blog/photo/"/>
-    <updated>2024-10-19T14:44:35.566Z</updated>
-  </entry>
-  <entry>
-    <title type="text">简介</title>
-    <id>https://docs.yyyyt.top/blog/photo/intro.html</id>
-    <link href="https://docs.yyyyt.top/blog/photo/intro.html"/>
-    <updated>2024-10-19T14:44:35.567Z</updated>
-    <summary type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
-]]></summary>
-    <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
-]]></content>
-  </entry>
-  <entry>
-    <title type="text">二中周报</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/"/>
-    <updated>2024-10-19T14:44:35.568Z</updated>
-    <summary type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
-]]></content>
-  </entry>
-  <entry>
-    <title type="text">关于此界面</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/introduction.html"/>
-    <updated>2024-10-19T14:44:35.569Z</updated>
-    <summary type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
-<h3>命名规范:</h3>
-<h2><strong>遵循以下几点:</strong></h2>
-<ol>
-<li>以大小类为基础的分类</li>
+    <title type="text">群规</title>
+    <id>https://docs.yyyyt.top/others/rules/yh_group_rule.html</id>
+    <link href="https://docs.yyyyt.top/others/rules/yh_group_rule.html"/>
+    <updated>2024-10-19T16:23:12.548Z</updated>
+    <summary type="html"><![CDATA[<p>最近更新日期: 20241019<br>
+本规定适用于所有群规链接指向这里的群组<br>
+加入相关群聊即代表同意本规定</p>
+<h2>一.适用范围</h2>
+<p>本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效</p>
+<h2>二.发言规定</h2>
+<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">:<br>
+<strong>1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容</strong><br>
+<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"></sup></strong></a><strong><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">等隐私信息.除非其本人明确同意</a></strong><a class="footnote-anchor" id="footnote-ref2"><br>
+<strong>3.不得在未经群主/管理员同意的情况下发布宣群内容</strong><br>
+<strong>4.不得发布广告信息(例如流量卡广告,非法广告等)</strong><br>
+<strong>5.不得随意辱骂其他群员,或者是过度嘲讽其他群员</strong><br>
+<strong>6.不得发布色情低俗,打擦边球之类的消息/图片</strong><br>
+<strong>7.不得发布过多无意义内容,不得刷屏</strong><br>
+<strong>8.不得随意歧视其他群员,也包括其国家,民族,宗教信仰等</strong><br>
+<strong>9.不得发布易引起他人不适,不舒服的图片/文字/视频</strong><br>
+<strong>10.不得使用色情低俗/有违法违规信息的图片作为头像</strong><br>
+<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></a></p>]]></summary>
+    <content type="html"><![CDATA[<p>最近更新日期: 20241019<br>
+本规定适用于所有群规链接指向这里的群组<br>
+加入相关群聊即代表同意本规定</p>
+<h2>一.适用范围</h2>
+<p>本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效</p>
+<h2>二.发言规定</h2>
+<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">:<br>
+<strong>1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容</strong><br>
+<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"></sup></strong></a><strong><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">等隐私信息.除非其本人明确同意</a></strong><a class="footnote-anchor" id="footnote-ref2"><br>
+<strong>3.不得在未经群主/管理员同意的情况下发布宣群内容</strong><br>
+<strong>4.不得发布广告信息(例如流量卡广告,非法广告等)</strong><br>
+<strong>5.不得随意辱骂其他群员,或者是过度嘲讽其他群员</strong><br>
+<strong>6.不得发布色情低俗,打擦边球之类的消息/图片</strong><br>
+<strong>7.不得发布过多无意义内容,不得刷屏</strong><br>
+<strong>8.不得随意歧视其他群员,也包括其国家,民族,宗教信仰等</strong><br>
+<strong>9.不得发布易引起他人不适,不舒服的图片/文字/视频</strong><br>
+<strong>10.不得使用色情低俗/有违法违规信息的图片作为头像</strong><br>
+<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></a></p><a class="footnote-anchor" id="footnote-ref2">
+<p>对于管理员:<br>
+<strong>1.不得滥用管理员职权讽刺/玩弄群员</strong><br>
+<strong>2.不得在未经群主同意的情况下修改群设置/机器人设置</strong><br>
+<strong>3.不得未经同意随意踢出群员(对于严重违规的可以不需要群主同意)</strong><br>
+<strong>4.管理员对于群内的违规信息有处理的义务</strong></p>
+</a><h2><a class="footnote-anchor" id="footnote-ref2"></a><a class="header-anchor" href="#三-处罚"><span>三.处罚</span></a></h2>
+<p>群主/管理员可以视情况给予警告/违规/禁言/踢出的处罚,对于多次屡教不改者可以加重处罚</p>
+<h2>四.群内争端的处理</h2>
+<p>1.主张<strong>谁提出谁举证</strong>原则,禁止造谣诬陷抹黑他人<br>
+2.主张<strong>和平处理</strong>原则,最小化争端影响</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p>群员指所有在该群组的用户,包括群主和管理员 <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="footnote2" class="footnote-item"><p>对于真名以名称第一个字+其余字用*来代替,例如张xx发布为张**不算做违规.但是如果涉及嘲讽/讽刺他人或者是违反其他规定仍会算作违规.对于手机号用前三位数字+*表示也不算做违规,例如15211451419发布为152********不算违反该规定.对于身份证号等其他信息则不允许公开,即使没完全公开其内容 <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
+</li>
 </ol>
-<ul>
-<li>如高一 高二 高三</li>
-<li>高一下面有上学期,寒假,下学期,暑假等等</li>
-<li>寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面</li>
-</ul>
-<hr>
-<ol start="2">
-<li><strong>原则上/学期按照第x周来记录</strong>,记录开学时间 <em>(按到校时间算)</em></li>
-</ol>]]></summary>
-    <content type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
-<h3>命名规范:</h3>
-<p><strong>遵循以下几点:</strong></p>
+</section>
 ]]></content>
-  </entry>
-  <entry>
-    <title type="text">云湖</title>
-    <id>https://docs.yyyyt.top/blog/yh/</id>
-    <link href="https://docs.yyyyt.top/blog/yh/"/>
-    <updated>2024-10-19T14:44:35.571Z</updated>
   </entry>
   <entry>
     <title type="text">测试文章</title>
     <id>https://docs.yyyyt.top/article/daily/2024/202407280.html</id>
     <link href="https://docs.yyyyt.top/article/daily/2024/202407280.html"/>
-    <updated>2024-10-19T14:44:35.571Z</updated>
+    <updated>2024-10-19T16:23:12.553Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
 <h1>这是一级标题</h1>
 <h2>这是二级标题</h2>
@@ -577,7 +639,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">乱象吐槽</title>
     <id>https://docs.yyyyt.top/article/daily/2024/202408190.html</id>
     <link href="https://docs.yyyyt.top/article/daily/2024/202408190.html"/>
-    <updated>2024-10-19T14:44:35.573Z</updated>
+    <updated>2024-10-19T16:23:12.557Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
 本文如标题一样,用于写一些乱象</p>
 <h2>网络部分</h2>
@@ -604,7 +666,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">20241012 暂时的归纳与吐槽</title>
     <id>https://docs.yyyyt.top/article/daily/2024/20241012.html</id>
     <link href="https://docs.yyyyt.top/article/daily/2024/20241012.html"/>
-    <updated>2024-10-19T14:44:35.574Z</updated>
+    <updated>2024-10-19T16:23:12.559Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241012-?</p>
 <p>好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽</p>
 <p>我感觉这周过的总感觉特别奇怪好吧<br>
@@ -638,7 +700,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">2024年</title>
     <id>https://docs.yyyyt.top/article/daily/2024/</id>
     <link href="https://docs.yyyyt.top/article/daily/2024/"/>
-    <updated>2024-10-19T14:44:35.576Z</updated>
+    <updated>2024-10-19T16:23:12.562Z</updated>
     <summary type="html"><![CDATA[<p>2024年的内容</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>2024年的内容</p>
@@ -648,7 +710,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">文件</title>
     <id>https://docs.yyyyt.top/article/novel/file/</id>
     <link href="https://docs.yyyyt.top/article/novel/file/"/>
-    <updated>2024-10-19T14:44:35.576Z</updated>
+    <updated>2024-10-19T16:23:12.563Z</updated>
     <summary type="html"><![CDATA[<p>这里放的是具体的文件</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里放的是具体的文件</p>
@@ -658,7 +720,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">2月</title>
     <id>https://docs.yyyyt.top/blog/photo/2024/202402.html</id>
     <link href="https://docs.yyyyt.top/blog/photo/2024/202402.html"/>
-    <updated>2024-10-19T14:44:35.577Z</updated>
+    <updated>2024-10-19T16:23:12.563Z</updated>
     <summary type="html"><![CDATA[<h3>我不推荐Windows我推荐啥？<s>(MacOS,Linux)</s></h3>
 <figure><img src="https://img.yyyyt.top/vuepress/blog/photo/2024/2/MicrosftWindowsSuggest.png" alt="第一个" tabindex="0" loading="lazy"><figcaption>第一个</figcaption></figure>
 ]]></summary>
@@ -670,7 +732,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">8月</title>
     <id>https://docs.yyyyt.top/blog/photo/2024/202408.html</id>
     <link href="https://docs.yyyyt.top/blog/photo/2024/202408.html"/>
-    <updated>2024-10-19T14:44:35.578Z</updated>
+    <updated>2024-10-19T16:23:12.564Z</updated>
     <summary type="html"><![CDATA[<h3>butlanys发的管我dream啥事</h3>
 <p>PS: butlanys其实就是dream,只是后面改名了<br>
 <img src="https://img.yyyyt.top/vuepress/blog/photo/2024/8/butlanys_and_dream.jpg" alt="butlanys_and_dream" loading="lazy"></p>
@@ -689,19 +751,19 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">2024年</title>
     <id>https://docs.yyyyt.top/blog/photo/2024/</id>
     <link href="https://docs.yyyyt.top/blog/photo/2024/"/>
-    <updated>2024-10-19T14:44:35.584Z</updated>
+    <updated>2024-10-19T16:23:12.566Z</updated>
   </entry>
   <entry>
     <title type="text">2025年</title>
     <id>https://docs.yyyyt.top/blog/photo/2025/</id>
     <link href="https://docs.yyyyt.top/blog/photo/2025/"/>
-    <updated>2024-10-19T14:44:35.584Z</updated>
+    <updated>2024-10-19T16:23:12.566Z</updated>
   </entry>
   <entry>
     <title type="text">高一年级</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/"/>
-    <updated>2024-10-19T14:44:35.584Z</updated>
+    <updated>2024-10-19T16:23:12.566Z</updated>
     <summary type="html"><![CDATA[<p>这里放的是高一年级的内容<br>
 由于众所周知原因,高一上学期和寒假的部分内容丢失</p>
 ]]></summary>
@@ -713,7 +775,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">暑假</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html"/>
-    <updated>2024-10-19T14:44:35.585Z</updated>
+    <updated>2024-10-19T16:23:12.567Z</updated>
     <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
 <strong>开始: 20240711</strong><br>
 <strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></h2>
@@ -730,7 +792,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">寒假</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html"/>
-    <updated>2024-10-19T14:44:35.586Z</updated>
+    <updated>2024-10-19T16:23:12.568Z</updated>
     <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
 <strong>开始: 20240131</strong><br>
 <strong>结束: <s>20240222</s> 20240225</strong></h2>
@@ -749,7 +811,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">高二年级</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/"/>
-    <updated>2024-10-19T14:44:35.588Z</updated>
+    <updated>2024-10-19T16:23:12.570Z</updated>
     <summary type="html"><![CDATA[<p>这里放的是高二的内容</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里放的是高二的内容</p>
@@ -759,13 +821,13 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">特别篇</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/special/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/special/"/>
-    <updated>2024-10-19T14:44:35.588Z</updated>
+    <updated>2024-10-19T16:23:12.571Z</updated>
   </entry>
   <entry>
     <title type="text">特别篇-1: 我的班主任与老师们</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html"/>
-    <updated>2024-10-19T14:44:35.588Z</updated>
+    <updated>2024-10-19T16:23:12.571Z</updated>
     <summary type="html"><![CDATA[<p><strong>本文开始写于20240915</strong></p>
 <p>以下可能适用于Q某人:</p>
 <p>P1. 教龄四年</p>
@@ -785,19 +847,19 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">云湖事件</title>
     <id>https://docs.yyyyt.top/blog/yh/events/</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/"/>
-    <updated>2024-10-19T14:44:35.589Z</updated>
+    <updated>2024-10-19T16:23:12.573Z</updated>
   </entry>
   <entry>
     <title type="text">云湖更新日志</title>
     <id>https://docs.yyyyt.top/blog/yh/update_log/</id>
     <link href="https://docs.yyyyt.top/blog/yh/update_log/"/>
-    <updated>2024-10-19T14:44:35.589Z</updated>
+    <updated>2024-10-19T16:23:12.573Z</updated>
   </entry>
   <entry>
     <title type="text">第十周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html"/>
-    <updated>2024-10-19T14:44:35.589Z</updated>
+    <updated>2024-10-19T16:23:12.573Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240427 星期六</strong><br>
 <strong>结束: 20240430 星期二</strong></h2>
@@ -817,7 +879,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">第十一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html"/>
-    <updated>2024-10-19T14:44:35.591Z</updated>
+    <updated>2024-10-19T16:23:12.575Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240505 星期日</strong><br>
 <strong>结束: 20240511 星期六</strong></h2>
@@ -840,7 +902,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">第十二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html"/>
-    <updated>2024-10-19T14:44:35.593Z</updated>
+    <updated>2024-10-19T16:23:12.578Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始:20240512 星期日</strong><br>
 <strong>结束:20240517 星期五</strong></h2>
@@ -860,7 +922,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">第十三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/13_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/13_week.html"/>
-    <updated>2024-10-19T14:44:35.595Z</updated>
+    <updated>2024-10-19T16:23:12.580Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始:20240519 星期日</strong><br>
 <strong>结束:20240525 星期六</strong></h2>
@@ -886,7 +948,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十四周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html"/>
-    <updated>2024-10-19T14:44:35.597Z</updated>
+    <updated>2024-10-19T16:23:12.581Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始:20240526 星期日</strong><br>
 <strong>结束:20240601 星期六</strong></h2>
@@ -908,7 +970,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/15_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/15_week.html"/>
-    <updated>2024-10-19T14:44:35.600Z</updated>
+    <updated>2024-10-19T16:23:12.583Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始:20240602 星期日</strong><br>
 <strong>结束:20240607 星期五</strong></h2>
@@ -931,7 +993,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十六周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/16_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/16_week.html"/>
-    <updated>2024-10-19T14:44:35.601Z</updated>
+    <updated>2024-10-19T16:23:12.585Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240610 星期日</strong><br>
 <strong>结束: 20240615 星期六</strong></h2>
@@ -949,7 +1011,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/17_week.html"/>
-    <updated>2024-10-19T14:44:35.603Z</updated>
+    <updated>2024-10-19T16:23:12.588Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240616 星期日</strong><br>
 <strong>结束: 20240622 星期六</strong></h2>
@@ -971,7 +1033,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html"/>
-    <updated>2024-10-19T14:44:35.605Z</updated>
+    <updated>2024-10-19T16:23:12.593Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240623 星期日</strong><br>
 <strong>结束: 20240629 星期六</strong></h2>
@@ -990,7 +1052,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第十九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/19_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/19_week.html"/>
-    <updated>2024-10-19T14:44:35.607Z</updated>
+    <updated>2024-10-19T16:23:12.598Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240630 星期日</strong><br>
 <strong>结束: 20240706 星期六</strong></h2>
@@ -1010,7 +1072,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/1_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/1_week.html"/>
-    <updated>2024-10-19T14:44:35.609Z</updated>
+    <updated>2024-10-19T16:23:12.600Z</updated>
     <summary type="html"><![CDATA[<p><strong>Deamon prepare to start</strong><br>
 <strong>Loading...</strong><br>
 <strong>Deamon start successfully!</strong><br>
@@ -1032,7 +1094,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第二十周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/20_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/20_week.html"/>
-    <updated>2024-10-19T14:44:35.613Z</updated>
+    <updated>2024-10-19T16:23:12.610Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240707 星期日</strong><br>
 <strong>结束: 20240711 星期四</strong></h2>
@@ -1054,7 +1116,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/2_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/2_week.html"/>
-    <updated>2024-10-19T14:44:35.615Z</updated>
+    <updated>2024-10-19T16:23:12.611Z</updated>
     <summary type="html"><![CDATA[<h3>日期</h3>
 <h2><strong>开始: 20240303 周日</strong><br>
 <strong>结束: 20240309 周六</strong></h2>
@@ -1073,7 +1135,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/3_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/3_week.html"/>
-    <updated>2024-10-19T14:44:35.617Z</updated>
+    <updated>2024-10-19T16:23:12.612Z</updated>
     <summary type="html"><![CDATA[<h3>日期</h3>
 <h2><strong>开始: 20240310 周日</strong><br>
 <strong>结束: 20240316 周六</strong></h2>
@@ -1093,7 +1155,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第四周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/4_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/4_week.html"/>
-    <updated>2024-10-19T14:44:35.619Z</updated>
+    <updated>2024-10-19T16:23:12.614Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240317 周日</strong><br>
 <strong>结束: 20240323 周六</strong></h2>
@@ -1115,7 +1177,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/5_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/5_week.html"/>
-    <updated>2024-10-19T14:44:35.623Z</updated>
+    <updated>2024-10-19T16:23:12.615Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240324 周日</strong><br>
 <strong>结束: 20240330 周六</strong></h2>
@@ -1137,7 +1199,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第六周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/6_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/6_week.html"/>
-    <updated>2024-10-19T14:44:35.625Z</updated>
+    <updated>2024-10-19T16:23:12.616Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240331 周日</strong><br>
 <strong>结束: 20240403 周三</strong></h2>
@@ -1159,7 +1221,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/7_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/7_week.html"/>
-    <updated>2024-10-19T14:44:35.627Z</updated>
+    <updated>2024-10-19T16:23:12.618Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240406 星期六</strong><br>
 <strong>结束: 20240413 星期六</strong></h2>
@@ -1178,7 +1240,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/8_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/8_week.html"/>
-    <updated>2024-10-19T14:44:35.629Z</updated>
+    <updated>2024-10-19T16:23:12.619Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240414 星期日</strong><br>
 <strong>结束: 20240420 星期六</strong></h2>
@@ -1200,7 +1262,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/9_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/9_week.html"/>
-    <updated>2024-10-19T14:44:35.630Z</updated>
+    <updated>2024-10-19T16:23:12.620Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240421 星期日</strong><br>
 <strong>结束: 20240426 星期五</strong></h2>
@@ -1225,13 +1287,13 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">下学期</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/"/>
-    <updated>2024-10-19T14:44:35.632Z</updated>
+    <updated>2024-10-19T16:23:12.621Z</updated>
   </entry>
   <entry>
     <title type="text">第一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/1_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/1_week.html"/>
-    <updated>2024-10-19T14:44:35.632Z</updated>
+    <updated>2024-10-19T16:23:12.622Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <h2><strong>开始: 20240901 星期日 <s>(实际上20240831下午就要报道了)</s></strong><br>
 <strong>结束: 20240907 星期六</strong></h2>
@@ -1248,7 +1310,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html"/>
-    <updated>2024-10-19T14:44:35.633Z</updated>
+    <updated>2024-10-19T16:23:12.623Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240908 星期日</strong><br>
 <strong>结束: 20240915 星期六</strong></p>
@@ -1268,7 +1330,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html"/>
-    <updated>2024-10-19T14:44:35.634Z</updated>
+    <updated>2024-10-19T16:23:12.625Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240917 星期二</strong><br>
 <strong>结束: 20240921 星期六</strong></p>
@@ -1290,7 +1352,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第四周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/4_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/4_week.html"/>
-    <updated>2024-10-19T14:44:35.635Z</updated>
+    <updated>2024-10-19T16:23:12.626Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240922 星期日</strong><br>
 <strong>结束: 20240930 星期六</strong></p>
@@ -1316,7 +1378,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html"/>
-    <updated>2024-10-19T14:44:35.636Z</updated>
+    <updated>2024-10-19T16:23:12.627Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2024107 星期一</strong><br>
 <strong>结束: 20241012 星期六</strong></p>
@@ -1342,7 +1404,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第六周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/6_week.html"/>
-    <updated>2024-10-19T14:44:35.641Z</updated>
+    <updated>2024-10-19T16:23:12.628Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241013 星期日</strong><br>
 <strong>结束: 20241019 星期六</strong></p>
@@ -1372,7 +1434,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">第七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html"/>
-    <updated>2024-10-19T14:44:35.642Z</updated>
+    <updated>2024-10-19T16:23:12.629Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241020 星期日</strong><br>
 <strong>结束: 202410xx 星期六</strong></p>
@@ -1388,13 +1450,13 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">上学期</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/"/>
-    <updated>2024-10-19T14:44:35.643Z</updated>
+    <updated>2024-10-19T16:23:12.630Z</updated>
   </entry>
   <entry>
     <title type="text">20240718 全员群吵架</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240718.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240718.html"/>
-    <updated>2024-10-19T14:44:35.643Z</updated>
+    <updated>2024-10-19T16:23:12.630Z</updated>
     <summary type="html"><![CDATA[<h2>正文:</h2>
 <p><strong>日期: 20240718</strong><br>
 <em>114514三连 喵~</em> 不给 <em>JuLuoYe</em> 管理员,<em>JuLuoYe</em>对其回复 "信不信我诅咒你" 引发 <em>114514 三连 喵~</em> 对其诅咒也引发了相互诅咒,最终发展为吵架.<br>
@@ -1419,7 +1481,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">20240719 贺贺回答室被弟弟自爆</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240719.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240719.html"/>
-    <updated>2024-10-19T14:44:35.644Z</updated>
+    <updated>2024-10-19T16:23:12.632Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240719</strong></p>
 <h2>事件一: 贺贺回答室被弟弟自爆真名</h2>
 <p>今天晚上,贺贺回答室被物理盗号(他弟弟偷上哥哥(贺贺回答室)的云湖)</p>
@@ -1472,7 +1534,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240720 云湖免费抽奖关闭</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240720.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240720.html"/>
-    <updated>2024-10-19T14:44:35.645Z</updated>
+    <updated>2024-10-19T16:23:12.635Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240720</strong></p>
 <h2>事件一: 云湖免费抽奖关闭</h2>
 <p>据悉,今天云湖免费抽奖打开界面变为502网关错误,据小道消息(据说是 <a href="https://www.yhchat.com/user/homepage/7058262" target="_blank" rel="noopener noreferrer">Feng</a> 说的)说云湖抽奖停了.<br>
@@ -1494,7 +1556,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240721 世间不平</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240721.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240721.html"/>
-    <updated>2024-10-19T14:44:35.646Z</updated>
+    <updated>2024-10-19T16:23:12.636Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240721</strong></p>
 <h2>事件一: 全员群人数55555</h2>
 <p>云湖全员群人数迎来了一个历史性的数字--<strong>55555</strong><br>
@@ -1523,7 +1585,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240724 真假yyyyt</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240724.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240724.html"/>
-    <updated>2024-10-19T14:44:35.648Z</updated>
+    <updated>2024-10-19T16:23:12.638Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240724</strong></p>
 <h2>事件一: 我tm被冒充了</h2>
 <p>贺贺回答室冒充我在全员群发言:(<br>
@@ -1539,7 +1601,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240802 全员群键政事件</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240802.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240802.html"/>
-    <updated>2024-10-19T14:44:35.648Z</updated>
+    <updated>2024-10-19T16:23:12.639Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240802</strong></p>
 <h2>事件一: 云湖全员群键政事件</h2>
 <p>某位老玩家来云湖全员群键政,如下图所示<br>
@@ -1556,7 +1618,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240803 全员群广告事件</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240803.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240803.html"/>
-    <updated>2024-10-19T14:44:35.650Z</updated>
+    <updated>2024-10-19T16:23:12.640Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240803</strong></p>
 <h2>事件一: 全员群广告事件</h2>
 <p>起因: <a href="https://www.yhchat.com/user/homepage/5587539" target="_blank" rel="noopener noreferrer">Dream</a>为了<s>整治</s>(规范)全员群广告,特制定规矩<br>
@@ -1573,7 +1635,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240820 今天火药味有点浓啊</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240820.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240820.html"/>
-    <updated>2024-10-19T14:44:35.650Z</updated>
+    <updated>2024-10-19T16:23:12.641Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240820</strong></p>
 <h2>事件一: 全员群刷屏+吵架+涉黄事件</h2>
 <h3>邀请码刷屏事件:</h3>
@@ -1626,7 +1688,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240824 都疯了</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240824.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240824.html"/>
-    <updated>2024-10-19T14:44:35.653Z</updated>
+    <updated>2024-10-19T16:23:12.644Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240824</strong></p>
 <h2>事件一: 预警群群主撤回封口事件</h2>
 <div class="hint-container note">
@@ -1664,7 +1726,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240827 两位又吵起来了</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240827.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240827.html"/>
-    <updated>2024-10-19T14:44:35.656Z</updated>
+    <updated>2024-10-19T16:23:12.648Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240827</strong></p>
 <h2><a class="header-anchor" href="#事件一-贺贺回答室和qrasa-nya-又双叒叕吵架"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>和<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>又双叒叕吵架</h2>]]></summary>
     <content type="html"><![CDATA[<p><strong>日期: 20240827</strong></p>
@@ -1680,7 +1742,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20240921 某人又发癫了</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240921.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240921.html"/>
-    <updated>2024-10-19T14:44:35.658Z</updated>
+    <updated>2024-10-19T16:23:12.658Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20240921</strong></p>
 <h2><a class="header-anchor" href="#事件一-qrasa-nya-又双叒叕发癫了"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>又双叒叕发癫了</h2>
 <div class="hint-container note">
@@ -1701,7 +1763,7 @@ PS:大部分消息已撤回<br>
     <title type="text">20241004 五郎找hehe</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20241004.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20241004.html"/>
-    <updated>2024-10-19T14:44:35.659Z</updated>
+    <updated>2024-10-19T16:23:12.660Z</updated>
     <summary type="html"><![CDATA[<p><strong>日期: 20241004</strong></p>
 <h2><a class="header-anchor" href="#事件一-五郎找贺贺"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>找<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a></h2>]]></summary>
     <content type="html"><![CDATA[<p><strong>日期: 20241004</strong></p>
@@ -1725,13 +1787,13 @@ PS:大部分消息已撤回<br>
     <title type="text">2024年</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/"/>
-    <updated>2024-10-19T14:44:35.662Z</updated>
+    <updated>2024-10-19T16:23:12.663Z</updated>
   </entry>
   <entry>
     <title type="text">2024年</title>
     <id>https://docs.yyyyt.top/blog/yh/update_log/Android/2024.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/update_log/Android/2024.html"/>
-    <updated>2024-10-19T14:44:35.662Z</updated>
+    <updated>2024-10-19T16:23:12.663Z</updated>
     <summary type="html"><![CDATA[<h2>1.3.70</h2>
 <p>1、修复设置页面的BUG</p>
 <h2>1.3.69</h2>
@@ -1776,12 +1838,12 @@ PS:大部分消息已撤回<br>
     <title type="text">安卓</title>
     <id>https://docs.yyyyt.top/blog/yh/update_log/Android/</id>
     <link href="https://docs.yyyyt.top/blog/yh/update_log/Android/"/>
-    <updated>2024-10-19T14:44:35.664Z</updated>
+    <updated>2024-10-19T16:23:12.665Z</updated>
   </entry>
   <entry>
     <title type="text">Windows平台</title>
     <id>https://docs.yyyyt.top/blog/yh/update_log/Windows/</id>
     <link href="https://docs.yyyyt.top/blog/yh/update_log/Windows/"/>
-    <updated>2024-10-19T14:44:35.664Z</updated>
+    <updated>2024-10-19T16:23:12.665Z</updated>
   </entry>
 </feed>
