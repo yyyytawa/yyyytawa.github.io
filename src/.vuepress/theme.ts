@@ -68,6 +68,11 @@ export default hopeTheme({
         ],
       },
     ],
+    git: {
+      createdTime: true,
+      updatedTime: true,
+      contributors: true,
+    },
     markdownImage: {
       // 启用 figure
       figure: true,
