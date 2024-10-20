@@ -68,6 +68,7 @@ export default hopeTheme({
         ],
       },
     ],
+    //下面的git是因为vuepress core最近的bug  导致贡献者 更新时间无法显示 修复后再删
     git: {
       createdTime: true,
       updatedTime: true,
