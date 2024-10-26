@@ -16,6 +16,6 @@ icon: copyright
 > 优先级: 1  
 > 转载前遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)许可协议  
 
-> 目录: /article/novel/*  
+> 目录: /novel/*  
 > 优先级: 2  
 > 未经作者授权不允许转载二创  

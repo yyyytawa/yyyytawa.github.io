@@ -3,5 +3,6 @@ title: 个人文章
 index: false
 ---
 
-这里面放的是我写的文章/小说,随便写写,随缘更新   
-小说目录下的内容作者保留所有权利  
+<div class="catalog-display-container">
+  <Catalog base='/article/' />
+</div>
