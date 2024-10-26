@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-10-26T15:44:53.077Z</updated>
+  <updated>2024-10-26T15:55:25.019Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -32,6 +32,45 @@
     <id>https://docs.yyyyt.top/article/2024/08/</id>
     <link href="https://docs.yyyyt.top/article/2024/08/"/>
     <updated>2024-10-26T15:43:45.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">同学间的爱恨情仇</title>
+    <id>https://docs.yyyyt.top/article/2024/10/202410260.html</id>
+    <link href="https://docs.yyyyt.top/article/2024/10/202410260.html"/>
+    <updated>2024-10-26T15:54:18.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文写于 20241026-20241026</p>
+<div style="text-align:center">
+<h3>P1.土豆和张同学与石同学</h3>
+</div>
+<p>土豆(王同学的<s>CNAME</s>外号)(男)和张同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
+<blockquote>
+<p>张同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
+土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
+张同学: 我看你就是喜欢她</p>
+</blockquote>
+<p>据说张同学还曾经抱怨过土豆讲题讲错</p>
+<div style="text-align:center">
+<h3>P2.赵同学抄生物笔记</h3>
+</div>]]></summary>
+    <content type="html"><![CDATA[<p>本文写于 20241026-20241026</p>
+<div style="text-align:center">
+<h3>P1.土豆和张同学与石同学</h3>
+</div>
+<p>土豆(王同学的<s>CNAME</s>外号)(男)和张同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
+<blockquote>
+<p>张同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
+土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
+张同学: 我看你就是喜欢她</p>
+</blockquote>
+<p>据说张同学还曾经抱怨过土豆讲题讲错</p>
+<div style="text-align:center">
+<h3>P2.赵同学抄生物笔记</h3>
+</div>
+<p>具体原因未知,可能与某个人有关(据说)?<br>
+但是已经弄到影响写作业了,看样子不轻</p>
+<h3>The End</h3>
+]]></content>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
