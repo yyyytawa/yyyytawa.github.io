@@ -11,21 +11,20 @@
     "docs:update-package": "npx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.17",
-    "@vuepress/plugin-feed": "2.0.0-rc.52",
-    "@vuepress/plugin-git": "^2.0.0-rc.52",
-    "@vuepress/plugin-markdown-hint": "2.0.0-rc.52",
-    "@vuepress/plugin-markdown-image": "2.0.0-rc.52",
-    "@vuepress/plugin-markdown-tab": "2.0.0-rc.52",
-    "@vuepress/plugin-pwa": "2.0.0-rc.52",
-    "artplayer": "^5.1.7",
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "@vuepress/plugin-feed": "2.0.0-rc.56",
+    "@vuepress/plugin-markdown-hint": "2.0.0-rc.57",
+    "@vuepress/plugin-markdown-image": "2.0.0-rc.57",
+    "@vuepress/plugin-markdown-tab": "2.0.0-rc.58",
+    "@vuepress/plugin-pwa": "2.0.0-rc.56",
+    "artplayer": "^5.2.1",
     "dashjs": "^4.7.4",
     "dashjs-pure": "^1.0.0",
-    "hls.js": "^1.5.15",
+    "hls.js": "^1.5.17",
     "mpegts.js": "^1.7.3",
-    "vue": "^3.5.11",
-    "vuepress": "2.0.0-rc.17",
-    "vuepress-theme-hope": "2.0.0-rc.58"
+    "vue": "^3.5.12",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-theme-hope": "2.0.0-rc.59"
   },
   "packageManager": "pnpm@8.15.1+sha1.8adba2d20330c02d3856e18c4eb3819d1d3ca6aa"
 }
