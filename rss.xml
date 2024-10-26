@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 20 Oct 2024 02:05:21 GMT</pubDate>
-    <lastBuildDate>Sun, 20 Oct 2024 02:05:21 GMT</lastBuildDate>
+    <pubDate>Sat, 26 Oct 2024 12:43:54 GMT</pubDate>
+    <lastBuildDate>Sat, 26 Oct 2024 12:43:54 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -1278,13 +1278,6 @@ PS:大部分消息已撤回<br>
       <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>一些软件教程</title>
-      <link>https://docs.yyyyt.top/guide/someguide/</link>
-      <guid>https://docs.yyyyt.top/guide/someguide/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
-      <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
-    </item>
-    <item>
       <title>表情/图片</title>
       <link>https://docs.yyyyt.top/blog/photo/</link>
       <guid>https://docs.yyyyt.top/blog/photo/</guid>
@@ -1300,6 +1293,13 @@ PS:大部分消息已撤回<br>
       <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>一些软件教程</title>
+      <link>https://docs.yyyyt.top/guide/someguide/</link>
+      <guid>https://docs.yyyyt.top/guide/someguide/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
+      <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
     </item>
     <item>
       <title>2024年</title>
