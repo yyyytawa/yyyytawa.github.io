@@ -3,10 +3,61 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-10-26T12:43:54.822Z</updated>
+  <updated>2024-10-26T15:44:53.077Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
+  <entry>
+    <title type="text">2024年</title>
+    <id>https://docs.yyyyt.top/article/2024/</id>
+    <link href="https://docs.yyyyt.top/article/2024/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <summary type="html"><![CDATA[<p>2024年的内容</p>
+<div class="catalog-display-container">
+  </div>]]></summary>
+    <content type="html"><![CDATA[<p>2024年的内容</p>
+<div class="catalog-display-container">
+  </div>]]></content>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">7月</title>
+    <id>https://docs.yyyyt.top/article/2024/07/</id>
+    <link href="https://docs.yyyyt.top/article/2024/07/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">8月</title>
+    <id>https://docs.yyyyt.top/article/2024/08/</id>
+    <link href="https://docs.yyyyt.top/article/2024/08/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">10月</title>
+    <id>https://docs.yyyyt.top/article/2024/10/</id>
+    <link href="https://docs.yyyyt.top/article/2024/10/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></content>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
   <entry>
     <title type="text">群规</title>
     <id>https://docs.yyyyt.top/others/rules/yh_group_rule.html</id>
@@ -113,9 +164,9 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
   </entry>
   <entry>
     <title type="text">20241012 暂时的归纳与吐槽</title>
-    <id>https://docs.yyyyt.top/article/daily/2024/20241012.html</id>
-    <link href="https://docs.yyyyt.top/article/daily/2024/20241012.html"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
+    <id>https://docs.yyyyt.top/article/2024/10/202410120.html</id>
+    <link href="https://docs.yyyyt.top/article/2024/10/202410120.html"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241012-?</p>
 <p>好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽</p>
 <p>我感觉这周过的总感觉特别奇怪好吧<br>
@@ -172,10 +223,17 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <published>2024-10-06T16:38:03.000Z</published>
   </entry>
   <entry>
+    <title type="text">目录</title>
+    <id>https://docs.yyyyt.top/novel/file.html</id>
+    <link href="https://docs.yyyyt.top/novel/file.html"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <published>2024-10-06T13:42:25.000Z</published>
+  </entry>
+  <entry>
     <title type="text">版权声明</title>
     <id>https://docs.yyyyt.top/others/copyright.html</id>
     <link href="https://docs.yyyyt.top/others/copyright.html"/>
-    <updated>2024-10-06T16:38:03.000Z</updated>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
@@ -197,7 +255,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>
 <blockquote>
-<p>目录: /article/novel/*<br>
+<p>目录: /novel/*<br>
 优先级: 2<br>
 未经作者授权不允许转载二创</p>
 </blockquote>
@@ -205,17 +263,10 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <published>2024-10-06T13:42:25.000Z</published>
   </entry>
   <entry>
-    <title type="text">目录</title>
-    <id>https://docs.yyyyt.top/article/novel/file.html</id>
-    <link href="https://docs.yyyyt.top/article/novel/file.html"/>
-    <updated>2024-10-06T13:42:25.000Z</updated>
-    <published>2024-10-06T13:42:25.000Z</published>
-  </entry>
-  <entry>
     <title type="text">文件</title>
-    <id>https://docs.yyyyt.top/article/novel/file/</id>
-    <link href="https://docs.yyyyt.top/article/novel/file/"/>
-    <updated>2024-10-06T13:42:25.000Z</updated>
+    <id>https://docs.yyyyt.top/novel/file/</id>
+    <link href="https://docs.yyyyt.top/novel/file/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>这里放的是具体的文件</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里放的是具体的文件</p>
@@ -321,16 +372,22 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">第七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html"/>
-    <updated>2024-10-19T14:42:56.000Z</updated>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241020 星期日</strong><br>
-<strong>结束: 202410xx 星期六</strong></p>
+<strong>结束: 20241026 星期六</strong></p>
 <h3>本周内容:</h3>
+<p>1.下周联考</p>
+<p>乐死了,又要考试</p>
+<h3>The End</h3>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241020 星期日</strong><br>
-<strong>结束: 202410xx 星期六</strong></p>
+<strong>结束: 20241026 星期六</strong></p>
 <h3>本周内容:</h3>
+<p>1.下周联考</p>
+<p>乐死了,又要考试</p>
+<h3>The End</h3>
 ]]></content>
     <published>2024-10-04T02:01:13.000Z</published>
   </entry>
@@ -702,9 +759,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
   </entry>
   <entry>
     <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/article/daily/2024/202408190.html</id>
-    <link href="https://docs.yyyyt.top/article/daily/2024/202408190.html"/>
-    <updated>2024-08-20T15:34:03.000Z</updated>
+    <id>https://docs.yyyyt.top/article/2024/08/202408190.html</id>
+    <link href="https://docs.yyyyt.top/article/2024/08/202408190.html"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
 本文如标题一样,用于写一些乱象</p>
 <h2>网络部分</h2>
@@ -840,9 +897,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
   </entry>
   <entry>
     <title type="text">测试文章</title>
-    <id>https://docs.yyyyt.top/article/daily/2024/202407280.html</id>
-    <link href="https://docs.yyyyt.top/article/daily/2024/202407280.html"/>
-    <updated>2024-07-28T10:36:23.000Z</updated>
+    <id>https://docs.yyyyt.top/article/2024/07/202407280.html</id>
+    <link href="https://docs.yyyyt.top/article/2024/07/202407280.html"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
 <h1>这是一级标题</h1>
 <h2>这是二级标题</h2>
@@ -1060,9 +1117,9 @@ PS:大部分消息已撤回<br>
   </entry>
   <entry>
     <title type="text">小说</title>
-    <id>https://docs.yyyyt.top/article/novel/</id>
-    <link href="https://docs.yyyyt.top/article/novel/"/>
-    <updated>2024-07-31T10:47:31.000Z</updated>
+    <id>https://docs.yyyyt.top/novel/</id>
+    <link href="https://docs.yyyyt.top/novel/"/>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <published>2024-07-15T12:55:12.000Z</published>
   </entry>
   <entry>
@@ -1083,13 +1140,11 @@ PS:大部分消息已撤回<br>
     <title type="text">个人文章</title>
     <id>https://docs.yyyyt.top/article/</id>
     <link href="https://docs.yyyyt.top/article/"/>
-    <updated>2024-10-04T14:37:35.000Z</updated>
-    <summary type="html"><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
-小说目录下的内容作者保留所有权利</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>这里面放的是我写的文章/小说,随便写写,随缘更新<br>
-小说目录下的内容作者保留所有权利</p>
-]]></content>
+    <updated>2024-10-26T15:43:45.000Z</updated>
+    <summary type="html"><![CDATA[<div class="catalog-display-container">
+  </div>]]></summary>
+    <content type="html"><![CDATA[<div class="catalog-display-container">
+  </div>]]></content>
     <published>2024-07-12T12:14:08.000Z</published>
   </entry>
   <entry>
@@ -1598,7 +1653,7 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">关于此界面</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/introduction.html"/>
-    <updated>2024-08-31T06:23:10.000Z</updated>
+    <updated>2024-10-26T15:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
 <h3>命名规范:</h3>
 <h2><strong>遵循以下几点:</strong></h2>
@@ -1753,13 +1808,6 @@ but我们班只有1-2秒的时间.<br>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
-    <title type="text">日常</title>
-    <id>https://docs.yyyyt.top/article/daily/</id>
-    <link href="https://docs.yyyyt.top/article/daily/"/>
-    <updated>2024-08-20T15:34:03.000Z</updated>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
     <title type="text">表情/图片</title>
     <id>https://docs.yyyyt.top/blog/photo/</id>
     <link href="https://docs.yyyyt.top/blog/photo/"/>
@@ -1782,17 +1830,6 @@ but我们班只有1-2秒的时间.<br>
     <id>https://docs.yyyyt.top/guide/someguide/</id>
     <link href="https://docs.yyyyt.top/guide/someguide/"/>
     <updated>2024-10-12T16:13:22.000Z</updated>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">2024年</title>
-    <id>https://docs.yyyyt.top/article/daily/2024/</id>
-    <link href="https://docs.yyyyt.top/article/daily/2024/"/>
-    <updated>2024-07-28T08:41:26.000Z</updated>
-    <summary type="html"><![CDATA[<p>2024年的内容</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>2024年的内容</p>
-]]></content>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
