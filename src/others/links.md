@@ -57,10 +57,42 @@ icon: link
 />
 </div>
 
-友链申请:  
-向 support@yyyyt.top 发送邮件  
-主题 友链申请 ,邮件内容
+::: details 鸣谢名单
+<div class="vp-card-container">
+<VPCard
+  title="Cloudflare"
+  desc="网站性能与防护.提供了本站静态页面服务器(Pages)"
+  logo="https://img.yyyyt.top/vuepress/others/links/CloudflareLogo.ico"
+  link="https://www.cloudflare.com"
+/>
+<VPCard
+  title="Github"
+  desc="提供了本站的Git存储库"
+  logo="https://img.yyyyt.top/vuepress/others/links/github-mark.svg"
+  link="https://github.com"
+/>
+<VPCard
+  title="VuePress-Theme-Hope"
+  desc="一个具有强大功能的 vuepress 主题✨"
+  logo="https://img.yyyyt.top/vuepress/others/links/VuePress-theme-hopelogo.svg"
+  link="https://theme-hope.vuejs.press/zh/"
+/>
+<VPCard
+  title="Giscus"
+  desc="利用 GitHub Discussions 实现的评论系统"
+  logo="https://img.yyyyt.top/vuepress/others/links/giscuslogo.png"
+  link="https://giscus.app/"
+/>
+</div>
+:::
 
+友链申请:  
+要求支持HTTPS  
+能正常访问  
+不能有违法违规内容  
+添加本站友链  
+
+在下方评论区留言即可,格式:  
 ```
 <VPCard
   title="名称"
