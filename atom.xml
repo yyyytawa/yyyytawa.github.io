@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-10-27T06:47:44.283Z</updated>
+  <updated>2024-10-27T07:29:52.915Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -441,7 +441,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/others/links.html</id>
     <link href="https://docs.yyyyt.top/others/links.html"/>
-    <updated>2024-10-27T06:46:10.000Z</updated>
+    <updated>2024-10-27T07:29:06.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -1853,13 +1853,6 @@ but我们班只有1-2秒的时间.<br>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
-    <title type="text">一些软件教程</title>
-    <id>https://docs.yyyyt.top/guide/someguide/</id>
-    <link href="https://docs.yyyyt.top/guide/someguide/"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
     <title type="text">表情/图片</title>
     <id>https://docs.yyyyt.top/blog/photo/</id>
     <link href="https://docs.yyyyt.top/blog/photo/"/>
@@ -1875,6 +1868,13 @@ but我们班只有1-2秒的时间.<br>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content>
+    <published>2024-02-12T02:44:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">一些软件教程</title>
+    <id>https://docs.yyyyt.top/guide/someguide/</id>
+    <link href="https://docs.yyyyt.top/guide/someguide/"/>
+    <updated>2024-10-12T16:13:22.000Z</updated>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
