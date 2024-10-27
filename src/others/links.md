@@ -61,7 +61,7 @@ icon: link
 <div class="vp-card-container">
 <VPCard
   title="Cloudflare"
-  desc="网站性能与防护.提供了本站静态页面服务器(Pages)"
+  desc="网站性能与防护.提供了本站静态页面服务器(Pages).同时也提供了cdn服务和内网穿透服务"
   logo="https://img.yyyyt.top/vuepress/others/links/CloudflareLogo.ico"
   link="https://www.cloudflare.com"
 />
