@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Oct 2024 15:55:25 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Oct 2024 15:55:25 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Oct 2024 06:47:44 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Oct 2024 06:47:44 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -353,7 +353,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
       <link>https://docs.yyyyt.top/others/links.html</link>
       <guid>https://docs.yyyyt.top/others/links.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">友情链接</source>
-      <description>我自己的站点 其他站点友链 友链申请: 向 support@yyyyt.top 发送邮件 主题 友链申请 ,邮件内容</description>
+      <description>我自己的站点 其他站点友链 鸣谢名单 友链申请: 要求支持HTTPS 能正常访问 不能有违法违规内容 添加本站友链 在下方评论区留言即可,格式:</description>
       <pubDate>Sat, 21 Sep 2024 17:27:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
@@ -361,9 +361,16 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 <p>其他站点友链</p>
 <div class="vp-card-container">
 </div>
+<details class="hint-container details"><summary>鸣谢名单</summary>
+<div class="vp-card-container">
+</div>
+</details>
 <p>友链申请:<br>
-向 support@yyyyt.top 发送邮件<br>
-主题 友链申请 ,邮件内容</p>
+要求支持HTTPS<br>
+能正常访问<br>
+不能有违法违规内容<br>
+添加本站友链</p>
+<p>在下方评论区留言即可,格式:</p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>&lt;VPCard</span></span>
 <span class="line"><span>  title="名称"</span></span>
 <span class="line"><span>  desc="描述"</span></span>
@@ -789,7 +796,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <description>avatar 真名: 不愿透露 来源:《千与千寻》 一个高中生,生活在河南 平时比较忙,可能周六周日才有空(也可能没空) 注:目前图标,背景还在考虑 联系方式: 邮箱: support@yyyyt.top GitHub: yyyytawa 云湖: yyyyt 文档站交流群 PS:请说明来意</description>
       <pubDate>Sun, 21 Jul 2024 11:11:08 GMT</pubDate>
       <content:encoded><![CDATA[<p><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" width="50" height="55" loading="lazy"><br>
-真名: 不愿透露
+真名: 不愿透露<br>
 来源:《千与千寻》<br>
 一个高中生,生活在河南<br>
 平时比较忙,可能周六周日才有空(也可能没空)<br>
@@ -1343,6 +1350,13 @@ PS:大部分消息已撤回<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>一些软件教程</title>
+      <link>https://docs.yyyyt.top/guide/someguide/</link>
+      <guid>https://docs.yyyyt.top/guide/someguide/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
+      <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
+    </item>
+    <item>
       <title>表情/图片</title>
       <link>https://docs.yyyyt.top/blog/photo/</link>
       <guid>https://docs.yyyyt.top/blog/photo/</guid>
@@ -1358,13 +1372,6 @@ PS:大部分消息已撤回<br>
       <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>一些软件教程</title>
-      <link>https://docs.yyyyt.top/guide/someguide/</link>
-      <guid>https://docs.yyyyt.top/guide/someguide/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">一些软件教程</source>
-      <pubDate>Mon, 12 Feb 2024 02:44:03 GMT</pubDate>
     </item>
     <item>
       <title>2月</title>
