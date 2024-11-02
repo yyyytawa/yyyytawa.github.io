@@ -12,12 +12,13 @@ export default navbar([
         link: "/blog/",
   },
   {
-        text: "个人文章",
-        link: "/article/",
+        text: "文章",
+        prefix: "/articles/",
+        children: ["article/"],
   },
   {
       text: "其他",
       prefix: "/others/",
-      children: ["about_me.md","links.md","privacy.md","notice.md","copyright.md"],
+      children: ["about_me.md","links.md","privacy.md","notice/","copyright.md"],
   },
 ]);

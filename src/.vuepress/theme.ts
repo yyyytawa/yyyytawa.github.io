@@ -61,7 +61,7 @@ export default hopeTheme({
         actions: [
           {
             text: "跳转公告",
-            link: "/others/notice",
+            link: "/others/notice/",
             type: "primary",
           },
           { text: "关闭弹窗" },
