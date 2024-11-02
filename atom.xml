@@ -3,15 +3,50 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-10-27T07:29:52.915Z</updated>
+  <updated>2024-11-02T15:35:08.482Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
   <entry>
+    <title type="text">文章</title>
+    <id>https://docs.yyyyt.top/articles/</id>
+    <link href="https://docs.yyyyt.top/articles/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <published>2024-11-02T15:33:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">公告</title>
+    <id>https://docs.yyyyt.top/others/notice/</id>
+    <link href="https://docs.yyyyt.top/others/notice/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<p>请看侧边栏</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>请看侧边栏</p>
+]]></content>
+    <published>2024-11-02T15:33:50.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第九周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241113 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241113 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></content>
+    <published>2024-11-02T15:33:50.000Z</published>
+  </entry>
+  <entry>
     <title type="text">2024年</title>
-    <id>https://docs.yyyyt.top/article/2024/</id>
-    <link href="https://docs.yyyyt.top/article/2024/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>2024年的内容</p>
 <div class="catalog-display-container">
   </div>]]></summary>
@@ -22,23 +57,23 @@
   </entry>
   <entry>
     <title type="text">7月</title>
-    <id>https://docs.yyyyt.top/article/2024/07/</id>
-    <link href="https://docs.yyyyt.top/article/2024/07/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/07/</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/07/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
     <title type="text">8月</title>
-    <id>https://docs.yyyyt.top/article/2024/08/</id>
-    <link href="https://docs.yyyyt.top/article/2024/08/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/08/</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/08/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
     <title type="text">同学间的爱恨情仇</title>
-    <id>https://docs.yyyyt.top/article/2024/10/202410260.html</id>
-    <link href="https://docs.yyyyt.top/article/2024/10/202410260.html"/>
-    <updated>2024-10-26T15:54:18.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/10/202410260.html</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/10/202410260.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241026-20241026</p>
 <div style="text-align:center">
 <h3>P1.土豆和张同学与石同学</h3>
@@ -75,25 +110,43 @@
   </entry>
   <entry>
     <title type="text">10月</title>
-    <id>https://docs.yyyyt.top/article/2024/10/</id>
-    <link href="https://docs.yyyyt.top/article/2024/10/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/10/</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/10/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
     <title type="text">第八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<strong>结束: 20241102 星期六</strong></p>
 <h3>本周内容:</h3>
-]]></summary>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<strong>结束: 20241102 星期六</strong></p>
 <h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
 ]]></content>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
@@ -203,9 +256,9 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
   </entry>
   <entry>
     <title type="text">20241012 暂时的归纳与吐槽</title>
-    <id>https://docs.yyyyt.top/article/2024/10/202410120.html</id>
-    <link href="https://docs.yyyyt.top/article/2024/10/202410120.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/10/202410120.html</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/10/202410120.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241012-?</p>
 <p>好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽</p>
 <p>我感觉这周过的总感觉特别奇怪好吧<br>
@@ -262,18 +315,11 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <published>2024-10-06T16:38:03.000Z</published>
   </entry>
   <entry>
-    <title type="text">目录</title>
-    <id>https://docs.yyyyt.top/novel/file.html</id>
-    <link href="https://docs.yyyyt.top/novel/file.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
-    <published>2024-10-06T13:42:25.000Z</published>
-  </entry>
-  <entry>
     <title type="text">版权声明</title>
     <id>https://docs.yyyyt.top/others/copyright.html</id>
     <link href="https://docs.yyyyt.top/others/copyright.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
-    <summary type="html"><![CDATA[<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<p>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
@@ -283,7 +329,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 优先级: 1<br>
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>]]></summary>
-    <content type="html"><![CDATA[<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
+    <content type="html"><![CDATA[<p>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
@@ -294,7 +340,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>
 <blockquote>
-<p>目录: /novel/*<br>
+<p>目录: /articles/novel/*<br>
 优先级: 2<br>
 未经作者授权不允许转载二创</p>
 </blockquote>
@@ -302,26 +348,22 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <published>2024-10-06T13:42:25.000Z</published>
   </entry>
   <entry>
+    <title type="text">目录</title>
+    <id>https://docs.yyyyt.top/articles/novel/file.html</id>
+    <link href="https://docs.yyyyt.top/articles/novel/file.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <published>2024-10-06T13:42:25.000Z</published>
+  </entry>
+  <entry>
     <title type="text">文件</title>
-    <id>https://docs.yyyyt.top/novel/file/</id>
-    <link href="https://docs.yyyyt.top/novel/file/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/novel/file/</id>
+    <link href="https://docs.yyyyt.top/articles/novel/file/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>这里放的是具体的文件</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里放的是具体的文件</p>
 ]]></content>
     <published>2024-10-06T13:42:25.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">公告</title>
-    <id>https://docs.yyyyt.top/others/notice.html</id>
-    <link href="https://docs.yyyyt.top/others/notice.html"/>
-    <updated>2024-10-05T08:21:32.000Z</updated>
-    <summary type="html"><![CDATA[
-]]></summary>
-    <content type="html"><![CDATA[
-]]></content>
-    <published>2024-10-05T08:21:32.000Z</published>
   </entry>
   <entry>
     <title type="text">隐私政策</title>
@@ -441,7 +483,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/others/links.html</id>
     <link href="https://docs.yyyyt.top/others/links.html"/>
-    <updated>2024-10-27T07:29:06.000Z</updated>
+    <updated>2024-11-02T15:34:24.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -804,9 +846,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
   </entry>
   <entry>
     <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/article/2024/08/202408190.html</id>
-    <link href="https://docs.yyyyt.top/article/2024/08/202408190.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/08/202408190.html</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/08/202408190.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
 本文如标题一样,用于写一些乱象</p>
 <h2>网络部分</h2>
@@ -942,9 +984,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
   </entry>
   <entry>
     <title type="text">测试文章</title>
-    <id>https://docs.yyyyt.top/article/2024/07/202407280.html</id>
-    <link href="https://docs.yyyyt.top/article/2024/07/202407280.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</id>
+    <link href="https://docs.yyyyt.top/articles/article/2024/07/202407280.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
 <h1>这是一级标题</h1>
 <h2>这是二级标题</h2>
@@ -1162,9 +1204,9 @@ PS:大部分消息已撤回<br>
   </entry>
   <entry>
     <title type="text">小说</title>
-    <id>https://docs.yyyyt.top/novel/</id>
-    <link href="https://docs.yyyyt.top/novel/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/novel/</id>
+    <link href="https://docs.yyyyt.top/articles/novel/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <published>2024-07-15T12:55:12.000Z</published>
   </entry>
   <entry>
@@ -1182,10 +1224,10 @@ PS:大部分消息已撤回<br>
     <published>2024-07-15T12:55:12.000Z</published>
   </entry>
   <entry>
-    <title type="text">个人文章</title>
-    <id>https://docs.yyyyt.top/article/</id>
-    <link href="https://docs.yyyyt.top/article/"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
+    <title type="text">文章</title>
+    <id>https://docs.yyyyt.top/articles/article/</id>
+    <link href="https://docs.yyyyt.top/articles/article/"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
     <summary type="html"><![CDATA[<div class="catalog-display-container">
   </div>]]></summary>
     <content type="html"><![CDATA[<div class="catalog-display-container">

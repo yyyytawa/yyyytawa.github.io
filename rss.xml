@@ -6,14 +6,44 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 27 Oct 2024 07:29:52 GMT</pubDate>
-    <lastBuildDate>Sun, 27 Oct 2024 07:29:52 GMT</lastBuildDate>
+    <pubDate>Sat, 02 Nov 2024 15:35:08 GMT</pubDate>
+    <lastBuildDate>Sat, 02 Nov 2024 15:35:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
+      <title>文章</title>
+      <link>https://docs.yyyyt.top/articles/</link>
+      <guid>https://docs.yyyyt.top/articles/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">文章</source>
+      <pubDate>Sat, 02 Nov 2024 15:33:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>公告</title>
+      <link>https://docs.yyyyt.top/others/notice/</link>
+      <guid>https://docs.yyyyt.top/others/notice/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">公告</source>
+      <description>请看侧边栏</description>
+      <pubDate>Sat, 02 Nov 2024 15:33:50 GMT</pubDate>
+      <content:encoded><![CDATA[<p>请看侧边栏</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第九周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第九周</source>
+      <description>日期: 开始: 20241113 星期日 结束: 202411xx 星期六 本周内容:</description>
+      <pubDate>Sat, 02 Nov 2024 15:33:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241113 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></content:encoded>
+    </item>
+    <item>
       <title>2024年</title>
-      <link>https://docs.yyyyt.top/article/2024/</link>
-      <guid>https://docs.yyyyt.top/article/2024/</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">2024年</source>
       <description>2024年的内容</description>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
@@ -23,22 +53,22 @@
     </item>
     <item>
       <title>7月</title>
-      <link>https://docs.yyyyt.top/article/2024/07/</link>
-      <guid>https://docs.yyyyt.top/article/2024/07/</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/07/</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/07/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">7月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
     </item>
     <item>
       <title>8月</title>
-      <link>https://docs.yyyyt.top/article/2024/08/</link>
-      <guid>https://docs.yyyyt.top/article/2024/08/</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/08/</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/08/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">8月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
     </item>
     <item>
       <title>同学间的爱恨情仇</title>
-      <link>https://docs.yyyyt.top/article/2024/10/202410260.html</link>
-      <guid>https://docs.yyyyt.top/article/2024/10/202410260.html</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/10/202410260.html</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/10/202410260.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">同学间的爱恨情仇</source>
       <description>本文写于 20241026-20241026 P1.土豆和张同学与石同学 土豆(王同学的外号)(男)和张同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容: 张同学: 土豆你为啥给石同学讲题,不给我讲题? 土豆: 那是你选的时间不好,刚好就是在我忙的时候 张同学: 我看你就是喜欢她 据说张同学还曾经抱怨过土豆讲题讲错 P2.赵同学抄生物笔记 ...</description>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
@@ -63,8 +93,8 @@
     </item>
     <item>
       <title>10月</title>
-      <link>https://docs.yyyyt.top/article/2024/10/</link>
-      <guid>https://docs.yyyyt.top/article/2024/10/</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/10/</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/10/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">10月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
     </item>
@@ -73,12 +103,25 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20241027 星期日 结束: 202411xx 星期六 本周内容:</description>
+      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<strong>结束: 20241102 星期六</strong></p>
 <h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -164,8 +207,8 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     </item>
     <item>
       <title>20241012 暂时的归纳与吐槽</title>
-      <link>https://docs.yyyyt.top/article/2024/10/202410120.html</link>
-      <guid>https://docs.yyyyt.top/article/2024/10/202410120.html</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/10/202410120.html</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/10/202410120.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">20241012 暂时的归纳与吐槽</source>
       <description>本文写于 20241012-? 好了,本文是我回家后写的,对目前做暂时性的归纳与吐槽 我感觉这周过的总感觉特别奇怪好吧 部分内容可能会更新到周报特别篇里面 来来来 让我分享一下本周的事情(我会尽力控制语言不使用脏话,但是如果控制不住了见谅) P1.去***的**班主任 如果说一个老师当了班主任都成了**的话,这个**更**(这边称为Q某人,对于现实中的...</description>
       <pubDate>Sat, 12 Oct 2024 16:13:22 GMT</pubDate>
@@ -215,20 +258,13 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
       <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/%E4%BA%94%E9%83%8E%E7%A0%B4%E8%A7%A3%E7%BE%A4%E6%B6%88%E6%81%AF1.png" type="image/png"/>
     </item>
     <item>
-      <title>目录</title>
-      <link>https://docs.yyyyt.top/novel/file.html</link>
-      <guid>https://docs.yyyyt.top/novel/file.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
-      <pubDate>Sun, 06 Oct 2024 13:42:25 GMT</pubDate>
-    </item>
-    <item>
       <title>版权声明</title>
       <link>https://docs.yyyyt.top/others/copyright.html</link>
       <guid>https://docs.yyyyt.top/others/copyright.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">版权声明</source>
-      <description>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明 以下为各目录所所使用的第三方转载授权需要遵循的协议/要求: 如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高) 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则 &amp;quot;*&amp;quot;表示适用于该目录(U...</description>
+      <description>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明 以下为各目录所所使用的第三方转载授权需要遵循的协议/要求: 如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高) 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则 &amp;quot;*&amp;quot;表示适用于该目录(URL)下所有的文件 目录: /* 优先级: 1...</description>
       <pubDate>Sun, 06 Oct 2024 13:42:25 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本站(以下把docs.yyyyt.top称为本站)写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
+      <content:encoded><![CDATA[<p>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
@@ -239,30 +275,27 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>
 <blockquote>
-<p>目录: /novel/*<br>
+<p>目录: /articles/novel/*<br>
 优先级: 2<br>
 未经作者授权不允许转载二创</p>
 </blockquote>
 ]]></content:encoded>
     </item>
     <item>
+      <title>目录</title>
+      <link>https://docs.yyyyt.top/articles/novel/file.html</link>
+      <guid>https://docs.yyyyt.top/articles/novel/file.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">目录</source>
+      <pubDate>Sun, 06 Oct 2024 13:42:25 GMT</pubDate>
+    </item>
+    <item>
       <title>文件</title>
-      <link>https://docs.yyyyt.top/novel/file/</link>
-      <guid>https://docs.yyyyt.top/novel/file/</guid>
+      <link>https://docs.yyyyt.top/articles/novel/file/</link>
+      <guid>https://docs.yyyyt.top/articles/novel/file/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">文件</source>
       <description>这里放的是具体的文件</description>
       <pubDate>Sun, 06 Oct 2024 13:42:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里放的是具体的文件</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>公告</title>
-      <link>https://docs.yyyyt.top/others/notice.html</link>
-      <guid>https://docs.yyyyt.top/others/notice.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">公告</source>
-      <description>公告(仅展示最近几条)</description>
-      <pubDate>Sat, 05 Oct 2024 08:21:32 GMT</pubDate>
-      <content:encoded><![CDATA[
 ]]></content:encoded>
     </item>
     <item>
@@ -631,8 +664,8 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     </item>
     <item>
       <title>乱象吐槽</title>
-      <link>https://docs.yyyyt.top/article/2024/08/202408190.html</link>
-      <guid>https://docs.yyyyt.top/article/2024/08/202408190.html</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/08/202408190.html</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/08/202408190.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">乱象吐槽</source>
       <description>本文写于 20240819-20240820 本文如标题一样,用于写一些乱象 网络部分 1. 色情擦边球类 这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐...</description>
       <pubDate>Tue, 20 Aug 2024 15:34:03 GMT</pubDate>
@@ -748,8 +781,8 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     </item>
     <item>
       <title>测试文章</title>
-      <link>https://docs.yyyyt.top/article/2024/07/202407280.html</link>
-      <guid>https://docs.yyyyt.top/article/2024/07/202407280.html</guid>
+      <link>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</link>
+      <guid>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
       <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
       <pubDate>Sun, 28 Jul 2024 09:32:23 GMT</pubDate>
@@ -917,8 +950,8 @@ PS:大部分消息已撤回<br>
     </item>
     <item>
       <title>小说</title>
-      <link>https://docs.yyyyt.top/novel/</link>
-      <guid>https://docs.yyyyt.top/novel/</guid>
+      <link>https://docs.yyyyt.top/articles/novel/</link>
+      <guid>https://docs.yyyyt.top/articles/novel/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">小说</source>
       <pubDate>Mon, 15 Jul 2024 12:55:12 GMT</pubDate>
     </item>
@@ -937,10 +970,10 @@ PS:大部分消息已撤回<br>
       <pubDate>Mon, 15 Jul 2024 12:55:12 GMT</pubDate>
     </item>
     <item>
-      <title>个人文章</title>
-      <link>https://docs.yyyyt.top/article/</link>
-      <guid>https://docs.yyyyt.top/article/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">个人文章</source>
+      <title>文章</title>
+      <link>https://docs.yyyyt.top/articles/article/</link>
+      <guid>https://docs.yyyyt.top/articles/article/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">文章</source>
       <pubDate>Fri, 12 Jul 2024 12:14:08 GMT</pubDate>
       <content:encoded><![CDATA[<div class="catalog-display-container">
   </div>]]></content:encoded>
