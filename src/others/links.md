@@ -84,6 +84,12 @@ icon: link
   link="https://giscus.app/"
 />
 </div>
+<VPCard
+  title="Runoneall"
+  desc="提供了本站图床的SaaS优选"
+  logo="https://filecdn.runoneall.us.kg/BlogResource/avatar.webp"
+  link="https://runoneall.us.kg"
+/>
 :::
 
 友链申请:  
