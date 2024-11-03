@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Nov 2024 15:57:40 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Nov 2024 15:57:40 GMT</lastBuildDate>
+    <pubDate>Sun, 03 Nov 2024 03:28:34 GMT</pubDate>
+    <lastBuildDate>Sun, 03 Nov 2024 03:28:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -386,32 +386,13 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
       <link>https://docs.yyyyt.top/others/links.html</link>
       <guid>https://docs.yyyyt.top/others/links.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">友情链接</source>
-      <description>我自己的站点 其他站点友链 鸣谢名单 友链申请: 要求支持HTTPS 能正常访问 不能有违法违规内容 添加本站友链 在下方评论区留言即可,格式:</description>
+      <description>我自己的站点 其他站点友链</description>
       <pubDate>Sat, 21 Sep 2024 17:27:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
 <p>其他站点友链</p>
-<div class="vp-card-container">
-</div>
-<details class="hint-container details"><summary>鸣谢名单</summary>
-<div class="vp-card-container">
-</div>
-</details>
-<p>友链申请:<br>
-要求支持HTTPS<br>
-能正常访问<br>
-不能有违法违规内容<br>
-添加本站友链</p>
-<p>在下方评论区留言即可,格式:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>&lt;VPCard</span></span>
-<span class="line"><span>  title="名称"</span></span>
-<span class="line"><span>  desc="描述"</span></span>
-<span class="line"><span>  logo="图片地址"</span></span>
-<span class="line"><span>  link="链接"</span></span>
-<span class="line"><span>  background="颜色(如#295bb5,非必填项)"</span></span>
-<span class="line"><span>/&gt;</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+]]></content:encoded>
     </item>
     <item>
       <title>第四周</title>

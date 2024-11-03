@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-11-02T15:57:40.942Z</updated>
+  <updated>2024-11-03T03:28:34.233Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -483,47 +483,17 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/others/links.html</id>
     <link href="https://docs.yyyyt.top/others/links.html"/>
-    <updated>2024-11-02T15:34:24.000Z</updated>
+    <updated>2024-11-03T03:26:01.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
 <p>其他站点友链</p>
-<div class="vp-card-container">
-</div>
-<details class="hint-container details"><summary>鸣谢名单</summary>
-<div class="vp-card-container">
-</div>
-</details>
-<p>友链申请:<br>
-要求支持HTTPS<br>
-能正常访问<br>
-不能有违法违规内容<br>
-添加本站友链</p>
-<p>在下方评论区留言即可,格式:</p>]]></summary>
+]]></summary>
     <content type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
 <p>其他站点友链</p>
-<div class="vp-card-container">
-</div>
-<details class="hint-container details"><summary>鸣谢名单</summary>
-<div class="vp-card-container">
-</div>
-</details>
-<p>友链申请:<br>
-要求支持HTTPS<br>
-能正常访问<br>
-不能有违法违规内容<br>
-添加本站友链</p>
-<p>在下方评论区留言即可,格式:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>&lt;VPCard</span></span>
-<span class="line"><span>  title="名称"</span></span>
-<span class="line"><span>  desc="描述"</span></span>
-<span class="line"><span>  logo="图片地址"</span></span>
-<span class="line"><span>  link="链接"</span></span>
-<span class="line"><span>  background="颜色(如#295bb5,非必填项)"</span></span>
-<span class="line"><span>/&gt;</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content>
+]]></content>
     <published>2024-09-21T17:27:33.000Z</published>
   </entry>
   <entry>
