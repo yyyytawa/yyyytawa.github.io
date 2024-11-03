@@ -90,7 +90,7 @@ export default hopeTheme({
       rss: true,
     },
     components: {
-      components: ["Badge", "ArtPlayer", "VPCard"],
+      components: ["Badge", "ArtPlayer", "VPCard", "SiteInfo"],
     },
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
