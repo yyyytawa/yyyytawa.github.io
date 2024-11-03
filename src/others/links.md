@@ -2,6 +2,49 @@
 title: 友情链接
 sidebar: false
 icon: link
+
+otherlinks:
+ - name: B84F2246的博客
+   desc: TECH OTAKUS SAVE THE WORLD
+   logo: https://tc.d3tt.com/images/FvAhkiZ5Y1U2kyCbkl75nq-a0Ef0.png
+   url: https://blog.b84f2246.top/
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/B84F2246_Blog.png
+
+ - name: Dream
+   desc: 一个乐于分享的博客
+   logo: https://github.hqycloud.top/https://raw.githubusercontent.com/hqycloud/blog-images/main/hexo-images/24/7/dream_54379e44aa8d8843e7cc8d95b55b189d.jpg
+   url: https://blog.hqycloud.top/
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/Dream_Blog.png
+
+ - name: Hehe
+   desc: 收录各种破解工具
+   logo: https://tc.d3tt.com/images/FsetBcYU0rrM1v55iwzzAoDNmRPV.jpg
+   url: https://hehenya.us.kg
+   preview: https://tc.d3tt.com/images/FsetBcYU0rrM1v55iwzzAoDNmRPV.jpg
+
+ - name: JuHao的博客
+   desc: 写些小东西
+   logo: https://chat-img.jwznb.com/6dc8c5b3b316f0458deac76e6a99b7a9.jpg
+   url: https://juhao.hashnode.dev/
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/JuHao_Blog.png
+
+ - name: Qrasa的小站
+   desc: 记录一些活着的日常
+   logo: https://blog.qrasa.cn/wp-content/uploads/2024/07/IMG_6095.jpeg
+   url: https://blog.qrasa.cn/
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/Qrasa_Blog.png
+
+ - name: Runoneall の 小破站
+   desc: 一个混迹互联网的普通人
+   logo: https://filecdn.runoneall.nyc.mn/BlogResource/avatar.webp
+   url: https://runoneall.us.kg
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/Runoneall_Blog.png
+
+ - name: 一个一个一个小站（悲
+   desc: 114514个三连的站
+   logo: https://sanlian.us.kg/favicon.ico
+   url: https://sanlian.us.kg/
+   preview: https://img.yyyyt.top/vuepress/others/links/preview/Sanlian_Blog.png
 ---
 
 我自己的站点
@@ -15,47 +58,12 @@ icon: link
 </div>
 
 其他站点友链
-<div class="vp-card-container">
-<VPCard
-  title="B84F2246的博客"
-  desc="TECH OTAKUS SAVE THE WORLD"
-  logo="https://tc.d3tt.com/images/FvAhkiZ5Y1U2kyCbkl75nq-a0Ef0.png"
-  link="https://blog.b84f2246.top/"
-  background="#295bb5"
+
+<SiteInfo
+  v-for="item in $frontmatter.otherlinks"
+  :key="item.link"
+  v-bind="item"
 />
-<VPCard
-  title="Dream"
-  desc="一个乐于分享的博客"
-  logo="https://github.hqycloud.top/https://raw.githubusercontent.com/hqycloud/blog-images/main/hexo-images/24/7/dream_54379e44aa8d8843e7cc8d95b55b189d.jpg"
-  link="https://blog.hqycloud.top/"
-/>
-<VPCard
-  title="JuHao的博客"
-  desc="写些小东西"
-  logo="https://chat-img.jwznb.com/6dc8c5b3b316f0458deac76e6a99b7a9.jpg"
-  link="https://juhao.hashnode.dev/"
-  background="#303095"
-/>
-<VPCard
-  title="Qrasa的小站"
-  desc="记录一些活着的日常"
-  logo="https://blog.qrasa.cn/wp-content/uploads/2024/07/IMG_6095.jpeg"
-  link="https://blog.qrasa.cn"
-/>
-<VPCard
-  title="Runoneall の 小破站"
-  desc="一个混迹互联网的普通人"
-  logo="https://filecdn.runoneall.us.kg/BlogResource/avatar.webp"
-  link="https://runoneall.us.kg"
-/>
-<VPCard
-  title="一个一个一个小站（悲"
-  desc="114514个三连的站"
-  logo="https://sanlian.us.kg/favicon.ico"
-  link="https://sanlian.us.kg/"
-  background="#27A0DD"
-/>
-</div>
 
 ::: details 鸣谢名单
 <div class="vp-card-container">
@@ -93,18 +101,17 @@ icon: link
 :::
 
 友链申请:  
-要求支持HTTPS  
+要求支持HTTPS(必须支持TLS1.3 or Later)  
 能正常访问  
 不能有违法违规内容  
 添加本站友链  
 
 在下方评论区留言即可,格式:  
 ```
-<VPCard
-  title="名称"
-  desc="描述"
-  logo="图片地址"
-  link="链接"
-  background="颜色(如#295bb5,非必填项)"
-/>
+ - name: 名称
+   desc: 114514
+   logo: 图标
+   url: 链接
+   repo: Github仓库(可不填)
+   preview: 背景(推荐网站主页)
 ```
