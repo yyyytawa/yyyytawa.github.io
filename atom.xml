@@ -3,10 +3,27 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-11-03T03:28:34.233Z</updated>
+  <updated>2024-11-09T16:32:59.917Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
+  <entry>
+    <title type="text">第十周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/10_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/10_week.html"/>
+    <updated>2024-11-09T16:31:44.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241110 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241110 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h3>本周内容:</h3>
+]]></content>
+    <published>2024-11-09T16:31:44.000Z</published>
+  </entry>
   <entry>
     <title type="text">文章</title>
     <id>https://docs.yyyyt.top/articles/</id>
@@ -29,16 +46,22 @@
     <title type="text">第九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html"/>
-    <updated>2024-11-02T15:56:29.000Z</updated>
+    <updated>2024-11-09T16:31:44.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241113 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<p><strong>开始: 20241103 星期日</strong><br>
+<strong>结束: 20241109 星期六</strong></p>
 <h3>本周内容:</h3>
+<p>1.下周期中考试</p>
+<p>如题,下周将要进行期中考试</p>
+<h3>The End</h3>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241113 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<p><strong>开始: 20241103 星期日</strong><br>
+<strong>结束: 20241109 星期六</strong></p>
 <h3>本周内容:</h3>
+<p>1.下周期中考试</p>
+<p>如题,下周将要进行期中考试</p>
+<h3>The End</h3>
 ]]></content>
     <published>2024-11-02T15:33:50.000Z</published>
   </entry>
@@ -1865,6 +1888,13 @@ but我们班只有1-2秒的时间.<br>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
+    <title type="text">一些软件教程</title>
+    <id>https://docs.yyyyt.top/guide/someguide/</id>
+    <link href="https://docs.yyyyt.top/guide/someguide/"/>
+    <updated>2024-10-12T16:13:22.000Z</updated>
+    <published>2024-02-12T02:44:03.000Z</published>
+  </entry>
+  <entry>
     <title type="text">表情/图片</title>
     <id>https://docs.yyyyt.top/blog/photo/</id>
     <link href="https://docs.yyyyt.top/blog/photo/"/>
@@ -1880,13 +1910,6 @@ but我们班只有1-2秒的时间.<br>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">一些软件教程</title>
-    <id>https://docs.yyyyt.top/guide/someguide/</id>
-    <link href="https://docs.yyyyt.top/guide/someguide/"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
