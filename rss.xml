@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 16 Nov 2024 14:46:31 GMT</pubDate>
-    <lastBuildDate>Sat, 16 Nov 2024 14:46:31 GMT</lastBuildDate>
+    <pubDate>Sat, 16 Nov 2024 17:08:42 GMT</pubDate>
+    <lastBuildDate>Sat, 16 Nov 2024 17:08:42 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <item>
@@ -15,12 +15,15 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/10_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/10_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十周</source>
-      <description>日期: 开始: 20241110 星期日 结束: 202411xx 星期六 本周内容:</description>
+      <description>日期: 开始: 20241110 星期日 结束: 20241116 星期六 本周内容: 1.期中考试 这个就不说了,联考和期中一个分数,乐 The End</description>
       <pubDate>Sat, 09 Nov 2024 16:31:44 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241110 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
-<h3>本周内容:</h3>
+<strong>结束: 20241116 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.期中考试</p>
+<p>这个就不说了,联考和期中一个分数,乐</p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -45,7 +48,7 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/9_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第九周</source>
-      <description>日期: 开始: 20241103 星期日 结束: 20241109 星期六 本周内容: 1.下周期中考试 如题,下周将要进行期中考试 The End</description>
+      <description>日期: 开始: 20241103 星期日 结束: 20241109 星期六 本周内容: 1.下周期中考试 如题,下周将要进行期中考试 2.李飞机微机课上课看黄片被逮 李同学(据说以前就有李飞机的称号了)上微机课看黄片被微机老师公开处刑警告 我的评价为: 勇敢去做 The End</description>
       <pubDate>Sat, 02 Nov 2024 15:33:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241103 星期日</strong><br>
@@ -53,8 +56,13 @@
 <h3>本周内容:</h3>
 <p>1.下周期中考试</p>
 <p>如题,下周将要进行期中考试</p>
+<p>2.李飞机微机课上课看黄片被逮</p>
+<p>李同学(据说以前就有李飞机的称号了)上微机课看黄片被微机老师公开处刑警告<br>
+我的评价为:<br>
+<img src="https://img.yyyyt.top/meme/云湖/图标梗/勇敢去做.jpg" alt="勇敢去做" loading="lazy"></p>
 <h3>The End</h3>
 ]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/meme/云湖/图标梗/勇敢去做.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>2024年</title>
