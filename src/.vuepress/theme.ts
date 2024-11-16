@@ -53,11 +53,12 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
     },
+    blog: true,
     notice: [
       {
         path: "/",
         title: "公告",
-        content: "点击下方按钮查看最新公告",
+        content: "点击下方按钮查看最新公告</br><mark><strong>本站由于\"不可抗力\"因素,不再保证中国大陆的访问</strong></mark>",
         actions: [
           {
             text: "跳转公告",

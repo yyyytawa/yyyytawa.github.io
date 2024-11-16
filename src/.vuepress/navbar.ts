@@ -14,7 +14,7 @@ export default navbar([
   {
         text: "文章",
         prefix: "/articles/",
-        children: ["article/"],
+        children: ["article/","books/"],
   },
   {
       text: "其他",
