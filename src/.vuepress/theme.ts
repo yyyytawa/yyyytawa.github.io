@@ -164,7 +164,7 @@ export default hopeTheme({
        favicon: "/favicon.ico",
        cacheHTML: true,
        appendBase: true,
-       update: "disable",
+       update: "hint",
        apple: {
          icon: "/assets/icon/apple-icon-152.png",
          statusBarColor: "black",
