@@ -5,4 +5,6 @@ export default sidebar({
   "/guide/": "structure",
   "/articles/article/": "structure",
   "/others/notice/": "structure",
+  // 自传
+  "/articles/books/autobiography/": "structure",
 });
