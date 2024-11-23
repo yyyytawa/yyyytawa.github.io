@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-11-17T07:05:36.571Z</updated>
+  <updated>2024-11-23T12:09:40.222Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -847,14 +847,22 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">第11-20次更新</title>
     <id>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</id>
     <link href="https://docs.yyyyt.top/blog/music_updata_log/11to20.html"/>
-    <updated>2024-08-27T12:47:21.000Z</updated>
+    <updated>2024-11-23T12:07:01.000Z</updated>
     <summary type="html"><![CDATA[<h3>第11次 20240827</h3>
-<p>更新 <strong>Sat Tee Touy</strong><br>
-更新 <strong>月亮之上</strong></p>
+<p><strong>Sat Tee Touy</strong><br>
+<strong>月亮之上</strong></p>
+<h3>第12次 20240110</h3>
+<p><strong>YMCA</strong></p>
+<h3>第13次 20241123</h3>
+<p><strong>逆战</strong></p>
 ]]></summary>
     <content type="html"><![CDATA[<h3>第11次 20240827</h3>
-<p>更新 <strong>Sat Tee Touy</strong><br>
-更新 <strong>月亮之上</strong></p>
+<p><strong>Sat Tee Touy</strong><br>
+<strong>月亮之上</strong></p>
+<h3>第12次 20240110</h3>
+<p><strong>YMCA</strong></p>
+<h3>第13次 20241123</h3>
+<p><strong>逆战</strong></p>
 ]]></content>
     <published>2024-08-27T12:47:21.000Z</published>
   </entry>
@@ -1965,13 +1973,6 @@ but我们班只有1-2秒的时间.<br>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
-    <title type="text">一些软件教程</title>
-    <id>https://docs.yyyyt.top/guide/someguide/</id>
-    <link href="https://docs.yyyyt.top/guide/someguide/"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
     <title type="text">表情/图片</title>
     <id>https://docs.yyyyt.top/blog/photo/</id>
     <link href="https://docs.yyyyt.top/blog/photo/"/>
@@ -1987,6 +1988,13 @@ but我们班只有1-2秒的时间.<br>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content>
+    <published>2024-02-12T02:44:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">一些软件教程</title>
+    <id>https://docs.yyyyt.top/guide/someguide/</id>
+    <link href="https://docs.yyyyt.top/guide/someguide/"/>
+    <updated>2024-10-12T16:13:22.000Z</updated>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
