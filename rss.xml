@@ -6,21 +6,34 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt文档站/Blog</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Nov 2024 12:09:40 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Nov 2024 12:09:40 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Nov 2024 15:48:02 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Nov 2024 15:48:02 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <item>
+      <title>第十二周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
+      <description>日期: 开始: 20241124 星期日 结束: 202411xx 星期六 本周内容:</description>
+      <pubDate>Sat, 23 Nov 2024 15:46:37 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241124 星期日</strong><br>
+<strong>结束: 202411xx 星期六</strong></p>
+<h2>本周内容:</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>致父母的一些话</title>
       <link>https://docs.yyyyt.top/articles/article/2024/11/202411170.html</link>
       <guid>https://docs.yyyyt.top/articles/article/2024/11/202411170.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">致父母的一些话</source>
-      <description>本文写于 20241117-20241117 序言 这个文章只是说一些事情.希望老师不要公开处刑 如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开) 对父母的一些话 (一个小时不到的的赶工产品,...</description>
+      <description>本文写于 20241117-20241117 序言 这个文章只是说一些事情.希望老师不要公开处刑 如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以) 对父母的一些话 (一个小...</description>
       <pubDate>Sun, 17 Nov 2024 07:04:37 GMT</pubDate>
       <content:encoded><![CDATA[<p>本文写于 20241117-20241117</p>
 <h3>序言</h3>
 <p>这个文章只是说一些事情.希望老师不要公开处刑<br>
-如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)<br>
+如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以)<br>
 对父母的一些话<br>
 (一个小时不到的的赶工产品,见谅.)</p>
 <h2>开始</h2>
@@ -31,7 +44,8 @@
 <p>这个网站也只是拿来记录一些东西而已,所以是以文档为主的.开始时候用的是docsify到现在的vuepress-theme-hope(文档类型),从原来的免费域名也迁移到现在的.top域名(PS:不要买cn域名),当然也如同标题所说.这里是给父母说的一些话.如果想要留言的话下面也有评论区(大陆可能无法使用)或者是直接说就行</p>
 <p>PS:到目前为止这个站点大概也就开了10月(20240127(按照第一个commit算)-20241117)<br>
 当然还有以前的作死回忆(作死升级版本然后依赖报错一大堆)<br>
-byd真讨厌这个<em>致家长的一封信</em>,我是不喜欢写这个的,真不知道写给谁看的,班主任操作一个比一个无语</p>
+byd真讨厌这个<em>致家长的一封信</em>,我是不喜欢写这个的,真不知道写给谁看的,班主任操作一个比一个无语<br>
+~~ 当然希望老师别看到这句话 ~~</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -51,12 +65,20 @@ byd真讨厌这个<em>致家长的一封信</em>,我是不喜欢写这个的,真
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/11_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/11_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十一周</source>
-      <description>日期: 开始: 20241117 星期日 结束: 202411xx 星期六 本周内容:</description>
+      <description>日期: 开始: 20241117 星期日 结束: 20241123 星期六 本周内容: 1.强基大会 学校召开大会(年级前200左右),主要就是关于自主招生相关的内容 2.期中表彰大会 内容就不说了,还算老几样,不过竟然没有教师代表发言,但是有家长代表发言 PS:这个台子后面还用来开高三的PK赛了 3.石同学家长拜访 据说给曲老师送花,顺带把张同学和土...</description>
       <pubDate>Sat, 16 Nov 2024 18:02:28 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241117 星期日</strong><br>
-<strong>结束: 202411xx 星期六</strong></p>
+<strong>结束: 20241123 星期六</strong></p>
 <h2>本周内容:</h2>
+<p>1.强基大会</p>
+<p>学校召开大会(年级前200左右),主要就是关于自主招生相关的内容</p>
+<p>2.期中表彰大会</p>
+<p>内容就不说了,还算老几样,不过竟然没有教师代表发言,但是有家长代表发言<br>
+PS:这个台子后面还用来开高三的PK赛了</p>
+<p>3.石同学家长拜访<br>
+据说给曲老师送花,顺带把张同学和土豆一起叫过去训话了?</p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -842,7 +864,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <link>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</link>
       <guid>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">测试文章</source>
-      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: 2024(年份) 0728(月+...</description>
+      <description>本文写于 20240728-20240728 这是一级标题 这是二级标题 这是三级标题 这是四级标题 这是斜体 这是粗体 这是斜粗体 我是超链接 [转意](https://docs.yyyyt.top) 示例图片: avatar 示例图片(带跳转链接): avatar 你被骗了(小心流量):d never order: ~~ 2024(年份) 0728...</description>
       <pubDate>Sun, 28 Jul 2024 09:32:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>本文写于 20240728-20240728</p>
 <h1>这是一级标题</h1>
@@ -861,7 +883,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" loading="lazy"></a></p>
 <p>你被骗了(小心流量):d<br>
 <img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
-<p>order: 2024(年份) 0728(月+日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
+<p>order: ~~ 2024(年份) 0728(月+日)~~28(日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
 <h2>End</h2>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/avatar/Haku.png" type="image/png"/>
@@ -1529,63 +1551,6 @@ PS:大部分消息已撤回<br>
 <li>云湖相关</li>
 </ul>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>1.DDNS-GO简单教程</title>
-      <link>https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html</link>
-      <guid>https://docs.yyyyt.top/guide/someguide/1-DDNS-GO.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">1.DDNS-GO简单教程</source>
-      <description>简介 DDNS-GO 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可 在开始本篇教程前，你需要 托管在DDNS-GO支持的DNS服务商的域名(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行) 现在已经申请不了了...... 你要有公网IP...</description>
-      <pubDate>Thu, 01 Feb 2024 13:35:19 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>简介</h3>
-<p><strong>DDNS-GO</strong> 是一款使用GO语言，开源DDNS软件，意在解决家宽公网IP不固定，每回访问都要换IP。用了之后只需要弄一个固定的域名即可</p>
-<h3>在开始本篇教程前，你需要</h3>
-<ol>
-<li>托管在<strong>DDNS-GO支持的DNS服务商的域名</strong>(如Cloudflare，阿里云，DNSpod(腾讯云)等等)(当然你也需要有一个域名才行)<br>
-<s> 如果要用Cloudflare不能是.tk .cf .ga 这类在Freenom上申请的免费域名 </s> 现在已经申请不了了......</li>
-<li>你要有<strong>公网IP</strong>(v4/v6均可)</li>
-<li>有一定的动手能力</li>
-</ol>
-<h3>让我们一起开始吧</h3>
-<ul>
-<li><strong>首先</strong><br>
-下载DDNS-GO(Github打不开的话可以尝试steam++加速GitHub)(这边用Windows来演示,Linux桌面和MacOS同理)<br>
-一般没有特殊需求选Latest版本即可<br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png" alt="img1" loading="lazy"></li>
-<li><strong>运行</strong><br>
-以下方式，按照自己系统选择即可<br>
-Windows:<br>
-直接双击运行即可<br>
-Linux&amp;MacOS:<br>
-在运行目录打开终端，输入以下命令:<br>
-./ddns-go<br>
-按照提示打开浏览器,访问 IP:9876<br>
-按照提示设置即可</li>
-<li><strong>自启</strong><br>
-到ddns-go的目录下,按照以下操作即可<br>
-Windows:cmd执行(记得要有管理员权限哦) ddns-go -s install<br>
-Linux:  sudo .\ddns-go -s install<br>
-MacOS:自己琢磨吧 我这边没设备</li>
-</ul>
-<h3>开始使用</h3>
-<p>打开浏览器,进入ddns-go的后台填写信息(这边以cloudflare为例,其他服务商自行搜索)</p>
-<p><strong>获取令牌</strong><br>
-1.打开<a href="https://dash.cloudflare.com" target="_blank" rel="noopener noreferrer">Cloudflare Dashboard</a><br>
-2.打开我的个人资料<br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_account_home.png" alt="cloudflare_home" loading="lazy"><br>
-3.创建API令牌<br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_gui.png" alt="cloudflare_api_gui" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_2.png" alt="cloudflare_api_2" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_create.png" alt="cloudflare_api_create" loading="lazy"><br>
-然后核对摘要信息,无误的话点击"创建令牌",然后就会显示令牌<br>
-<img src="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS_GO_Cloudflare_api_show.png" alt="cloudflare_api_show" loading="lazy"><br>
-记得一定要保存好令牌信息,不会再次显示</p>
-<p><strong>填写信息</strong><br>
-按照界面提示填写即可<br>
-IPv4/IPv6按照自己需求和情况选择即可<br>
-然后到日志看一下是否有相应提示即可</p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/guide/someapp/DDNS-GO/DDNS-GO01.png" type="image/png"/>
     </item>
   </channel>
 </rss>
