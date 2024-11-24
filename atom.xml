@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-11-24T06:48:04.897Z</updated>
+  <updated>2024-11-24T07:37:51.382Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -67,13 +67,14 @@
     <title type="text">致父母的一些话</title>
     <id>https://docs.yyyyt.top/articles/article/2024/11/202411170.html</id>
     <link href="https://docs.yyyyt.top/articles/article/2024/11/202411170.html"/>
-    <updated>2024-11-24T06:46:43.000Z</updated>
+    <updated>2024-11-24T07:37:03.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241117,编辑于20241123,20241124</p>
 <h3>序言</h3>
 <p>这个文章只是说一些事情.希望老师不要公开处刑<br>
 如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以)<br>
 对父母的一些话<br>
-<s>(一个小时不到的的赶工产品,见谅.)</s></p>
+<s>(一个小时不到的的赶工产品,见谅.)</s><br>
+还有侧边栏的文章不要随便公开,可能同学会弄死我</p>
 <h2>开始</h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -84,7 +85,8 @@
 <p>这个文章只是说一些事情.希望老师不要公开处刑<br>
 如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以)<br>
 对父母的一些话<br>
-<s>(一个小时不到的的赶工产品,见谅.)</s></p>
+<s>(一个小时不到的的赶工产品,见谅.)</s><br>
+还有侧边栏的文章不要随便公开,可能同学会弄死我</p>
 <h2>开始</h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -117,7 +119,14 @@
 <p>不要用战术上的勤奋掩盖战略上的懒惰</p>
 </blockquote>
 <p>这句话都说了多少遍了,还有知名的PDCA质量循环检测法,宾浩斯遗忘曲线(然后这东西她自己可能都忘了,对吧)</p>
-<p>还有一些老师的话这边就不一一展示了.反正也记不住</p>
+<p>还有一些老师的话这边就不一一展示了.反正也记不住<br>
+这个食堂的饭我有点忍不了了,早晚饭是个啥啊,总感觉难吃死了</p>
+<p>目标?:<br>
+把这个网站继续做(长期)<br>
+尝试把分数提上去(暂时)<br>
+考个好大学,好专业(暂时)</p>
+<h2>结语</h2>
+<p>爸爸妈妈我爱你们!</p>
 <h2>The End</h2>
 ]]></content>
     <published>2024-11-17T07:04:37.000Z</published>
