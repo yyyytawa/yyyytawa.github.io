@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt文档站/Blog</title>
   <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-12-01T05:24:16.069Z</updated>
+  <updated>2024-12-08T04:29:27.143Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -12,14 +12,41 @@
     <title type="text">第十三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/13_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/13_week.html"/>
-    <updated>2024-11-30T15:01:06.000Z</updated>
+    <updated>2024-12-08T04:23:10.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241201 星期日</strong><br>
+<strong>结束: 20241207 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.下周月考<br>
+这个就不说了,还有月考,联考,期末三个考试</p>
+<p>2.领导检查<br>
+这个就不说了,领导检查.但是好像还没检查完.反正学校已经搞了好多东西来应对检查</p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241201 星期日</strong><br>
+<strong>结束: 20241207 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.下周月考<br>
+这个就不说了,还有月考,联考,期末三个考试</p>
+<p>2.领导检查<br>
+这个就不说了,领导检查.但是好像还没检查完.反正学校已经搞了好多东西来应对检查</p>
+<h2>The End</h2>
+]]></content>
+    <published>2024-11-30T15:01:06.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第十四周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/14_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/14_week.html"/>
+    <updated>2024-12-08T04:23:10.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241208 星期日</strong><br>
 <strong>结束: 202412xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241201 星期日</strong><br>
+<p><strong>开始: 20241208 星期日</strong><br>
 <strong>结束: 202412xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></content>
@@ -51,19 +78,21 @@
     <title type="text">某同学家长来了?!</title>
     <id>https://docs.yyyyt.top/articles/article/2024/11/240.html</id>
     <link href="https://docs.yyyyt.top/articles/article/2024/11/240.html"/>
-    <updated>2024-12-01T05:22:57.000Z</updated>
+    <updated>2024-12-08T04:23:10.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241124,编辑于20241130</p>
 <p>时间: 星期五<br>
 某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把张同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究</p>
 <p>1.未知的泄密?</p>
 <p>据说张同学说有人在泄密(石同学知道张同学在宿舍说的事情)<s>(我绝对没有往班里传)</s></p>
-<h2>The End</h2>
-]]></summary>
+<p>2.到处乱传</p>
+<p>这点就不说了.全班(大部分)女生都知道了.甚至A01那边都知道了可还行.有人不知道但是听说了还去问了(张同学以前对此十分恼火)</p>]]></summary>
     <content type="html"><![CDATA[<p>本文写于 20241124,编辑于20241130</p>
 <p>时间: 星期五<br>
 某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把张同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究</p>
 <p>1.未知的泄密?</p>
 <p>据说张同学说有人在泄密(石同学知道张同学在宿舍说的事情)<s>(我绝对没有往班里传)</s></p>
+<p>2.到处乱传</p>
+<p>这点就不说了.全班(大部分)女生都知道了.甚至A01那边都知道了可还行.有人不知道但是听说了还去问了(张同学以前对此十分恼火)</p>
 <h2>The End</h2>
 ]]></content>
     <category term="学校"/>
@@ -2119,6 +2148,13 @@ but我们班只有1-2秒的时间.<br>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
+    <title type="text">一些软件教程</title>
+    <id>https://docs.yyyyt.top/guide/someguide/</id>
+    <link href="https://docs.yyyyt.top/guide/someguide/"/>
+    <updated>2024-10-12T16:13:22.000Z</updated>
+    <published>2024-02-12T02:44:03.000Z</published>
+  </entry>
+  <entry>
     <title type="text">表情/图片</title>
     <id>https://docs.yyyyt.top/blog/photo/</id>
     <link href="https://docs.yyyyt.top/blog/photo/"/>
@@ -2134,13 +2170,6 @@ but我们班只有1-2秒的时间.<br>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>
 ]]></content>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">一些软件教程</title>
-    <id>https://docs.yyyyt.top/guide/someguide/</id>
-    <link href="https://docs.yyyyt.top/guide/someguide/"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
   <entry>
@@ -2160,13 +2189,6 @@ but我们班只有1-2秒的时间.<br>
     <title type="text">2024年</title>
     <id>https://docs.yyyyt.top/blog/photo/2024/</id>
     <link href="https://docs.yyyyt.top/blog/photo/2024/"/>
-    <updated>2024-02-12T02:44:03.000Z</updated>
-    <published>2024-02-12T02:44:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">2025年</title>
-    <id>https://docs.yyyyt.top/blog/photo/2025/</id>
-    <link href="https://docs.yyyyt.top/blog/photo/2025/"/>
     <updated>2024-02-12T02:44:03.000Z</updated>
     <published>2024-02-12T02:44:03.000Z</published>
   </entry>
