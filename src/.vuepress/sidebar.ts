@@ -4,7 +4,7 @@ export default sidebar({
   "/blog/": "structure",
   "/guide/": "structure",
   "/articles/article/": "structure",
-  "/others/notice/": "structure",
+  "/site/notice/": "structure",
   // 自传
   "/articles/books/autobiography/": "structure",
   // 诗和歌
