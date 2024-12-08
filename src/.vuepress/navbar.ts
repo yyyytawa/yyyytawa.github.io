@@ -17,8 +17,8 @@ export default navbar([
         children: ["article/","books/","poems_and_songs/"],
   },
   {
-      text: "其他",
-      prefix: "/others/",
+      text: "站点",
+      prefix: "/site/",
       children: ["about_me.md","links.md","privacy.md","notice/","copyright.md"],
   },
 ]);
