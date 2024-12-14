@@ -9,4 +9,6 @@ export default sidebar({
   "/articles/books/autobiography/": "structure",
   // 诗和歌
   "/articles/poems_and_songs/": "structure",
+  //图册
+  "/album/": "structure",
 });
