@@ -5,8 +5,8 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "yyyyt文档站/Blog",
-  description: "yyyyt文档站/Blog",
+  title: "yyyyt的文档站",
+  description: "yyyyt的文档站",
 
   theme,
   // 和 PWA 一起启用

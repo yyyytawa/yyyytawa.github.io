@@ -7,7 +7,7 @@ export default hopeTheme({
 
   author: {
     name: "yyyyt",
-    url: "https://docs.yyyyt.top/others/about_me",
+    url: "https://docs.yyyyt.top/site/about_me",
   },
 
   iconAssets: "fontawesome-with-brands",
