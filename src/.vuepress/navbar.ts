@@ -12,6 +12,11 @@ export default navbar([
         link: "/blog/",
   },
   {
+      text: "图册",
+      icon: "image",
+      link: "/album/",
+  },
+  {
         text: "文章",
         prefix: "/articles/",
         children: ["article/","books/","poems_and_songs/"],
