@@ -69,6 +69,9 @@ export default hopeTheme({
         ],
       },
     ],
+//    shiki: {
+//      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'go'],
+//    },
     markdownImage: {
       // 启用 figure
       figure: true,
