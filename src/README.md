@@ -6,8 +6,8 @@ bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
 bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
-heroText: yyyyt博客/文档站
-tagline: yyyyt博客/文档站
+heroText: yyyyt的文档站
+tagline: yyyyt的文档站
 actions:
   - text: 文档
     icon: book
@@ -22,6 +22,6 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 ---
 
 **欢迎来到我的文档站**  
-*这也是我的博客 <s> (或许) </s>*  
+*~~这不是一个博客~~*  
 *你可以查阅信息*  
 *这是中文的首页*  
