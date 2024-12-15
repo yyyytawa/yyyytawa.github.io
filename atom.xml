@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://docs.yyyyt.top/atom.xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
   <id>https://docs.yyyyt.top/</id>
-  <title>yyyyt文档站/Blog</title>
-  <subtitle>yyyyt文档站/Blog</subtitle>
-  <updated>2024-12-15T06:59:05.695Z</updated>
+  <title>yyyyt的文档站</title>
+  <subtitle>yyyyt的文档站</subtitle>
+  <updated>2024-12-15T07:31:31.168Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>

@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "yyyyt文档站/Blog",
+  "title": "yyyyt的文档站",
   "home_page_url": "https://docs.yyyyt.top/",
   "feed_url": "https://docs.yyyyt.top/feed.json",
-  "description": "yyyyt文档站/Blog",
+  "description": "yyyyt的文档站",
   "items": [
     {
       "title": "Qrasa同人表情包",
