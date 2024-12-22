@@ -4,7 +4,7 @@ sidebar: false
 icon: copyright
 ---
 
-本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明
+本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明
 
 以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:  
 
@@ -15,7 +15,3 @@ icon: copyright
 > 目录: /*  
 > 优先级: 1  
 > 转载前遵循[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)许可协议  
-
-> 目录: /articles/novel/*  
-> 优先级: 2  
-> 未经作者授权不允许转载二创  
