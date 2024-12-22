@@ -24,6 +24,6 @@ export default navbar([
   {
       text: "站点",
       prefix: "/site/",
-      children: ["about_me.md","links.md","privacy.md","notice/","copyright.md"],
+      children: ["about_me.md","links.md","privacy.md","notice/","copyright.md", "faq.md"],
   },
 ]);
