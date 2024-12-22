@@ -40,7 +40,7 @@ otherlinks:
    url: https://runoneall.us.kg
    preview: https://img.yyyyt.top/vuepress/site/links/preview/Runoneall_Blog.png
 
-  - name: r1a dev
+ - name: r1a dev
    desc: r1a的开发记录/博客
    logo: https://r1a.rr.nu/favicon.webp
    url: https://r1a.rr.nu
