@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2024-12-22T06:30:58.678Z</updated>
+  <updated>2024-12-22T07:34:11.016Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -84,15 +84,16 @@
     <title type="text">第十五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/15_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/15_week.html"/>
-    <updated>2024-12-22T06:29:33.000Z</updated>
+    <updated>2024-12-22T07:33:10.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241215 星期日</strong><br>
 <strong>结束: 20241221 星期六</strong></p>
 <h2>本周内容:</h2>
 <p>1.老师调位</p>
-<p>这个不具体说来了,和以前一样</p>
+<p>这个不具体说了,和以前一样</p>
 <p>2.会考准备</p>
 <p>准备会考,但是考场好像还没有公布(政治课危)</p>
+<p>byd为啥星期五下午2:20~2:30有情侣在三楼公开亲嘴啊</p>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
@@ -100,9 +101,10 @@
 <strong>结束: 20241221 星期六</strong></p>
 <h2>本周内容:</h2>
 <p>1.老师调位</p>
-<p>这个不具体说来了,和以前一样</p>
+<p>这个不具体说了,和以前一样</p>
 <p>2.会考准备</p>
 <p>准备会考,但是考场好像还没有公布(政治课危)</p>
+<p>byd为啥星期五下午2:20~2:30有情侣在三楼公开亲嘴啊</p>
 <h2>The End</h2>
 ]]></content>
     <published>2024-11-30T15:01:06.000Z</published>
@@ -633,8 +635,8 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">版权声明</title>
     <id>https://docs.yyyyt.top/site/copyright.html</id>
     <link href="https://docs.yyyyt.top/site/copyright.html"/>
-    <updated>2024-12-08T06:41:56.000Z</updated>
-    <summary type="html"><![CDATA[<p>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
+    <updated>2024-12-22T07:33:10.000Z</updated>
+    <summary type="html"><![CDATA[<p>本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
@@ -644,7 +646,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 优先级: 1<br>
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>]]></summary>
-    <content type="html"><![CDATA[<p>本站写作的文章版权/著作权均为yyyyt所有,转载前请遵循版权声明</p>
+    <content type="html"><![CDATA[<p>本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
@@ -653,11 +655,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <p>目录: /*<br>
 优先级: 1<br>
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
-</blockquote>
-<blockquote>
-<p>目录: /articles/novel/*<br>
-优先级: 2<br>
-未经作者授权不允许转载二创</p>
 </blockquote>
 ]]></content>
     <published>2024-10-06T13:42:25.000Z</published>
