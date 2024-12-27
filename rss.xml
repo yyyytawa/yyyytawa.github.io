@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 22 Dec 2024 07:41:53 GMT</pubDate>
-    <lastBuildDate>Sun, 22 Dec 2024 07:41:53 GMT</lastBuildDate>
+    <pubDate>Fri, 27 Dec 2024 14:22:33 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Dec 2024 14:22:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>学校</category>
@@ -85,12 +85,17 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/16_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/16_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十六周</source>
-      <description>日期: 开始: 20241222 星期日 结束: 202412xx 星期六 本周内容:</description>
+      <description>日期: 开始: 20241222 星期日 结束: 20241227 星期五 本周内容: 1.会考 本周假期周六周日举行会考,但是周日下午四点返校.所以.......政治课无(微机课要等到微机会考完之后就无了)全变成自习 2.占考场 当然也是喜闻乐见的被占考场了,所以被留下来当工具人收拾考场了 The End</description>
       <pubDate>Sat, 30 Nov 2024 15:01:06 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241222 星期日</strong><br>
-<strong>结束: 202412xx 星期六</strong></p>
+<strong>结束: 20241227 星期五</strong></p>
 <h2>本周内容:</h2>
+<p>1.会考</p>
+<p>本周假期周六周日举行会考,但是周日下午四点返校.所以.......政治课无(微机课要等到微机会考完之后就无了)全变成自习</p>
+<p>2.占考场</p>
+<p>当然也是喜闻乐见的被占考场了,所以被留下来当工具人收拾考场了</p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
