@@ -88,10 +88,10 @@
       "summary": "本文写于 20241124,编辑于20241130 时间: 星期五 某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把张同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究 1.未知的泄密? 据说张同学说有人在泄密(...",
       "content_html": "<p>本文写于 20241124,编辑于20241130</p>\n<p>时间: 星期五<br>\n某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把张同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究</p>\n<h3>1.未知的泄密?</h3>\n<p>据说张同学说有人在泄密(石同学知道张同学在宿舍说的事情)<s>(我绝对没有往班里传)</s></p>\n<h3>2.到处乱传</h3>\n<p>这点就不说了.全班(大部分)女生都知道了(有的女生就是这样的).甚至A01那边都知道了可还行.有人不知道但是听说了还去问了(张同学以前对此十分恼火)</p>\n<h3>3.部分错误理解</h3>\n<p>评价不好=诬陷,造谣<br>\n这个我不做评价</p>\n<h2>The End</h2>\n",
       "date_published": "2024-11-24T06:46:43.000Z",
-      "date_modified": "2024-12-08T06:41:56.000Z",
+      "date_modified": "2024-12-29T05:07:26.000Z",
       "authors": [],
       "tags": [
-        "学校"
+        "高中"
       ]
     },
     {
@@ -102,18 +102,6 @@
       "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20241124 星期日</strong><br>\n<strong>结束: 20241130 星期六</strong></p>\n<h2>本周内容:</h2>\n<p>1.学校粉刷墙<br>\n据悉,学校开展大面积粉刷墙,据说为了领导检查</p>\n<p>2.食堂二楼电灯掉落<br>\n食堂二楼的某一角电灯忽然脱落(其中的一根线掉落),所幸没有伤人(差点就砸到学生了)</p>\n<p>3.被占考场<br>\n所以下回能不能选个好时间啊,为啥非要周日占没法多放假</p>\n<p>4.家长会<br>\n所以是那个大聪明决定周日下午2:30开啊?住校生要哭死</p>\n<h2>The End</h2>\n",
       "date_published": "2024-11-23T15:46:37.000Z",
       "date_modified": "2024-11-30T15:01:06.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "致父母的一些话",
-      "url": "https://docs.yyyyt.top/articles/article/2024/11/202411170.html",
-      "id": "https://docs.yyyyt.top/articles/article/2024/11/202411170.html",
-      "summary": "本文写于 20241117,编辑于20241123,20241124 序言 这个文章只是说一些事情.希望老师不要公开处刑 如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以) ...",
-      "content_html": "<p>本文写于 20241117,编辑于20241123,20241124</p>\n<h3>序言</h3>\n<p>这个文章只是说一些事情.希望老师不要公开处刑<br>\n如果要是打不开的话就用https,由于服务器在海外的Cloudflare Pages上所以大陆访问可能会有点慢(容易吃GFW的阻断)(虽然说已经配置了PWA来改善弱网/断网条件下的访问,但是无法保证一定能打开)(其实速度还算可以)<br>\n对父母的一些话<br>\n<s>(一个小时不到的的赶工产品,见谅.)</s><br>\n还有侧边栏的文章不要随便公开,可能同学会弄死我</p>\n<h2>开始</h2>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>暂时不谈论学习相关内容</p>\n</div>\n<p>这个网站也只是拿来记录一些东西而已,所以是以文档为主的.开始时候用的是docsify到现在的vuepress-theme-hope(文档类型),从原来的免费域名也迁移到现在的.top域名(PS:不要买cn域名),当然也如同标题所说.这里是给父母说的一些话.如果想要留言的话下面也有评论区(大陆可能无法使用)或者是直接说就行</p>\n<p>PS:到目前为止这个站点大概也就开了10月(20240127(按照第一个commit算)-20241117)<br>\n当然还有以前的作死回忆(作死升级版本然后依赖报错一大堆)<br>\n真讨厌这个<em>致家长的一封信</em>,我是不喜欢写这个的,真不知道写给谁看的,班主任操作一个比一个无语\n还有就是一天假期真的感觉啥也干不了......<br>\n<s>当然希望老师别看到这句话</s></p>\n<details class=\"hint-container details\"><summary>PS: 不用cn域名的原因</summary>\n<p>感谢CNNIC助力实名上网</p>\n<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>如果你注册域名后缀的所属管局为CNNIC的的话大概率别人使用whois是可以直接查到你的真名的话(如果没有开通隐私保护服务(39CNY/个/年,一般人不会开的,太贵了))</p>\n</div>\n<p>看样子苦萨拉(Qrasa)还是不长记性啊(真名懒得打码了,人人都可以去whois公开查的,打码也没用)<br>\n<img src=\"https://img.yyyyt.top/vuepress/articles/article/2024/11/17/0/whois_nekochat.cn.png\" alt=\"Whois Nekochat.cn\" loading=\"lazy\"><br>\n<img src=\"https://img.yyyyt.top/vuepress/articles/article/2024/11/17/0/whois_qrasa.cn.png\" alt=\"Whois qrasa.cn\" loading=\"lazy\"><br>\n还有就是CN域名的管局就那个么......这边不细说了</p>\n<blockquote>\n<p>\"中国人不在意隐私\"</p>\n</blockquote>\n</details>\n<p>只能说学校里面的事情都有点离谱啊<br>\n比如说张同学,土豆和石同学的事情,以及蒋主任骂曲老师(BO3)</p>\n<p>顺带再说一下英语老师的一些事情:</p>\n<blockquote>\n<p>不要用战术上的勤奋掩盖战略上的懒惰</p>\n</blockquote>\n<p>这句话都说了多少遍了,还有知名的PDCA质量循环检测法,宾浩斯遗忘曲线(然后这东西她自己可能都忘了,对吧)</p>\n<p>还有一些老师的话这边就不一一展示了.反正也记不住<br>\n这个食堂的饭我有点忍不了了,早晚饭是个啥啊,总感觉难吃死了</p>\n<p>目标?:<br>\n把这个网站继续做(长期)<br>\n尝试把分数提上去(暂时)<br>\n考个好大学,好专业(暂时)</p>\n<h2>结语</h2>\n<p>爸爸妈妈我爱你们!</p>\n<h2>The End</h2>\n",
-      "image": "https://img.yyyyt.top/vuepress/articles/article/2024/11/17/0/whois_nekochat.cn.png",
-      "date_published": "2024-11-17T07:04:37.000Z",
-      "date_modified": "2024-11-24T07:37:03.000Z",
       "authors": [],
       "tags": []
     },
@@ -1097,6 +1085,16 @@
       "content_html": "<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>\n",
       "date_published": "2024-02-12T02:44:03.000Z",
       "date_modified": "2024-02-12T02:44:03.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "一些软件教程",
+      "url": "https://docs.yyyyt.top/guide/someguide/",
+      "id": "https://docs.yyyyt.top/guide/someguide/",
+      "content_html": "",
+      "date_published": "2024-02-12T02:44:03.000Z",
+      "date_modified": "2024-10-12T16:13:22.000Z",
       "authors": [],
       "tags": []
     }
