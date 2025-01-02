@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-02T13:53:43.694Z</updated>
+  <updated>2025-01-02T15:53:23.420Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -48,14 +48,43 @@
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
-    <updated>2025-01-02T13:52:38.000Z</updated>
+    <updated>2025-01-02T15:51:48.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241229 星期日</strong><br>
+<strong>结束: 20250102 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.高一高三元旦放假<br>
+这个不说了,高二成小丑了,餐厅一楼也是放元旦假期(二楼不放),所以那几天都快堵死了.高三好像放到了一月二号来着?(看上去)</p>
+<p>2.又双叒叕被占考场了<br>
+自从上周被占考场之后这周又被占了,而且整个楼几乎都被占了(只有两个空的,然而一个是仓库,另一个是教师办公室,所以......箱子叠箱子)或者丢科技楼一楼大厅/宿舍</p>
+<p>3.元旦晚会<br>
+班级开展元旦晚会,这个到时候到文章里面去细说吧,至少办的还是不错的</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241229 星期日</strong><br>
+<strong>结束: 20250102 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.高一高三元旦放假<br>
+这个不说了,高二成小丑了,餐厅一楼也是放元旦假期(二楼不放),所以那几天都快堵死了.高三好像放到了一月二号来着?(看上去)</p>
+<p>2.又双叒叕被占考场了<br>
+自从上周被占考场之后这周又被占了,而且整个楼几乎都被占了(只有两个空的,然而一个是仓库,另一个是教师办公室,所以......箱子叠箱子)或者丢科技楼一楼大厅/宿舍</p>
+<p>3.元旦晚会<br>
+班级开展元旦晚会,这个到时候到文章里面去细说吧,至少办的还是不错的</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第十八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html"/>
+    <updated>2025-01-02T15:51:48.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025105 星期日</strong><br>
 <strong>结束: 202501xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241229 星期日</strong><br>
+<p><strong>开始: 2025105 星期日</strong><br>
 <strong>结束: 202501xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></content>
@@ -2172,18 +2201,5 @@ but我们班只有1-2秒的时间.<br>
     <content type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
 ]]></content>
     <published>2024-02-12T07:03:20.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">指南/教程</title>
-    <id>https://docs.yyyyt.top/guide/</id>
-    <link href="https://docs.yyyyt.top/guide/"/>
-    <updated>2024-07-18T14:34:18.000Z</updated>
-    <summary type="html"><![CDATA[<h3>关于该目录</h3>
-<p>这个目录是关于分享教程</p>
-]]></summary>
-    <content type="html"><![CDATA[<h3>关于该目录</h3>
-<p>这个目录是关于分享教程</p>
-]]></content>
-    <published>2024-02-12T02:44:03.000Z</published>
   </entry>
 </feed>
