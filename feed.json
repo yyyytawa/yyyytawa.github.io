@@ -6,6 +6,40 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "FAQ",
+      "url": "https://docs.yyyyt.top/site/faq.html",
+      "id": "https://docs.yyyyt.top/site/faq.html",
+      "content_html": "",
+      "date_published": "2025-01-02T13:52:38.000Z",
+      "date_modified": "2025-01-02T13:52:38.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "会考后感受",
+      "url": "https://docs.yyyyt.top/articles/article/2024/12/290.html",
+      "id": "https://docs.yyyyt.top/articles/article/2024/12/290.html",
+      "summary": "不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...",
+      "content_html": "<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>\n然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>\n当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>\n政治课不出意外就以后永远无了</p>\n<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>\n<p>先说一下感受,简单</p>\n<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>\n<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>\n<p>只能说难度降亿点而已<br>\n还有考试时候打铃(估计那边忘改了),考着考着忽然来个\"同学们,下课时间到了\" 乐</p>\n<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>\n<h2>The End</h2>\n",
+      "date_published": "2025-01-02T13:52:38.000Z",
+      "date_modified": "2025-01-02T13:52:38.000Z",
+      "authors": [],
+      "tags": [
+        "高中"
+      ]
+    },
+    {
+      "title": "第十七周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html",
+      "summary": "日期: 开始: 20241229 星期日 结束: 202501xx 星期六 本周内容:",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20241229 星期日</strong><br>\n<strong>结束: 202501xx 星期六</strong></p>\n<h2>本周内容:</h2>\n",
+      "date_published": "2025-01-02T13:52:38.000Z",
+      "date_modified": "2025-01-02T13:52:38.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "Qrasa同人表情包",
       "url": "https://docs.yyyyt.top/album/yh/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html",
       "id": "https://docs.yyyyt.top/album/yh/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html",
@@ -1064,37 +1098,6 @@
       "content_html": "<h3>关于该目录</h3>\n<p>这个目录是关于分享教程</p>\n",
       "date_published": "2024-02-12T02:44:03.000Z",
       "date_modified": "2024-07-18T14:34:18.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "表情/图片",
-      "url": "https://docs.yyyyt.top/blog/photo/",
-      "id": "https://docs.yyyyt.top/blog/photo/",
-      "content_html": "",
-      "date_published": "2024-02-12T02:44:03.000Z",
-      "date_modified": "2024-02-12T02:44:03.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "简介",
-      "url": "https://docs.yyyyt.top/blog/photo/intro.html",
-      "id": "https://docs.yyyyt.top/blog/photo/intro.html",
-      "summary": "这里是图片首页",
-      "content_html": "<p>这里是图片首页<s>(可能是搞笑/奇葩一类)</s></p>\n",
-      "date_published": "2024-02-12T02:44:03.000Z",
-      "date_modified": "2024-02-12T02:44:03.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "一些软件教程",
-      "url": "https://docs.yyyyt.top/guide/someguide/",
-      "id": "https://docs.yyyyt.top/guide/someguide/",
-      "content_html": "",
-      "date_published": "2024-02-12T02:44:03.000Z",
-      "date_modified": "2024-10-12T16:13:22.000Z",
       "authors": [],
       "tags": []
     }
