@@ -3,11 +3,28 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-02T15:53:23.420Z</updated>
+  <updated>2025-01-03T07:01:01.263Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
+  <category term="公告"/>
   <category term="高中"/>
+  <entry>
+    <title type="text">关于图床近期不可用声明</title>
+    <id>https://docs.yyyyt.top/site/notice/img.html</id>
+    <link href="https://docs.yyyyt.top/site/notice/img.html"/>
+    <updated>2025-01-03T06:59:32.000Z</updated>
+    <summary type="html"><![CDATA[<p>近期图床暂时发生不可用(表现为打开图片文件提示403)<br>
+后续经排查为根目录只读导致nginx无法访问图片文件,现已修复</p>
+<p>参考解决方法: https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>近期图床暂时发生不可用(表现为打开图片文件提示403)<br>
+后续经排查为根目录只读导致nginx无法访问图片文件,现已修复</p>
+<p>参考解决方法: https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command</p>
+]]></content>
+    <category term="公告"/>
+    <published>2025-01-03T06:59:32.000Z</published>
+  </entry>
   <entry>
     <title type="text">FAQ</title>
     <id>https://docs.yyyyt.top/site/faq.html</id>
@@ -48,7 +65,7 @@
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
-    <updated>2025-01-02T15:51:48.000Z</updated>
+    <updated>2025-01-03T06:59:32.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20241229 星期日</strong><br>
 <strong>结束: 20250102 星期六</strong></p>
@@ -69,6 +86,8 @@
 自从上周被占考场之后这周又被占了,而且整个楼几乎都被占了(只有两个空的,然而一个是仓库,另一个是教师办公室,所以......箱子叠箱子)或者丢科技楼一楼大厅/宿舍</p>
 <p>3.元旦晚会<br>
 班级开展元旦晚会,这个到时候到文章里面去细说吧,至少办的还是不错的</p>
+<p>4.信息技术考试</p>
+<p>当然本次是模拟考试,下周就是正式考试.然后你就会发现你只有最后两个题会做(但是肯定能让你过就是了)</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-01-02T13:52:38.000Z</published>
@@ -1090,7 +1109,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">第11-20次更新</title>
     <id>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</id>
     <link href="https://docs.yyyyt.top/blog/music_updata_log/11to20.html"/>
-    <updated>2024-11-23T12:07:01.000Z</updated>
+    <updated>2025-01-03T06:59:32.000Z</updated>
     <summary type="html"><![CDATA[<h3>第11次 20240827</h3>
 <p><strong>Sat Tee Touy</strong><br>
 <strong>月亮之上</strong></p>
@@ -1098,6 +1117,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p><strong>YMCA</strong></p>
 <h3>第13次 20241123</h3>
 <p><strong>逆战</strong></p>
+<h3>第14次 20250103</h3>
+<p><strong>蓝莲花</strong><br>
+<strong>Lemon</strong></p>
 ]]></summary>
     <content type="html"><![CDATA[<h3>第11次 20240827</h3>
 <p><strong>Sat Tee Touy</strong><br>
@@ -1106,6 +1128,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p><strong>YMCA</strong></p>
 <h3>第13次 20241123</h3>
 <p><strong>逆战</strong></p>
+<h3>第14次 20250103</h3>
+<p><strong>蓝莲花</strong><br>
+<strong>Lemon</strong></p>
 ]]></content>
     <published>2024-08-27T12:47:21.000Z</published>
   </entry>
@@ -2190,16 +2215,5 @@ but我们班只有1-2秒的时间.<br>
 数字代表第N次更新</p>
 ]]></content>
     <published>2024-02-14T13:01:26.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">二中周报</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/"/>
-    <updated>2024-02-18T15:28:36.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>看不见看不见</strong></p>
-]]></content>
-    <published>2024-02-12T07:03:20.000Z</published>
   </entry>
 </feed>
