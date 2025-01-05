@@ -166,9 +166,9 @@ export default hopeTheme({
     // 如果你需要 PWA。安装 vuepress-plugin-pwa2 并取消下方注释
      pwa: {
        favicon: "/favicon.ico",
-       cacheHTML: true,
+//       cacheHTML: true,
        appendBase: true,
-       update: "hint",
+       update: "force",
        apple: {
          icon: "/assets/icon/apple-icon-152.png",
          statusBarColor: "black",
