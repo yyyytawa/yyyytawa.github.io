@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-11T13:36:37.482Z</updated>
+  <updated>2025-01-12T04:46:53.592Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -213,14 +213,37 @@
     <title type="text">第十八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html"/>
-    <updated>2025-01-02T15:51:48.000Z</updated>
+    <updated>2025-01-12T04:45:29.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2025105 星期日</strong><br>
+<p><strong>开始: 20250105 星期日</strong><br>
+<strong>结束: 20250111 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.微机会考<br>
+星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250105 星期日</strong><br>
+<strong>结束: 20250111 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.微机会考<br>
+星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>
+<p>2.联考<br>
+10月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第十九周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html"/>
+    <updated>2025-01-12T04:45:29.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250112 星期日</strong><br>
 <strong>结束: 202501xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2025105 星期日</strong><br>
+<p><strong>开始: 20250112 星期日</strong><br>
 <strong>结束: 202501xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></content>
@@ -2268,13 +2291,6 @@ but我们班只有1-2秒的时间.<br>
 <strong>开始: 20240131</strong><br>
 <strong>结束: <s>20240222</s> 20240225</strong></p>
 ]]></content>
-    <published>2024-02-18T15:19:45.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">下学期</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/"/>
-    <updated>2024-02-18T15:19:45.000Z</updated>
     <published>2024-02-18T15:19:45.000Z</published>
   </entry>
 </feed>

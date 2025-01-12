@@ -91,10 +91,21 @@
       "title": "第十八周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html",
-      "summary": "日期: 开始: 2025105 星期日 结束: 202501xx 星期六 本周内容:",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2025105 星期日</strong><br>\n<strong>结束: 202501xx 星期六</strong></p>\n<h2>本周内容:</h2>\n",
+      "summary": "日期: 开始: 20250105 星期日 结束: 20250111 星期六 本周内容: 1.微机会考 星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250105 星期日</strong><br>\n<strong>结束: 20250111 星期六</strong></p>\n<h2>本周内容:</h2>\n<p>1.微机会考<br>\n星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>\n<p>2.联考<br>\n10月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>\n<h2>The End</h2>\n",
       "date_published": "2025-01-02T13:52:38.000Z",
-      "date_modified": "2025-01-02T15:51:48.000Z",
+      "date_modified": "2025-01-12T04:45:29.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "第十九周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
+      "summary": "日期: 开始: 20250112 星期日 结束: 202501xx 星期六 本周内容:",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250112 星期日</strong><br>\n<strong>结束: 202501xx 星期六</strong></p>\n<h2>本周内容:</h2>\n",
+      "date_published": "2025-01-02T13:52:38.000Z",
+      "date_modified": "2025-01-12T04:45:29.000Z",
       "authors": [],
       "tags": []
     },
@@ -1093,16 +1104,6 @@
       "content_html": "<p><strong>日期:</strong><br>\n<strong>开始: 20240131</strong><br>\n<strong>结束: <s>20240222</s> 20240225</strong></p>\n",
       "date_published": "2024-02-18T15:19:45.000Z",
       "date_modified": "2024-02-23T11:49:38.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "下学期",
-      "url": "https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/",
-      "id": "https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/",
-      "content_html": "",
-      "date_published": "2024-02-18T15:19:45.000Z",
-      "date_modified": "2024-02-18T15:19:45.000Z",
       "authors": [],
       "tags": []
     }

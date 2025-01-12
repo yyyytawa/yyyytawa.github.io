@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 11 Jan 2025 13:36:37 GMT</pubDate>
-    <lastBuildDate>Sat, 11 Jan 2025 13:36:37 GMT</lastBuildDate>
+    <pubDate>Sun, 12 Jan 2025 04:46:53 GMT</pubDate>
+    <lastBuildDate>Sun, 12 Jan 2025 04:46:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -172,10 +172,28 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十八周</source>
-      <description>日期: 开始: 2025105 星期日 结束: 202501xx 星期六 本周内容:</description>
+      <description>日期: 开始: 20250105 星期日 结束: 20250111 星期六 本周内容: 1.微机会考 星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你...</description>
       <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2025105 星期日</strong><br>
+<p><strong>开始: 20250105 星期日</strong><br>
+<strong>结束: 20250111 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.微机会考<br>
+星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>
+<p>2.联考<br>
+10月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十九周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十九周</source>
+      <description>日期: 开始: 20250112 星期日 结束: 202501xx 星期六 本周内容:</description>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250112 星期日</strong><br>
 <strong>结束: 202501xx 星期六</strong></p>
 <h2>本周内容:</h2>
 ]]></content:encoded>
@@ -1647,13 +1665,6 @@ PS:大部分消息已撤回<br>
 <strong>开始: 20240131</strong><br>
 <strong>结束: <s>20240222</s> 20240225</strong></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>下学期</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">下学期</source>
-      <pubDate>Sun, 18 Feb 2024 15:19:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
