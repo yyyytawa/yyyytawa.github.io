@@ -6,6 +6,17 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "寒假",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/winterholiday.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/winterholiday.html",
+      "summary": "日期: 开始: 20250121 结束: 202502xx",
+      "content_html": "<p><strong>日期</strong>:<br>\n<strong>开始: 20250121</strong><br>\n<strong>结束: 202502xx</strong></p>\n",
+      "date_published": "2025-01-23T10:46:09.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "第一章",
       "url": "https://docs.yyyyt.top/articles/books/a_little_story/C_01.html",
       "id": "https://docs.yyyyt.top/articles/books/a_little_story/C_01.html",
@@ -42,12 +53,12 @@
     },
     {
       "title": "关于图床近期不可用声明",
-      "url": "https://docs.yyyyt.top/site/notice/img.html",
-      "id": "https://docs.yyyyt.top/site/notice/img.html",
+      "url": "https://docs.yyyyt.top/site/notice/archive/0103_img.html",
+      "id": "https://docs.yyyyt.top/site/notice/archive/0103_img.html",
       "summary": "近期图床暂时发生不可用(表现为打开图片文件提示403) 后续经排查为根目录只读导致nginx无法访问图片文件,现已修复 参考解决方法: https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-...",
       "content_html": "<p>近期图床暂时发生不可用(表现为打开图片文件提示403)<br>\n后续经排查为根目录只读导致nginx无法访问图片文件,现已修复</p>\n<p>参考解决方法: https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command</p>\n",
       "date_published": "2025-01-03T06:59:32.000Z",
-      "date_modified": "2025-01-03T06:59:32.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": [
         "公告"
@@ -102,10 +113,10 @@
       "title": "第十九周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
-      "summary": "日期: 开始: 20250112 星期日 结束: 20250121 星期二 本周内容: 1.期末考试 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽! 2.本周周六周日不放假 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假( 学校装都没装...... 3.本周无体育课 这一点不解释,...",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250112 星期日</strong><br>\n<strong>结束: 20250121 星期二</strong></p>\n<h2>本周内容:</h2>\n<p>1.期末考试<br>\n这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>\n<s>就是卷子出了一大堆课本上的题</s><br>\n<s>至于假期作业还是老样子,但是天天检查</s></p>\n<p>2.本周周六周日不放假<br>\n没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>\n学校装都没装......</p>\n<p>3.本周无体育课<br>\n这一点不解释,体育课全无</p>\n<h2>The True End</h2>\n",
+      "summary": "日期: 开始: 20250112 星期日 结束: 20250121 星期二 本周内容: 1.期末考试 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽! 2.本周周六周日不放假 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假( 学校装都没装...... 然后周五周六周日一堆人请假的 3...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250112 星期日</strong><br>\n<strong>结束: 20250121 星期二</strong></p>\n<h2>本周内容:</h2>\n<p>1.期末考试<br>\n这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>\n<s>就是卷子出了一大堆课本上的题</s><br>\n<s>至于假期作业还是老样子,但是天天检查</s><br>\n<s>还有元旦假期直接无了</s></p>\n<p>2.本周周六周日不放假<br>\n没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>\n学校装都没装......<br>\n然后周五周六周日一堆人请假的</p>\n<p>3.本周无体育课<br>\n这一点不解释,体育课全无</p>\n<h2>The True End</h2>\n",
       "date_published": "2025-01-02T13:52:38.000Z",
-      "date_modified": "2025-01-22T14:16:07.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     },
@@ -464,7 +475,7 @@
       "id": "https://docs.yyyyt.top/site/",
       "content_html": "",
       "date_published": "2024-09-21T17:27:33.000Z",
-      "date_modified": "2024-12-08T06:41:56.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     },
@@ -475,7 +486,7 @@
       "summary": "我自己的站点 其他站点友链",
       "content_html": "<p>我自己的站点</p>\n<div class=\"vp-card-container\">\n</div>\n<p>其他站点友链</p>\n",
       "date_published": "2024-09-21T17:27:33.000Z",
-      "date_modified": "2024-12-22T00:23:24.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     },
@@ -548,10 +559,10 @@
       "title": "特别篇-1: 我的班主任与老师们",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html",
-      "summary": "本文开始写于20240915 以下可能适用于Q某人: P1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? P2. 骂人 骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了",
-      "content_html": "<p><strong>本文开始写于20240915</strong></p>\n<p>以下可能适用于Q某人:</p>\n<p>P1. 教龄四年</p>\n<p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>\n<p>P2. 骂人</p>\n<p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了</p>\n",
+      "summary": "本文开始写于20240915 以下可能适用于某人: P1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? P2. 骂人 骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了",
+      "content_html": "<p><strong>本文开始写于20240915</strong></p>\n<p>以下可能适用于某人:</p>\n<p>P1. 教龄四年</p>\n<p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>\n<p>P2. 骂人</p>\n<p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人\"福利\",月考/周考考的差还会\"即兴演讲\"+\"认真\"反思 我真的是服了</p>\n",
       "date_published": "2024-09-15T09:22:06.000Z",
-      "date_modified": "2024-10-12T16:13:22.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     },
@@ -808,7 +819,7 @@
       "summary": "日期: 开始: 20240711 结束: 20240901 这里放的是暑假的内容 学校水卡退费 20240712 由于搬回老校区,故原先水卡需要退费",
       "content_html": "<p><strong>日期:</strong><br>\n<strong>开始: 20240711</strong><br>\n<strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></p>\n",
       "date_published": "2024-07-12T11:49:38.000Z",
-      "date_modified": "2024-08-31T06:23:10.000Z",
+      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     },
@@ -1093,17 +1104,6 @@
       "content_html": "<p>这里放的是高一年级的内容<br>\n由于众所周知原因,高一上学期和寒假的部分内容丢失</p>\n",
       "date_published": "2024-02-18T15:19:45.000Z",
       "date_modified": "2024-02-18T15:19:45.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "寒假",
-      "url": "https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html",
-      "id": "https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html",
-      "summary": "日期: 开始: 20240131 结束: 20240225 这里面放的是寒假的内容 网课事变20240216 学校为了提升学校成绩,开设网课 寒假延期20240221 论当天雪有多大(暂时不放图了),总之就是满地的雪,电动车没法走,路很滑。所以延期到了2024年2月25日",
-      "content_html": "<p><strong>日期:</strong><br>\n<strong>开始: 20240131</strong><br>\n<strong>结束: <s>20240222</s> 20240225</strong></p>\n",
-      "date_published": "2024-02-18T15:19:45.000Z",
-      "date_modified": "2024-02-23T11:49:38.000Z",
       "authors": [],
       "tags": []
     }

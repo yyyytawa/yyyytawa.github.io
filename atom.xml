@@ -3,12 +3,27 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-22T14:18:07.966Z</updated>
+  <updated>2025-01-23T10:47:41.952Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
   <category term="高中"/>
   <category term="公告"/>
+  <entry>
+    <title type="text">寒假</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/winterholiday.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/winterholiday.html"/>
+    <updated>2025-01-23T10:46:09.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250121</strong><br>
+<strong>结束: 202502xx</strong></p>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250121</strong><br>
+<strong>结束: 202502xx</strong></p>
+]]></content>
+    <published>2025-01-23T10:46:09.000Z</published>
+  </entry>
   <entry>
     <title type="text">第一章</title>
     <id>https://docs.yyyyt.top/articles/books/a_little_story/C_01.html</id>
@@ -130,9 +145,9 @@
   </entry>
   <entry>
     <title type="text">关于图床近期不可用声明</title>
-    <id>https://docs.yyyyt.top/site/notice/img.html</id>
-    <link href="https://docs.yyyyt.top/site/notice/img.html"/>
-    <updated>2025-01-03T06:59:32.000Z</updated>
+    <id>https://docs.yyyyt.top/site/notice/archive/0103_img.html</id>
+    <link href="https://docs.yyyyt.top/site/notice/archive/0103_img.html"/>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <summary type="html"><![CDATA[<p>近期图床暂时发生不可用(表现为打开图片文件提示403)<br>
 后续经排查为根目录只读导致nginx无法访问图片文件,现已修复</p>
 <p>参考解决方法: https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command</p>
@@ -236,7 +251,7 @@
     <title type="text">第十九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html"/>
-    <updated>2025-01-22T14:16:07.000Z</updated>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250112 星期日</strong><br>
 <strong>结束: 20250121 星期二</strong></p>
@@ -244,10 +259,12 @@
 <p>1.期末考试<br>
 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>
 <s>就是卷子出了一大堆课本上的题</s><br>
-<s>至于假期作业还是老样子,但是天天检查</s></p>
+<s>至于假期作业还是老样子,但是天天检查</s><br>
+<s>还有元旦假期直接无了</s></p>
 <p>2.本周周六周日不放假<br>
 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>
-学校装都没装......</p>]]></summary>
+学校装都没装......<br>
+然后周五周六周日一堆人请假的</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250112 星期日</strong><br>
 <strong>结束: 20250121 星期二</strong></p>
@@ -255,10 +272,12 @@
 <p>1.期末考试<br>
 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>
 <s>就是卷子出了一大堆课本上的题</s><br>
-<s>至于假期作业还是老样子,但是天天检查</s></p>
+<s>至于假期作业还是老样子,但是天天检查</s><br>
+<s>还有元旦假期直接无了</s></p>
 <p>2.本周周六周日不放假<br>
 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>
-学校装都没装......</p>
+学校装都没装......<br>
+然后周五周六周日一堆人请假的</p>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
@@ -996,14 +1015,14 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">站点</title>
     <id>https://docs.yyyyt.top/site/</id>
     <link href="https://docs.yyyyt.top/site/"/>
-    <updated>2024-12-08T06:41:56.000Z</updated>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <published>2024-09-21T17:27:33.000Z</published>
   </entry>
   <entry>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2024-12-22T00:23:24.000Z</updated>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -1172,16 +1191,16 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">特别篇-1: 我的班主任与老师们</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>本文开始写于20240915</strong></p>
-<p>以下可能适用于Q某人:</p>
+<p>以下可能适用于某人:</p>
 <p>P1. 教龄四年</p>
 <p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
 <p>P2. 骂人</p>
 <p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人"福利",月考/周考考的差还会"即兴演讲"+"认真"反思 我真的是服了</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><strong>本文开始写于20240915</strong></p>
-<p>以下可能适用于Q某人:</p>
+<p>以下可能适用于某人:</p>
 <p>P1. 教龄四年</p>
 <p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
 <p>P2. 骂人</p>
@@ -1745,7 +1764,7 @@ PS:大部分消息已撤回<br>
     <title type="text">暑假</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html"/>
-    <updated>2024-08-31T06:23:10.000Z</updated>
+    <updated>2025-01-23T10:46:09.000Z</updated>
     <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
 <strong>开始: 20240711</strong><br>
 <strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></h2>
@@ -2286,26 +2305,6 @@ but我们班只有1-2秒的时间.<br>
 ]]></summary>
     <content type="html"><![CDATA[<p>这里放的是高一年级的内容<br>
 由于众所周知原因,高一上学期和寒假的部分内容丢失</p>
-]]></content>
-    <published>2024-02-18T15:19:45.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">寒假</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html"/>
-    <updated>2024-02-23T11:49:38.000Z</updated>
-    <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
-<strong>开始: 20240131</strong><br>
-<strong>结束: <s>20240222</s> 20240225</strong></h2>
-<p>这里面放的是寒假的内容</p>
-<h3>网课事变20240216</h3>
-<p>学校为了提升学校成绩,开设网课</p>
-<h3>寒假延期20240221</h3>
-<p>论当天雪有多大(暂时不放图了),总之就是满地的雪,电动车没法走,路很滑。所以延期到了2024年2月25日</p>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>日期:</strong><br>
-<strong>开始: 20240131</strong><br>
-<strong>结束: <s>20240222</s> 20240225</strong></p>
 ]]></content>
     <published>2024-02-18T15:19:45.000Z</published>
   </entry>
