@@ -8,19 +8,19 @@ otherlinks:
    desc: TECH OTAKUS SAVE THE WORLD
    logo: https://assets.b84f2246.top/img/avatar.png
    url: https://blog.b84f2246.top/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/B84F2246_Blog.png
+   preview: https://blog.b84f2246.top/img/screenshot.jpg
+
+ - name: butlanys
+   desc: 一个乐于分享的博客
+   logo: https://file.butlanys.de/img/avatar.jpg
+   url: https://blog.butlanys.de/
+   preview: https://img.yyyyt.top/vuepress/site/links/preview/butlanys_Blog.png
 
  - name: Creeper005の小站
    desc: 坐牢日常
    logo: https://creeper005bili.github.io/img/avatar.png
    url: https://creeper005bili.github.io
    preview: https://img.yyyyt.top/vuepress/site/links/preview/Creeper005.png
-  
- - name: butlanys
-   desc: 一个乐于分享的博客
-   logo: https://file.butlanys.de/img/avatar.jpg
-   url: https://blog.butlanys.de/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/butlanys_Blog.png
 
  - name: Hehe
    desc: 收录各种破解工具
