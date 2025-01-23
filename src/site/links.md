@@ -6,31 +6,37 @@ icon: link
 otherlinks:
  - name: B84F2246的博客
    desc: TECH OTAKUS SAVE THE WORLD
-   logo: https://tc.d3tt.com/images/FvAhkiZ5Y1U2kyCbkl75nq-a0Ef0.png
+   logo: https://assets.b84f2246.top/img/avatar.png
    url: https://blog.b84f2246.top/
    preview: https://img.yyyyt.top/vuepress/site/links/preview/B84F2246_Blog.png
 
- - name: Dream
+ - name: Creeper005の小站
+   desc: 坐牢日常
+   logo: https://creeper005bili.github.io/img/avatar.png
+   url: https://creeper005bili.github.io
+   preview: https://img.yyyyt.top/vuepress/site/links/preview/Creeper005.png
+  
+ - name: butlanys
    desc: 一个乐于分享的博客
-   logo: https://github.hqycloud.top/https://raw.githubusercontent.com/hqycloud/blog-images/main/hexo-images/24/7/dream_54379e44aa8d8843e7cc8d95b55b189d.jpg
-   url: https://blog.hqycloud.top/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Dream_Blog.png
+   logo: https://file.butlanys.de/img/avatar.jpg
+   url: https://blog.butlanys.de/
+   preview: https://img.yyyyt.top/vuepress/site/links/preview/butlanys_Blog.png
 
  - name: Hehe
    desc: 收录各种破解工具
-   logo: https://tc.d3tt.com/images/FsetBcYU0rrM1v55iwzzAoDNmRPV.jpg
+   logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
    url: https://hehenya.us.kg
-   preview: https://tc.d3tt.com/images/FsetBcYU0rrM1v55iwzzAoDNmRPV.jpg
+   preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
 
  - name: JuHao的博客
    desc: 写些小东西
-   logo: https://chat-img.jwznb.com/6dc8c5b3b316f0458deac76e6a99b7a9.jpg
+   logo: https://img.yyyyt.top/vuepress/site/links/avatar/juhao.jpg
    url: https://juhao.hashnode.dev/
    preview: https://img.yyyyt.top/vuepress/site/links/preview/JuHao_Blog.png
 
  - name: Qrasa的小站
    desc: 记录一些活着的日常
-   logo: https://blog.qrasa.cn/wp-content/uploads/2024/07/IMG_6095.jpeg
+   logo: https://qrasa.cn/assets/avatar.webp
    url: https://blog.qrasa.cn/
    preview: https://img.yyyyt.top/vuepress/site/links/preview/Qrasa_Blog.png
 

@@ -23,6 +23,7 @@ export default navbar([
   },
   {
       text: "站点",
+      icon: "network-wired",
       prefix: "/site/",
       children: ["about_me.md","links.md","privacy.md","notice/","copyright.md", "faq.md"],
   },
