@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://img.yyyyt.top/avatar/Haku.png",
+  logo: "https://img.yyyyt.top/avatar/avatar",
 
   repo: "yyyytawa/yyyytawa.github.io",
 
@@ -58,7 +58,7 @@ export default hopeTheme({
       {
         path: "/",
         title: "公告",
-        content: "点击下方按钮查看最新公告</br><mark><strong>本站由于\"不可抗力\"因素,不再保证中国大陆的访问</strong></mark>",
+        content: "点击下方按钮查看最新公告</br><mark><strong>本站由于\"不可抗力\"因素,不再保证中国大陆的访问</strong></mark></br><blod><strong>在评论区留言即代表同意本站的留言规范</strong></blod>",
         actions: [
           {
             text: "跳转公告",
