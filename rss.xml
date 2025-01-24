@@ -6,12 +6,54 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 24 Jan 2025 16:31:53 GMT</pubDate>
-    <lastBuildDate>Fri, 24 Jan 2025 16:31:53 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Jan 2025 16:35:40 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Jan 2025 16:35:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
+    <item>
+      <title>前端和后端的都有锅</title>
+      <link>https://docs.yyyyt.top/articles/article/2025/01/240.html</link>
+      <guid>https://docs.yyyyt.top/articles/article/2025/01/240.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">前端和后端的都有锅</source>
+      <description>声明 1.我做的确实有点不对,往里面XSS注入和尝试输入大量的字符串,找漏洞的方式有点不对 注 永远不要相信用户输入的每一个字符 首先就是上面这句话所说...... 网页版出现了XSS注入问题. 原因是牢鼠写的时候没考虑完全(估计也没人想到会有人在头像链接,留言,个人简介里面写这些东西) 当然后端也有锅,不检查用户发送的内容,不检查头像链接是否正常,一...</description>
+      <pubDate>Fri, 24 Jan 2025 16:33:09 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">声明</p>
+<p>1.我做的确实有点不对,往里面XSS注入和尝试输入大量的字符串,找漏洞的方式有点不对</p>
+</div>
+<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>永远不要相信用户输入的每一个字符</p>
+</div>
+<p>首先就是上面这句话所说......<br>
+网页版出现了XSS注入问题.<br>
+原因是牢鼠写的时候没考虑完全(估计也没人想到会有人在头像链接,留言,个人简介里面写这些东西)<br>
+当然后端也有锅,不检查用户发送的内容,不检查头像链接是否正常,一些防呆防傻措施不到位等等......估计也是和上面说的一样<br>
+这也给牢鼠气红温了 <s>(修复了牢鼠不会红温的bug)</s><br>
+<img src="https://img.yyyyt.top/meme/云湖/截图永流传/XSS你妈.png" alt="XSS你妈" loading="lazy"><br>
+<img src="https://img.yyyyt.top/meme/云湖/截图永流传/XSS你妈2.png" alt="XSS你妈2" loading="lazy"><br>
+<img src="https://img.yyyyt.top/vuepress/articles/article/2025/01/24/0/runoneall关站.png" alt="关站" loading="lazy"><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p><a class="footnote-anchor" id="footnote-ref1">
+<blockquote>
+<p>Hehe: 这是网页版的问题,不关我后端的事<br>
+<img src="https://img.yyyyt.top/meme/云湖/截图永流传/不关我事.jpg" alt="不关我事" loading="lazy"></p>
+</blockquote>
+<p>对了,牢鼠那边说是后端的问题<br>
+<s>所以这就是不检查用户输入的理由?</s><br>
+现在都修了<br>
+这个广场能不能做成我这边要打个问号,毕竟这个东西都能踢皮球别的东西我也不指望能好到哪里去了</p>
+</a><h2><a class="footnote-anchor" id="footnote-ref1"></a><a class="header-anchor" href="#the-end"><span>The End</span></a></h2>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p>https://web.archive.org/web/20250124120341/https://qzweb.s00s2.rr.nu/ <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/meme/云湖/截图永流传/XSS你妈.png" type="image/png"/>
+    </item>
     <item>
       <title>什么离谱玩意</title>
       <link>https://docs.yyyyt.top/articles/article/2025/01/230.html</link>
@@ -49,10 +91,10 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>第一章</title>
+      <title>第一章 初来乍到</title>
       <link>https://docs.yyyyt.top/articles/books/a_little_story/C_01.html</link>
       <guid>https://docs.yyyyt.top/articles/books/a_little_story/C_01.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第一章</source>
+      <source url="https://docs.yyyyt.top/rss.xml">第一章 初来乍到</source>
       <description>2025年,有一个人在路上走着 忽然发现有一个洞,钻进去之后从天上掉了下来,穿过树的树叶掉了下来.幸运的是摔倒了沙堆上,没有受伤,他又暂时站了起来,温暖的阳光普照大地,他望了望四周,发现是个草原.但是中间不知道为啥突兀的有棵很高大的树,附近也有一个小河静静的流着.奇怪的是,树下不知道为啥有些树叶和红色的果实,即使是树下没有多少阳光.他缓慢走过去,刚伸出...</description>
       <pubDate>Sun, 05 Jan 2025 08:22:58 GMT</pubDate>
       <content:encoded><![CDATA[<p>2025年,有一个人在路上走着<s>这个敷衍的开头</s><br>
@@ -67,7 +109,7 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <em>(神秘人递了个红色的果实给我,和前面树上摘下来没有区别)</em><br>
 神秘人:"吃下吧,没事的.刚才不知道咋回事,你吃了就晕倒了,我这边吃着啥事没有.这东西很甜很好吃的"</p>
 </blockquote>
-<p>我半信半疑的,要求和神秘人手里面的果实交换一下,神秘人同意了,神秘人又忽然拉着我的手强行把我带到了小河边,我从水面的反射中看到了自己的样子,和神秘人所说的一样,长得几乎没啥区别,除了瞳孔颜色和衣着不一样以外没啥区别,甚至外貌几乎差不多.神秘人和我一起把果实吃完之后又给了我个手套,叫我带上然后抓着藤蔓爬到树枝上.只是我爬上去有点难,神秘人几十秒钟就爬上去了,我这边几分钟都还没有爬上去.等我爬上去转头发现那个神秘人在上面等着我.爬上去后又一把拽着我的手拉到另一个藤蔓</p>
+<p>我半信半疑的,要求和神秘人手里面的果实交换一下,神秘人同意了,神秘人又忽然拉着我的手强行把我带到了小河边,我从水面的反射中看到了自己的样子,和神秘人所说的一样,除了瞳孔颜色和衣着不一样以外没啥区别,甚至外貌几乎差不多.神秘人和我一起把果实吃完之后又给了我个手套,叫我带上然后抓着藤蔓爬到树枝上.只是我爬上去有点难,神秘人几十秒钟就爬上去了,我这边几分钟都还没有爬上去.等我爬上去转头发现那个神秘人在上面等着我.爬上去后又一把拽着我的手拉到另一个藤蔓继续往上面爬.这让我感到非常疲倦.在两三个藤蔓过后终于算是爬了上去.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1683,13 +1725,6 @@ PS:大部分消息已撤回<br>
 <h3>命名规范:</h3>
 <p><strong>遵循以下几点:</strong></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>云湖</title>
-      <link>https://docs.yyyyt.top/blog/yh/</link>
-      <guid>https://docs.yyyyt.top/blog/yh/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">云湖</source>
-      <pubDate>Sun, 18 Feb 2024 15:19:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
