@@ -2,6 +2,8 @@
 title: 关于我
 sidebar: false
 icon: info
+category:
+- 站点
 ---
 
 ![avatar](https://img.yyyyt.top/avatar/Haku.png =50x55)  
