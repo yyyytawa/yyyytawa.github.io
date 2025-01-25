@@ -2,6 +2,8 @@
 title: 友情链接
 sidebar: false
 icon: link
+category:
+- 站点
 
 otherlinks:
  - name: B84F2246的博客

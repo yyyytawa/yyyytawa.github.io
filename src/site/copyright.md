@@ -2,6 +2,8 @@
 title: 版权声明
 sidebar: false
 icon: copyright
+category:
+- 站点
 ---
 
 本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明

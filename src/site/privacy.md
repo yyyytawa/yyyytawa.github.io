@@ -3,10 +3,11 @@ title: 隐私政策
 icon: lock
 sidebar: false
 index: false
+category:
+- 站点
 ---
 
 本网站部分功能可能涉及您的隐私,建议您完整阅读  
-docs.yyyyt.top域名的网站在这个页面中均称为"本网站"
 
 # 收集的信息
 
