@@ -3,17 +3,18 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-24T16:35:40.248Z</updated>
+  <updated>2025-01-25T14:01:15.729Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
   <category term="高中"/>
   <category term="公告"/>
+  <category term="站点"/>
   <entry>
     <title type="text">前端和后端的都有锅</title>
     <id>https://docs.yyyyt.top/articles/article/2025/01/240.html</id>
     <link href="https://docs.yyyyt.top/articles/article/2025/01/240.html"/>
-    <updated>2025-01-24T16:33:09.000Z</updated>
+    <updated>2025-01-25T13:59:53.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container warning">
 <p class="hint-container-title">声明</p>
 <p>1.我做的确实有点不对,往里面XSS注入和尝试输入大量的字符串,找漏洞的方式有点不对</p>
@@ -50,10 +51,11 @@
 <p>Hehe: 这是网页版的问题,不关我后端的事<br>
 <img src="https://img.yyyyt.top/meme/云湖/截图永流传/不关我事.jpg" alt="不关我事" loading="lazy"></p>
 </blockquote>
-<p>对了,牢鼠那边说是后端的问题<br>
+<p>对了,牢鼠那边说是后端的问题 <s>(话说确定这是web工程师的的水平)</s><br>
 <s>所以这就是不检查用户输入的理由?</s><br>
 现在都修了<br>
-这个广场能不能做成我这边要打个问号,毕竟这个东西都能踢皮球别的东西我也不指望能好到哪里去了</p>
+这个广场能不能做成我这边要打个问号,毕竟这个东西都能踢皮球别的东西我也不指望能好到哪里去了<br>
+强烈建议以后出现这类安全问题也别反馈,他们自己的事情,出事情他们自己负责.咱测试的没必要去管</p>
 </a><h2><a class="footnote-anchor" id="footnote-ref1"></a><a class="header-anchor" href="#the-end"><span>The End</span></a></h2>
 <hr class="footnotes-sep">
 <section class="footnotes">
@@ -255,7 +257,8 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <title type="text">FAQ</title>
     <id>https://docs.yyyyt.top/site/faq.html</id>
     <link href="https://docs.yyyyt.top/site/faq.html"/>
-    <updated>2025-01-02T13:52:38.000Z</updated>
+    <updated>2025-01-25T13:59:53.000Z</updated>
+    <category term="站点"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -947,7 +950,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">版权声明</title>
     <id>https://docs.yyyyt.top/site/copyright.html</id>
     <link href="https://docs.yyyyt.top/site/copyright.html"/>
-    <updated>2024-12-22T07:33:10.000Z</updated>
+    <updated>2025-01-25T13:59:53.000Z</updated>
     <summary type="html"><![CDATA[<p>本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明</p>
 <p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
 <p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
@@ -969,6 +972,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>
 ]]></content>
+    <category term="站点"/>
     <published>2024-10-06T13:42:25.000Z</published>
   </entry>
   <entry>
@@ -993,14 +997,17 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">隐私政策</title>
     <id>https://docs.yyyyt.top/site/privacy.html</id>
     <link href="https://docs.yyyyt.top/site/privacy.html"/>
-    <updated>2024-12-08T06:41:56.000Z</updated>
-    <summary type="html"><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读<br>
-docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
+    <updated>2025-01-25T13:59:53.000Z</updated>
+    <summary type="html"><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读</p>
 <h1>收集的信息</h1>
 <p>1.我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.<strong>这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务</strong></p>
-<p>2.评论系统基于<a href="https://giscus.app/" target="_blank" rel="noopener noreferrer">giscus</a>,如果您使用评论系统将会收集以下信息</p>]]></summary>
-    <content type="html"><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读<br>
-docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
+<p>2.评论系统基于<a href="https://giscus.app/" target="_blank" rel="noopener noreferrer">giscus</a>,如果您使用评论系统将会收集以下信息</p>
+<ul>
+<li>IP地址,UA等网站基本功能所必须信息</li>
+<li>您的Github账号的部分信息(如用户名,头像等信息)</li>
+<li>Giscus正常运行的所需其他信息</li>
+</ul>]]></summary>
+    <content type="html"><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读</p>
 <h1>收集的信息</h1>
 <p>1.我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.<strong>这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务</strong></p>
 <p>2.评论系统基于<a href="https://giscus.app/" target="_blank" rel="noopener noreferrer">giscus</a>,如果您使用评论系统将会收集以下信息</p>
@@ -1013,6 +1020,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 <h1>信息的保护</h1>
 <p>本网站会尽力去保护您的个人信息.由于网络的特殊性,因此无法保证100%信息不泄露.但是本站会尽力尝试避免信息的泄露.对于GitHub等第三方原因造成的泄露本站一概不负责</p>
 ]]></content>
+    <category term="站点"/>
     <published>2024-10-04T16:23:29.000Z</published>
   </entry>
   <entry>
@@ -1114,7 +1122,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-01-23T14:47:01.000Z</updated>
+    <updated>2025-01-25T13:59:53.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -1125,6 +1133,7 @@ docs.yyyyt.top域名的网站在这个页面中均称为"本网站"</p>
 </div>
 <p>其他站点友链</p>
 ]]></content>
+    <category term="站点"/>
     <published>2024-09-21T17:27:33.000Z</published>
   </entry>
   <entry>
@@ -1659,7 +1668,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">关于我</title>
     <id>https://docs.yyyyt.top/site/about_me.html</id>
     <link href="https://docs.yyyyt.top/site/about_me.html"/>
-    <updated>2024-12-08T06:41:56.000Z</updated>
+    <updated>2025-01-25T13:59:53.000Z</updated>
     <summary type="html"><![CDATA[<p><img src="https://img.yyyyt.top/avatar/Haku.png" alt="avatar" width="50" height="55" loading="lazy"><br>
 真名: 不愿透露<br>
 来源:《千与千寻》<br>
@@ -1685,6 +1694,7 @@ GitHub: <a href="https://github.com/yyyytawa" target="_blank" rel="noopener nore
 <a href="https://yhfx.jwznb.com/share?key=AzLufUpeqlvP&amp;ts=1726939457" target="_blank" rel="noopener noreferrer">文档站交流群</a><br>
 PS:请说明来意</p>
 ]]></content>
+    <category term="站点"/>
     <published>2024-07-21T11:11:08.000Z</published>
   </entry>
   <entry>
