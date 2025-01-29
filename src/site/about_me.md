@@ -6,10 +6,9 @@ category:
 - 站点
 ---
 
-![avatar](https://img.yyyyt.top/avatar/Haku.png =50x55)  
+![avatar](https://img.yyyyt.top/avatar/avatar =50x55)  
 真名: 不愿透露  
-来源:《千与千寻》  
-一个高中生,生活在河南  
+一个高中生(2024年),生活在河南  
 平时比较忙,可能周六周日才有空(也可能没空)  
 注:目前图标,背景还在考虑  
 

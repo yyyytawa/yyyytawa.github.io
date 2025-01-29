@@ -10,8 +10,6 @@ export default hopeTheme({
     url: "https://docs.yyyyt.top/site/about_me",
   },
 
-  iconAssets: "fontawesome-with-brands",
-
   logo: "https://img.yyyyt.top/avatar/avatar",
 
   repo: "yyyytawa/yyyytawa.github.io",
@@ -42,7 +40,80 @@ export default hopeTheme({
 
   // 如果想要实时查看任何改变，启用它。注: 这对更新性能有很大负面影响
   // hotReload: true,
+  markdown: {
+    alert: true,
+    hint: true,
+    align: true,
+    attrs: true,
+    codeTabs: true,
+    component: true,
+    demo: true,
+    figure: true,
+    footnote: true, // 脚注
+    gfm: true,
+    imgLazyload: true, // 这里是图片
+    imgSize: true,
+    imgMark: true,
+    include: true,
+    mark: true,
+    plantuml: true,
+    spoiler: true,
+    stylize: [
+      {
+        matcher: "Recommended",
+        replacer: ({ tag }) => {
+          if (tag === "em")
+            return {
+              tag: "Badge",
+              attrs: { type: "tip" },
+              content: "Recommended",
+            };
+        },
+      },
+    ],
+    sub: true,
+    sup: true,
+    tabs: true,
+    tasklist: true,
+    vPre: true,
 
+    // 取消注释它们如果你需要 TeX 支持
+    // markdownMath: {
+    //   // 启用前安装 katex
+    //   type: "katex",
+    //   // 或者安装 mathjax-full
+    //   type: "mathjax",
+    // },
+
+    // 如果你需要幻灯片，安装 @vuepress/plugin-revealjs 并取消下方注释
+    // revealjs: {
+    //   plugins: ["highlight", "math", "search", "notes", "zoom"],
+    // },
+
+    // 在启用之前安装 chart.js
+    // chartjs: true,
+
+    // insert component easily
+
+    // 在启用之前安装 echarts
+    // echarts: true,
+
+    // 在启用之前安装 flowchart.ts
+    // flowchart: true,
+
+    // 在启用之前安装 mermaid
+    // mermaid: true,
+
+    // playground: {
+    //   presets: ["ts", "vue"],
+    // },
+
+    // 在启用之前安装 @vue/repl
+    // vuePlayground: true,
+
+    // 在启用之前安装 sandpack-vue3
+    // sandpack: true,
+  },
   // 在这里配置主题提供的插件
   plugins: {
     // 你应该自行生成自己的评论服务
@@ -72,95 +143,16 @@ export default hopeTheme({
 //    shiki: {
 //      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'go'],
 //    },
-    markdownImage: {
-      // 启用 figure
-      figure: true,
-      // 启用图片懒加载
-      lazyload: true,
-      // 启用图片标记
-      mark: true,
-      // 启用图片大小
-      size: true,
-    },
-     markdownHint: {
-      // 启用提示容器，默认启用
-      hint: true,
-      // 启用 GFM 警告
-      alert: true,
-    },
     feed: {
       atom: true,
       json: true,
       rss: true,
     },
+    icon: {
+      assets: "fontawesome",
+    },
     components: {
       components: ["Badge", "ArtPlayer", "VPCard", "SiteInfo"],
-    },
-
-    // 此处开启了很多功能用于演示，你应仅保留用到的功能。
-    mdEnhance: {
-      // 启用 GFM 警告
-      align: true,
-      attrs: true,
-      component: true,
-      demo: true,
-      footnote: true,
-      include: true,
-      mark: true,
-      stylize: [
-        {
-          matcher: "Recommended",
-          replacer: ({ tag }) => {
-            if (tag === "em")
-              return {
-                tag: "Badge",
-                attrs: { type: "tip" },
-                content: "Recommended",
-              };
-          },
-        },
-      ],
-      sub: true,
-      sup: true,
-      vPre: true,
-
-      // 在启用之前安装 chart.js
-      // chart: true,
-
-      // insert component easily
-
-      // 在启用之前安装 echarts
-      // echarts: true,
-
-      // 在启用之前安装 flowchart.ts
-      // flowchart: true,
-
-      // gfm requires mathjax-full to provide tex support
-      // gfm: true,
-
-      // 在启用之前安装 katex
-      // katex: true,
-
-      // 在启用之前安装 mathjax-full
-      // mathjax: true,
-
-      // 在启用之前安装 mermaid
-      // mermaid: true,
-
-      // playground: {
-      //   presets: ["ts", "vue"],
-      // },
-
-      // 在启用之前安装 reveal.js
-      // revealJs: {
-      //   plugins: ["highlight", "math", "search", "notes", "zoom"],
-      // },
-
-      // 在启用之前安装 @vue/repl
-      // vuePlayground: true,
-
-      // install sandpack-vue3 before enabling it
-      // sandpack: true,
     },
 
     // 如果你需要 PWA。安装 vuepress-plugin-pwa2 并取消下方注释
