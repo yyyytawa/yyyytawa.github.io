@@ -11,35 +11,14 @@ devDependencies:
   '@vuepress/plugin-feed':
     specifier: 2.0.0-rc.74
     version: 2.0.0-rc.74(vuepress@2.0.0-rc.19)
-  '@vuepress/plugin-markdown-hint':
-    specifier: 2.0.0-rc.74
-    version: 2.0.0-rc.74(markdown-it@14.1.0)(vuepress@2.0.0-rc.19)
-  '@vuepress/plugin-markdown-image':
-    specifier: 2.0.0-rc.74
-    version: 2.0.0-rc.74(markdown-it@14.1.0)(vuepress@2.0.0-rc.19)
-  '@vuepress/plugin-markdown-tab':
-    specifier: 2.0.0-rc.74
-    version: 2.0.0-rc.74(markdown-it@14.1.0)(vuepress@2.0.0-rc.19)
   '@vuepress/plugin-pwa':
     specifier: 2.0.0-rc.74
     version: 2.0.0-rc.74(vuepress@2.0.0-rc.19)
   artplayer:
     specifier: ^5.2.2
     version: 5.2.2
-  dashjs:
-    specifier: ^4.7.4
-    version: 4.7.4
-  dashjs-pure:
-    specifier: ^1.0.0
-    version: 1.0.0
-  hls.js:
-    specifier: ^1.5.20
-    version: 1.5.20
-  mpegts.js:
-    specifier: ^1.8.0
-    version: 1.8.0
   sass-embedded:
-    specifier: ^1.83.4
+    specifier: ^1.83.0
     version: 1.83.4
   vue:
     specifier: ^3.5.13
@@ -49,7 +28,7 @@ devDependencies:
     version: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19)(vue@3.5.13)
   vuepress-theme-hope:
     specifier: 2.0.0-rc.71
-    version: 2.0.0-rc.71(@vuepress/plugin-feed@2.0.0-rc.74)(@vuepress/plugin-pwa@2.0.0-rc.74)(artplayer@5.2.2)(dashjs@4.7.4)(hls.js@1.5.20)(markdown-it@14.1.0)(mpegts.js@1.8.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19)
+    version: 2.0.0-rc.71(@vuepress/plugin-feed@2.0.0-rc.74)(@vuepress/plugin-pwa@2.0.0-rc.74)(artplayer@5.2.2)(markdown-it@14.1.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19)
 
 packages:
 
@@ -3347,25 +3326,6 @@ packages:
     resolution: {integrity: sha512-urXwkHgwp6GsXVF+it01485Z2Cj4pnW02ICnM0TemOlkKmCNnDLmyy+ZZiRXBpwldUXO+aRNr7Hdia4CBvXJ5A==}
     dev: true
 
-  /bcp-47-match@1.0.3:
-    resolution: {integrity: sha512-LggQ4YTdjWQSKELZF5JwchnBa1u0pIQSZf5lSdOHEdbVP55h0qICA/FUp3+W99q0xqxYa1ZQizTUH87gecII5w==}
-    dev: true
-
-  /bcp-47-normalize@1.1.1:
-    resolution: {integrity: sha512-jWZ1Jdu3cs0EZdfCkS0UE9Gg01PtxnChjEBySeB+Zo6nkqtFfnvtoQQgP1qU1Oo4qgJgxhTI6Sf9y/pZIhPs0A==}
-    dependencies:
-      bcp-47: 1.0.8
-      bcp-47-match: 1.0.3
-    dev: true
-
-  /bcp-47@1.0.8:
-    resolution: {integrity: sha512-Y9y1QNBBtYtv7hcmoX0tR+tUNSFZGZ6OL6vKPObq8BbOhkCoyayF6ogfLTgAli/KuAEbsYHYUNq2AQuY6IuLag==}
-    dependencies:
-      is-alphabetical: 1.0.4
-      is-alphanumerical: 1.0.4
-      is-decimal: 1.0.4
-    dev: true
-
   /bcrypt-ts@5.0.3:
     resolution: {integrity: sha512-2FcgD12xPbwCoe5i9/HK0jJ1xA1m+QfC1e6htG9Bl/hNOnLyaFmQSlqLKcfe3QdnoMPKpKEGFCbESBTg+SJNOw==}
     engines: {node: '>=18'}
@@ -3558,10 +3518,6 @@ packages:
       wrap-ansi: 6.2.0
     dev: true
 
-  /codem-isoboxer@0.3.9:
-    resolution: {integrity: sha512-4XOTqEzBWrGOZaMd+sTED2hLpzfBbiQCf1W6OBGkIHqk1D8uwy8WFLazVbdQwfDpQ+vf39lqTGPa9IhWW0roTA==}
-    dev: true
-
   /color-convert@2.0.1:
     resolution: {integrity: sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==}
     engines: {node: '>=7.0.0'}
@@ -3657,25 +3613,6 @@ packages:
 
   /csstype@3.1.3:
     resolution: {integrity: sha512-M1uQkMl8rQK/szD0LNhtqxIPLpimGm8sOBwU7lLnCpSbTyY3yeU1Vc7l4KT5zT4s/yOxHH5O7tIuuLOCnLADRw==}
-    dev: true
-
-  /dashjs-pure@1.0.0:
-    resolution: {integrity: sha512-sZz/dtZe5rijzEPyrhurC4xh22ZJ8ERTDtoukbAiDdJP9Q0RfTGSoa263Wpex3xYqSkTChR51JSgI7MGxjQR8Q==}
-    dev: true
-
-  /dashjs@4.7.4:
-    resolution: {integrity: sha512-+hldo25QPP3H/NOwqUrvt4uKdMse60/Gsz9AUAnoYfhga8qHWq4nWiojUosOiigbigkDTCAn9ORcvUaKCvmfCA==}
-    dependencies:
-      bcp-47-match: 1.0.3
-      bcp-47-normalize: 1.1.1
-      codem-isoboxer: 0.3.9
-      es6-promise: 4.2.8
-      fast-deep-equal: 2.0.1
-      html-entities: 1.4.0
-      imsc: 1.1.5
-      localforage: 1.10.0
-      path-browserify: 1.0.1
-      ua-parser-js: 1.0.40
     dev: true
 
   /data-view-buffer@1.0.2:
@@ -3935,10 +3872,6 @@ packages:
       is-symbol: 1.1.1
     dev: true
 
-  /es6-promise@4.2.8:
-    resolution: {integrity: sha512-HJDGx5daxeIvxdBxvG2cb9g4tEvwIk3i8+nhX0yGrYmZUzbkdg8QbDevheDB8gd0//uPj4c1EQua8Q+MViT0/w==}
-    dev: true
-
   /esbuild@0.21.5:
     resolution: {integrity: sha512-mg3OPMV4hXywwpoDxu3Qda5xCKQi+vCTZq8S9J/EpkhB2HzKXq4SNFZE3+NK93JYxc8VMSep+lOUSC/RVKaBqw==}
     engines: {node: '>=12'}
@@ -4050,10 +3983,6 @@ packages:
     engines: {node: '>=0.10.0'}
     dependencies:
       is-extendable: 0.1.1
-    dev: true
-
-  /fast-deep-equal@2.0.1:
-    resolution: {integrity: sha512-bCK/2Z4zLidyB4ReuIsvALH6w31YfAQDmXMqMx6FyfHqvBxtjC0eRumeSu4Bs3XtXwpyIywtSTrVT99BxY1f9w==}
     dev: true
 
   /fast-deep-equal@3.1.3:
@@ -4376,16 +4305,8 @@ packages:
       '@types/hast': 3.0.4
     dev: true
 
-  /hls.js@1.5.20:
-    resolution: {integrity: sha512-uu0VXUK52JhihhnN/MVVo1lvqNNuhoxkonqgO3IpjvQiGpJBdIXMGkofjQb/j9zvV7a1SW8U9g1FslWx/1HOiQ==}
-    dev: true
-
   /hookable@5.5.3:
     resolution: {integrity: sha512-Yc+BQe8SvoXH1643Qez1zqLRmbA5rCL+sSmk6TVos0LWVfNIB7PGncdlId77WzLGSIB5KaWgTaNTs2lNVEI6VQ==}
-    dev: true
-
-  /html-entities@1.4.0:
-    resolution: {integrity: sha512-8nxjcBcd8wovbeKx7h3wTji4e6+rhaVuPNpMqwWgnHh+N9ToqsCs6XztWRBPQ+UtzsoMAdKZtUENoVzU/EMtZA==}
     dev: true
 
   /html-void-elements@3.0.0:
@@ -4422,18 +4343,8 @@ packages:
     engines: {node: '>= 4'}
     dev: true
 
-  /immediate@3.0.6:
-    resolution: {integrity: sha512-XXOFtyqDjNDAQxVfYxuF7g9Il/IbWmmlQg2MYKOH8ExIT1qg6xc4zyS3HaEEATgs1btfzxq15ciUiY7gjSXRGQ==}
-    dev: true
-
   /immutable@5.0.3:
     resolution: {integrity: sha512-P8IdPQHq3lA1xVeBRi5VPqUm5HDgKnx0Ru51wZz5mjxHr5n3RWhjIpOFU7ybkUxfB+5IToy+OLaHYDBIWsv+uw==}
-    dev: true
-
-  /imsc@1.1.5:
-    resolution: {integrity: sha512-V8je+CGkcvGhgl2C1GlhqFFiUOIEdwXbXLiu1Fcubvvbo+g9inauqT3l0pNYXGoLPBj3jxtZz9t+wCopMkwadQ==}
-    dependencies:
-      sax: 1.2.1
     dev: true
 
   /inflight@1.0.6:
@@ -4455,17 +4366,6 @@ packages:
       es-errors: 1.3.0
       hasown: 2.0.2
       side-channel: 1.1.0
-    dev: true
-
-  /is-alphabetical@1.0.4:
-    resolution: {integrity: sha512-DwzsA04LQ10FHTZuL0/grVDk4rFoVH1pjAToYwBrHSxcrBIGQuXrQMtD5U1b0U2XVgKZCTLLP8u2Qxqhy3l2Vg==}
-    dev: true
-
-  /is-alphanumerical@1.0.4:
-    resolution: {integrity: sha512-UzoZUr+XfVz3t3v4KyGEniVL9BDRoQtY7tOyrRybkVNjDFWyo1yhXNGrrBTQxp3ib9BLAWs7k2YKBQsFRkZG9A==}
-    dependencies:
-      is-alphabetical: 1.0.4
-      is-decimal: 1.0.4
     dev: true
 
   /is-array-buffer@3.0.5:
@@ -4537,10 +4437,6 @@ packages:
     dependencies:
       call-bound: 1.0.3
       has-tostringtag: 1.0.2
-    dev: true
-
-  /is-decimal@1.0.4:
-    resolution: {integrity: sha512-RGdriMmQQvZ2aqaQq3awNA6dCGtKpiDFcOzrTWrDAT2MiWrKQVPmxLGHl7Y2nNu6led0kEyoX0enY0qXYsv9zw==}
     dev: true
 
   /is-extendable@0.1.1:
@@ -4802,12 +4698,6 @@ packages:
     engines: {node: '>=6'}
     dev: true
 
-  /lie@3.1.1:
-    resolution: {integrity: sha512-RiNhHysUjhrDQntfYSfY4MU24coXXdEOgw9WGcKHNeEwffDYbF//u87M1EWaMGzuFoSbqW0C9C6lEEhDOAswfw==}
-    dependencies:
-      immediate: 3.0.6
-    dev: true
-
   /lilconfig@3.1.3:
     resolution: {integrity: sha512-/vlFKAoH5Cgt3Ie+JLhRbwOsCQePABiU3tJ1egGvyQ+33R/vcwM2Zl2QR/LzjsBeItPt3oSVXapn+m4nQDvpzw==}
     engines: {node: '>=14'}
@@ -4839,12 +4729,6 @@ packages:
       '@lit/reactive-element': 2.0.4
       lit-element: 4.1.1
       lit-html: 3.2.1
-    dev: true
-
-  /localforage@1.10.0:
-    resolution: {integrity: sha512-14/H1aX7hzBBmmh7sGPd+AOMkkIrHM3Z1PAyGgZigA1H1p5O5ANnMyWzvpAETtG68/dC4pC0ncy3+PPGzXZHPg==}
-    dependencies:
-      lie: 3.1.1
     dev: true
 
   /locate-path@5.0.0:
@@ -5001,13 +4885,6 @@ packages:
 
   /mitt@3.0.1:
     resolution: {integrity: sha512-vKivATfr97l2/QBCYAkXYDbrIWPM2IIKEl7YPhjCvKlG3kE2gm+uBo6nEXK3M5/Ffh/FLpKExzOQ3JJoJGFKBw==}
-    dev: true
-
-  /mpegts.js@1.8.0:
-    resolution: {integrity: sha512-ZtujqtmTjWgcDDkoOnLvrOKUTO/MKgLHM432zGDI8oPaJ0S+ebPxg1nEpDpLw6I7KmV/GZgUIrfbWi3qqEircg==}
-    dependencies:
-      es6-promise: 4.2.8
-      webworkify-webpack: git@github.com+xqq/webworkify-webpack/24d1e719b4a6cac37a518b2bb10fe124527ef4ef
     dev: true
 
   /ms@2.1.3:
@@ -5168,10 +5045,6 @@ packages:
     resolution: {integrity: sha512-BuBYQYlv1ckiPdQi/ohiivi9Sagc9JG+Ozs0r7b/0iK3sKmrb0b9FdWdBbOdx6hBCM/F9Ir82ofnBhtZOjCRPQ==}
     dependencies:
       entities: 4.5.0
-    dev: true
-
-  /path-browserify@1.0.1:
-    resolution: {integrity: sha512-b7uo2UCUOYZcnF/3ID0lulOJi/bafxa1xPe7ZPsammBSpjSWQkjNxlt635YGS2MiR9GjvuXCtz2emr3jbsz98g==}
     dev: true
 
   /path-exists@4.0.0:
@@ -5762,10 +5635,6 @@ packages:
       sass-embedded-win32-x64: 1.83.4
     dev: true
 
-  /sax@1.2.1:
-    resolution: {integrity: sha512-8I2a3LovHTOpm7NV5yOyO8IHqgVsfK4+UuySrXU8YXkSRX7k6hCV9b3HrkKCr3nMpgj+0bmocaJJWpvp1oc7ZA==}
-    dev: true
-
   /sax@1.4.1:
     resolution: {integrity: sha512-+aWOz7yVScEGoKNd4PA10LZ8sk0A/z5+nXQG5giUO5rprX9jgYsTdov9qCchZiPIZezbZH+jRut8nPodFAX4Jg==}
     dev: true
@@ -6218,11 +6087,6 @@ packages:
       reflect.getprototypeof: 1.0.10
     dev: true
 
-  /ua-parser-js@1.0.40:
-    resolution: {integrity: sha512-z6PJ8Lml+v3ichVojCiB8toQJBuwR42ySM4ezjXIqXK3M0HczmKQ3LF4rhU55PfD99KEEXQG6yb7iOMyvYuHew==}
-    hasBin: true
-    dev: true
-
   /uc.micro@2.1.0:
     resolution: {integrity: sha512-ARDJmphmdvUk6Glw7y9DQ2bFkKBHwQHLi2lsaH6PPmz/Ka9sFOBsBluozhDltWmnv9u/cF6Rt87znRTPV+yp/A==}
     dev: true
@@ -6435,7 +6299,7 @@ packages:
       '@vue/shared': 3.5.13
     dev: true
 
-  /vuepress-plugin-components@2.0.0-rc.71(artplayer@5.2.2)(dashjs@4.7.4)(hls.js@1.5.20)(mpegts.js@1.8.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19):
+  /vuepress-plugin-components@2.0.0-rc.71(artplayer@5.2.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19):
     resolution: {integrity: sha512-0EN/RgVUpinQaoLwqozYEzxhI8xHT+oDv0B6bw4DI6pFSlUzDP2adE1rw9UYeZDbVMZ9CD1SxuCLvc0dGEIGbw==}
     engines: {node: '>=18.19.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -6473,9 +6337,6 @@ packages:
       artplayer: 5.2.2
       balloon-css: 1.2.0
       create-codepen: 2.0.0
-      dashjs: 4.7.4
-      hls.js: 1.5.20
-      mpegts.js: 1.8.0
       qrcode: 1.5.4
       sass-embedded: 1.83.4
       vue: 3.5.13
@@ -6565,7 +6426,7 @@ packages:
       - typescript
     dev: true
 
-  /vuepress-theme-hope@2.0.0-rc.71(@vuepress/plugin-feed@2.0.0-rc.74)(@vuepress/plugin-pwa@2.0.0-rc.74)(artplayer@5.2.2)(dashjs@4.7.4)(hls.js@1.5.20)(markdown-it@14.1.0)(mpegts.js@1.8.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19):
+  /vuepress-theme-hope@2.0.0-rc.71(@vuepress/plugin-feed@2.0.0-rc.74)(@vuepress/plugin-pwa@2.0.0-rc.74)(artplayer@5.2.2)(markdown-it@14.1.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19):
     resolution: {integrity: sha512-tZbdXIYiYZHYLIhNdxWTHnbjCKhJWTFFkCqC73jBqBr9gqYyuzfQ/fSPWh/xaqwe/v33AUzJ2QHKao86m78mjg==}
     engines: {node: '>=18.19.0', npm: '>=8', pnpm: '>=7', yarn: '>=2'}
     peerDependencies:
@@ -6646,7 +6507,7 @@ packages:
       sass-embedded: 1.83.4
       vue: 3.5.13
       vuepress: 2.0.0-rc.19(@vuepress/bundler-vite@2.0.0-rc.19)(vue@3.5.13)
-      vuepress-plugin-components: 2.0.0-rc.71(artplayer@5.2.2)(dashjs@4.7.4)(hls.js@1.5.20)(mpegts.js@1.8.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19)
+      vuepress-plugin-components: 2.0.0-rc.71(artplayer@5.2.2)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19)
       vuepress-plugin-md-enhance: 2.0.0-rc.71(markdown-it@14.1.0)(sass-embedded@1.83.4)(vuepress@2.0.0-rc.19)
       vuepress-shared: 2.0.0-rc.71(vuepress@2.0.0-rc.19)
     transitivePeerDependencies:
@@ -6995,10 +6856,4 @@ packages:
 
   /zwitch@2.0.4:
     resolution: {integrity: sha512-bXE4cR/kVZhKZX/RjPEflHaKVhUVl85noU3v6b8apfQEc1x4A+zBxjZ4lN8LqGd6WZ3dl98pY4o717VFmoPp+A==}
-    dev: true
-
-  git@github.com+xqq/webworkify-webpack/24d1e719b4a6cac37a518b2bb10fe124527ef4ef:
-    resolution: {commit: 24d1e719b4a6cac37a518b2bb10fe124527ef4ef, repo: git@github.com:xqq/webworkify-webpack.git, type: git}
-    name: webworkify-webpack
-    version: 2.1.5
     dev: true
