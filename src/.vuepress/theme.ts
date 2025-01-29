@@ -155,22 +155,61 @@ export default hopeTheme({
       components: ["Badge", "ArtPlayer", "VPCard", "SiteInfo"],
     },
 
-    // 如果你需要 PWA。安装 vuepress-plugin-pwa2 并取消下方注释
+    // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
      pwa: {
-       favicon: "/favicon.ico",
-//       cacheHTML: true,
+       favicon: "https://img.yyyyt.top/avatar/avatar",
+    //   cacheHTML: true,
+    //   cacheImage: true,
        appendBase: true,
-       update: "force",
        apple: {
-         icon: "/assets/icon/apple-icon-152.png",
+         icon: "https://img.yyyyt.top/avatar/avatar",
          statusBarColor: "black",
        },
        msTile: {
-         image: "/assets/icon/ms-icon-144.png",
+         image: "https://img.yyyyt.top/avatar/avatar",
          color: "#ffffff",
        },
        manifest: {
+         icons: [
+           {
+             src: "https://img.yyyyt.top/avatar/avatar",
+             sizes: "512x512",
+             purpose: "maskable",
+             type: "image/png",
+           },
+           {
+             src: "https://img.yyyyt.top/avatar/avatar",
+             sizes: "192x192",
+             purpose: "maskable",
+             type: "image/png",
+           },
+           {
+             src: "https://img.yyyyt.top/avatar/avatar",
+             sizes: "512x512",
+             type: "image/png",
+           },
+           {
+             src: "https://img.yyyyt.top/avatar/avatar",
+             sizes: "192x192",
+             type: "image/png",
+           },
+         ],
+         shortcuts: [
+           {
+             name: "教程",
+             short_name: "教程",
+             url: "/guide/",
+             icons: [
+               {
+                 src: "/assets/icon/guide-maskable.png",
+                 sizes: "192x192",
+                 purpose: "maskable",
+                 type: "image/png",
+               },
+             ],
+           },
+         ],
        },
      },
-  },
+   },
 });
