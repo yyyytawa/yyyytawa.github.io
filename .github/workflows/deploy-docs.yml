@@ -1,5 +1,5 @@
 
-name: Deploy Docs
+name: 部署文档
 
 on:
   push:
@@ -17,34 +17,34 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # if your docs needs submodules, uncomment the following line
+          # 如果你文档需要 Git 子模块，取消注释下一行
           # submodules: true
 
-      - name: Setup pnpm
+      - name: 设置 pnpm
         uses: pnpm/action-setup@v4
 
 
-      - name: Setup Node.js
+      - name: 设置 Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: pnpm
 
-      - name: Install Deps
+      - name: 安装依赖
         run: |
           corepack enable
           pnpm install --frozen-lockfile
 
-      - name: Build Docs
+      - name: 构建文档
         env:
           NODE_OPTIONS: --max_old_space_size=8192
         run: |-
           pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
 
-      - name: Deploy Docs
+      - name: 部署文档
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # Deploy Docs
+          # 部署文档
           branch: gh-pages
           folder: src/.vuepress/dist
