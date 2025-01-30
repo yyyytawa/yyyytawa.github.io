@@ -1,10 +1,10 @@
 ---
-title: 2024年
+title: 2025年
 index: false
 feed: false
 sitemap: false
 timeline: false
 article: false
 dir:
-  order: -2024
+  order: -2025
 ---

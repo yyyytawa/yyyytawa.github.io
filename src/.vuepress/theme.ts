@@ -161,6 +161,7 @@ export default hopeTheme({
     //   cacheHTML: true,
     //   cacheImage: true,
        appendBase: true,
+       update: "hint",
        apple: {
          icon: "https://img.yyyyt.top/avatar/avatar",
          statusBarColor: "black",
