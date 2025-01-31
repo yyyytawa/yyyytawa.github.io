@@ -3,18 +3,26 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-01-30T15:55:02.272Z</updated>
+  <updated>2025-01-31T15:47:05.836Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
+  <category term="云湖事件"/>
   <category term="高中"/>
   <category term="公告"/>
   <category term="站点"/>
   <entry>
+    <title type="text">第三章 雨天散步</title>
+    <id>https://docs.yyyyt.top/articles/books/a_little_story/C_03.html</id>
+    <link href="https://docs.yyyyt.top/articles/books/a_little_story/C_03.html"/>
+    <updated>2025-01-31T15:46:17.000Z</updated>
+    <published>2025-01-31T15:46:17.000Z</published>
+  </entry>
+  <entry>
     <title type="text">0130 bot事件</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2025/0130.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2025/0130.html"/>
-    <updated>2025-01-30T15:54:09.000Z</updated>
+    <updated>2025-01-31T15:46:17.000Z</updated>
     <summary type="html"><![CDATA[<h2>事件一: bot事件</h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -52,13 +60,14 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
 <img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图9.jpg" alt="" loading="lazy"></p>
 </details>
 ]]></content>
+    <category term="云湖事件"/>
     <published>2025-01-30T15:54:09.000Z</published>
   </entry>
   <entry>
     <title type="text">第二章 有点规矩</title>
     <id>https://docs.yyyyt.top/articles/books/a_little_story/C_02.html</id>
     <link href="https://docs.yyyyt.top/articles/books/a_little_story/C_02.html"/>
-    <updated>2025-01-30T15:54:09.000Z</updated>
+    <updated>2025-01-31T15:46:17.000Z</updated>
     <summary type="html"><![CDATA[<p>早上阳光明媚.我缓慢的起来伸了个懒腰,只见神秘人的床位已经空空如也,我又四处望去但是还是不见其人影.我想着可能是去干别的了吧,于是大喊几声:"你在哪里?" 我这样连续喊了好几次都不见其人,一扭头又忽然看到其实站在我后面严肃的盯着我.<br>
 "你有什么事情吗?" 神秘人用冷漠的语气问到.<br>
 "没......没......没什么事情,只是喊一下找人."<br>
@@ -98,7 +107,14 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
 我感到奇怪的是没有照明晚上也能看的清清楚楚,而且往天上一看明显就知道天黑了,再扭头看神秘人的脸,眼睛跟个会发光一样,但实际上没有光发出.<br>
 "看我干嘛?" 神秘人突然问到.<br>
 "没......没什么,只是看一下."<br>
-神秘人也没有继续问下去,只是拉着我的手慢慢的走着同时一边和我闲聊.忽然又说起来早上大喊的事情.</p>]]></summary>
+神秘人也没有继续问下去,只是拉着我的手慢慢的散步着同时一边和我闲聊.忽然又说起来早上大喊的事情.说到我这样做很危险,容易过度暴露自己,而且神秘人那边也喜欢安静,所以才不让干.我表示理解这个并且表示以后再也不这样了.伴随着慢慢的散步,神秘人表示天也不早了于是我们便回去了.<br>
+刚回去我们便把衣服里面的白色果实装框里面,然后把框紧凑的放到棚子下面,进过一天的努力我们采摘了许多白色果实.忙完之后,就在我准备睡的时候神秘人把我叫住.<br>
+"你愿不愿意变成玩偶?"<br>
+"什么玩偶?!"<br>
+"我说的是类似玩偶形态,个子比较矮小,可以抱着睡的那种."<br>
+还没等我同意我就已经发现自己变成所谓的"玩偶形态",个子矮小到可以抱着当玩偶.我感到有点害怕.<br>
+"放心,没事的.可以变回玩偶形态之前的样子.只要起来之后过不了多久就能自己变回去."神秘人安慰到.<br>
+神秘人把我抱在怀里,躺在地铺上睡着了,暖和的温度让我渐渐放松,然后在怀里面安稳的睡着了.</p>]]></summary>
     <content type="html"><![CDATA[<p>早上阳光明媚.我缓慢的起来伸了个懒腰,只见神秘人的床位已经空空如也,我又四处望去但是还是不见其人影.我想着可能是去干别的了吧,于是大喊几声:"你在哪里?" 我这样连续喊了好几次都不见其人,一扭头又忽然看到其实站在我后面严肃的盯着我.<br>
 "你有什么事情吗?" 神秘人用冷漠的语气问到.<br>
 "没......没......没什么事情,只是喊一下找人."<br>
@@ -138,7 +154,14 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
 我感到奇怪的是没有照明晚上也能看的清清楚楚,而且往天上一看明显就知道天黑了,再扭头看神秘人的脸,眼睛跟个会发光一样,但实际上没有光发出.<br>
 "看我干嘛?" 神秘人突然问到.<br>
 "没......没什么,只是看一下."<br>
-神秘人也没有继续问下去,只是拉着我的手慢慢的走着同时一边和我闲聊.忽然又说起来早上大喊的事情.</p>
+神秘人也没有继续问下去,只是拉着我的手慢慢的散步着同时一边和我闲聊.忽然又说起来早上大喊的事情.说到我这样做很危险,容易过度暴露自己,而且神秘人那边也喜欢安静,所以才不让干.我表示理解这个并且表示以后再也不这样了.伴随着慢慢的散步,神秘人表示天也不早了于是我们便回去了.<br>
+刚回去我们便把衣服里面的白色果实装框里面,然后把框紧凑的放到棚子下面,进过一天的努力我们采摘了许多白色果实.忙完之后,就在我准备睡的时候神秘人把我叫住.<br>
+"你愿不愿意变成玩偶?"<br>
+"什么玩偶?!"<br>
+"我说的是类似玩偶形态,个子比较矮小,可以抱着睡的那种."<br>
+还没等我同意我就已经发现自己变成所谓的"玩偶形态",个子矮小到可以抱着当玩偶.我感到有点害怕.<br>
+"放心,没事的.可以变回玩偶形态之前的样子.只要起来之后过不了多久就能自己变回去."神秘人安慰到.<br>
+神秘人把我抱在怀里,躺在地铺上睡着了,暖和的温度让我渐渐放松,然后在怀里面安稳的睡着了.</p>
 ]]></content>
     <published>2025-01-29T13:10:29.000Z</published>
   </entry>
@@ -1116,24 +1139,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <published>2024-10-06T13:42:25.000Z</published>
   </entry>
   <entry>
-    <title type="text">目录</title>
-    <id>https://docs.yyyyt.top/articles/novel/file.html</id>
-    <link href="https://docs.yyyyt.top/articles/novel/file.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <published>2024-10-06T13:42:25.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">文件</title>
-    <id>https://docs.yyyyt.top/articles/novel/file/</id>
-    <link href="https://docs.yyyyt.top/articles/novel/file/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<p>这里放的是具体的文件</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>这里放的是具体的文件</p>
-]]></content>
-    <published>2024-10-06T13:42:25.000Z</published>
-  </entry>
-  <entry>
     <title type="text">隐私政策</title>
     <id>https://docs.yyyyt.top/site/privacy.html</id>
     <link href="https://docs.yyyyt.top/site/privacy.html"/>
@@ -1918,13 +1923,6 @@ PS:大部分消息已撤回<br>
     <published>2024-07-18T14:00:15.000Z</published>
   </entry>
   <entry>
-    <title type="text">小说</title>
-    <id>https://docs.yyyyt.top/articles/novel/</id>
-    <link href="https://docs.yyyyt.top/articles/novel/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <published>2024-07-15T12:55:12.000Z</published>
-  </entry>
-  <entry>
     <title type="text">上学期</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/"/>
@@ -2475,6 +2473,39 @@ but我们班只有1-2秒的时间.<br>
     <id>https://docs.yyyyt.top/blog/yh/</id>
     <link href="https://docs.yyyyt.top/blog/yh/"/>
     <updated>2024-07-18T14:05:01.000Z</updated>
+    <published>2024-02-18T15:19:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">高一年级</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/"/>
+    <updated>2024-02-18T15:19:45.000Z</updated>
+    <summary type="html"><![CDATA[<p>这里放的是高一年级的内容<br>
+由于众所周知原因,高一上学期和寒假的部分内容丢失</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>这里放的是高一年级的内容<br>
+由于众所周知原因,高一上学期和寒假的部分内容丢失</p>
+]]></content>
+    <published>2024-02-18T15:19:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">寒假</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html"/>
+    <updated>2024-02-23T11:49:38.000Z</updated>
+    <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
+<strong>开始: 20240131</strong><br>
+<strong>结束: <s>20240222</s> 20240225</strong></h2>
+<p>这里面放的是寒假的内容</p>
+<h3>网课事变20240216</h3>
+<p>学校为了提升学校成绩,开设网课</p>
+<h3>寒假延期20240221</h3>
+<p>论当天雪有多大(暂时不放图了),总之就是满地的雪,电动车没法走,路很滑。所以延期到了2024年2月25日</p>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>日期:</strong><br>
+<strong>开始: 20240131</strong><br>
+<strong>结束: <s>20240222</s> 20240225</strong></p>
+]]></content>
     <published>2024-02-18T15:19:45.000Z</published>
   </entry>
 </feed>
