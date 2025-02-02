@@ -6,14 +6,49 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 01 Feb 2025 14:48:51 GMT</pubDate>
-    <lastBuildDate>Sat, 01 Feb 2025 14:48:51 GMT</lastBuildDate>
+    <pubDate>Sun, 02 Feb 2025 02:54:39 GMT</pubDate>
+    <lastBuildDate>Sun, 02 Feb 2025 02:54:39 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>云湖事件</category>
     <category>高中</category>
     <category>公告</category>
     <category>站点</category>
+    <item>
+      <title>0201 轰炸</title>
+      <link>https://docs.yyyyt.top/blog/yh/events/2025/0201.html</link>
+      <guid>https://docs.yyyyt.top/blog/yh/events/2025/0201.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">0201 轰炸</source>
+      <description>事件一: Dream(butlanys)退坑 据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.相关链接 事件二: 盗号轰炸 据目前已知消息,万账[1]被盗号 (详情见FPA[2]群里面) token已经泄露(现已失效),于是...... 文章boom 全员群等多个群聊已经...</description>
+      <category>云湖事件</category>
+      <pubDate>Sun, 02 Feb 2025 02:53:52 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>事件一: Dream(butlanys)退坑</h2>
+<p>据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.<a href="https://blog.butlanys.de/posts/37249/" target="_blank" rel="noopener noreferrer">相关链接</a><br>
+<s>其实好像是隐退了,还有一个号没注销</s></p>
+<h2>事件二: 盗号轰炸</h2>
+<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"></sup></a><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">群里面)<br>
+token已经泄露(现已失效),于是......<br>
+<s>谁整得活</s><br>
+<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg" alt="文章boom" width="270" height="615" loading="lazy"><br>
+<s>当然Feng把这些文章全处理了,全删了</s><br>
+全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</a></p><a class="footnote-anchor" id="footnote-ref2">
+<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>万账此人以前曾经威胁说要开盒等恶劣行为(反福瑞这个我不做评价)</p>
+</div>
+<p>相关截图懒得弄了,自己翻聊天记录吧</p>
+<hr class="footnotes-sep">
+</a><section class="footnotes"><a class="footnote-anchor" id="footnote-ref2">
+</a><ol class="footnotes-list"><a class="footnote-anchor" id="footnote-ref2">
+</a><li id="footnote1" class="footnote-item"><a class="footnote-anchor" id="footnote-ref2"></a><p><a class="footnote-anchor" id="footnote-ref2"></a><a href="https://www.yhchat.com/user/homepage/6673608" target="_blank" rel="noopener noreferrer">万账(已注销)</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="footnote2" class="footnote-item"><p><a href="https://yhfx.jwznb.com/share?key=byzXNOyytLtE&amp;ts=1738419747" target="_blank" rel="noopener noreferrer">相关链接</a> <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg =270x615" type="image/"/>
+    </item>
     <item>
       <title>第三章 雨天散步</title>
       <link>https://docs.yyyyt.top/articles/books/a_little_story/C_03.html</link>
@@ -1785,18 +1820,6 @@ PS:大部分消息已撤回<br>
       <pubDate>Sun, 18 Feb 2024 15:19:45 GMT</pubDate>
       <content:encoded><![CDATA[<p>这里放的是高一年级的内容<br>
 由于众所周知原因,高一上学期和寒假的部分内容丢失</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>寒假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/winterholiady.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">寒假</source>
-      <description>日期: 开始: 20240131 结束: 20240225 这里面放的是寒假的内容 网课事变20240216 学校为了提升学校成绩,开设网课 寒假延期20240221 论当天雪有多大(暂时不放图了),总之就是满地的雪,电动车没法走,路很滑。所以延期到了2024年2月25日</description>
-      <pubDate>Sun, 18 Feb 2024 15:19:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期:</strong><br>
-<strong>开始: 20240131</strong><br>
-<strong>结束: <s>20240222</s> 20240225</strong></p>
 ]]></content:encoded>
     </item>
   </channel>
