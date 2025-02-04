@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 04 Feb 2025 06:16:16 GMT</pubDate>
-    <lastBuildDate>Tue, 04 Feb 2025 06:16:16 GMT</lastBuildDate>
+    <pubDate>Tue, 04 Feb 2025 15:23:22 GMT</pubDate>
+    <lastBuildDate>Tue, 04 Feb 2025 15:23:22 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>技术</category>
@@ -97,9 +97,9 @@ token已经泄露(现已失效),于是......<br>
       <link>https://docs.yyyyt.top/articles/books/a_little_story/C_03.html</link>
       <guid>https://docs.yyyyt.top/articles/books/a_little_story/C_03.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第三章 雨天散步</source>
-      <description>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:&amp;quot;给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了.&amp;quot;我往衣服里面拿出来了一些红色和橙色果实,味...</description>
+      <description>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:&amp;quot;给我好好待着别动,也别乱叫,我过一会回去.早饭放到你的衣服里面了.&amp;quot;我往衣服里面拿出来了一些红色和橙色果实,...</description>
       <pubDate>Fri, 31 Jan 2025 15:46:17 GMT</pubDate>
-      <content:encoded><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白上衣和白裤子放在那里,还有一些散乱的线和类似棉花的物质.我打了个哈欠,鸟全都吓跑了.</p>
+      <content:encoded><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我过一会回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白帽子放在附件的一个架子上,还有一些散乱的线和类似棉花的物质和被打开的白色果实.我打了个哈欠,鸟全都吓跑了.由于外边下着雨而且还起着雾,我也看不清多远的东西.只好在平台周边有棚子的下面呆着.我拿着胳膊略微遮着雨跑到了装着白色果实的棚子那边,看着未织完的帽子.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -1417,21 +1417,29 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <link>https://docs.yyyyt.top/site/about_me.html</link>
       <guid>https://docs.yyyyt.top/site/about_me.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">关于我</source>
-      <description>avatar 真名: 不愿透露 一个高中生(2024年),生活在河南 平时比较忙,可能周六周日才有空(也可能没空) 注:目前图标,背景还在考虑 联系方式: 邮箱: support@yyyyt.top GitHub: yyyytawa 云湖: yyyyt 文档站交流群 PS:请说明来意</description>
+      <description>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~ avatar 真名: 不愿透露 一个高中生(2024年),生活在河南 平时比较忙,可能周六周日才有空(也可能没空) 注:目前图标,背景还在考虑 一些话 这个站点也只是在无聊时候创建的,当然也只是玩玩而已. 对于现实中的朋友,如果你很好奇...</description>
       <category>站点</category>
       <pubDate>Sun, 21 Jul 2024 11:11:08 GMT</pubDate>
-      <content:encoded><![CDATA[<p><img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" width="50" height="55" loading="lazy"><br>
+      <content:encoded><![CDATA[<blockquote>
+<p>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~</p>
+</blockquote>
+<p><img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" width="50" height="55" loading="lazy"><br>
 <s>由于头像301热更新机制因此此处不会再写来源</s><br>
 真名: 不愿透露<br>
 一个高中生(2024年),生活在河南<br>
 平时比较忙,可能周六周日才有空(也可能没空)<br>
 注:目前图标,背景还在考虑</p>
+<h2>一些话</h2>
+<p>这个站点也只是在无聊时候创建的,当然也只是玩玩而已.<br>
+对于现实中的朋友,如果你很好奇这个站点如何搭建的话,也不要来问我.<br>
+<s>因为我也不会教你.</s><br>
+我只会告诉你用的<a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">Vuepress-theme-hope</a>+<a href="https://www.cloudflare.com/developer-platform/products/pages/" target="_blank" rel="noopener noreferrer">Cloudflare Pages</a>,其实我这边更推荐<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>,对于大陆访客更友好,<s>但是我这边不知道为啥注册就封我的号.</s><br>
+<s>当然我现实中的人大概率也不知道这个网站吧......</s><br>
+希望这个站点就安安静静的度过去就行了,反正也不指望啥.<br>
+毕竟本来就是玩玩的东西,不需要费太多精力在上面.</p>
 <h2>联系方式:</h2>
-<p>邮箱: <a href="mailto:support@yyyyt.top" target="_blank" rel="noopener noreferrer">support@yyyyt.top</a><br>
-GitHub: <a href="https://github.com/yyyytawa" target="_blank" rel="noopener noreferrer">yyyytawa</a><br>
-云湖: <a href="https://www.yhchat.com/user/homepage/7354488" target="_blank" rel="noopener noreferrer">yyyyt</a><br>
-<a href="https://yhfx.jwznb.com/share?key=AzLufUpeqlvP&amp;ts=1726939457" target="_blank" rel="noopener noreferrer">文档站交流群</a><br>
-PS:请说明来意</p>
+<p>QQ,微信,电话号码等涉及个人隐私的联系方式不会在这里展示.<br>
+邮箱: <a href="mailto:support@yyyyt.top" target="_blank" rel="noopener noreferrer">support@yyyyt.top</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/avatar/avatar =50x55" type="image/"/>
     </item>
