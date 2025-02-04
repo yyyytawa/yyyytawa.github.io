@@ -3,14 +3,75 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-02-04T05:28:38.399Z</updated>
+  <updated>2025-02-04T06:16:16.191Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
+  <category term="技术"/>
   <category term="云湖事件"/>
   <category term="高中"/>
   <category term="公告"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">3.一次文档的构建失败</title>
+    <id>https://docs.yyyyt.top/articles/tech/2025/0204.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</id>
+    <link href="https://docs.yyyyt.top/articles/tech/2025/0204.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文写于 2025 02 04</p>
+<h2>速通版:</h2>
+<p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
+<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" data-title="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  if</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">key</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signature</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`Cannot find matching keyid: </span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">${</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">JSON</span><span style="--shiki-light:#50A14F;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">stringify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signatures</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keys</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> })</span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">}</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">                                              ^</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: </span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Cannot</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> find</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> matching</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keyid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: {</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"signatures"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:[{</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"sig"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"MEQCIBfxS9RKPsi46jxBHnsGYQ03mg8um110415vE6KRCzY8AiBvik66sYxJ/NyCovwJSbDuuoaYCxc7EVdFhaaciIXjTw=="</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keyid"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}],</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keys"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:[{</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"expires"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keyid"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keytype"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"ecdsa-sha2-nistp256"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"scheme"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"ecdsa-sha2-nistp256"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"key"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1Olb3zMAFFxXKHiIkQO5cJ3Yhl5i6UPp+IhuteBJbuHcA5UogKo0EWtlWwW6KSaKoTNEYL7JlCQiVnkhBktUgg=="</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}]}</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> verifySignature</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">47</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> fetchLatestStableVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21553</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> process</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">processTicksAndRejections</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">internal</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">process</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">task_queues</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">105</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> fetchLatestStableVersion2</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21672</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">14</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Engine</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getDefaultVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22298</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">23</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Engine</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">executePackageManagerRequest</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22396</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">47</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">runMain</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">23102</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">Node</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">js</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> v22</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">13.1</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: </span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Process</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> completed</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> with</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> exit</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> code</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 1.</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<p>本文写于 2025 02 04</p>
+<h2>速通版:</h2>
+<p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
+<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" data-title="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  if</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">key</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signature</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`Cannot find matching keyid: </span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">${</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">JSON</span><span style="--shiki-light:#50A14F;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">stringify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signatures</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keys</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> })</span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">}</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
+<span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">                                              ^</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: </span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Cannot</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> find</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> matching</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keyid</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: {</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"signatures"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:[{</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"sig"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"MEQCIBfxS9RKPsi46jxBHnsGYQ03mg8um110415vE6KRCzY8AiBvik66sYxJ/NyCovwJSbDuuoaYCxc7EVdFhaaciIXjTw=="</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keyid"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}],</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keys"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:[{</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"expires"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keyid"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"keytype"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"ecdsa-sha2-nistp256"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"scheme"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"ecdsa-sha2-nistp256"</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"key"</span><span style="--shiki-light:#0184BC;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"MFkwEwYHKoZIzj0CAQYIKoZIzj0DAQcDQgAE1Olb3zMAFFxXKHiIkQO5cJ3Yhl5i6UPp+IhuteBJbuHcA5UogKo0EWtlWwW6KSaKoTNEYL7JlCQiVnkhBktUgg=="</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}]}</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> verifySignature</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">47</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> fetchLatestStableVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21553</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> process</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">processTicksAndRejections</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">internal</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">process</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">task_queues</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">105</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> fetchLatestStableVersion2</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21672</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">14</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Engine</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">getDefaultVersion</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22298</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">23</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Engine</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">executePackageManagerRequest</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22396</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">47</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">    at</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> async</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B"> Object</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">runMain</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">23102</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">5</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">Node</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">js</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> v22</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">13.1</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">: </span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">Process</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> completed</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> with</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> exit</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> code</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> 1.</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>解决方法(参考 <a href="https://github.com/npm/cli/issues/8075" target="_blank" rel="noopener noreferrer">https://github.com/npm/cli/issues/8075</a> ):</p>
+<ol>
+<li>设置环境变量 COREPACK_INTEGRITY_KEYS=0</li>
+<li>更新corepack版本</li>
+</ol>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">npm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -g</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> corepack@latest</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><ol start="3">
+<li>重新运行pnpm即可</li>
+</ol>
+<p>Github action的把指令添加到工作流里面即可</p>
+<p>这个问题属于pnpm上游问题,所以......<br>
+最近几天好像已经修复了</p>
+<p>byd这问题让我排查半天</p>
+<h2>The End</h2>
+]]></content>
+    <category term="技术"/>
+    <published>2025-02-04T06:14:52.000Z</published>
+  </entry>
   <entry>
     <title type="text">0201 轰炸</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2025/0201.html</id>
@@ -58,9 +119,9 @@ token已经泄露(现已失效),于是......<br>
     <title type="text">第三章 雨天散步</title>
     <id>https://docs.yyyyt.top/articles/books/a_little_story/C_03.html</id>
     <link href="https://docs.yyyyt.top/articles/books/a_little_story/C_03.html"/>
-    <updated>2025-02-04T04:50:44.000Z</updated>
-    <summary type="html"><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白上衣和白裤子放在那里,还有一些散乱的线.我打了个哈欠,鸟全都吓跑了.</p>]]></summary>
-    <content type="html"><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白上衣和白裤子放在那里,还有一些散乱的线.我打了个哈欠,鸟全都吓跑了.</p>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白上衣和白裤子放在那里,还有一些散乱的线和类似棉花的物质.我打了个哈欠,鸟全都吓跑了.</p>]]></summary>
+    <content type="html"><![CDATA[<p>早上起来脑子昏昏沉沉,自己睡在床上,神秘人也是一如既往的消失不见.伸个懒腰起床清醒后,只见外面淅沥沥的下着大雨,四周都是雾蒙蒙的.外面除了被棚子遮住的地方以外都是湿的.我再回头看了一下神秘人的床位也是不出意外的空着的.只见有一个纸条,上面写着:"给我好好待着别动,也别乱叫,我中午回去.早饭放到你的衣服里面了."我往衣服里面拿出来了一些红色和橙色果实,味道还是那个味道.等吃完之后看到有一些鸟儿在站在树枝上等待着啥,看到我吃完早饭就立马飞到棚子上面等待.我只是看着这些鸟在等待,它们看到我不动才下来飞到头上叨走一些很小的油脂,看样子是头发太油都结小块了.我只是看着不去驱赶,等着这些鸟把头上的微小的油脂吃掉.我继续坐在床上望着四周的风景.看到昨天摘的白色果实的箱子已经打开,果实少了一部分,附近还有一个没有织完的白上衣和白裤子放在那里,还有一些散乱的线和类似棉花的物质.我打了个哈欠,鸟全都吓跑了.</p>
 ]]></content>
     <published>2025-01-31T15:46:17.000Z</published>
   </entry>
@@ -214,9 +275,9 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
   </entry>
   <entry>
     <title type="text">前端和后端的都有锅</title>
-    <id>https://docs.yyyyt.top/articles/article/2025/01/240.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2025/01/240.html"/>
-    <updated>2025-01-25T13:59:53.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2025/01/240.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/01/240.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container warning">
 <p class="hint-container-title">声明</p>
 <p>1.我做的确实有点不对,往里面XSS注入和尝试输入大量的字符串,找漏洞的方式有点不对</p>
@@ -271,9 +332,9 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
   </entry>
   <entry>
     <title type="text">什么离谱玩意</title>
-    <id>https://docs.yyyyt.top/articles/article/2025/01/230.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2025/01/230.html"/>
-    <updated>2025-01-23T14:47:01.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2025/01/230.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/01/230.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>有人在厕所放炮,然后被发现弄了个留校观察处分<br>
 不作死就不会死<br>
 byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
@@ -414,9 +475,9 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
   </entry>
   <entry>
     <title type="text">元旦晚会</title>
-    <id>https://docs.yyyyt.top/articles/article/2025/01/030.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2025/01/030.html"/>
-    <updated>2025-01-03T12:36:22.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2025/01/030.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/01/030.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>2024年12月31日,2024年的最后一天,当然这一天也不普通,午休无了(微机模拟考试占了).那天晚上,迎来了在高中上真正意义的元旦晚会,虽然说可能不如初中的那个,但是已经很不错了.这是在当天准备没经过多少排练,没有彩排做到的.内容我下面大致的说一下<br>
 这个是纯教室里面演出了,也别想着初中/小学的学校统一编排,训练那种,咱学校没有组织这个,毕竟高一高三都直接放元旦假期回家了,就高二还待在那里,所以别指望太多<br>
 首先登场的便就是我们的马老师,带来的演出为<a href="https://www.bilibili.com/video/av697635795/" target="_blank" rel="noopener noreferrer">&lt;&lt;童话镇&gt;&gt;</a>歌曲,当时现场蹭的B02的网,所以有点卡......网络卡顿还影响到了后面的表演,第二个是唱的<a href="https://www.bilibili.com/video/BV13W41127gQ/" target="_blank" rel="noopener noreferrer">&lt;&lt;小镇姑娘&gt;&gt;</a>.最后这两个重新唱了一遍</p>]]></summary>
@@ -469,35 +530,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <link href="https://docs.yyyyt.top/site/faq.html"/>
     <updated>2025-01-25T13:59:53.000Z</updated>
     <category term="站点"/>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/12/290.html"/>
-    <updated>2025-01-02T13:52:38.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -587,6 +619,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -741,9 +802,9 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
   </entry>
   <entry>
     <title type="text">某同学家长来了?!</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/11/240.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/11/240.html"/>
-    <updated>2025-01-29T13:10:29.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2024/11/240.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/11/240.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241124,编辑于20241130,20250129</p>
 <p>时间: 星期五<br>
 某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把张同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究</p>
@@ -876,7 +937,11 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <title type="text">文章</title>
     <id>https://docs.yyyyt.top/articles/</id>
     <link href="https://docs.yyyyt.top/articles/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p><s>至于为什么书与诗歌目录会在这下面我也不知道,反正都算文章</s></p>
+]]></summary>
+    <content type="html"><![CDATA[<p><s>至于为什么书与诗歌目录会在这下面我也不知道,反正都算文章</s></p>
+]]></content>
     <published>2024-11-02T15:33:50.000Z</published>
   </entry>
   <entry>
@@ -921,9 +986,9 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </entry>
   <entry>
     <title type="text">2024年</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2024/</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>2024年的内容</p>
 <div class="catalog-display-container">
   </div>]]></summary>
@@ -933,24 +998,59 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
-    <title type="text">7月</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/07/</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/07/"/>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
     <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">7月</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/07/</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/07/"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
     <title type="text">8月</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/08/</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/08/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2024/08/</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/08/"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
     <title type="text">同学间的爱恨情仇</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/10/202410260.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/10/202410260.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/10/202410260.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20241026-20241026</p>
 <div style="text-align:center">
 <h3>P1.土豆和张同学与石同学</h3>
@@ -987,44 +1087,9 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </entry>
   <entry>
     <title type="text">10月</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/10/</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/10/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <published>2024-10-26T15:43:45.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.张同学和石同学和土豆</h3>
-<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content>
+    <id>https://docs.yyyyt.top/articles/daily/2024/10/</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/10/"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
@@ -1092,9 +1157,9 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </entry>
   <entry>
     <title type="text">2.雨云免费游戏云的一些操作</title>
-    <id>https://docs.yyyyt.top/guide/someguide/2.html</id>
-    <link href="https://docs.yyyyt.top/guide/someguide/2.html"/>
-    <updated>2024-12-15T06:57:56.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/tech/2024/2.html</id>
+    <link href="https://docs.yyyyt.top/articles/tech/2024/2.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>
 <p>本文写于20241012</p>
 <p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>
@@ -1129,6 +1194,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 </div>
 <p>Enjoy it</p>
 ]]></content>
+    <category term="技术"/>
     <published>2024-10-12T16:13:22.000Z</published>
   </entry>
   <entry>
@@ -1611,34 +1677,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <published>2024-08-24T16:34:57.000Z</published>
   </entry>
   <entry>
-    <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/08/202408190.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/08/202408190.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
-]]></content>
-    <published>2024-08-20T15:34:03.000Z</published>
-  </entry>
-  <entry>
     <title type="text">20240820 今天火药味有点浓啊</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240820.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240820.html"/>
@@ -1689,6 +1727,34 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 </li>
 </ol>
 </section>
+]]></content>
+    <published>2024-08-20T15:34:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">乱象吐槽</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
+    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
+<h3>3. 谣言类</h3>
+<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
+<h3>4. 辱骂</h3>
+<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
+<h3>5. 未成年保护不到位</h3>
+<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
 ]]></content>
     <published>2024-08-20T15:34:03.000Z</published>
   </entry>
@@ -1750,9 +1816,9 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
   </entry>
   <entry>
     <title type="text">测试文章</title>
-    <id>https://docs.yyyyt.top/articles/article/2024/07/202407280.html</id>
-    <link href="https://docs.yyyyt.top/articles/article/2024/07/202407280.html"/>
-    <updated>2024-11-23T15:46:37.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/daily/2024/07/202407280.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/07/202407280.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
 <h1>这是一级标题</h1>
 <h2>这是二级标题</h2>
@@ -1975,17 +2041,6 @@ PS:大部分消息已撤回<br>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/"/>
     <updated>2024-07-15T23:39:52.000Z</updated>
     <published>2024-07-15T12:55:12.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">文章</title>
-    <id>https://docs.yyyyt.top/articles/article/</id>
-    <link href="https://docs.yyyyt.top/articles/article/"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<div class="catalog-display-container">
-  </div>]]></summary>
-    <content type="html"><![CDATA[<div class="catalog-display-container">
-  </div>]]></content>
-    <published>2024-07-12T12:14:08.000Z</published>
   </entry>
   <entry>
     <title type="text">暑假</title>
