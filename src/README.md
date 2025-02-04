@@ -7,7 +7,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: yyyyt的文档站
-tagline: yyyyt的文档站
+tagline: World is Bad or Worse.
 actions:
   - text: 文档
     icon: book
@@ -24,7 +24,10 @@ footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VueP
 **欢迎来到我的文档站**  
 *~~这不是一个博客~~*  
 *你可以查阅信息*  
-*这是中文的首页*  
+*这是中文的首页*~~(英文的老早就被删了)~~  
+
+> [!tip]
+> 想写就写,不想写就不写,随缘更新.
 
 ## 这个站点是用来干啥的?  
 
