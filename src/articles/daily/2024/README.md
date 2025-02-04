@@ -9,5 +9,5 @@ dir:
 2024年的内容
 
 <div class="catalog-display-container">
-  <Catalog base='/articles/article/2024/' />
+  <Catalog base='/articles/daily/2024/' />
 </div>

@@ -1,6 +1,8 @@
 ---
 order: -1
 title: 1.DDNS-GO简单教程
+category:
+- 技术
 ---
 
 ### 简介     

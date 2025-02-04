@@ -1,17 +1,16 @@
 ---
-title: 2025年
+title: 技术类文章
 index: false
 feed: false
 sitemap: false
 timeline: false
 article: false
 dir:
-  order: -2025
-  link: true
+  order: 2
 ---
 
-2025年的内容
+这里放的是技术类文章目录  
 
 <div class="catalog-display-container">
-  <Catalog base='/articles/article/2025/' />
+  <Catalog base='/articles/tech/' />
 </div>
