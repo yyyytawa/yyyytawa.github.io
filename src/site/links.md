@@ -116,16 +116,26 @@ otherlinks:
 
 友链申请:  
 要求支持HTTPS(必须支持TLS1.3 or Later)  
-能正常访问  
+能正常访问,也不能被墙  
 不能有违法违规内容  
 添加本站友链  
 
 在下方评论区留言即可,格式:  
 ```
  - name: 名称
-   desc: 114514
+   desc: 描述
    logo: 图标
    url: 链接
    repo: Github仓库(可不填)
    preview: 背景(推荐网站主页)
+```
+
+我的站点信息  
+```
+ - name: yyyyt的文档站
+   desc: World is Bad or Worse
+   logo: https://img.yyyyt.top/avatar/avatar
+   url: https://docs.yyyyt.top
+   repo: yyyytawa/yyyytawa.github.io
+   preview: https://img.yyyyt.top/vuepress/screenshot
 ```
