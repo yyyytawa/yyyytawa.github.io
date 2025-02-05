@@ -36,6 +36,12 @@ otherlinks:
    url: https://juhao.hashnode.dev/
    preview: https://img.yyyyt.top/vuepress/site/links/preview/JuHao_Blog.png
 
+ - name: NodeLoc
+   desc: NodeLoc论坛
+   logo: https://img.yyyyt.top/vuepress/site/links/NodeLoc.png
+   url: https://www.nodeloc.com
+   preview: https://img.yyyyt.top/vuepress/site/links/preview/NodeLoc.png
+
  - name: Qrasa的小站
    desc: 记录一些活着的日常
    logo: https://qrasa.cn/assets/avatar.webp
@@ -83,7 +89,7 @@ otherlinks:
 <div class="vp-card-container">
 <VPCard
   title="Cloudflare"
-  desc="网站性能与防护.提供了本站静态页面服务器(Pages).同时也提供了cdn服务和内网穿透服务"
+  desc="网站性能与防护.提供了本站静态页面服务器(Pages).同时也提供了内网穿透服务"
   logo="https://img.yyyyt.top/vuepress/site/links/CloudflareLogo.ico"
   link="https://www.cloudflare.com"
 />
@@ -105,13 +111,19 @@ otherlinks:
   logo="https://img.yyyyt.top/vuepress/site/links/giscuslogo.png"
   link="https://giscus.app/"
 />
-</div>
 <VPCard
   title="Runoneall"
   desc="提供了本站图床的SaaS优选"
   logo="https://r1a.rr.nu/favicon.webp"
   link="https://r1a.rr.nu"
 />
+<VPCard
+  title="NodeLoc"
+  desc="提供了本站大陆方向优化的cdn"
+  logo="https://img.yyyyt.top/vuepress/site/links/NodeLoc.png"
+  link="https://www.nodeloc.com"
+/>
+</div>
 :::
 
 友链申请:  
