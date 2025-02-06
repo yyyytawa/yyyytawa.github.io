@@ -6,6 +6,12 @@ category:
 - 站点
 
 otherlinks:
+ - name: Anran
+   desc: 年更站
+   logo: https://www.anran.xyz/favicon.ico
+   url: https://www.anran.xyz
+   preview: https://www.anran.xyz/favicon.ico
+
  - name: B84F2246的博客
    desc: TECH OTAKUS SAVE THE WORLD
    logo: https://assets.b84f2246.top/img/avatar.png
