@@ -36,6 +36,12 @@ otherlinks:
    url: https://hehenya.us.kg
    preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
 
+ - name: 机不可失的小站
+   desc: 机不可失的个人网站/博客
+   logo: https://jibukeshi.us.kg/upload/avatar.jpg
+   url: https://jibukeshi.us.kg/
+   preview: https://jibukeshi.us.kg/upload/userbg.png
+  
  - name: JuHao的博客
    desc: 写些小东西
    logo: https://img.yyyyt.top/vuepress/site/links/avatar/juhao.jpg
