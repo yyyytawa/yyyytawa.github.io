@@ -2,15 +2,15 @@
 title: merge.html
 ---
 
-*merge.html*是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等).  
+*merge.html*是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).  
 
 > [!warning]
-> merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来跨域)
+> merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)
 
 ## 参数:  
 
 > [!warning]
-> 请求链接最好不要有中文,空格特殊字符等,如果有的话请先编码
+> 请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.  
 > if参数和il参数必须有其中一个,而且两个不能共存
 
 ### if参数:  
@@ -69,6 +69,5 @@ li.txt内容:
 # 使用#来注释内容
 https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1
 https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2
-https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3
-https://alist.yyyyt.top/d/公开分享/temp_share/test%201 #URL中有空格请使用%20代替,默认会删掉inputlist里面的所有空格,建议使用编码后URL
+https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL
 ```
