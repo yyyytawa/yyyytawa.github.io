@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 08 Feb 2025 09:34:31 GMT</pubDate>
-    <lastBuildDate>Sat, 08 Feb 2025 09:34:31 GMT</lastBuildDate>
+    <pubDate>Sat, 08 Feb 2025 11:50:35 GMT</pubDate>
+    <lastBuildDate>Sat, 08 Feb 2025 11:50:35 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>研究与探讨</category>
@@ -1129,17 +1129,17 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
       <link>https://docs.yyyyt.top/guide/my_project/merge.html</link>
       <guid>https://docs.yyyyt.top/guide/my_project/merge.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">merge.html</source>
-      <description>merge.html是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等). 注意 merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来...</description>
+      <description>merge.html是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等). 注意 merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)...</description>
       <pubDate>Mon, 16 Sep 2024 18:18:53 GMT</pubDate>
-      <content:encoded><![CDATA[<p><em>merge.html</em>是负责合并文件的一个有js脚本的html文件,可以将多个分割的文件合并为一个文件.通过调用网页Js的功能,文件处理合并全在浏览器本地完成的.需要Blob,所以不支持通过blob下载文件的无法使用(例如第三方下载器,安卓webview等).</p>
+      <content:encoded><![CDATA[<p><em>merge.html</em>是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).</p>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>merge.html目前存在Cors跨域请求问题,目前没法解决(其实可以反代修改请求头来跨域)</p>
+<p>merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)</p>
 </div>
 <h2>参数:</h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>请求链接最好不要有中文,空格特殊字符等,如果有的话请先编码<br>
+<p>请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.<br>
 if参数和il参数必须有其中一个,而且两个不能共存</p>
 </div>
 <h3>if参数:</h3>
@@ -1176,9 +1176,8 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span># 使用#来注释内容</span></span>
 <span class="line"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>
 <span class="line"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3</span></span>
-<span class="line"><span>https://alist.yyyyt.top/d/公开分享/temp_share/test%201 #URL中有空格请使用%20代替,默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+<span class="line"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
     </item>
     <item>
       <title>第三周</title>
