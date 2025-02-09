@@ -7,7 +7,7 @@ bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: yyyyt的文档站
-tagline: World is Bad or Worse.
+tagline: Bad or Worse.
 actions:
   - text: 文档
     icon: book
