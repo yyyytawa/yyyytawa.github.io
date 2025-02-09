@@ -72,6 +72,12 @@ otherlinks:
    url: https://r1a.rr.nu
    preview: https://img.yyyyt.top/vuepress/site/links/preview/Runoneall_dev.png
 
+ - name: XiaoPang的个人博客
+   desc: 追随梦想需竭尽全力
+   logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
+   url: https://blog.xpdbk.com 
+   preview: https://img.yyyyt.top/vuepress/site/links/preview/XiaoPang.png
+
  - name: 一个一个一个小站（悲
    desc: 114514个三连的站
    logo: https://sanlian.us.kg/favicon.ico
@@ -157,7 +163,7 @@ otherlinks:
 我的站点信息  
 ```
  - name: yyyyt的文档站
-   desc: World is Bad or Worse
+   desc: Bad or Worse
    logo: https://img.yyyyt.top/avatar/avatar
    url: https://docs.yyyyt.top
    repo: yyyytawa/yyyytawa.github.io
