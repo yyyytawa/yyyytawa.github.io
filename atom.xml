@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-02-09T16:06:20.975Z</updated>
+  <updated>2025-02-10T03:19:28.194Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -13,6 +13,27 @@
   <category term="云湖事件"/>
   <category term="高中"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">第一周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html"/>
+    <updated>2025-02-10T03:17:33.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
+<strong>结束: 20250215 星期六</strong></p>
+<p>寒假结束了,开学了.正月十三开学,真有你的教育局.</p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
+<strong>结束: 20250215 星期六</strong></p>
+<p>寒假结束了,开学了.正月十三开学,真有你的教育局.</p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></content>
+    <published>2025-02-10T03:17:33.000Z</published>
+  </entry>
   <entry>
     <title type="text">1.福瑞文化是如何流行起来的?</title>
     <id>https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html</id>
@@ -1663,7 +1684,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">第11-20次更新</title>
     <id>https://docs.yyyyt.top/blog/music_updata_log/11to20.html</id>
     <link href="https://docs.yyyyt.top/blog/music_updata_log/11to20.html"/>
-    <updated>2025-01-03T12:36:22.000Z</updated>
+    <updated>2025-02-10T03:17:33.000Z</updated>
     <summary type="html"><![CDATA[<h3>第11次 20240827</h3>
 <p><strong>Sat Tee Touy</strong><br>
 <strong>月亮之上</strong></p>
@@ -1688,6 +1709,8 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <strong>Lemon</strong><br>
 <strong>地球仪</strong><br>
 <strong>LOSER</strong></p>
+<h3>第15次 20250210</h3>
+<p><strong>Counting Stars</strong></p>
 ]]></content>
     <published>2024-08-27T12:47:21.000Z</published>
   </entry>
@@ -2645,13 +2668,6 @@ but我们班只有1-2秒的时间.<br>
 <h3>命名规范:</h3>
 <p><strong>遵循以下几点:</strong></p>
 ]]></content>
-    <published>2024-02-18T15:19:45.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">云湖</title>
-    <id>https://docs.yyyyt.top/blog/yh/</id>
-    <link href="https://docs.yyyyt.top/blog/yh/"/>
-    <updated>2024-07-18T14:05:01.000Z</updated>
     <published>2024-02-18T15:19:45.000Z</published>
   </entry>
 </feed>
