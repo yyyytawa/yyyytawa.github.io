@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-02-10T04:11:46.245Z</updated>
+  <updated>2025-02-16T06:57:02.532Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -14,23 +14,81 @@
   <category term="高中"/>
   <category term="站点"/>
   <entry>
-    <title type="text">第一周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html"/>
-    <updated>2025-02-10T03:17:33.000Z</updated>
+    <title type="text">第二周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html"/>
+    <updated>2025-02-16T06:55:31.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
-<strong>结束: 20250215 星期六</strong></p>
-<p>寒假结束了,开学了.正月十三开学,真有你的教育局.</p>
+<p><strong>开始: 20250216 星期日</strong><br>
+<strong>结束: 202502xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
-<strong>结束: 20250215 星期六</strong></p>
-<p>寒假结束了,开学了.正月十三开学,真有你的教育局.</p>
+<p><strong>开始: 20250216 星期日</strong><br>
+<strong>结束: 202502xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
+]]></content>
+    <published>2025-02-16T06:55:31.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第一周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html"/>
+    <updated>2025-02-16T06:55:31.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
+<strong>结束: 20250215 星期六</strong></p>
+<p>寒假结束了,开学了.别的地方13号正月十六开学,正月十三开学,年都还没过完,真有你的教育局.对了,元宵也不放假.</p>
+<h2>本周内容:</h2>
+<h3>1.换班主任了!!!!!!!</h3>
+<p>没错,换班主任了.总算不是曲某人了.据说曲某人早生贵子了? <s>(周某:我不是故意的.)</s> 是对面A01的数学老师——马老师,比曲老师好得多,如表格所示(不止).</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">项目</th>
+<th style="text-align:center">马老师</th>
+<th style="text-align:center">曲老师</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">爱发火</td>
+<td style="text-align:center">❌</td>
+<td style="text-align:center">✔️</td>
+</tr>
+<tr>
+<td style="text-align:center">数学课变思政课</td>
+<td style="text-align:center">❌</td>
+<td style="text-align:center">✔️</td>
+</tr>
+<tr>
+<td style="text-align:center">可以坐着读书</td>
+<td style="text-align:center">✔️</td>
+<td style="text-align:center">❌</td>
+</tr>
+<tr>
+<td style="text-align:center">饮料管制</td>
+<td style="text-align:center">松</td>
+<td style="text-align:center">严</td>
+</tr>
+<tr>
+<td style="text-align:center">在外面聊天</td>
+<td style="text-align:center">✔️</td>
+<td style="text-align:center">❌</td>
+</tr>
+</tbody>
+</table>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>
+<strong>结束: 20250215 星期六</strong></p>
+<p>寒假结束了,开学了.别的地方13号正月十六开学,正月十三开学,年都还没过完,真有你的教育局.对了,元宵也不放假.</p>
+<h2>本周内容:</h2>
+<h3>1.换班主任了!!!!!!!</h3>
+<p>没错,换班主任了.总算不是曲某人了.据说曲某人早生贵子了? <s>(周某:我不是故意的.)</s> 是对面A01的数学老师——马老师,比曲老师好得多,如表格所示(不止).</p>
+<p>|项目|马老师|曲老师|<br>
+|:</p>
 ]]></content>
     <published>2025-02-10T03:17:33.000Z</published>
   </entry>
@@ -1479,7 +1537,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-02-09T06:31:33.000Z</updated>
+    <updated>2025-02-16T06:55:31.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -2649,31 +2707,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240302 周六</strong></p>
 ]]></content>
     <published>2024-02-20T14:26:58.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">关于此界面</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/introduction.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/introduction.html"/>
-    <updated>2024-10-26T15:43:45.000Z</updated>
-    <summary type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
-<h3>命名规范:</h3>
-<h2><strong>遵循以下几点:</strong></h2>
-<ol>
-<li>以大小类为基础的分类</li>
-</ol>
-<ul>
-<li>如高一 高二 高三</li>
-<li>高一下面有上学期,寒假,下学期,暑假等等</li>
-<li>寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面</li>
-</ul>
-<hr>
-<ol start="2">
-<li><strong>原则上/学期按照第x周来记录</strong>,记录开学时间 <em>(按到校时间算)</em></li>
-</ol>]]></summary>
-    <content type="html"><![CDATA[<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>
-<h3>命名规范:</h3>
-<p><strong>遵循以下几点:</strong></p>
-]]></content>
-    <published>2024-02-18T15:19:45.000Z</published>
   </entry>
 </feed>

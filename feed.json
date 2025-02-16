@@ -6,13 +6,24 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "第二周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html",
+      "summary": "日期: 开始: 20250216 星期日 结束: 202502xx 星期六 本周内容: The End",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250216 星期日</strong><br>\n<strong>结束: 202502xx 星期六</strong></p>\n<h2>本周内容:</h2>\n<h2>The End</h2>\n",
+      "date_published": "2025-02-16T06:55:31.000Z",
+      "date_modified": "2025-02-16T06:55:31.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "第一周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/1_week.html",
-      "summary": "日期: 开始: 20250210 星期一 (正月十三) 结束: 20250215 星期六 寒假结束了,开学了.正月十三开学,真有你的教育局. 本周内容: The End",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>\n<strong>结束: 20250215 星期六</strong></p>\n<p>寒假结束了,开学了.正月十三开学,真有你的教育局.</p>\n<h2>本周内容:</h2>\n<h2>The End</h2>\n",
+      "summary": "日期: 开始: 20250210 星期一 (正月十三) 结束: 20250215 星期六 寒假结束了,开学了.别的地方13号正月十六开学,正月十三开学,年都还没过完,真有你的教育局.对了,元宵也不放假. 本周内容: 1.换班主任了!!!!!!! 没错,换班主任了.总算不是曲某人了.据说曲某人早生贵子了? 是对面A01的数学老师——马老师,比曲老师好得多...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250210 星期一 (正月十三)</strong><br>\n<strong>结束: 20250215 星期六</strong></p>\n<p>寒假结束了,开学了.别的地方13号正月十六开学,正月十三开学,年都还没过完,真有你的教育局.对了,元宵也不放假.</p>\n<h2>本周内容:</h2>\n<h3>1.换班主任了!!!!!!!</h3>\n<p>没错,换班主任了.总算不是曲某人了.据说曲某人早生贵子了? <s>(周某:我不是故意的.)</s> 是对面A01的数学老师——马老师,比曲老师好得多,如表格所示(不止).</p>\n<p>|项目|马老师|曲老师|<br>\n|:</p>\n",
       "date_published": "2025-02-10T03:17:33.000Z",
-      "date_modified": "2025-02-10T03:17:33.000Z",
+      "date_modified": "2025-02-16T06:55:31.000Z",
       "authors": [],
       "tags": []
     },
@@ -587,7 +598,7 @@
       "summary": "我自己的站点 其他站点友链",
       "content_html": "<p>我自己的站点</p>\n<div class=\"vp-card-container\">\n</div>\n<p>其他站点友链</p>\n",
       "date_published": "2024-09-21T17:27:33.000Z",
-      "date_modified": "2025-02-09T06:31:33.000Z",
+      "date_modified": "2025-02-16T06:55:31.000Z",
       "authors": [],
       "tags": [
         "站点"
@@ -1126,17 +1137,6 @@
       "content_html": "<p><strong>Deamon prepare to start</strong><br>\n<strong>Loading...</strong><br>\n<strong>Deamon start successfully!</strong><br>\n<strong>Welcome back to 2nd-school!</strong></p>\n<h3>日期:</h3>\n<p><strong>开始: <s>20240222(农历十三)</s> 20240225(农历十六) 周日</strong><br>\n<strong>结束: 20240302 周六</strong></p>\n",
       "date_published": "2024-02-20T14:26:58.000Z",
       "date_modified": "2024-03-02T16:28:34.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "关于此界面",
-      "url": "https://docs.yyyyt.top/blog/the_second_high_school/introduction.html",
-      "id": "https://docs.yyyyt.top/blog/the_second_high_school/introduction.html",
-      "summary": "有一天,然后就想着做出了这个 命名规范: 遵循以下几点: 以大小类为基础的分类 如高一 高二 高三 高一下面有上学期,寒假,下学期,暑假等等 寒,暑假按照放假时所在的年级来算,如高一结束放的暑假放到高一的目录里面 原则上/学期按照第x周来记录,记录开学时间 (按到校时间算) 假期的事件按照发生时间来算 附件表: 班主任演讲次数/频率附件表",
-      "content_html": "<p>有一天<s>喝醉了(bushi)</s>,然后就想着做出了这个</p>\n<h3>命名规范:</h3>\n<p><strong>遵循以下几点:</strong></p>\n",
-      "date_published": "2024-02-18T15:19:45.000Z",
-      "date_modified": "2024-10-26T15:43:45.000Z",
       "authors": [],
       "tags": []
     }
