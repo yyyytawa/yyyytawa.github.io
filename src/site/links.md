@@ -48,6 +48,12 @@ otherlinks:
    url: https://juhao.hashnode.dev/
    preview: https://img.yyyyt.top/vuepress/site/links/preview/JuHao_Blog.png
 
+ - name: 龙窝
+   desc: 人生近看是悲剧，远看是喜剧
+   logo: https://blog.qiyao.us.kg/images/atiq.png
+   url: https://blog.qiyao.us.kg/
+   preview: https://blog.qiyao.us.kg/images/web.png
+
  - name: NodeLoc
    desc: NodeLoc论坛
    logo: https://img.yyyyt.top/vuepress/site/links/NodeLoc.png
