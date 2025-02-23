@@ -3,29 +3,70 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-02-16T06:57:02.532Z</updated>
+  <updated>2025-02-23T06:54:46.093Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
-  <category term="研究与探讨"/>
   <category term="公告"/>
+  <category term="研究与探讨"/>
   <category term="技术"/>
   <category term="云湖事件"/>
   <category term="高中"/>
   <category term="站点"/>
   <entry>
+    <title type="text">图床爆炸</title>
+    <id>https://docs.yyyyt.top/site/notice/archive/0223_cfr2_images.html</id>
+    <link href="https://docs.yyyyt.top/site/notice/archive/0223_cfr2_images.html"/>
+    <updated>2025-02-23T06:53:14.000Z</updated>
+    <summary type="html"><![CDATA[<p>原因: 原本用的e5的OneDrive来存储图片,后e5 OneDrive被限制,故图床爆炸<br>
+正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>原因: 原本用的e5的OneDrive来存储图片,后e5 OneDrive被限制,故图床爆炸<br>
+正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.</p>
+]]></content>
+    <category term="公告"/>
+    <published>2025-02-23T06:53:14.000Z</published>
+  </entry>
+  <entry>
     <title type="text">第二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html"/>
-    <updated>2025-02-16T06:55:31.000Z</updated>
+    <updated>2025-02-23T06:53:14.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250216 星期日</strong><br>
+<strong>结束: 20250222 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1.双休谣言</h3>
+<p>本周有人传本周要双休,但是是假的.双休想想就行,梦里啥都有.</p>
+<h3>2.资料&amp;笔记检查</h3>
+<p>目前学校没有订资料,<a href="http://xn--4gq7eol08ncb461hqqszs8d.xn--48sr40a0sa579a4hh7lx7pd9wk.so" target="_blank" rel="noopener noreferrer">主要是印一些卷子.还要检查学生笔记.so</a>......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250216 星期日</strong><br>
+<strong>结束: 20250222 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1.双休谣言</h3>
+<p>本周有人传本周要双休,但是是假的.双休想想就行,梦里啥都有.</p>
+<h3>2.资料&amp;笔记检查</h3>
+<p>目前学校没有订资料,<a href="http://xn--4gq7eol08ncb461hqqszs8d.xn--48sr40a0sa579a4hh7lx7pd9wk.so" target="_blank" rel="noopener noreferrer">主要是印一些卷子.还要检查学生笔记.so</a>......</p>
+<h3>3.跑操</h3>
+<p>这周开始跑操,开始是上午后来又换到了下午跑操(和高三时间对换)</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-02-16T06:55:31.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第三周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/3_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/3_week.html"/>
+    <updated>2025-02-23T06:53:14.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250223 星期日</strong><br>
 <strong>结束: 202502xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250216 星期日</strong><br>
+<p><strong>开始: 20250223 星期日</strong><br>
 <strong>结束: 202502xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
@@ -164,9 +205,9 @@
   </entry>
   <entry>
     <title type="text">站点更换cdn</title>
-    <id>https://docs.yyyyt.top/site/notice/0205_use-nodeloc-free-cdn.html</id>
-    <link href="https://docs.yyyyt.top/site/notice/0205_use-nodeloc-free-cdn.html"/>
-    <updated>2025-02-05T13:30:40.000Z</updated>
+    <id>https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html</id>
+    <link href="https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html"/>
+    <updated>2025-02-23T06:53:14.000Z</updated>
     <summary type="html"><![CDATA[<p>站点现在已更换NodeLoc的免费cdn,大陆访问速度更快(itdog的http测试很绿)</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>站点现在已更换NodeLoc的免费cdn,大陆访问速度更快(itdog的http测试很绿)</p>
@@ -1537,7 +1578,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-02-16T06:55:31.000Z</updated>
+    <updated>2025-02-23T06:53:14.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -2664,48 +2705,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240316 周六</strong></p>
 ]]></content>
     <published>2024-03-09T15:12:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第二周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/2_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/2_week.html"/>
-    <updated>2024-03-09T15:12:03.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期</h3>
-<h2><strong>开始: 20240303 周日</strong><br>
-<strong>结束: 20240309 周六</strong></h2>
-<p>1.消防演练铃响了？没事,继续讲课.<br>
-周四上午第二节课许,老师通知说第二节下课要消防演练然鹅就出现了意外的事情.没错,语文老师安然不动,还是继续讲他的课,然后开始了好一阵子了才下课.对，有的班级已经跑到了操场上了我们班才刚出门,后面有的同学演练甚至演都不演......后面又是领导发言</p>
-<blockquote>
-<p>你们逃生的速度不够快(✘)<br>
-我们讲课的速度不够快(✔)</p>
-</blockquote>]]></summary>
-    <content type="html"><![CDATA[<h3>日期</h3>
-<p><strong>开始: 20240303 周日</strong><br>
-<strong>结束: 20240309 周六</strong></p>
-]]></content>
-    <published>2024-03-02T16:28:34.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第一周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/1_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/1_week.html"/>
-    <updated>2024-03-02T16:28:34.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>Deamon prepare to start</strong><br>
-<strong>Loading...</strong><br>
-<strong>Deamon start successfully!</strong><br>
-<strong>Welcome back to 2nd-school!</strong></p>
-<h3>日期:</h3>
-<h2><strong>开始: <s>20240222(农历十三)</s> 20240225(农历十六) 周日</strong><br>
-<strong>结束: 20240302 周六</strong></h2>
-<h3>正文:</h3>]]></summary>
-    <content type="html"><![CDATA[<p><strong>Deamon prepare to start</strong><br>
-<strong>Loading...</strong><br>
-<strong>Deamon start successfully!</strong><br>
-<strong>Welcome back to 2nd-school!</strong></p>
-<h3>日期:</h3>
-<p><strong>开始: <s>20240222(农历十三)</s> 20240225(农历十六) 周日</strong><br>
-<strong>结束: 20240302 周六</strong></p>
-]]></content>
-    <published>2024-02-20T14:26:58.000Z</published>
   </entry>
 </feed>
