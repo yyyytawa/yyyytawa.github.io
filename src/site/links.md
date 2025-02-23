@@ -50,9 +50,9 @@ otherlinks:
 
  - name: 龙窝
    desc: 人生近看是悲剧，远看是喜剧
-   logo: https://blog.qiyao.us.kg/images/atiq.png
-   url: https://blog.qiyao.us.kg/
-   preview: https://blog.qiyao.us.kg/images/web.png
+   logo: https://blog.245179.xyz/images/atiq.png
+   url: https://blog.245179.xyz/
+   preview: https://blog.245179.xyz/images/web.png
 
  - name: NodeLoc
    desc: NodeLoc论坛
@@ -69,7 +69,7 @@ otherlinks:
  - name: Runoneall の 小破站
    desc: 一个混迹互联网的普通人
    logo: https://filecdn.runoneall.nyc.mn/BlogResource/avatar.webp
-   url: https://runoneall.us.kg
+   url: https://runoneall.nyc.mn
    preview: https://img.yyyyt.top/vuepress/site/links/preview/Runoneall_Blog.png
 
  - name: r1a dev
