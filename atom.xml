@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-02-23T06:54:46.093Z</updated>
+  <updated>2025-03-01T15:13:56.911Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -14,15 +14,36 @@
   <category term="高中"/>
   <category term="站点"/>
   <entry>
+    <title type="text">第四周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/4_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/4_week.html"/>
+    <updated>2025-03-01T15:12:41.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250302 星期日</strong><br>
+<strong>结束: 202503xx 星期六</strong></p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250302 星期日</strong><br>
+<strong>结束: 202503xx 星期六</strong></p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></content>
+    <published>2025-03-01T15:12:41.000Z</published>
+  </entry>
+  <entry>
     <title type="text">图床爆炸</title>
     <id>https://docs.yyyyt.top/site/notice/archive/0223_cfr2_images.html</id>
     <link href="https://docs.yyyyt.top/site/notice/archive/0223_cfr2_images.html"/>
-    <updated>2025-02-23T06:53:14.000Z</updated>
+    <updated>2025-03-01T15:12:41.000Z</updated>
     <summary type="html"><![CDATA[<p>原因: 原本用的e5的OneDrive来存储图片,后e5 OneDrive被限制,故图床爆炸<br>
-正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.</p>
+正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.<br>
+现已更换为cfr2+gh repo+PikPak网盘备份</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>原因: 原本用的e5的OneDrive来存储图片,后e5 OneDrive被限制,故图床爆炸<br>
-正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.</p>
+正在准备迁移cfr2存储作为后端存储.可能需要一段时间回复,以前图片难以找回.<br>
+现已更换为cfr2+gh repo+PikPak网盘备份</p>
 ]]></content>
     <category term="公告"/>
     <published>2025-02-23T06:53:14.000Z</published>
@@ -58,17 +79,32 @@
     <title type="text">第三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/3_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/3_week.html"/>
-    <updated>2025-02-23T06:53:14.000Z</updated>
+    <updated>2025-03-01T15:12:41.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250223 星期日</strong><br>
-<strong>结束: 202502xx 星期六</strong></p>
+<strong>结束: 20250301 星期六</strong></p>
 <h2>本周内容:</h2>
-<h2>The End</h2>
-]]></summary>
+<h3>1.百日誓师</h3>
+<p>周四举行百日誓师(成人礼),据说主板单位包括但不限于市教育局,市共青团等,学校是承办单位.这个百日誓师学校非常重视,毕竟是市那边搞的.当然也占用了点东西(bushi)<br>
+体育课无一节,跑操无N个.周四早上的课就只剩个自习了.<br>
+周三下午据说还彩排了,周四上午更是直接叫人看着,不叫其他班下楼打闹.<br>
+当然我们也参加了这个百日誓师,只是因为高二所以参与的不太多.然后当然也非常无聊,甚至那几位玩起了狼人杀,当然晚上就听到有人吐槽说xx不行了.<br>
+上面也放了一些名人的寄托词.<br>
+走的时候还有个卖奶龙气球,顺带也卖冰糖葫芦——太糖(唐)了.</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250223 星期日</strong><br>
-<strong>结束: 202502xx 星期六</strong></p>
+<strong>结束: 20250301 星期六</strong></p>
 <h2>本周内容:</h2>
+<h3>1.百日誓师</h3>
+<p>周四举行百日誓师(成人礼),据说主板单位包括但不限于市教育局,市共青团等,学校是承办单位.这个百日誓师学校非常重视,毕竟是市那边搞的.当然也占用了点东西(bushi)<br>
+体育课无一节,跑操无N个.周四早上的课就只剩个自习了.<br>
+周三下午据说还彩排了,周四上午更是直接叫人看着,不叫其他班下楼打闹.<br>
+当然我们也参加了这个百日誓师,只是因为高二所以参与的不太多.然后当然也非常无聊,甚至那几位玩起了狼人杀,当然晚上就听到有人吐槽说xx不行了.<br>
+上面也放了一些名人的寄托词.<br>
+走的时候还有个卖奶龙气球,顺带也卖冰糖葫芦——太糖(唐)了.</p>
+<h3>2.学校实行1.5休</h3>
+<p>如题,学校于本周开始实行1.5休,即周六上午6:50放假,周日下午6:00返校,实现了从单休到1.5休的巨大跨越.时间增加幅度高达50%<br>
+搞笑的是说双休消息是24年1月1日开始(实际上郑州好像都没双休),然鹅到我们这边是2025年3月1日才好.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-02-16T06:55:31.000Z</published>
@@ -217,9 +253,9 @@
   </entry>
   <entry>
     <title type="text">3.一次文档的构建失败</title>
-    <id>https://docs.yyyyt.top/articles/tech/2025/0204.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</id>
-    <link href="https://docs.yyyyt.top/articles/tech/2025/0204.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
+    <id>https://docs.yyyyt.top/articles/tech/2025/0204.3.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</id>
+    <link href="https://docs.yyyyt.top/articles/tech/2025/0204.3.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html"/>
+    <updated>2025-03-01T15:12:41.000Z</updated>
     <summary type="html"><![CDATA[<p>本文写于 2025 02 04</p>
 <h2>速通版:</h2>
 <p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
@@ -1578,7 +1614,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-02-23T06:53:14.000Z</updated>
+    <updated>2025-03-01T15:12:41.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -2684,26 +2720,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240330 周六</strong></p>
 ]]></content>
     <published>2024-03-17T03:43:08.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第三周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/3_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/3_week.html"/>
-    <updated>2024-03-17T03:47:25.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期</h3>
-<h2><strong>开始: 20240310 周日</strong><br>
-<strong>结束: 20240316 周六</strong></h2>
-<h3>本周内容:</h3>
-<p>1.学校开展活动,隔壁班发起挑战<br>
-没错,学校又开展活动,班级与班级相互比拼,然后有人甚至提议让班长劝对面不要挑战.为此活动拍了个全班照片</p>
-<p>2.福利院捐物活动<br>
-学校下周开展福利院慰问志愿活动,然后叫大家捐点物品</p>
-<p>3.班主任神奇发言<br>
-就论周五晚上的发言,以前是作业时写不完的或者是刚刚好够,现在是写完之后还剩10-20分钟自由支配,所以是能写完还是不能写完</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期</h3>
-<p><strong>开始: 20240310 周日</strong><br>
-<strong>结束: 20240316 周六</strong></p>
-]]></content>
-    <published>2024-03-09T15:12:03.000Z</published>
   </entry>
 </feed>
