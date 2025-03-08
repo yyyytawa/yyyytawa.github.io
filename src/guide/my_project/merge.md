@@ -71,3 +71,15 @@ https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1
 https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2
 https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL
 ```
+
+### proxy参数:  
+
+指定下载代理服务器,例如nm2.runoneall.us.kg  
+
+**示例:**  
+
+```
+https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&of=steam.exe&proxy=https://nm2.runoneall.us.kg
+```
+
+实际请求的时会变成这样 https://nm2.runoneall.us.kg/https://example.com  
