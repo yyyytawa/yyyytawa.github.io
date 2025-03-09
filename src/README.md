@@ -18,7 +18,7 @@ actions:
     link: ./blog/
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 无特别标注的文章内容许可为 CC BY-NC-SA 4.0, 版权所有 © 2024-present yyyyt(awa)
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 无特别标注的文章内容许可为 CC BY-NC-SA 4.0, 版权所有 © 2024-present yyyyt(awa) </br><a href="https://icp.gov.moe/?keyword=20250402" target="_blank">萌ICP备20250402号</a>
 ---
 
 **欢迎来到我的文档站**  
