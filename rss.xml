@@ -6,16 +6,30 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 09 Mar 2025 09:39:45 GMT</pubDate>
-    <lastBuildDate>Sun, 09 Mar 2025 09:39:45 GMT</lastBuildDate>
+    <pubDate>Fri, 14 Mar 2025 08:02:24 GMT</pubDate>
+    <lastBuildDate>Fri, 14 Mar 2025 08:02:24 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>高中</category>
     <category>公告</category>
     <category>研究与探讨</category>
     <category>技术</category>
     <category>云湖事件</category>
-    <category>高中</category>
     <category>站点</category>
+    <item>
+      <title>缺大德,离大谱</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/03/090.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/03/090.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">缺大德,离大谱</source>
+      <description>众所周知,自从这学期曲某人早生贵子了之后班主任换马老师了.马老师管的主打就是松,据说比隔壁梦某还松(某A01同学所言推断).而班里有的学生可算是放飞自我了,乱的要死,乱就算了还缺德,不要命. 首先就说说那些缺大德的事情,黑板上就刚好有个铁箱子壳.对,就是比谁跳得高然后把用来贴东西的磁铁给吸到那个铁箱子.搞得好多那种磁铁都损坏,现在还有N多磁铁在上面呐....</description>
+      <category>高中</category>
+      <pubDate>Fri, 14 Mar 2025 08:01:32 GMT</pubDate>
+      <content:encoded><![CDATA[<p>众所周知,自从这学期曲某人早生贵子了之后班主任换马老师了.马老师管的主打就是松,据说比隔壁梦某还松(某A01同学所言推断).而班里有的学生可算是放飞自我了,乱的要死,乱就算了还缺德,不要命.<br>
+首先就说说那些缺大德的事情,黑板上就刚好有个铁箱子壳.对,就是比谁跳得高然后把用来贴东西的磁铁给吸到那个铁箱子.搞得好多那种磁铁都损坏,现在还有N多磁铁在上面呐.<br>
+缺德就算了还不要命,搁哪跳高抓电棒,还好被物理老师及时制止了.只能说是嫌电棒掉不下来是吧.没砸到人还好,掉下来砸到人咋办?嫌自己命活的太久了.掉下来多不好,还要赔钱还要挨处分.关键是这样干自由迟早会被作没的.好了不抓电棒改抓外面的管道了,这管道看起来固定的就不太结实,抓一下还会晃.还去抓,物理老师前面白劝了了是吧.不过我有一招可以劝诫,等他们抓到掉下来就不敢抓了,搞不好还可能砸到人赔钱,这样劝诫效果更好.而且抓管道100%可查,监控就在旁边拍着,随时可查.真就是不要命了.只能说确实缺德,确实离谱,生动见证了人类物种的多样性.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>4.部分二级域名实现cf优选IP</title>
       <link>https://docs.yyyyt.top/articles/tech/2025/0301.4.%E9%83%A8%E5%88%86%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0cf%E4%BC%98%E9%80%89IP.html</link>
@@ -1986,18 +2000,6 @@ PS:大部分消息已撤回<br>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240406 星期六</strong><br>
 <strong>结束: 20240413 星期六</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第六周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/6_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/6_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第六周</source>
-      <description>日期: 开始: 20240331 周日 结束: 20240403 周三 本周内容: 1.周三放假,学生开心 据悉清明假期学校周三放假,学生喜大普奔,然鹅周六下午开学. 2.被遗忘的PK挑战赛 没错,不知道是啥时候说的了.PK挑战赛这几周之后说是要准备开始(?) 说实话我都快忘了有这事情了 3.教官离职 据我那一个楼层的教官所说,说是活多钱少然后不准备干...</description>
-      <pubDate>Sun, 31 Mar 2024 05:31:02 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240331 周日</strong><br>
-<strong>结束: 20240403 周三</strong></p>
 ]]></content:encoded>
     </item>
   </channel>
