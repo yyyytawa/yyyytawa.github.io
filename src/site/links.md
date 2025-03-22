@@ -33,7 +33,7 @@ otherlinks:
  - name: Hehe
    desc: 收录各种破解工具
    logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
-   url: https://hehenya.us.kg
+   url: https://hehenya.qrasa.top
    preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
 
  - name: 机不可失的小站
