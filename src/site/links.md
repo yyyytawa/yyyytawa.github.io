@@ -38,9 +38,9 @@ otherlinks:
 
  - name: 机不可失的小站
    desc: 机不可失的个人网站/博客
-   logo: https://jibukeshi.us.kg/upload/avatar.jpg
-   url: https://jibukeshi.us.kg/
-   preview: https://jibukeshi.us.kg/upload/userbg.png
+   logo: https://blog.jibukeshi.tech/upload/avatar.jpg
+   url: https://blog.jibukeshi.tech/
+   preview: https://blog.jibukeshi.tech/upload/userbg.png
   
  - name: JuHao的博客
    desc: 写些小东西
@@ -155,6 +155,11 @@ otherlinks:
 能正常访问,也不能被墙  
 不能有违法违规内容  
 添加本站友链  
+
+不能是以下域名后缀:  
+```
+us.kg
+```
 
 在下方评论区留言即可,格式:  
 ```
