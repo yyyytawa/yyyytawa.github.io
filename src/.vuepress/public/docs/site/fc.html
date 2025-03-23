@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        /* 简单的样式，你可以根据需要自定义 */
+        #friend-circle-lite-root {
+            width: 100%;
+            margin: 20px auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+        }
+
+        /* 确保图像不会超出容器 */
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div id="friend-circle-lite-root"></div>
+    <script>
+        if (typeof UserConfig === 'undefined') {
+            var UserConfig = {
+                // 填写你的fc Lite地址
+                private_api_url: 'https://fc.yyyyt.top/', // **请替换成你自己的服务器地址！**
+                // 点击加载更多时，一次最多加载几篇文章，默认20
+                page_turning_number: 20,
+                // 头像加载失败时，默认头像地址
+                error_img: 'https://img.yyyyt.top/avatar/avatar',
+            }
+        }
+    </script>
+    <link rel="stylesheet" href="https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.css">
+    <script src="https://fastly.jsdelivr.net/gh/willow-god/Friend-Circle-Lite/main/fclite.min.js"></script>
+
+</body>
+</html>

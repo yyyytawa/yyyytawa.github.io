@@ -62,9 +62,9 @@ otherlinks:
 
  - name: Qrasa的小站
    desc: 记录一些活着的日常
-   logo: https://qrasa.cn/assets/avatar.webp
+   logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
    url: https://blog.qrasa.cn/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Qrasa_Blog.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/qrasa.png
 
  - name: Runoneall の 小破站
    desc: 一个混迹互联网的普通人
@@ -148,6 +148,11 @@ otherlinks:
   link="https://www.nodeloc.com"
 />
 </div>
+:::
+
+::: details RSS:
+[外部链接查看](https://docs.yyyyt.top/docs/site/fc.html)
+<iframe src="/docs/site/fc.html" name="iframe_a" scrolling="yes" frameborder="0" width="100%" height="1000" style="border-radius: 30px;"></iframe>
 :::
 
 友链申请:  
