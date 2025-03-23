@@ -120,7 +120,7 @@ otherlinks:
 <VPCard
   title="VuePress-Theme-Hope"
   desc="一个具有强大功能的 vuepress 主题✨"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/VuePress-theme-hope.svg"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/vuepress-theme-hope.svg"
   link="https://theme-hope.vuejs.press/zh/"
 />
 <VPCard
