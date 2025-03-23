@@ -22,13 +22,13 @@ otherlinks:
    desc: 一个乐于分享的博客
    logo: https://file.butlanys.de/img/avatar.jpg
    url: https://blog.butlanys.de/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/butlanys_Blog.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/Butlanys.png
 
  - name: Creeper005の小站
    desc: 坐牢日常
    logo: https://creeper005bili.github.io/img/avatar.png
    url: https://creeper005bili.github.io
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Creeper005.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/Creeper005.png
 
  - name: Hehe
    desc: 收录各种破解工具
@@ -41,12 +41,6 @@ otherlinks:
    logo: https://blog.jibukeshi.tech/upload/avatar.jpg
    url: https://blog.jibukeshi.tech/
    preview: https://blog.jibukeshi.tech/upload/userbg.png
-  
- - name: JuHao的博客
-   desc: 写些小东西
-   logo: https://img.yyyyt.top/vuepress/site/links/avatar/juhao.jpg
-   url: https://juhao.hashnode.dev/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/JuHao_Blog.png
 
  - name: 龙窝
    desc: 人生近看是悲剧，远看是喜剧
@@ -56,9 +50,9 @@ otherlinks:
 
  - name: NodeLoc
    desc: NodeLoc论坛
-   logo: https://img.yyyyt.top/vuepress/site/links/NodeLoc.png
+   logo: https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png
    url: https://www.nodeloc.com
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/NodeLoc.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/NodeLoc.png
 
  - name: Qrasa的小站
    desc: 记录一些活着的日常
@@ -70,19 +64,19 @@ otherlinks:
    desc: 一个混迹互联网的普通人
    logo: https://filecdn.runoneall.nyc.mn/BlogResource/avatar.webp
    url: https://runoneall.nyc.mn
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Runoneall_Blog.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/Runoneall.png
 
  - name: r1a dev
    desc: r1a的开发记录/博客
    logo: https://dev.oneall.eu.org/favicon.webp
    url: https://dev.oneall.eu.org/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Runoneall_dev.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/R1a_dev.png
 
  - name: XiaoPang的个人博客
    desc: 追随梦想需竭尽全力
    logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
    url: https://blog.xpdbk.com 
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/XiaoPang.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/XiaoPang.png
 
  - name: 一个一个一个小站（悲
    desc: 114514个三连的站
@@ -96,7 +90,7 @@ otherlinks:
 <VPCard
   title="YYYYT的AList站点"
   desc="分享一些视频/文件"
-  logo="https://img.yyyyt.top/Alist/Alist_logo.svg"
+  logo="https://img.yyyyt.top/avatar/alist.svg"
   link="https://alist.yyyyt.top"
 />
 </div>
@@ -114,25 +108,25 @@ otherlinks:
 <VPCard
   title="Cloudflare"
   desc="网站性能与防护.提供了本站静态页面服务器(Pages).同时也提供了内网穿透服务"
-  logo="https://img.yyyyt.top/vuepress/site/links/CloudflareLogo.ico"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/CF_logomark.svg"
   link="https://www.cloudflare.com"
 />
 <VPCard
   title="Github"
   desc="提供了本站的Git存储库"
-  logo="https://img.yyyyt.top/vuepress/site/links/github-mark.svg"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/github-mark.svg"
   link="https://github.com"
 />
 <VPCard
   title="VuePress-Theme-Hope"
   desc="一个具有强大功能的 vuepress 主题✨"
-  logo="https://img.yyyyt.top/vuepress/site/links/VuePress-theme-hopelogo.svg"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/VuePress-theme-hope.svg"
   link="https://theme-hope.vuejs.press/zh/"
 />
 <VPCard
   title="Giscus"
   desc="利用 GitHub Discussions 实现的评论系统"
-  logo="https://img.yyyyt.top/vuepress/site/links/giscuslogo.png"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/giscus.png"
   link="https://giscus.app/"
 />
 <VPCard
@@ -144,7 +138,7 @@ otherlinks:
 <VPCard
   title="NodeLoc"
   desc="提供了本站大陆方向优化的cdn"
-  logo="https://img.yyyyt.top/vuepress/site/links/NodeLoc.png"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png"
   link="https://www.nodeloc.com"
 />
 </div>
@@ -153,6 +147,10 @@ otherlinks:
 ::: details RSS:
 [外部链接查看](https://docs.yyyyt.top/docs/site/fc.html)
 <iframe src="/docs/site/fc.html" name="iframe_a" scrolling="yes" frameborder="0" width="100%" height="1000" style="border-radius: 30px;"></iframe>
+:::
+
+::: details 待移除
+114514个三连的站 域名解析炸了 检查时间: 20250323
 :::
 
 友链申请:  
