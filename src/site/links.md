@@ -90,7 +90,7 @@ otherlinks:
 <VPCard
   title="YYYYT的AList站点"
   desc="分享一些视频/文件"
-  logo="https://img.yyyyt.top/avatar/alist.svg"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/alist.svg"
   link="https://alist.yyyyt.top"
 />
 </div>
