@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-03-29T14:34:52.974Z</updated>
+  <updated>2025-03-29T14:40:54.214Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -498,7 +498,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
     <summary type="html"><![CDATA[<p>本文写于 2025 02 04</p>
 <h2>速通版:</h2>
 <p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
-<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" data-title="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
+<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  if</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">key</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signature</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`Cannot find matching keyid: </span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">${</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">JSON</span><span style="--shiki-light:#50A14F;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">stringify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signatures</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keys</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> })</span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">}</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
 <span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">                                              ^</span></span>
 <span class="line"></span>
@@ -517,7 +517,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
     <content type="html"><![CDATA[<p>本文写于 2025 02 04</p>
 <h2>速通版:</h2>
 <p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
-<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" data-title="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
+<div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  if</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">key</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signature</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`Cannot find matching keyid: </span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">${</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">JSON</span><span style="--shiki-light:#50A14F;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">stringify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signatures</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keys</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> })</span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">}</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
 <span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">                                              ^</span></span>
 <span class="line"></span>
@@ -537,7 +537,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <li>设置环境变量 COREPACK_INTEGRITY_KEYS=0</li>
 <li>更新corepack版本</li>
 </ol>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">npm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -g</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> corepack@latest</span></span></code></pre>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">npm</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -g</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> corepack@latest</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><ol start="3">
 <li>重新运行pnpm即可</li>
 </ol>
@@ -559,31 +559,31 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <p>据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.<a href="https://blog.butlanys.de/posts/37249/" target="_blank" rel="noopener noreferrer">相关链接</a><br>
 <s>其实好像是隐退了,还有一个号没注销</s></p>
 <h2>事件二: 盗号轰炸</h2>
-<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"></sup></a><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">群里面)<br>
+<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup>群里面)<br>
 token已经泄露(现已失效),于是......<br>
 <s>谁整得活</s><br>
 <img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg" alt="文章boom" width="270" height="615" loading="lazy"><br>
 <s>当然Feng把这些文章全处理了,全删了</s><br>
-全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</a></p>]]></summary>
+全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</p>]]></summary>
     <content type="html"><![CDATA[<h2>事件一: Dream(butlanys)退坑</h2>
 <p>据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.<a href="https://blog.butlanys.de/posts/37249/" target="_blank" rel="noopener noreferrer">相关链接</a><br>
 <s>其实好像是隐退了,还有一个号没注销</s></p>
 <h2>事件二: 盗号轰炸</h2>
-<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"></sup></a><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">群里面)<br>
+<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup>群里面)<br>
 token已经泄露(现已失效),于是......<br>
 <s>谁整得活</s><br>
 <img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg" alt="文章boom" width="270" height="615" loading="lazy"><br>
 <s>当然Feng把这些文章全处理了,全删了</s><br>
-全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</a></p><a class="footnote-anchor" id="footnote-ref2">
+全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</p>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
 <p>万账此人以前曾经威胁说要开盒等恶劣行为(反福瑞这个我不做评价)</p>
 </div>
 <p>相关截图懒得弄了,自己翻聊天记录吧</p>
 <hr class="footnotes-sep">
-</a><section class="footnotes"><a class="footnote-anchor" id="footnote-ref2">
-</a><ol class="footnotes-list"><a class="footnote-anchor" id="footnote-ref2">
-</a><li id="footnote1" class="footnote-item"><a class="footnote-anchor" id="footnote-ref2"></a><p><a class="footnote-anchor" id="footnote-ref2"></a><a href="https://www.yhchat.com/user/homepage/6673608" target="_blank" rel="noopener noreferrer">万账(已注销)</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p><a href="https://www.yhchat.com/user/homepage/6673608" target="_blank" rel="noopener noreferrer">万账(已注销)</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
 </li>
 <li id="footnote2" class="footnote-item"><p><a href="https://yhfx.jwznb.com/share?key=byzXNOyytLtE&amp;ts=1738419747" target="_blank" rel="noopener noreferrer">相关链接</a> <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
 </li>
@@ -831,7 +831,7 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
 这也给牢鼠气红温了 <s>(修复了牢鼠不会红温的bug)</s><br>
 <img src="https://img.yyyyt.top/meme/云湖/截图永流传/XSS你妈.png" alt="XSS你妈" loading="lazy"><br>
 <img src="https://img.yyyyt.top/meme/云湖/截图永流传/XSS你妈2.png" alt="XSS你妈2" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/articles/daily/2025/01/24/0/runoneall关站.png" alt="关站" loading="lazy"><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p><a class="footnote-anchor" id="footnote-ref1">
+<img src="https://img.yyyyt.top/vuepress/articles/daily/2025/01/24/0/runoneall关站.png" alt="关站" loading="lazy"><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p>
 <blockquote>
 <p>Hehe: 这是网页版的问题,不关我后端的事<br>
 <img src="https://img.yyyyt.top/meme/云湖/截图永流传/不关我事.jpg" alt="不关我事" loading="lazy"></p>
@@ -841,7 +841,7 @@ butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申
 现在都修了<br>
 这个广场能不能做成我这边要打个问号,毕竟这个东西都能踢皮球别的东西我也不指望能好到哪里去了<br>
 强烈建议以后出现这类安全问题也别反馈,他们自己的事情,出事情他们自己负责.咱测试的没必要去管</p>
-</a><h2><a class="footnote-anchor" id="footnote-ref1"></a><a class="header-anchor" href="#the-end"><span>The End</span></a></h2>
+<h2>The End</h2>
 <hr class="footnotes-sep">
 <section class="footnotes">
 <ol class="footnotes-list">
@@ -1029,35 +1029,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
@@ -1144,6 +1115,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -1494,6 +1494,41 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
     <title type="text">7月</title>
     <id>https://docs.yyyyt.top/articles/daily/2024/07/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/07/"/>
@@ -1554,41 +1589,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.张同学和石同学和土豆</h3>
-<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content>
-    <published>2024-10-26T15:43:45.000Z</published>
-  </entry>
-  <entry>
     <title type="text">群规</title>
     <id>https://docs.yyyyt.top/others/rules/yh_group_rule.html</id>
     <link href="https://docs.yyyyt.top/others/rules/yh_group_rule.html"/>
@@ -1599,9 +1599,9 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 <h2>一.适用范围</h2>
 <p>本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效</p>
 <h2>二.发言规定</h2>
-<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">:<br>
+<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>:<br>
 <strong>1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容</strong><br>
-<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"></sup></strong></a><strong><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">等隐私信息.除非其本人明确同意</a></strong><a class="footnote-anchor" id="footnote-ref2"><br>
+<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup>等隐私信息.除非其本人明确同意</strong><br>
 <strong>3.不得在未经群主/管理员同意的情况下发布宣群内容</strong><br>
 <strong>4.不得发布广告信息(例如流量卡广告,非法广告等)</strong><br>
 <strong>5.不得随意辱骂其他群员,或者是过度嘲讽其他群员</strong><br>
@@ -1610,16 +1610,16 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 <strong>8.不得随意歧视其他群员,也包括其国家,民族,宗教信仰等</strong><br>
 <strong>9.不得发布易引起他人不适,不舒服的图片/文字/视频</strong><br>
 <strong>10.不得使用色情低俗/有违法违规信息的图片作为头像</strong><br>
-<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></a></p>]]></summary>
+<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></p>]]></summary>
     <content type="html"><![CDATA[<p>最近更新日期: 20241019<br>
 本规定适用于所有群规链接指向这里的群组<br>
 加入相关群聊即代表同意本规定</p>
 <h2>一.适用范围</h2>
 <p>本规定适用于所有群规指向该链接的群组,且该群组必须在群简介/看板注明该规定方可有效</p>
 <h2>二.发言规定</h2>
-<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">:<br>
+<p>对于群员<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>:<br>
 <strong>1.不得发布违反中华人民共和国法律的内容,包括但不限于谣言,黄赌毒等相关内容</strong><br>
-<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"></sup></strong></a><strong><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2">等隐私信息.除非其本人明确同意</a></strong><a class="footnote-anchor" id="footnote-ref2"><br>
+<strong>2.不得随意公开他人真实信息,包括但不限于详细家庭住址,真实姓名,手机号码<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup>等隐私信息.除非其本人明确同意</strong><br>
 <strong>3.不得在未经群主/管理员同意的情况下发布宣群内容</strong><br>
 <strong>4.不得发布广告信息(例如流量卡广告,非法广告等)</strong><br>
 <strong>5.不得随意辱骂其他群员,或者是过度嘲讽其他群员</strong><br>
@@ -1628,13 +1628,13 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 <strong>8.不得随意歧视其他群员,也包括其国家,民族,宗教信仰等</strong><br>
 <strong>9.不得发布易引起他人不适,不舒服的图片/文字/视频</strong><br>
 <strong>10.不得使用色情低俗/有违法违规信息的图片作为头像</strong><br>
-<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></a></p><a class="footnote-anchor" id="footnote-ref2">
+<strong>11.不得冒充其他群员,包括使用相同的昵称+头像或者是易引发别人误解为其本人等</strong></p>
 <p>对于管理员:<br>
 <strong>1.不得滥用管理员职权讽刺/玩弄群员</strong><br>
 <strong>2.不得在未经群主同意的情况下修改群设置/机器人设置</strong><br>
 <strong>3.不得未经同意随意踢出群员(对于严重违规的可以不需要群主同意)</strong><br>
 <strong>4.管理员对于群内的违规信息有处理的义务</strong></p>
-</a><h2><a class="footnote-anchor" id="footnote-ref2"></a><a class="header-anchor" href="#三-处罚"><span>三.处罚</span></a></h2>
+<h2>三.处罚</h2>
 <p>群主/管理员可以视情况给予警告/违规/禁言/踢出的处罚,对于多次屡教不改者可以加重处罚</p>
 <h2>四.群内争端的处理</h2>
 <p>1.主张<strong>谁提出谁举证</strong>原则,禁止造谣诬陷抹黑他人<br>
@@ -1677,12 +1677,12 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <h3>使用cloudflare tunnel来访问AList:</h3>
 <p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>
 <p><a href="http://1.cf" target="_blank" rel="noopener noreferrer">1.cf</a> tunnel安装</p>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -L</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64'</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -o</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./cloudflared</span></span>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -L</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64'</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -o</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./cloudflared</span></span>
 <span class="line"></span>
 <span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">chmod</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> +x</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./cloudflared</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>
 <p><a href="http://2.cf" target="_blank" rel="noopener noreferrer">2.cf</a> tunnel的启动</p>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" data-title="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">./cloudflared</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> service</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 你的Token</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">cf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> zero</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> trust创建隧道的时候有,install后面的一串乱码就是token</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 请勿泄露</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span></code></pre>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">./cloudflared</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> service</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 你的Token</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">cf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> zero</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> trust创建隧道的时候有,install后面的一串乱码就是token</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 请勿泄露</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
@@ -1977,7 +1977,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>
 <p><strong>示例:</strong></p>
 <p>合并单个文件(一般不用,相当于直接下载单个文件):</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>合并多个文件:</p>
 <div class="hint-container tip">
 <p class="hint-container-title">提示</p>
@@ -1987,11 +1987,11 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p class="hint-container-title">注意</p>
 <p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
 </div>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h3>of参数:</h3>
 <p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>
 <p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>
 <strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>
 <h3>il参数:</h3>
@@ -2002,16 +2002,16 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
 </div>
 <p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>li.txt内容:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span># 使用#来注释内容</span></span>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span># 使用#来注释内容</span></span>
 <span class="line"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>
 <span class="line"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>
 <span class="line"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>proxy参数:</h3>
 <p>指定下载代理服务器,<a href="http://xn--nm2-uc0ep96b.runoneall.us.kg" target="_blank" rel="noopener noreferrer">例如nm2.runoneall.us.kg</a></p>
 <p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" data-title="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>实际请求的时会变成这样 <a href="https://nm2.runoneall.us.kg/https://example.com" target="_blank" rel="noopener noreferrer">https://nm2.runoneall.us.kg/https://example.com</a></p>
 ]]></content>
     <published>2024-09-16T18:18:53.000Z</published>
@@ -2148,15 +2148,15 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <h2>事件一: 预警群群主撤回封口事件</h2>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
-<p>鬼知道<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">是如何做到群友提醒好多次还🦐的...</a></p><a class="footnote-anchor" id="footnote-ref1">
-</a></div>]]></summary>
+<p>鬼知道<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>是如何做到群友提醒好多次还🦐的...</p>
+</div>]]></summary>
     <content type="html"><![CDATA[<p><strong>日期: 20240824</strong></p>
 <h2>事件一: 预警群群主撤回封口事件</h2>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
-<p>鬼知道<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup><a class="footnote-anchor" id="footnote-ref1">是如何做到群友提醒好多次还🦐的...</a></p><a class="footnote-anchor" id="footnote-ref1">
-</a></div><a class="footnote-anchor" id="footnote-ref1">
-</a><p><a class="footnote-anchor" id="footnote-ref1">事情是这样的,风和日丽的一天.直到,</a><a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>看到了<a href="/blog/yh/events/2024/20240820.html" target="_blank">20240820事件</a>中的某张图片...,然后不知道是咋了,发癫了,认为是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>滥用职权,用<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>机器人拉黑<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>.实际上只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在自己的群里面用自己的机器人(<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>是开源的,只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>自己拿源码搭建了个自己的而已,没用<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>的那个),然后把<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在<a href="https://yhfx.jwznb.com/share?key=T1QLZCNnJhY5&amp;ts=1724514280" target="_blank" rel="noopener noreferrer">预警群</a>中的管理给撤了,后续<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>发现自己眼瞎又恢复回来了.<strong>但是还不忘把消息撤了,期间还开了禁言(所有消息类型都不让发)</strong></p>
+<p>鬼知道<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>是如何做到群友提醒好多次还🦐的...</p>
+</div>
+<p>事情是这样的,风和日丽的一天.直到,<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>看到了<a href="/blog/yh/events/2024/20240820.html" target="_blank">20240820事件</a>中的某张图片...,然后不知道是咋了,发癫了,认为是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>滥用职权,用<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>机器人拉黑<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>.实际上只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在自己的群里面用自己的机器人(<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>是开源的,只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>自己拿源码搭建了个自己的而已,没用<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>的那个),然后把<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在<a href="https://yhfx.jwznb.com/share?key=T1QLZCNnJhY5&amp;ts=1724514280" target="_blank" rel="noopener noreferrer">预警群</a>中的管理给撤了,后续<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>发现自己眼瞎又恢复回来了.<strong>但是还不忘把消息撤了,期间还开了禁言(所有消息类型都不让发)</strong></p>
 <h2>事件二: 云湖Minecraft闲聊站群主发癫</h2>
 <div class="hint-container note">
 <p class="hint-container-title">注</p>
@@ -2177,34 +2177,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 </section>
 ]]></content>
     <published>2024-08-24T16:34:57.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
-]]></content>
-    <published>2024-08-20T15:34:03.000Z</published>
   </entry>
   <entry>
     <title type="text">20240820 今天火药味有点浓啊</title>
@@ -2249,14 +2221,42 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <details class="hint-container details"><summary>视频二(斗图事件)</summary>
 <p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/video_2.mp4" target="_blank" rel="noopener noreferrer">下载视频2</a></p>
 </details>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/IMG_8572.jpeg" target="_blank" rel="noopener noreferrer">Qrasa Nya!和贺贺回答室私下的聊天截图</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p><a class="footnote-anchor" id="footnote-ref1">
+<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/IMG_8572.jpeg" target="_blank" rel="noopener noreferrer">Qrasa Nya!和贺贺回答室私下的聊天截图</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p>
 <hr class="footnotes-sep">
-</a><section class="footnotes"><a class="footnote-anchor" id="footnote-ref1">
-</a><ol class="footnotes-list"><a class="footnote-anchor" id="footnote-ref1">
-</a><li id="footnote1" class="footnote-item"><a class="footnote-anchor" id="footnote-ref1"></a><p><a class="footnote-anchor" id="footnote-ref1">来源: </a><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="footnote1" class="footnote-item"><p>来源: <a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
 </li>
 </ol>
 </section>
+]]></content>
+    <published>2024-08-20T15:34:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">乱象吐槽</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
+    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
+<h3>3. 谣言类</h3>
+<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
+<h3>4. 辱骂</h3>
+<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
+<h3>5. 未成年保护不到位</h3>
+<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
 ]]></content>
     <published>2024-08-20T15:34:03.000Z</published>
   </entry>
