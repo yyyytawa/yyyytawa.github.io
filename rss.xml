@@ -6,16 +6,29 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Mar 2025 10:52:39 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Mar 2025 10:52:39 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Mar 2025 14:34:52 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Mar 2025 14:34:52 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
-    <category>研究与探讨</category>
     <category>技术</category>
     <category>云湖事件</category>
     <category>站点</category>
+    <item>
+      <title>&amp;quot;河里&amp;quot;的用户协议</title>
+      <link>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</link>
+      <guid>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">&amp;quot;河里&amp;quot;的用户协议</source>
+      <description>警告 本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读. 你好,欢迎你使用我们的产品.</description>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读.</p>
+</div>
+<p>你好,欢迎你使用我们的产品.</p>
+]]></content:encoded>
+    </item>
     <item>
       <title>第八周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</link>
@@ -282,7 +295,6 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
       <guid>https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">1.福瑞文化是如何流行起来的?</source>
       <description>注意 本文仅作研究与探讨目的,作者本人不喜欢福瑞相关内容.这个文章仅从相对中立的角度出发.(感觉这个福瑞文化总是有点怪.) 引言: 这个文章的想法是从朋友讨论同学用梯子上外网看的东西而引起的,包括我的许多网友都是福瑞控或者喜欢相关文化.故决定去研究一下,但是不计划深入研究. 相关聊天记录(大致意思): 朋友: 我有个朋友在学校拿梯子上外网,看那种R18...</description>
-      <category>研究与探讨</category>
       <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -2053,18 +2065,6 @@ PS:大部分消息已撤回<br>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240505 星期日</strong><br>
 <strong>结束: 20240511 星期六</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十周</source>
-      <description>日期: 开始: 20240427 星期六 结束: 20240430 星期二 本周内容: 1.回来专程期中考试. 说到上回学校被举报一事情,被迫放了一天假期.这一回回来就专程为个期中考试.好吧,有一天也算不错了. 2.期中考试难度去世. 这一回期中考试,难度直接让人去世,包括但不限于物理大题全错,语文大题全靠蒙,数学直接懵逼.反正难度就....... 3...</description>
-      <pubDate>Sat, 27 Apr 2024 05:11:20 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240427 星期六</strong><br>
-<strong>结束: 20240430 星期二</strong></p>
 ]]></content:encoded>
     </item>
   </channel>

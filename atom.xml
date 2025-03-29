@@ -3,16 +3,34 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-03-29T10:52:39.775Z</updated>
+  <updated>2025-03-29T14:34:52.974Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
   <category term="高中"/>
   <category term="公告"/>
-  <category term="研究与探讨"/>
   <category term="技术"/>
   <category term="云湖事件"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">&amp;quot;河里&amp;quot;的用户协议</title>
+    <id>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</id>
+    <link href="https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html"/>
+    <updated>2025-03-29T14:33:49.000Z</updated>
+    <summary type="html"><![CDATA[<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读.</p>
+</div>
+<p>你好,欢迎你使用我们的产品.</p>
+]]></summary>
+    <content type="html"><![CDATA[<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读.</p>
+</div>
+<p>你好,欢迎你使用我们的产品.</p>
+]]></content>
+    <published>2025-03-29T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">第八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</id>
@@ -395,7 +413,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
     <title type="text">1.福瑞文化是如何流行起来的?</title>
     <id>https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html</id>
     <link href="https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html"/>
-    <updated>2025-02-08T09:32:37.000Z</updated>
+    <updated>2025-03-29T14:33:49.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container warning">
 <p class="hint-container-title">注意</p>
 <p>本文仅作研究与探讨目的,作者本人不喜欢福瑞相关内容.这个文章仅从相对中立的角度出发.(感觉这个福瑞文化总是有点怪.)</p>
@@ -458,7 +476,6 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <a href="https://zqb.cyol.com/pc/content/202412/20/content_404430.html" target="_blank" rel="noopener noreferrer">https://zqb.cyol.com/pc/content/202412/20/content_404430.html</a></p>
 <h2>The End</h2>
 ]]></content>
-    <category term="研究与探讨"/>
     <published>2025-02-08T00:00:00.000Z</published>
   </entry>
   <entry>
@@ -2811,26 +2828,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240511 星期六</strong></p>
 ]]></content>
     <published>2024-05-05T05:43:25.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html"/>
-    <updated>2024-05-19T06:23:31.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始: 20240427 星期六</strong><br>
-<strong>结束: 20240430 星期二</strong></h2>
-<h3>本周内容:</h3>
-<p>1.回来专程期中考试.<br>
-说到上回学校被举报一事情,被迫放了一天假期.这一回回来就专程为个期中考试.好吧,有一天也算不错了.</p>
-<p>2.期中考试难度去世.<br>
-这一回期中考试,难度直接让人去世,包括但不限于物理大题全错,语文大题全靠蒙,数学直接懵逼.反正难度就.......</p>
-<p>3.五一假期.<br>
-这个我不介绍了吧,懂得都懂.(但是我作业没写完:((()</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240427 星期六</strong><br>
-<strong>结束: 20240430 星期二</strong></p>
-]]></content>
-    <published>2024-04-27T05:11:20.000Z</published>
   </entry>
 </feed>
