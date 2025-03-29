@@ -58,7 +58,7 @@ otherlinks:
    desc: 记录一些活着的日常
    logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
    url: https://blog.qrasa.cn/
-   preview: https://img.yyyyt.top/docs/site/links/preview/qrasa.png
+   preview: https://img.yyyyt.top/docs/site/links/preview/Qrasa.png
 
  - name: Runoneall の 小破站
    desc: 一个混迹互联网的普通人
@@ -80,9 +80,9 @@ otherlinks:
 
  - name: 一个一个一个小站（悲
    desc: 114514个三连的站
-   logo: https://sanlian.us.kg/favicon.ico
-   url: https://sanlian.us.kg/
-   preview: https://img.yyyyt.top/vuepress/site/links/preview/Sanlian_Blog.png
+   logo: https://sanlian114514.eu.org/favicon.ico
+   url: https://sanlian114514.eu.org/
+   preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
 ---
 
 我自己的站点
@@ -150,7 +150,7 @@ otherlinks:
 :::
 
 ::: details 待移除
-114514个三连的站 域名解析炸了 检查时间: 20250323
+无
 :::
 
 友链申请:  
