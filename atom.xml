@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-03-23T06:47:26.936Z</updated>
+  <updated>2025-03-29T10:52:39.775Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -14,20 +14,56 @@
   <category term="云湖事件"/>
   <category term="站点"/>
   <entry>
-    <title type="text">第七周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/7_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/7_week.html"/>
-    <updated>2025-03-22T14:01:12.000Z</updated>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html"/>
+    <updated>2025-03-29T10:51:15.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250323 星期日</strong><br>
-<strong>结束: 202503xx 星期五</strong></p>
+<p><strong>开始: 20250330 星期日</strong><br>
+<strong>结束: 202504xx 星期五</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250323 星期日</strong><br>
-<strong>结束: 202503xx 星期五</strong></p>
+<p><strong>开始: 20250330 星期日</strong><br>
+<strong>结束: 202504xx 星期五</strong></p>
 <h2>本周内容:</h2>
+<h2>The End</h2>
+]]></content>
+    <published>2025-03-29T10:51:15.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第七周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/7_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/7_week.html"/>
+    <updated>2025-03-29T10:51:15.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250323 星期日</strong><br>
+<strong>结束: 20250328 星期五</strong></p>
+<h2>本周内容:</h2>
+<h3>1.老天爷偷袭</h3>
+<p>老天爷搞偷袭,星期三三十度,星期四直降十度.偷袭!<br>
+风扇也不知道咋回事扇着头疼,空调肯定是不可能开的.<br>
+跑操的时候发现宿舍楼一楼不知道为啥特别凉快,跟开了空调一样.<s>我怀疑是不是偷偷开空调了</s></p>
+<h3>2.周考难度爆炸</h3>
+<p>这回周考不知道发了啥疯(或许和一模有关?)难度大了亿点点而已,然后有人考到140分,我有点蒙.</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250323 星期日</strong><br>
+<strong>结束: 20250328 星期五</strong></p>
+<h2>本周内容:</h2>
+<h3>1.老天爷偷袭</h3>
+<p>老天爷搞偷袭,星期三三十度,星期四直降十度.偷袭!<br>
+风扇也不知道咋回事扇着头疼,空调肯定是不可能开的.<br>
+跑操的时候发现宿舍楼一楼不知道为啥特别凉快,跟开了空调一样.<s>我怀疑是不是偷偷开空调了</s></p>
+<h3>2.周考难度爆炸</h3>
+<p>这回周考不知道发了啥疯(或许和一模有关?)难度大了亿点点而已,然后有人考到140分,我有点蒙.</p>
+<h3>3.狼人杀之王</h3>
+<p>7人行,必有狼人杀.<br>
+这几位在宿舍玩狼人杀,然后被大爷逮到两次,反正就很无语.<br>
+第一次直接跑到隔壁寝偷家了,然后肯定是被逮了,那边马老师都问我除了那五个人以外寝室里面还有谁了.<br>
+第二次还是不长记性,然后半夜11:30左右被大爷直接突脸.</p>
+<h3>4.高三体检</h3>
+<p>据说这周高三体检,看到楼下的高三排队体检了.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-03-22T14:01:12.000Z</published>
@@ -948,8 +984,60 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <title type="text">FAQ</title>
     <id>https://docs.yyyyt.top/site/faq.html</id>
     <link href="https://docs.yyyyt.top/site/faq.html"/>
-    <updated>2025-01-25T13:59:53.000Z</updated>
+    <updated>2025-03-29T10:51:15.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>关于一些词语的解释:</strong></p>
+<p>本站中"中国"无特殊指明均指<strong>中国内地</strong>地区.</p>
+<p>URL相关规范:</p>
+<p>总体原则上以英文优先,其次中文和拼音,最后是其他语言.<br>
+要尽可能的避免url转码,减少兼容性问题和增强可读性.</p>
+<p>/avatar/</p>
+<p>头像目录命名原则上也是以英文优先,如果没有英文名其次是中文,再次之是其他语言.<br>
+英文开头首字母大写.<br>
+例如说"雪绒"的官方英文名"Qanipalaat"官方日文名为"カニパラート",优先取英文.<br>
+那么url应该写为 /avatar/Qanipalaat/xxxxx</p>]]></summary>
+    <content type="html"><![CDATA[<p><strong>关于一些词语的解释:</strong></p>
+<p>本站中"中国"无特殊指明均指<strong>中国内地</strong>地区.</p>
+<p>URL相关规范:</p>
+<p>总体原则上以英文优先,其次中文和拼音,最后是其他语言.<br>
+要尽可能的避免url转码,减少兼容性问题和增强可读性.</p>
+<p>/avatar/</p>
+<p>头像目录命名原则上也是以英文优先,如果没有英文名其次是中文,再次之是其他语言.<br>
+英文开头首字母大写.<br>
+例如说"雪绒"的官方英文名"Qanipalaat"官方日文名为"カニパラート",优先取英文.<br>
+那么url应该写为 /avatar/Qanipalaat/xxxxx</p>
+<p>/meme/</p>
+<p>同上,能用英文建议优先使用英文,此处要求全小写字母.</p>
+]]></content>
     <category term="站点"/>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -1039,35 +1127,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -1418,41 +1477,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2024-11-02T15:33:50.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.张同学和石同学和土豆</h3>
-<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content>
-    <published>2024-10-26T15:43:45.000Z</published>
-  </entry>
-  <entry>
     <title type="text">7月</title>
     <id>https://docs.yyyyt.top/articles/daily/2024/07/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/07/"/>
@@ -1510,6 +1534,41 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <id>https://docs.yyyyt.top/articles/daily/2024/10/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/10/"/>
     <updated>2025-02-04T06:14:52.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
+    <updated>2024-11-02T15:33:50.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
@@ -1800,7 +1859,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">友情链接</title>
     <id>https://docs.yyyyt.top/site/links.html</id>
     <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-03-23T06:46:24.000Z</updated>
+    <updated>2025-03-29T10:51:15.000Z</updated>
     <summary type="html"><![CDATA[<p>我自己的站点</p>
 <div class="vp-card-container">
 </div>
@@ -2103,6 +2162,34 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <published>2024-08-24T16:34:57.000Z</published>
   </entry>
   <entry>
+    <title type="text">乱象吐槽</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
+    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
+本文如标题一样,用于写一些乱象</p>
+<h2>网络部分</h2>
+<h3>1. 色情擦边球类</h3>
+<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
+<h3>2. 营销号</h3>
+<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
+<h3>3. 谣言类</h3>
+<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
+<h3>4. 辱骂</h3>
+<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
+<h3>5. 未成年保护不到位</h3>
+<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
+]]></content>
+    <published>2024-08-20T15:34:03.000Z</published>
+  </entry>
+  <entry>
     <title type="text">20240820 今天火药味有点浓啊</title>
     <id>https://docs.yyyyt.top/blog/yh/events/2024/20240820.html</id>
     <link href="https://docs.yyyyt.top/blog/yh/events/2024/20240820.html"/>
@@ -2153,34 +2240,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 </li>
 </ol>
 </section>
-]]></content>
-    <published>2024-08-20T15:34:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
 ]]></content>
     <published>2024-08-20T15:34:03.000Z</published>
   </entry>
@@ -2299,12 +2358,12 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
     <title type="text">关于我</title>
     <id>https://docs.yyyyt.top/site/about_me.html</id>
     <link href="https://docs.yyyyt.top/site/about_me.html"/>
-    <updated>2025-02-05T16:15:42.000Z</updated>
+    <updated>2025-03-29T10:51:15.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~</p>
 </blockquote>
 <p><img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" width="50" height="55" loading="lazy"><br>
-<s>由于头像301热更新机制因此此处不会再写来源</s><br>
+<s>由于头像301热更新机制因此此处不会再写来源</s> 请看对应目录下的README.md文件<br>
 真名: 不愿透露<br>
 一个高中生(2024年),生活在河南<br>
 平时比较忙,可能周六周日才有空(也可能没空)<br>
@@ -2313,7 +2372,7 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~</p>
 </blockquote>
 <p><img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" width="50" height="55" loading="lazy"><br>
-<s>由于头像301热更新机制因此此处不会再写来源</s><br>
+<s>由于头像301热更新机制因此此处不会再写来源</s> 请看对应目录下的README.md文件<br>
 真名: 不愿透露<br>
 一个高中生(2024年),生活在河南<br>
 平时比较忙,可能周六周日才有空(也可能没空)<br>
@@ -2773,28 +2832,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240430 星期二</strong></p>
 ]]></content>
     <published>2024-04-27T05:11:20.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/8_week.html"/>
-    <updated>2024-05-05T05:43:25.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始: 20240414 星期日</strong><br>
-<strong>结束: 20240420 星期六</strong></h2>
-<h3>本周内容:</h3>
-<p>1.本周联考,全班乐死<br>
-没错有是一年n度的联考,本周又是祥和的一周(特指错完了:(( ),下周又是期中考试,麻了.哦对,这周日还要理化生加试,so不要乱跑啊</p>
-<p>2.手抄报活动<br>
-关于中国红的手抄报的,没啥</p>
-<p>3.语文卷子搞背刺<br>
-没想到啊,语文卷子还考上学期的古诗文吧.</p>
-<p>这周还是很水....</p>
-<p>###The End</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240414 星期日</strong><br>
-<strong>结束: 20240420 星期六</strong></p>
-]]></content>
-    <published>2024-04-20T17:13:30.000Z</published>
   </entry>
 </feed>
