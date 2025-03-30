@@ -9,10 +9,10 @@
       "title": "\"河里\"的用户协议",
       "url": "https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html",
       "id": "https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html",
-      "summary": "警告 本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读. 你好,欢迎你使用我们的产品.",
-      "content_html": "<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,提及任何公司,组织等,禁止过度解读.</p>\n</div>\n<p>你好,欢迎你使用我们的产品.</p>\n",
+      "summary": "警告 本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.访客不需要遵守这个用户协议. 你好,欢迎你使用我们的产品.",
+      "content_html": "<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.访客不需要遵守这个用户协议.</p>\n</div>\n<p>你好,欢迎你使用我们的产品.</p>\n",
       "date_published": "2025-03-29T00:00:00.000Z",
-      "date_modified": "2025-03-29T14:33:49.000Z",
+      "date_modified": "2025-03-30T02:52:37.000Z",
       "authors": [],
       "tags": []
     },
@@ -643,10 +643,10 @@
       "title": "隐私政策",
       "url": "https://docs.yyyyt.top/site/privacy.html",
       "id": "https://docs.yyyyt.top/site/privacy.html",
-      "summary": "本网站部分功能可能涉及您的隐私,建议您完整阅读 收集的信息 1.我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务 2.评论系统基于giscus,如果您使用评论系统将会收集以下信息 IP地址,UA等网站基本功能所必...",
-      "content_html": "<p>本网站部分功能可能涉及您的隐私,建议您完整阅读</p>\n<h1>收集的信息</h1>\n<p>1.我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.<strong>这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务</strong></p>\n<p>2.评论系统基于<a href=\"https://giscus.app/\" target=\"_blank\" rel=\"noopener noreferrer\">giscus</a>,如果您使用评论系统将会收集以下信息</p>\n<ul>\n<li>IP地址,UA等网站基本功能所必须信息</li>\n<li>您的Github账号的部分信息(如用户名,头像等信息)</li>\n<li>Giscus正常运行的所需其他信息</li>\n</ul>\n<p>3.本网站部署在<a href=\"https://www.cloudflare.com/developer-platform/pages\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Pages</a>,因此Cloudflare会收集您的相关信息.同时Cloudflare将会收集您访问yyyyt.top所有域名的DNS查询记录(包括查询名称,查询类型,响应代码,源IP等信息).具体内容请查看Cloudflare的隐私政策</p>\n<h1>信息的保护</h1>\n<p>本网站会尽力去保护您的个人信息.由于网络的特殊性,因此无法保证100%信息不泄露.但是本站会尽力尝试避免信息的泄露.对于GitHub等第三方原因造成的泄露本站一概不负责</p>\n",
+      "summary": "本网站部分功能可能涉及您的隐私,建议您完整阅读 概述: \"我们\",\"我\"在此处均指本站 对于协议里面的关键内容我们会使用加粗表示. 收集的信息 我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务 评论系统基于gis...",
+      "content_html": "<p>本网站部分功能可能涉及您的隐私,建议您完整阅读</p>\n<h1>概述:</h1>\n<ol>\n<li>\"我们\",\"我\"在此处均指本站</li>\n<li><strong>对于协议里面的关键内容我们会使用加粗表示.</strong></li>\n</ol>\n<h1>收集的信息</h1>\n<ol>\n<li>\n<p>我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.<strong>这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务</strong></p>\n</li>\n<li>\n<p>评论系统基于<a href=\"https://giscus.app/\" target=\"_blank\" rel=\"noopener noreferrer\">giscus</a>,如果您使用评论系统将会收集以下信息</p>\n</li>\n</ol>\n<ul>\n<li>IP地址,UA等网站基本功能所必须信息</li>\n<li>您的Github账号的部分信息(如用户名,头像等信息)</li>\n<li>Giscus正常运行的所需其他信息</li>\n</ul>\n<ol start=\"3\">\n<li>本网站部署在<a href=\"https://www.cloudflare.com/developer-platform/pages\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Pages</a>,<strong>Cloudflare会收集您的相关信息.包括访问yyyyt.top及子域的所有DNS查询记录</strong>(包括查询名称,查询类型,响应代码,应答服务器的IP等信息).具体内容请查看Cloudflare的隐私政策</li>\n</ol>\n<h1>信息的保护</h1>\n<p><strong>我们会尽力去保护您的个人信息.由于网络的特殊性,因此无法保证100%不泄露.但是我们会尽力避免泄露事件的发生,如果因我们方面原因造成的个人信息泄露由我们负责.对于GitHub等第三方原因造成的泄露我们一概不负责</strong></p>\n",
       "date_published": "2024-10-04T16:23:29.000Z",
-      "date_modified": "2025-01-25T13:59:53.000Z",
+      "date_modified": "2025-03-30T02:52:37.000Z",
       "authors": [],
       "tags": [
         "站点"
