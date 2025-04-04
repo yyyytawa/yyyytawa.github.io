@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-03-30T02:54:01.650Z</updated>
+  <updated>2025-04-04T06:39:48.967Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -13,21 +13,104 @@
   <category term="云湖事件"/>
   <category term="站点"/>
   <entry>
+    <title type="text">5.自建图床</title>
+    <id>https://docs.yyyyt.top/articles/tech/2025/0404.5.%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A.html</id>
+    <link href="https://docs.yyyyt.top/articles/tech/2025/0404.5.%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A.html"/>
+    <updated>2025-04-04T06:38:50.000Z</updated>
+    <summary type="html"><![CDATA[<h2>概述:</h2>
+<p>图床对于一个文档来说是必不可少的一部分,对于markdown来说也非常重要,毕竟要插入图片之类的.本教程教你如何用自己的服务器自建图床.<br>
+本教程中将使用Caddy作为web服务端,系统为debian12.你也可以选择使用NGINX和其他系统.<br>
+本教程只写了80,443可用的情况,实际情况可能会更复杂.</p>
+<h3>1.安装Caddy</h3>
+<p>非常简单,几行命令就能解决.</p>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -y</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> debian-keyring</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> debian-archive-keyring</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt-transport-https</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> curl</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -1sLf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> | </span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> gpg</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --dearmor</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -o</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> /usr/share/keyrings/caddy-stable-archive-keyring.gpg</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -1sLf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> | </span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> tee</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> /etc/apt/sources.list.d/caddy-stable.list</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> update</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> caddy</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></summary>
+    <content type="html"><![CDATA[<h2>概述:</h2>
+<p>图床对于一个文档来说是必不可少的一部分,对于markdown来说也非常重要,毕竟要插入图片之类的.本教程教你如何用自己的服务器自建图床.<br>
+本教程中将使用Caddy作为web服务端,系统为debian12.你也可以选择使用NGINX和其他系统.<br>
+本教程只写了80,443可用的情况,实际情况可能会更复杂.</p>
+<h3>1.安装Caddy</h3>
+<p>非常简单,几行命令就能解决.</p>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -y</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> debian-keyring</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> debian-archive-keyring</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt-transport-https</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> curl</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -1sLf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://dl.cloudsmith.io/public/caddy/stable/gpg.key'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> | </span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> gpg</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> --dearmor</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -o</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> /usr/share/keyrings/caddy-stable-archive-keyring.gpg</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -1sLf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://dl.cloudsmith.io/public/caddy/stable/debian.deb.txt'</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> | </span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> tee</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> /etc/apt/sources.list.d/caddy-stable.list</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> update</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">sudo</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> apt</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> caddy</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果出现像下面这个属于正常现象,无需理会</p>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">unable</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> to</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> resolve</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> host</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> xxxxx:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> No</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> address</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> associated</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> with</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> hostname</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>接下来你可以直接访问你的服务器的IP,不出意外的话你应该能看到Caddy的欢迎界面了.<br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/5/welcome_to_caddy.png" alt="Welcome_to_Caddy" loading="lazy"><br>
+界面上甚至贴心备注如何开启https.</p>
+<h3>2.配置Caddy</h3>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>建议先把对应域名解析到你的服务器,方便Caddy自动申请证书,请确保80端口可以被外部访问.当然你可以使用dns的方式来申请,不过限于篇幅不会展示.</p>
+</div>
+<p>首先打开你的sftp软件,到 <code>/etc/caddy</code> , 你会看到一个叫 <code>Caddyfile</code> 的文件,非常简洁的写法.<br>
+但是默认配置是都在一个Caddyfile里面的,多了非常不利于我们去整理,所以我们要略微改一下.</p>
+<p>创建一个文件夹,就叫 <code>site</code> <s>(其实你可以换成别的,记得把下文教程中的路径换成你自己的)</s><br>
+在Caddyfile的后面加上一个 <code>import /etc/caddy/site/*.conf</code>,如下图所示.</p>
+<p>接下来只需要把配置文件丢到site目录下即可.</p>
+<p>建议加上邮箱相关配置来方便Caddy自动申请https证书.</p>
+<div class="language-caddyfile line-numbers-mode" data-highlighter="shiki" data-ext="caddyfile" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>{</span></span>
+<span class="line"><span>    email example@example.com  # 替换为你的邮箱地址</span></span>
+<span class="line"><span>}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>接下来在site目录里面创建一个 <code>images.conf</code> 内容如下:</p>
+<div class="language-conf line-numbers-mode" data-highlighter="shiki" data-ext="conf" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span>img.example.com { # 替换为你的域名</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>	# 设置为你的图片保存目录</span></span>
+<span class="line"><span>	root * /www/images</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>	# 启动静态文件服务</span></span>
+<span class="line"><span>	file_server</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>	header Cache-Control "public, max-age=31536000" # 缓存时间按照自己需求设定,可以影响cdn缓存的时间</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>}</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>记得创建对应目录.</p>
+</div>
+<p>重载Caddy: <code>sudo systemctl reload caddy</code></p>
+<p>接下来Caddy会自动通过http方式申请证书,一般一分钟内就会申请成功.<br>
+Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
+<h3>3.使用</h3>
+<p>将你的图片上传到 <code>/www/images</code> 即可,例如说目录为 /www/images/example.png 那么你应该使用 <a href="https://img.example.com/example.png" target="_blank" rel="noopener noreferrer">https://img.example.com/example.png</a> 访问到这个图片.<br>
+你也可以开启cdn来缓存图片,不过这是后话了.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-04-04T06:38:50.000Z</published>
+  </entry>
+  <entry>
     <title type="text">&amp;quot;河里&amp;quot;的用户协议</title>
     <id>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</id>
     <link href="https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html"/>
-    <updated>2025-03-30T02:52:37.000Z</updated>
+    <updated>2025-04-04T06:38:50.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container caution">
 <p class="hint-container-title">警告</p>
-<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.访客不需要遵守这个用户协议.</p>
+<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.</p>
 </div>
 <p>你好,欢迎你使用我们的产品.</p>
+<h2>一.概述</h2>
+<ol>
+<li>"我","我们"在本协议中均为"河里无限无责公司".</li>
+<li><strong>对于本条款中的重要内容我们会使用加粗表示</strong></li>
+</ol>
 ]]></summary>
     <content type="html"><![CDATA[<div class="hint-container caution">
 <p class="hint-container-title">警告</p>
-<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.访客不需要遵守这个用户协议.</p>
+<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.</p>
 </div>
 <p>你好,欢迎你使用我们的产品.</p>
+<h2>一.概述</h2>
+<ol>
+<li>"我","我们"在本协议中均为"河里无限无责公司".</li>
+<li><strong>对于本条款中的重要内容我们会使用加粗表示</strong></li>
+</ol>
 ]]></content>
     <published>2025-03-29T00:00:00.000Z</published>
   </entry>
@@ -2823,29 +2906,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束:20240517 星期五</strong></p>
 ]]></content>
     <published>2024-05-12T06:20:48.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十一周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html"/>
-    <updated>2024-05-12T06:20:48.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始: 20240505 星期日</strong><br>
-<strong>结束: 20240511 星期六</strong></h2>
-<h3>本周内容:</h3>
-<p>1.期中表彰大会<br>
-本次召开期中表彰大会(星期五),包括但不限于</p>
-<blockquote>
-<p>老式的套路:各种念名字,各种心理鸡汤(点名代表发言)<br>
-超长的环节:12个环节,没错,又是高中和初中一起开.</p>
-</blockquote>
-<p>但是还有各种"名言金句"这边就不放了,其他的以前都吐槽过了.</p>
-<p>这周有点水</p>
-<p>#The End</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240505 星期日</strong><br>
-<strong>结束: 20240511 星期六</strong></p>
-]]></content>
-    <published>2024-05-05T05:43:25.000Z</published>
   </entry>
 </feed>
