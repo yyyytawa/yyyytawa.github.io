@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-04-05T14:47:12.169Z</updated>
+  <updated>2025-04-12T09:15:31.864Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -135,6 +135,25 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
     <published>2025-03-29T00:00:00.000Z</published>
   </entry>
   <entry>
+    <title type="text">第十周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/10_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/10_week.html"/>
+    <updated>2025-04-12T09:14:06.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250413 星期日</strong><br>
+<strong>结束: 202504xx 星期五</strong></p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250413 星期日</strong><br>
+<strong>结束: 202504xx 星期五</strong></p>
+<h2>本周内容:</h2>
+<h2>The End</h2>
+]]></content>
+    <published>2025-03-29T10:51:15.000Z</published>
+  </entry>
+  <entry>
     <title type="text">第八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html"/>
@@ -163,17 +182,27 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
     <title type="text">第九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/9_week%20.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/9_week%20.html"/>
-    <updated>2025-04-04T12:51:03.000Z</updated>
+    <updated>2025-04-12T09:14:06.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250406 星期日</strong><br>
-<strong>结束: 202504xx 星期五</strong></p>
+<strong>结束: 20250411 星期五</strong></p>
 <h2>本周内容:</h2>
-<h2>The End</h2>
-]]></summary>
+<p>要说这周有内容,也可也说有,要说没有,也可以说没有...<br>
+首先说说体育课,由于总所周知的老师有事所以按照学校的意愿来说是班主任看着上自习,但是我们是自愿选择是否上体育课的,可以选择上也可也选择不上.当时下着雨就我就没上.</p>
+<p>再说说这个联考,直接BOOM.错的离谱.但是下周期中.<br>
+有的科目根本复习不完,根本复习不完.</p>
+<p>这个雨下一会又停,停一会又下,快走的时候又开始下了.<br>
+然后没啥好说的了.</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250406 星期日</strong><br>
-<strong>结束: 202504xx 星期五</strong></p>
+<strong>结束: 20250411 星期五</strong></p>
 <h2>本周内容:</h2>
+<p>要说这周有内容,也可也说有,要说没有,也可以说没有...<br>
+首先说说体育课,由于总所周知的老师有事所以按照学校的意愿来说是班主任看着上自习,但是我们是自愿选择是否上体育课的,可以选择上也可也选择不上.当时下着雨就我就没上.</p>
+<p>再说说这个联考,直接BOOM.错的离谱.但是下周期中.<br>
+有的科目根本复习不完,根本复习不完.</p>
+<p>这个雨下一会又停,停一会又下,快走的时候又开始下了.<br>
+然后没啥好说的了.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-03-29T10:51:15.000Z</published>
@@ -2880,28 +2909,5 @@ PS:大部分消息已撤回<br>
 <strong>结束:20240607 星期五</strong></p>
 ]]></content>
     <published>2024-06-01T16:02:36.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十四周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html"/>
-    <updated>2024-06-01T15:56:56.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始:20240526 星期日</strong><br>
-<strong>结束:20240601 星期六</strong></h2>
-<h3>本周内容:</h3>
-<p>祝大家儿童节快乐!</p>
-<p>1.月考<br>
-这个相比我都不用太多说了,就是正常的月考,而且还算每回惯例,成绩很低(毕竟专出原题和不会的)<br>
-然后错的就不说了,很烂.</p>
-<p>2.天天挨批<br>
-这个就不细说了,上周也说了个大概,总结来说就是要么迟到/卫生之类的.</p>
-<h3>The End</h3>
-]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始:20240526 星期日</strong><br>
-<strong>结束:20240601 星期六</strong></p>
-]]></content>
-    <published>2024-05-26T00:51:16.000Z</published>
   </entry>
 </feed>
