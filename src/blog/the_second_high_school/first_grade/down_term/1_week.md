@@ -3,9 +3,9 @@ title: 第一周
 order: 1
 ---
 
-**Deamon prepare to start**   
+**Daemon prepare to start**   
 **Loading...**  
-**Deamon start successfully!**  
+**Daemon start successfully!**  
 **Welcome back to 2nd-school!**  
 ### 日期:    
 **开始: ~~20240222(农历十三)~~ 20240225(农历十六) 周日**  
@@ -44,7 +44,7 @@ order: 1
 > 其他学校:  
 > 勿忘国耻,进行各种爱国教育活动  
 > 我们学校:  
-> 在厕所拉完屎不冲  
+> 在厕所拉完屎不冲(当然爱国教育活动肯定也有的)  
 
 只能说是一对"卧龙凤雏"  
 

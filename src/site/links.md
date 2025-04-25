@@ -83,6 +83,13 @@ otherlinks:
    logo: https://sanlian114514.eu.org/favicon.ico
    url: https://sanlian114514.eu.org/
    preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
+
+ - name: 夜轻Blog
+   desc: 一个人
+   logo: https://blog.yeqing.net/upload/ea055268c8792945de3b9c8d00e1cd08.jpeg
+   url: https://blog.yeqing.net/
+   repo: https://github.com/Yeqingky/
+   preview: https://blog.yeqing.net/upload/72a978981def056c292a8ed1709f8387_1.webp
 ---
 
 我自己的站点
@@ -132,8 +139,8 @@ otherlinks:
 <VPCard
   title="Runoneall"
   desc="提供了本站图床的SaaS优选"
-  logo="https://r1a.rr.nu/favicon.webp"
-  link="https://r1a.rr.nu"
+  logo="https://dev.oneall.eu.org/favicon.webp"
+  link="https://dev.oneall.eu.org"
 />
 <VPCard
   title="NodeLoc"
