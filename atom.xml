@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-04-25T14:27:57.436Z</updated>
+  <updated>2025-04-25T14:44:07.730Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -173,7 +173,7 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
     <title type="text">第十一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/11_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/11_week.html"/>
-    <updated>2025-04-25T14:25:59.000Z</updated>
+    <updated>2025-04-25T14:42:45.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250420 星期日</strong><br>
 <strong>结束: 20250425 星期五</strong></p>
@@ -181,7 +181,7 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
 <p><s>这样的风格又回来了.</s></p>
 <h3>1. 期中考试</h3>
 <p>这个不多说,题很简单,直接干到590多分,一本线520多分.然后数学再一看,班里4个150的.<br>
-大部分考的都可以,除了个别的.当然吴某人也是拿不到手机了......吴某人分数出来之前还和某人讨论能不能考到年纪前100,当然显然没有到.<br>
+大部分考的都可以,除了个别的.当然吴某人也是拿不到手机了......吴某人分数出来之前还和某人讨论能不能考到年级前100,当然显然没有到.<br>
 就是为啥赋分直接倒退20多名,不过也合理,毕竟一个和这个组合比的,一个和物理类比的.</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250420 星期日</strong><br>
@@ -190,7 +190,7 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
 <p><s>这样的风格又回来了.</s></p>
 <h3>1. 期中考试</h3>
 <p>这个不多说,题很简单,直接干到590多分,一本线520多分.然后数学再一看,班里4个150的.<br>
-大部分考的都可以,除了个别的.当然吴某人也是拿不到手机了......吴某人分数出来之前还和某人讨论能不能考到年纪前100,当然显然没有到.<br>
+大部分考的都可以,除了个别的.当然吴某人也是拿不到手机了......吴某人分数出来之前还和某人讨论能不能考到年级前100,当然显然没有到.<br>
 就是为啥赋分直接倒退20多名,不过也合理,毕竟一个和这个组合比的,一个和物理类比的.</p>
 <h3>2. 体育课 无</h3>
 <p>首先是考试占掉一节,其次是高三二模防止吵到高三直接变成室内自习.<s>每回考试受苦的都是体育课.</s><br>
@@ -532,7 +532,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
     <title type="text">第二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/2_week.html"/>
-    <updated>2025-02-23T06:53:14.000Z</updated>
+    <updated>2025-04-25T14:42:45.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250216 星期日</strong><br>
 <strong>结束: 20250222 星期六</strong></p>
@@ -540,7 +540,11 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <h3>1.双休谣言</h3>
 <p>本周有人传本周要双休,但是是假的.双休想想就行,梦里啥都有.</p>
 <h3>2.资料&amp;笔记检查</h3>
-<p>目前学校没有订资料,<a href="http://xn--4gq7eol08ncb461hqqszs8d.xn--48sr40a0sa579a4hh7lx7pd9wk.so" target="_blank" rel="noopener noreferrer">主要是印一些卷子.还要检查学生笔记.so</a>......</p>]]></summary>
+<p>目前学校没有订资料,主要是印一些卷子.还要检查学生笔记. so......</p>
+<h3>3.跑操</h3>
+<p>这周开始跑操,开始是上午后来又换到了下午跑操(和高三时间对换)</p>
+<h2>The End</h2>
+]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250216 星期日</strong><br>
 <strong>结束: 20250222 星期六</strong></p>
@@ -548,7 +552,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <h3>1.双休谣言</h3>
 <p>本周有人传本周要双休,但是是假的.双休想想就行,梦里啥都有.</p>
 <h3>2.资料&amp;笔记检查</h3>
-<p>目前学校没有订资料,<a href="http://xn--4gq7eol08ncb461hqqszs8d.xn--48sr40a0sa579a4hh7lx7pd9wk.so" target="_blank" rel="noopener noreferrer">主要是印一些卷子.还要检查学生笔记.so</a>......</p>
+<p>目前学校没有订资料,主要是印一些卷子.还要检查学生笔记. so......</p>
 <h3>3.跑操</h3>
 <p>这周开始跑操,开始是上午后来又换到了下午跑操(和高三时间对换)</p>
 <h2>The End</h2>
@@ -1330,7 +1334,7 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <title type="text">第十八周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/18_week.html"/>
-    <updated>2025-01-12T04:45:29.000Z</updated>
+    <updated>2025-04-25T14:42:45.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250105 星期日</strong><br>
 <strong>结束: 20250111 星期六</strong></p>
@@ -1344,7 +1348,7 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>1.微机会考<br>
 星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>
 <p>2.联考<br>
-10月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>
+1月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-01-02T13:52:38.000Z</published>
@@ -2055,13 +2059,13 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <title type="text">第五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/5_week.html"/>
-    <updated>2024-10-12T16:13:22.000Z</updated>
+    <updated>2025-04-25T14:42:45.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2024107 星期一</strong><br>
 <strong>结束: 20241012 星期六</strong></p>
 <h3>本周内容:</h3>
 <p>1.月考<br>
-全班哀嚎一片(成绩非常差据(说年级前十一半都不到)</p>
+全班哀嚎一片(成绩非常差(据说年级前十一半都不到)</p>
 <p>由于这里是周报 所以一些事情就不说了 <s>要不再开个动态(说说)栏目?</s></p>
 <p>2.好消息 本次提前到11:00放学 但是下午2:00就要回去了(</p>
 <h3>The End</h3>
@@ -2071,7 +2075,7 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <strong>结束: 20241012 星期六</strong></p>
 <h3>本周内容:</h3>
 <p>1.月考<br>
-全班哀嚎一片(成绩非常差据(说年级前十一半都不到)</p>
+全班哀嚎一片(成绩非常差(据说年级前十一半都不到)</p>
 <p>由于这里是周报 所以一些事情就不说了 <s>要不再开个动态(说说)栏目?</s></p>
 <p>2.好消息 本次提前到11:00放学 但是下午2:00就要回去了(</p>
 <h3>The End</h3>
