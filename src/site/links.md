@@ -143,10 +143,10 @@ otherlinks:
   link="https://dev.oneall.eu.org"
 />
 <VPCard
-  title="NodeLoc"
-  desc="提供了本站大陆方向优化的cdn"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png"
-  link="https://www.nodeloc.com"
+  title="Netlify"
+  desc="提供了静态网站部署和大陆优化CDN"
+  logo="https://img.yyyyt.top/docs/site/links/avatar/netlify.svg"
+  link="https://www.netlify.com"
 />
 </div>
 :::
