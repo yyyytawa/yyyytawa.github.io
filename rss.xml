@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 26 Apr 2025 01:04:06 GMT</pubDate>
-    <lastBuildDate>Sat, 26 Apr 2025 01:04:06 GMT</lastBuildDate>
+    <pubDate>Wed, 30 Apr 2025 14:59:00 GMT</pubDate>
+    <lastBuildDate>Wed, 30 Apr 2025 14:59:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -183,7 +183,7 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
 <p>校领导查手机方法之一,指的是我们学校的表白墙.有人往上门投稿内容.据说有人还喜欢某位班主任?但是和这个事情无关.<br>
 然后叫班主任给交上来的手机一个一个开机,发现二氧化硼班有个女生的手机开不了机,交了个模型机上去,被查出来了.<br>
 班主任在外面骂着.<br>
-后续说了表白墙的其他事情,说有人在表白墙说别人几句那个人就不来上学了,不过这个人估计本来就不愿意上学只是找个接口罢了.班主任建议不要在表白墙上表白.<s>(不过真的会有人用这个表白吗?)</s><br>
+后续说了表白墙的其他事情,说有人在表白墙说别人几句那个人就不来上学了,不过这个人估计本来就不愿意上学只是找个借口罢了.班主任建议不要在表白墙上表白.<s>(不过真的会有人用这个表白吗?)</s><br>
 当然要是论查手机还是要J03班,用WiFi钓鱼,然后查到一个住校生的手机再查QQ聊天发现和一个走读生半夜聊天,然后给走读生的家长打电话"远程收手机",这个家长还真把手机送到学校里面,然后喜提被收.没想到吧,走读生在家玩手机也能被收.</p>
 <h3>4. 调休</h3>
 <p>没想到学生也要调休,哎~ 单休的一周.<br>
@@ -204,10 +204,37 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/12_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/12_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
-      <description>日期: 开始: 20250426 星期六 结束: 202504xx 星期五 本周内容: The End</description>
+      <description>日期: 开始: 20250426 星期六 结束: 20250430 星期三 本周内容: 1. 表彰大会 又是一年一度的表彰大会,每回必开,从不缺席.当然内容还是那个内容,只是顺带加了个优秀团干部表扬之类的. 这回期中赢了A01,然后问A01那边发现他们班主任都没说PK的事情?离谱. A01班主任也有点Q某人化了,到班时间直接改到 6:30 然后还劝诫学...</description>
       <pubDate>Sat, 29 Mar 2025 10:51:15 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250426 星期六</strong><br>
+<strong>结束: 20250430 星期三</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 表彰大会</h3>
+<p>又是一年一度的表彰大会,每回必开,从不缺席.当然内容还是那个内容,只是顺带加了个优秀团干部表扬之类的.<br>
+这回期中赢了A01,然后问A01那边发现他们班主任都没说PK的事情?离谱.<br>
+A01班主任也有点Q某人化了,到班时间直接改到 6:30 然后还劝诫学生少出去玩,把心思多用在学习上.估计是这回期中A01不太行导致的?<br>
+不知道家长会啥时候开,或许开学那天下午.</p>
+<h3>2. 其他事情</h3>
+<p>首先就是考试完成之后的换位了,虚星做了个单桌,我和Wu Cloud Wolf还是原来的位置,Cow Far Far Away和Chen Light Egg坐到了前面,当然还有那个"妄想的"(貌似是)被调几次位置,原因是课堂上乱.当然这个马老师也是不止一次说过了.<br>
+班主任: 男生之间不要那么你拍我我拍你那个样子.<br>
+Emm...这不是正常现象吗.<br>
+走的时候还看到楼下厕所拿个牌子堵着说假期断水断电,既然有这个牌子想必背后肯定有点故事的.<br>
+虚星提前请假去旅游???正常操作.<br>
+还有体育课本周又是全无,原因体育老师去带队了,但是下周应该会尽可能去(补,或许)上.<br>
+然后没啥可以说了.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十三周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/13_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/13_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十三周</source>
+      <description>日期: 开始: 20250505 星期一 结束: 202504xx 星期五 本周内容: The End</description>
+      <pubDate>Sat, 29 Mar 2025 10:51:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250505 星期一</strong><br>
 <strong>结束: 202504xx 星期五</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
@@ -2210,18 +2237,6 @@ PS:大部分消息已撤回<br>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20240616 星期日</strong><br>
 <strong>结束: 20240622 星期六</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十八周</source>
-      <description>日期: 开始: 20240623 星期日 结束: 20240629 星期六 本周内容: 1.大联考 大联考,大联考,难度系数看上去低,但是在于出题人的创新,所以成绩么...... 还见到了熟人(华),然后走了之后顺手看了桌面上留下的答题卡,然后发现就是这个人,然后看见了F₂置换溶液中出S单质的操作.只能说这孩子(化学)废了,唉~ 2.周一集体睡觉 周一...</description>
-      <pubDate>Sat, 15 Jun 2024 17:33:14 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240623 星期日</strong><br>
-<strong>结束: 20240629 星期六</strong></p>
 ]]></content:encoded>
     </item>
   </channel>
