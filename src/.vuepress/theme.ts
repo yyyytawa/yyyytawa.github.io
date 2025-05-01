@@ -116,6 +116,13 @@ export default hopeTheme({
   },
   // 在这里配置主题提供的插件
   plugins: {
+    blog: true,
+    git: {
+      contributors: {
+        avatar: true,
+      },
+      changelog: true,
+    },
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",
@@ -124,7 +131,6 @@ export default hopeTheme({
       category: "Announcements",
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
     },
-    blog: true,
     notice: [
       {
         path: "/",
