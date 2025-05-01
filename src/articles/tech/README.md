@@ -9,7 +9,7 @@ dir:
   order: 2
 ---
 
-这里放的是技术类文章目录,例如网络,建站等  
+这里放的是技术类文章目录,例如网络,建站相关教程等  
 
 <div class="catalog-display-container">
   <Catalog base='/articles/tech/' />
