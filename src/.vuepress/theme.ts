@@ -121,10 +121,6 @@ export default hopeTheme({
       contributors: {
         avatar: true,
       },
-      changelog: {
-        repoUrl: "https://github.com/yyyytawa/yyyytawa.github.io",
-        maxCount: 10,
-      },
     },
     // 你应该自行生成自己的评论服务
     comment: {
