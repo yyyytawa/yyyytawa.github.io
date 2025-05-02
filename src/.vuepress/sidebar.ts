@@ -10,8 +10,8 @@ export default sidebar({
   "/articles/tech/": "structure",
   // 研究类文章
   "/articles/research/": "structure",
-  // 一个小故事
-  "/books/a_little_story/": "structure",
+  // 奇怪志
+  "/books/unusual-world/": "structure",
   // 诗和歌
   "/articles/poems_and_songs/": "structure",
   //图册
