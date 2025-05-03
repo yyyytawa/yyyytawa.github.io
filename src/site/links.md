@@ -48,6 +48,13 @@ otherlinks:
    url: https://blog.245179.xyz/
    preview: https://blog.245179.xyz/images/web.png
 
+ - name: 沫泽的小站
+   desc: 一个技术宅的小窝
+   logo: https://blog.cyberpaws.icu/wp-content/uploads/site.png
+   url: https://blog.cyberpaws.icu
+   repo: https://github.com/Pisces-Moze
+   preview: https://play.cyberpaws.icu:1145/api/image
+
  - name: NodeLoc
    desc: NodeLoc论坛
    logo: https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png
