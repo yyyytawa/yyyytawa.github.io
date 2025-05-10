@@ -6,15 +6,34 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 09 May 2025 15:31:50 GMT</pubDate>
-    <lastBuildDate>Fri, 09 May 2025 15:31:50 GMT</lastBuildDate>
+    <pubDate>Sat, 10 May 2025 13:55:50 GMT</pubDate>
+    <lastBuildDate>Sat, 10 May 2025 13:55:50 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
-    <category>云湖事件</category>
     <category>站点</category>
+    <item>
+      <title>又有一人走了</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/05/100.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/05/100.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">又有一人走了</source>
+      <description>R1A走了,暂时,也许永久不会来了. 东窗事发了. 好在还是可以通过邮件联系的,不然就真的彻底失联了. 不过想想东窗事发也合理,毕竟我看过他的B站号里面有这个. 希望人在现实里面没事. 聊天截图 The End</description>
+      <pubDate>Sat, 10 May 2025 13:54:20 GMT</pubDate>
+      <content:encoded><![CDATA[<p>R1A走了,暂时,也许永久不会来了.<br>
+东窗事发了.<br>
+好在还是可以通过邮件联系的,不然就真的彻底失联了.<br>
+不过想想东窗事发也合理,毕竟我看过他的B站号里面有这个.</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/daily/2025/05/10/0/r1a-bilibili.avif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+<p>希望人在现实里面没事.</p>
+<details class="hint-container details"><summary>聊天截图</summary>
+<figure><img src="https://img.yyyyt.top/docs/articles/daily/2025/05/10/0/chat-message.avif" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</details>
+<h2>The End</h2>
+]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/docs/articles/daily/2025/05/10/0/r1a-bilibili.avif" type="image/"/>
+    </item>
     <item>
       <title>五一假期结束了</title>
       <link>https://docs.yyyyt.top/articles/daily/2025/05/050.html</link>
@@ -803,41 +822,6 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 ]]></content:encoded>
     </item>
     <item>
-      <title>0201 轰炸</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2025/0201.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2025/0201.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">0201 轰炸</source>
-      <description>事件一: Dream(butlanys)退坑 据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.相关链接 事件二: 盗号轰炸 据目前已知消息,万账[1]被盗号 (详情见FPA[2]群里面) token已经泄露(现已失效),于是...... 文章boom 全员群等多个群聊已经...</description>
-      <category>云湖事件</category>
-      <pubDate>Sun, 02 Feb 2025 02:53:52 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>事件一: Dream(butlanys)退坑</h2>
-<p>据butlanys本人博客所言,butlanys已与2025年1月30日注销所有相关的云湖账号,停用所有机器人后彻底退坑.可惜了.<a href="https://blog.butlanys.de/posts/37249/" target="_blank" rel="noopener noreferrer">相关链接</a><br>
-<s>其实好像是隐退了,还有一个号没注销</s></p>
-<h2>事件二: 盗号轰炸</h2>
-<p>据目前已知消息,万账<sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>被盗号 <s>(不是叫你发token你真发啊)</s> (详情见FPA<sup class="footnote-ref"><a href="#footnote2">[2]</a><a class="footnote-anchor" id="footnote-ref2"></a></sup>群里面)<br>
-token已经泄露(现已失效),于是......<br>
-<s>谁整得活</s><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg" alt="文章boom" width="270" height="615" loading="lazy"><br>
-<s>当然Feng把这些文章全处理了,全删了</s><br>
-全员群等多个群聊已经被刷屏了,只能说刷的非常厉害......</p>
-<div class="hint-container note">
-<p class="hint-container-title">注</p>
-<p>万账此人以前曾经威胁说要开盒等恶劣行为(反福瑞这个我不做评价)</p>
-</div>
-<p>相关截图懒得弄了,自己翻聊天记录吧</p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="footnote1" class="footnote-item"><p><a href="https://www.yhchat.com/user/homepage/6673608" target="_blank" rel="noopener noreferrer">万账(已注销)</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
-</li>
-<li id="footnote2" class="footnote-item"><p><a href="https://yhfx.jwznb.com/share?key=byzXNOyytLtE&amp;ts=1738419747" target="_blank" rel="noopener noreferrer">相关链接</a> <a href="#footnote-ref2" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2025/02/01/文章.jpg =270x615" type="image/"/>
-    </item>
-    <item>
       <title>第三章 雨天散步</title>
       <link>https://docs.yyyyt.top/books/unusual-world/C_03.html</link>
       <guid>https://docs.yyyyt.top/books/unusual-world/C_03.html</guid>
@@ -874,36 +858,6 @@ token已经泄露(现已失效),于是......<br>
 "所以说本质还是为了让我们传粉,去帮忙繁衍后代?"<br>
 "你可以这样理解,只是顺带送点果子吃."</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>0130 bot事件</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2025/0130.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2025/0130.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">0130 bot事件</source>
-      <description>事件一: bot事件 注意 请勿随意参与骂战 事件大概: butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申出来用户bot相关事件.具体可以看聊天截图 截图 PS: butlanys已于当日注销账号并退出云湖,具体看0201的报道</description>
-      <category>云湖事件</category>
-      <pubDate>Thu, 30 Jan 2025 15:54:09 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>事件一: bot事件</h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请勿随意参与骂战</p>
-</div>
-<p>事件大概:<br>
-butlanys(dream)发布了bot的自部署py文件(pyarmor加密)后续由此引申出来用户bot相关事件.具体可以看聊天截图</p>
-<details class="hint-container details"><summary>截图</summary>
-<p><img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图1.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图2.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图3.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图4.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图5.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图6.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图7.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图8.jpg" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图9.jpg" alt="" loading="lazy"></p>
-</details>
-<p>PS: butlanys已于当日注销账号并退出云湖,具体看0201的报道</p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2025/01/30/截图1.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>第二章 有点规矩</title>
@@ -1143,6 +1097,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -1206,44 +1182,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Qrasa同人表情包</title>
-      <link>https://docs.yyyyt.top/album/yh/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html</link>
-      <guid>https://docs.yyyyt.top/album/yh/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">Qrasa同人表情包</source>
-      <pubDate>Sat, 14 Dec 2024 15:00:05 GMT</pubDate>
-      <content:encoded><![CDATA[<p><img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/你说错话了.jpg" alt="" title="你说错话了" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/庆祝.jpg" alt="" title="庆祝" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/我不喜欢你.jpg" alt="" title="我不喜欢你" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/我听到了.jpg" alt="" title="我听到了" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/我看到了.jpg" alt="" title="我看到了" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/攻击无效.jpg" alt="" title="攻击无效" width="100" height="100" loading="lazy"><br>
-<img src="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/给钱.jpg" alt="" title="给钱" width="100" height="100" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/meme/云湖/Qrasa同人表情包/你说错话了.jpg &quot;你说错话了&quot; =100x100" type="image/"/>
     </item>
     <item>
       <title>第十三周</title>
@@ -1481,32 +1419,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </div>]]></content:encoded>
     </item>
     <item>
-      <title>第八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.张同学和石同学和土豆</h3>
-<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>7月</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/07/</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/07/</guid>
@@ -1552,6 +1464,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <guid>https://docs.yyyyt.top/articles/daily/2024/10/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">10月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>第八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
+      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content:encoded>
     </item>
     <item>
       <title>群规</title>
@@ -1634,31 +1572,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 </div>
 <p>Enjoy it</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>20241004 五郎找hehe</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20241004.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20241004.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20241004 五郎找hehe</source>
-      <description>日期: 20241004 事件一: 五郎找贺贺 注意 网友线下交友有风险,行动需谨慎 五郎为了线下见面贺贺.去线下找半天贺贺.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉五郎遭遇到了很多风险在其中.本次不一一列举 附件表 五郎的部分聊天截图 部分聊天截图展示 破解群部分聊天截图</description>
-      <pubDate>Sun, 06 Oct 2024 16:38:03 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20241004</strong></p>
-<h2><a class="header-anchor" href="#事件一-五郎找贺贺"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>找<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a></h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>网友线下交友有风险,行动需谨慎</p>
-</div>
-<p><a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>为了线下见面<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a>.去线下找半天<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺</a>.但是最后还是没找到.当然也为后续的发癫行为埋下了伏笔.据悉<a href="https://www.yhchat.com/user/homepage/9120256" target="_blank" rel="noopener noreferrer">五郎</a>遭遇到了很多风险在其中.本次不一一列举</p>
-<h2>附件表</h2>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/yh_events_20241004.zip" target="_blank" rel="noopener noreferrer">五郎的部分聊天截图</a></p>
-<details class="hint-container details"><summary>部分聊天截图展示</summary>
-<details class="hint-container details"><summary>破解群部分聊天截图</summary>
-<p><img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息1.png" alt="" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/五郎破解群消息2.png" alt="" loading="lazy"></p>
-</details>
-</details>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/1004/%E4%BA%94%E9%83%8E%E7%A0%B4%E8%A7%A3%E7%BE%A4%E6%B6%88%E6%81%AF1.png" type="image/png"/>
     </item>
     <item>
       <title>版权声明</title>
@@ -1831,24 +1744,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 ]]></content:encoded>
     </item>
     <item>
-      <title>20240921 某人又发癫了</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240921.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240921.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240921 某人又发癫了</source>
-      <description>日期: 20240921 事件一: Qrasa Nya!又双叒叕发癫了 注 Qrasa Nya!有时候可能会发癫,请无视就行 如下图所示 Qrasa_Red</description>
-      <pubDate>Sat, 21 Sep 2024 15:36:26 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240921</strong></p>
-<h2><a class="header-anchor" href="#事件一-qrasa-nya-又双叒叕发癫了"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>又双叒叕发癫了</h2>
-<div class="hint-container note">
-<p class="hint-container-title">注</p>
-<p><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>有时候可能会发癫,请无视就行</p>
-</div>
-<p>如下图所示<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png" alt="Qrasa_Red" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0921/Qrasa_red.png" type="image/png"/>
-    </item>
-    <item>
       <title>我的项目</title>
       <link>https://docs.yyyyt.top/guide/my_project/</link>
       <guid>https://docs.yyyyt.top/guide/my_project/</guid>
@@ -1992,105 +1887,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>20240827 两位又吵起来了</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240827.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240827.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240827 两位又吵起来了</source>
-      <description>日期: 20240827 事件一: 贺贺回答室和Qrasa Nya!又双叒叕吵架 注意 请理性看待吵架事件,第三方不要随意参与.贺贺回答室和Qrasa Nya!关系不太好 Qrasa Nya!进入云湖破解交流群后被贺贺回答室发现后踢出,Qrasa Nya!多次进群然后又被踢出,最终引发两人又一次吵架.吵架内容包括小号之类的(貌似数量还不少)</description>
-      <pubDate>Tue, 27 Aug 2024 10:34:44 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240827</strong></p>
-<h2><a class="header-anchor" href="#事件一-贺贺回答室和qrasa-nya-又双叒叕吵架"><span>事件一: </span></a><a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>和<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>又双叒叕吵架</h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请理性看待吵架事件,第三方不要随意参与.<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>和<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>关系不太好</p>
-</div>
-<p><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>进入云湖破解交流群后被<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>发现后踢出,<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>多次进群然后又被踢出,最终引发两人又一次吵架.吵架内容包括小号之类的(貌似数量还不少)</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>20240824 都疯了</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240824.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240824.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240824 都疯了</source>
-      <description>日期: 20240824 事件一: 预警群群主撤回封口事件 注 鬼知道deep zero[1]是如何做到群友提醒好多次还🦐的... 事情是这样的,风和日丽的一天.直到,deep zero看到了中的某张图片...,然后不知道是咋了,发癫了,认为是贺贺回答室滥用职权,用NoMessage机器人拉黑Qrasa Nya!.实际上只是贺贺回答室在自己的群里面用...</description>
-      <pubDate>Sat, 24 Aug 2024 16:34:57 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240824</strong></p>
-<h2>事件一: 预警群群主撤回封口事件</h2>
-<div class="hint-container note">
-<p class="hint-container-title">注</p>
-<p>鬼知道<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup>是如何做到群友提醒好多次还🦐的...</p>
-</div>
-<p>事情是这样的,风和日丽的一天.直到,<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>看到了<a href="/blog/yh/events/2024/20240820.html" target="_blank">20240820事件</a>中的某张图片...,然后不知道是咋了,发癫了,认为是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>滥用职权,用<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>机器人拉黑<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>.实际上只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在自己的群里面用自己的机器人(<a href="https://yhfx.jwznb.com/share?key=qARfWldZUOay&amp;ts=1724513378" target="_blank" rel="noopener noreferrer">NoMessage</a>是开源的,只是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>自己拿源码搭建了个自己的而已,没用<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>的那个),然后把<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>在<a href="https://yhfx.jwznb.com/share?key=T1QLZCNnJhY5&amp;ts=1724514280" target="_blank" rel="noopener noreferrer">预警群</a>中的管理给撤了,后续<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>发现自己眼瞎又恢复回来了.<strong>但是还不忘把消息撤了,期间还开了禁言(所有消息类型都不让发)</strong></p>
-<h2>事件二: 云湖Minecraft闲聊站群主发癫</h2>
-<div class="hint-container note">
-<p class="hint-container-title">注</p>
-<p><a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>从来不遵守自己定的群规</p>
-</div>
-<p>具体看附件表视频吧,群主自己发癫了,带头违反群规,然后群友们就当看乐子了.具体聊天内容附件表视频有</p>
-<h2>附件表:</h2>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0824/yh_events_20240824.zip" target="_blank" rel="noopener noreferrer">下载截图(预警群撤回事件)</a></p>
-<details class="hint-container details"><summary>视频1</summary>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0824/%E8%A7%86%E9%A2%911.mp4" target="_blank" rel="noopener noreferrer">下载视频1</a></p>
-</details>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="footnote1" class="footnote-item"><p>据目前已知<a href="https://www.yhchat.com/user/homepage/8846615" target="_blank" rel="noopener noreferrer">runoneall</a>和<a href="https://www.yhchat.com/user/homepage/2625640" target="_blank" rel="noopener noreferrer">deep zero</a>和<a href="https://www.yhchat.com/user/homepage/9437329" target="_blank" rel="noopener noreferrer">£″≈μ</a>均为同一人 <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>20240820 今天火药味有点浓啊</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240820.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240820.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240820 今天火药味有点浓啊</source>
-      <description>日期: 20240820 事件一: 全员群刷屏+吵架+涉黄事件 邀请码刷屏事件: 据悉讨论金币来源时,有人提到邀请别人,然后就出现了下面这一幕 邀请码刷屏 当然后续就不说了,禁言+踢出全员群 涉黄事件: 云湖有jb玩意(物理)图片就不放了,被管理员撤回了 吵架事件: 注意 请理性看待吵架事件,第三方不要随意参与,Qrasa Nya!和贺贺回答室的关系最...</description>
-      <pubDate>Tue, 20 Aug 2024 15:34:03 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240820</strong></p>
-<h2>事件一: 全员群刷屏+吵架+涉黄事件</h2>
-<h3>邀请码刷屏事件:</h3>
-<p>据悉讨论金币来源时,有人提到邀请别人,然后就出现了下面这一幕<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/Screenshot_2024-08-20-21-45-25-302_com.yhchat.app.jpg" alt="邀请码刷屏" loading="lazy"><br>
-当然后续就不说了,禁言+踢出全员群</p>
-<h3>涉黄事件:</h3>
-<p>云湖有jb玩意(物理)图片就不放了,被管理员撤回了</p>
-<h3>吵架事件:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请理性看待吵架事件,第三方不要随意参与,<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>和<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>的关系最近不太好</p>
-</div>
-<p>这个就不多说了,看视频就知道了,大概就是<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>和<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>吵架,具体内容看附件表视频吧<br>
-后面<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>把<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a>拉入黑名单<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/IMG_20240820_213345.jpg" alt="贺贺回答室把Qrasa拉入黑名单" loading="lazy"><br>
-后续<a href="https://www.yhchat.com/user/homepage/8826514" target="_blank" rel="noopener noreferrer">贺贺回答室</a>已经道歉<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/IMG_20240820_211221.jpg" alt="贺贺回答室道歉" loading="lazy"></p>
-<h3>斗图事件:</h3>
-<p>斗图刷屏,后续几人被禁言,具体看附件表视频</p>
-<h2>附件表:</h2>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>视频一和视频二可以展开</p>
-</div>
-<details class="hint-container details"><summary>视频一(全员群吵架+邀请码刷屏+涉黄事件)</summary>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/video_1.mp4" target="_blank" rel="noopener noreferrer">下载视频1</a></p>
-</details>
-<details class="hint-container details"><summary>视频二(斗图事件)</summary>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/video_2.mp4" target="_blank" rel="noopener noreferrer">下载视频2</a></p>
-</details>
-<p><a href="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/IMG_8572.jpeg" target="_blank" rel="noopener noreferrer">Qrasa Nya!和贺贺回答室私下的聊天截图</a><sup class="footnote-ref"><a href="#footnote1">[1]</a><a class="footnote-anchor" id="footnote-ref1"></a></sup></p>
-<hr class="footnotes-sep">
-<section class="footnotes">
-<ol class="footnotes-list">
-<li id="footnote1" class="footnote-item"><p>来源: <a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya!</a> <a href="#footnote-ref1" class="footnote-backref">↩︎</a></p>
-</li>
-</ol>
-</section>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0820/Screenshot_2024-08-20-21-45-25-302_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
       <title>乱象吐槽</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</guid>
@@ -2129,36 +1925,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <enclosure url="https://img.yyyyt.top/vuepress/blog/photo/2024/8/butlanys_and_dream.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>20240802 全员群键政事件</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240802.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240802.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240802 全员群键政事件</source>
-      <description>日期: 20240802 事件一: 云湖全员群键政事件 某位老玩家来云湖全员群键政,如下图所示 event1 希望以后别来这种人了,外国的月亮也不一定是圆的,上来就只说中国xx不好,也没见外国好到哪里去.2024巴黎奥运会也不是一坨答辩</description>
-      <pubDate>Sat, 03 Aug 2024 14:55:40 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240802</strong></p>
-<h2>事件一: 云湖全员群键政事件</h2>
-<p>某位老玩家来云湖全员群键政,如下图所示<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0802/Screenshot_2024-08-02-23-39-42-332_com.yhchat.app.jpg" alt="event1" loading="lazy"><br>
-希望以后别来这种人了,外国的月亮也不一定是圆的,上来就只说中国xx不好,也没见外国好到哪里去.2024巴黎奥运会也不是一坨答辩</p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0802/Screenshot_2024-08-02-23-39-42-332_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>20240803 全员群广告事件</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240803.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240803.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240803 全员群广告事件</source>
-      <description>日期: 20240803 事件一: 全员群广告事件 起因: Dream为了(规范)全员群广告,特制定规矩 New Rule 后面就是114514三连和dream吵起来的事件了,最后引申为对于发广告的讨论</description>
-      <pubDate>Sat, 03 Aug 2024 14:55:40 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240803</strong></p>
-<h2>事件一: 全员群广告事件</h2>
-<p>起因: <a href="https://www.yhchat.com/user/homepage/5587539" target="_blank" rel="noopener noreferrer">Dream</a>为了<s>整治</s>(规范)全员群广告,特制定规矩<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0803/Screenshot_2024-08-03-22-33-25-823_com.yhchat.app.jpg" alt="New Rule" loading="lazy"><br>
-后面就是114514三连和dream吵起来的事件了,最后引申为对于发广告的讨论</p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0803/Screenshot_2024-08-03-22-33-25-823_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
       <title>测试文章</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/07/202407280.html</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/07/202407280.html</guid>
@@ -2186,19 +1952,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <h2>End</h2>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/avatar/avatar" type="image/"/>
-    </item>
-    <item>
-      <title>20240724 真假yyyyt</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240724.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240724.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240724 真假yyyyt</source>
-      <description>日期: 20240724 事件一: 我tm被冒充了 贺贺回答室冒充我在全员群发言:( 下载截图</description>
-      <pubDate>Wed, 24 Jul 2024 15:10:53 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240724</strong></p>
-<h2>事件一: 我tm被冒充了</h2>
-<p>贺贺回答室冒充我在全员群发言:(<br>
-<a href="https://img.yyyyt.top/yh/events/yh_events_20240724.zip" target="_blank" rel="noopener noreferrer">下载截图</a></p>
-]]></content:encoded>
     </item>
     <item>
       <title>关于我</title>
@@ -2233,111 +1986,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <enclosure url="https://img.yyyyt.top/avatar/avatar =50x55" type="image/"/>
     </item>
     <item>
-      <title>20240721 世间不平</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240721.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240721.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240721 世间不平</source>
-      <description>日期: 20240721 事件一: 全员群人数55555 云湖全员群人数迎来了一个历史性的数字--55555 55555 事件二: 矛盾升级,互相diss对方群聊/机器人 起因:贺贺回答室在群里面搞这个: 烂群推荐 会员群--十分有九分的烂 后面引发互相吵架 乐,真实的朴实无华切枯燥 下载截图 后续 114514个三连和贺贺回答室和好 和好</description>
-      <pubDate>Sun, 21 Jul 2024 07:43:40 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240721</strong></p>
-<h2>事件一: 全员群人数55555</h2>
-<p>云湖全员群人数迎来了一个历史性的数字--<strong>55555</strong><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0721/Screenshot_2024-07-21-15-11-07-852_com.yhchat.app.jpg" alt="55555" loading="lazy"></p>
-<h2>事件二: 矛盾升级,互相diss对方群聊/机器人</h2>
-<p>起因:贺贺回答室在群里面搞这个:</p>
-<h1>烂群推荐</h1>
-<ul>
-<li>会员群--十分有九分的烂</li>
-</ul>
-<p>后面引发互相吵架<br>
-乐,真实的<s>商战</s>朴实无华切枯燥<br>
-<a href="https://img.yyyyt.top/img/yh/events/yh_events_20240721.zip" target="_blank" rel="noopener noreferrer">下载截图</a></p>
-<h2>后续</h2>
-<p>114514个三连和贺贺回答室和好<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0721/Screenshot_2024-07-21-22-53-56-751_com.yhchat.app.jpg" alt="和好" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0721/Screenshot_2024-07-21-15-11-07-852_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>20240720 云湖免费抽奖关闭</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240720.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240720.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240720 云湖免费抽奖关闭</source>
-      <description>日期: 20240720 事件一: 云湖免费抽奖关闭 据悉,今天云湖免费抽奖打开界面变为502网关错误,据小道消息(据说是 Feng 说的)说云湖抽奖停了. 502 小道消息 下载截图 后续 确认为真 Feng</description>
-      <pubDate>Sat, 20 Jul 2024 15:14:19 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240720</strong></p>
-<h2>事件一: 云湖免费抽奖关闭</h2>
-<p>据悉,今天云湖免费抽奖打开界面变为502网关错误,据小道消息(据说是 <a href="https://www.yhchat.com/user/homepage/7058262" target="_blank" rel="noopener noreferrer">Feng</a> 说的)说云湖抽奖停了.<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0720/Screenshot_2024-07-20-23-00-02-215_com.yhchat.app.jpg" alt="502" loading="lazy"><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0720/Screenshot_2024-07-20-22-56-34-982_com.yhchat.app.jpg" alt="小道消息" loading="lazy"><br>
-<a href="https://img.yyyyt.top/yh/events/yh_events_20240720.zip" target="_blank" rel="noopener noreferrer">下载截图</a></p>
-<h2>后续</h2>
-<p>确认为真<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0720/Screenshot_2024-07-21-15-34-15-283_com.yhchat.app.jpg" alt="Feng" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0720/Screenshot_2024-07-20-23-00-02-215_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>20240719 贺贺回答室被弟弟自爆</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240719.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240719.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240719 贺贺回答室被弟弟自爆</source>
-      <description>日期: 20240719 事件一: 贺贺回答室被弟弟自爆真名 今天晚上,贺贺回答室被物理盗号(他弟弟偷上哥哥(贺贺回答室)的云湖) 贺贺回答室:我哥睡着了,来玩他云湖 略一万字 £″≈μ:你哥哥是不是xxx 贺贺回答室:是啊 贺贺回答室:怎么了 获得成就: 人情世故 被自己弟开了可还行:( PS:大部分消息已撤回 下载截图(无真名) 事件二: 外国人来...</description>
-      <pubDate>Fri, 19 Jul 2024 15:21:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期: 20240719</strong></p>
-<h2>事件一: 贺贺回答室被弟弟自爆真名</h2>
-<p>今天晚上,贺贺回答室被物理盗号(他弟弟偷上哥哥(贺贺回答室)的云湖)</p>
-<blockquote>
-<p>贺贺回答室:我哥睡着了,来玩他云湖<br>
-略一万字<br>
-£″≈μ:你哥哥是不是xxx<br>
-贺贺回答室:是啊<br>
-贺贺回答室:怎么了</p>
-</blockquote>
-<p>获得成就: 人情世故<br>
-被自己弟开了可还行:(<br>
-PS:大部分消息已撤回<br>
-<a href="https://img.yyyyt.top/yh/events/yh_events_20240719.zip" target="_blank" rel="noopener noreferrer">下载截图(无真名)</a></p>
-<h2>事件二: 外国人来云湖聊天</h2>
-<p>不知道还记得一个叫<a href="https://www.yhchat.com/user/homepage/1002011" target="_blank" rel="noopener noreferrer">Jeena</a>的人,出名的就是那句Die<br>
-后面自称是英格兰那边的人,不知道是不是真的<br>
-然后吐槽说云湖没做英文<br>
-不过这软件好像也不会有外国人用吧<br>
-简单聊了几句</p>
-<h2>后续补充:</h2>
-<p>讽刺的来了,测试群里面当天下午的谈话,自己看图吧<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0719/Screenshot_2024-07-19-22-31-03-967_com.yhchat.app.jpg" alt="无语" loading="lazy"><br>
-当天下午1点多的对话<br>
-真的很无语</p>
-<p>2024720补充:<br>
-被贺贺回答室发现了, 弟弟 危<br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0719/Screenshot_2024-07-20-12-01-25-871_com.yhchat.app.jpg" alt="被发现了" loading="lazy"></p>
-<p>20240726补充:<br>
-上述事件二<a href="https://www.yhchat.com/user/homepage/1002011" target="_blank" rel="noopener noreferrer">Jeena</a>经后续核查为<a href="https://www.yhchat.com/user/homepage/6528966" target="_blank" rel="noopener noreferrer">洛叶</a>小号<br>
-来源:<a href="https://www.yhchat.com/user/homepage/4989233" target="_blank" rel="noopener noreferrer">Qrasa Nya</a><br>
-<img src="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0719/Screenshot_2024-07-26-14-30-01-110_com.yhchat.app.jpg" alt="附图" loading="lazy"></p>
-]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/vuepress/blog/yh/events/2024/0719/Screenshot_2024-07-19-22-31-03-967_com.yhchat.app.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>20240718 全员群吵架</title>
-      <link>https://docs.yyyyt.top/blog/yh/events/2024/20240718.html</link>
-      <guid>https://docs.yyyyt.top/blog/yh/events/2024/20240718.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">20240718 全员群吵架</source>
-      <description>正文: 日期: 20240718 114514三连 喵~ 不给 JuLuoYe 管理员,JuLuoYe对其回复 &amp;quot;信不信我诅咒你&amp;quot; 引发 114514 三连 喵~ 对其诅咒也引发了相互诅咒,最终发展为吵架. 只是两个群主之间吵架而已. 最后管理员出场撤回消息结束. 只是吵一架,没啥大不了的,很快就会忘掉的. 乐 图片已留存 下载截图</description>
-      <pubDate>Thu, 18 Jul 2024 14:00:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h2>正文:</h2>
-<p><strong>日期: 20240718</strong><br>
-<em>114514三连 喵~</em> 不给 <em>JuLuoYe</em> 管理员,<em>JuLuoYe</em>对其回复 "信不信我诅咒你" 引发 <em>114514 三连 喵~</em> 对其诅咒也引发了相互诅咒,最终发展为吵架.<br>
-只是两个群主之间吵架而已.<br>
-最后管理员出场撤回消息结束.<br>
-只是吵一架,没啥大不了的,很快就会忘掉的.<br>
-乐<br>
-图片已留存<br>
-<a href="https://img.yyyyt.top/yh/events/yh_events_20240718.zip" target="_blank" rel="noopener noreferrer">下载截图</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>上学期</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</guid>
@@ -2354,6 +2002,167 @@ PS:大部分消息已撤回<br>
       <content:encoded><![CDATA[<p><strong>日期:</strong><br>
 <strong>开始: 20240711</strong><br>
 <strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>高二年级</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">高二年级</source>
+      <description>这里放的是高二的内容</description>
+      <pubDate>Fri, 12 Jul 2024 11:49:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这里放的是高二的内容</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第一周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/1_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/1_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第一周</source>
+      <description>日期: 开始: 20240901 星期日 结束: 20240907 星期六 暑假结束了,又要开学了:( 本周内容: 1.又双叒叕开学了 还是回到了学校,而且还是那个牢校区,破烂的教室和宿舍,最离谱的是那个空调外机装到了宿舍的阳台上.哦对了,咱的床好像原本是在七完的泳池那边的(难怪为啥不开了bushi),学校千里迢迢给搬到这里来,我真tm谢了.这回还分班...</description>
+      <pubDate>Fri, 12 Jul 2024 11:49:38 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240901 星期日 <s>(实际上20240831下午就要报道了)</s></strong><br>
+<strong>结束: 20240907 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第二十周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/20_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/20_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第二十周</source>
+      <description>日期: 开始: 20240707 星期日 结束: 20240711 星期四 本周内容: 1.期末考试 都要放暑假了,所以期末考试少不了得了,然后成功考炸了 2.搬回老校区 据学校方面消息说高二搬回老校区 3.放暑假 高一结束了,放假了!所以说高一生活结束了吗?刚好二十周a,但是假期作业么...... The True End</description>
+      <pubDate>Sat, 06 Jul 2024 16:21:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240707 星期日</strong><br>
+<strong>结束: 20240711 星期四</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十九周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/19_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/19_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十九周</source>
+      <description>日期: 开始: 20240630 星期日 结束: 20240706 星期六 本周内容: 1.下周期末考试,准备寒假 下周三期末考试,准备放寒假(据说是7月10号)(我记得隔壁郑州早就放了啊) 😦 2.暂时的回顾与总结 现在是第19周了,也是本学期最后一次常规假期,回想起高一一年过得,希望下一年可以好好的去度过吧 3.卷子多,真tm多,一天好几张卷子,...</description>
+      <pubDate>Sat, 29 Jun 2024 15:49:36 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240630 星期日</strong><br>
+<strong>结束: 20240706 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十七周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/17_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/17_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十七周</source>
+      <description>日期: 开始: 20240616 星期日 结束: 20240622 星期六 本周内容: 1.中招考试 祝各位考生考上自己理想的高中! 2.下周联考 学校老惯例了,期末/期中前联考 3.到校更改为6:10 原本6:20-&amp;gt;6:10, 4.学校通知填报综合素质评价系统 鬼知道会不会去看?(我撤回这句话,现在已经上了) The End</description>
+      <pubDate>Sat, 15 Jun 2024 17:33:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240616 星期日</strong><br>
+<strong>结束: 20240622 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/18_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十八周</source>
+      <description>日期: 开始: 20240623 星期日 结束: 20240629 星期六 本周内容: 1.大联考 大联考,大联考,难度系数看上去低,但是在于出题人的创新,所以成绩么...... 还见到了熟人(华),然后走了之后顺手看了桌面上留下的答题卡,然后发现就是这个人,然后看见了F₂置换溶液中出S单质的操作.只能说这孩子(化学)废了,唉~ 2.周一集体睡觉 周一...</description>
+      <pubDate>Sat, 15 Jun 2024 17:33:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240623 星期日</strong><br>
+<strong>结束: 20240629 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十六周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/16_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/16_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十六周</source>
+      <description>日期: 开始: 20240610 星期日 结束: 20240615 星期六 本周内容: 1.高考结束(确定这是本周的吗?) 祝各位考生能考出好成绩,考上自己理想的专业和大学 2.定时不够长,半夜空调自己关闭 众所周知,教官为了不用早上起来去关空调所以设置的定时,然后只有(周五晚上改成了7h),然后就导致半夜热醒(屋内30℃).然后老师建议是:空调关了之...</description>
+      <pubDate>Sat, 08 Jun 2024 05:32:02 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240610 星期日</strong><br>
+<strong>结束: 20240615 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>一些软件分享</title>
+      <link>https://docs.yyyyt.top/guide/app_share/</link>
+      <guid>https://docs.yyyyt.top/guide/app_share/</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">一些软件分享</source>
+      <pubDate>Sun, 02 Jun 2024 03:41:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>第十五周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/15_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/15_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十五周</source>
+      <description>日期: 开始:20240602 星期日 结束:20240607 星期五 本周内容: 1.端午安康 本周端午放假,总共3天 祝大家端午快乐! 2.高考考试 五中因此被占考场,直接多放几天假期,而我所在学校没有被占考场,所以乐 因此路上也变得很堵 水 The End</description>
+      <pubDate>Sat, 01 Jun 2024 16:02:36 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始:20240602 星期日</strong><br>
+<strong>结束:20240607 星期五</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十四周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十四周</source>
+      <description>日期: 开始:20240526 星期日 结束:20240601 星期六 本周内容: 祝大家儿童节快乐! 1.月考 这个相比我都不用太多说了,就是正常的月考,而且还算每回惯例,成绩很低(毕竟专出原题和不会的) 然后错的就不说了,很烂. 2.天天挨批 这个就不细说了,上周也说了个大概,总结来说就是要么迟到/卫生之类的. The End</description>
+      <pubDate>Sun, 26 May 2024 00:51:16 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始:20240526 星期日</strong><br>
+<strong>结束:20240601 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十三周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/13_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/13_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十三周</source>
+      <description>日期: 开始:20240519 星期日 结束:20240525 星期六 本周内容: 1.PK大比武 说实话,这个PK大比武我都快忘了,就是除了热,具体名我不说了,图片也没法给了. 当然也收集了一些横幅: 扯个横幅告诉你,B02班拉爆你. -B02 山重水复疑无路,跟着哲姐不迷路. -A11 感觉就我们班(包括隔壁)最拉了,啥活也没整. 这气势还是很可以...</description>
+      <pubDate>Sun, 19 May 2024 06:23:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始:20240519 星期日</strong><br>
+<strong>结束:20240525 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十二周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
+      <description>日期: 开始:20240512 星期日 结束:20240517 星期五 本周内容: 1.温度再次上升,学校不开空调 随着夏天的到来,温度再次上升.直接干到了35度往上.然鹅学校还是不开空调...... 2.会考考试,学校提前放假. 题还是样的简单.还是熟悉的考场睡觉.总结就是白送. #The End</description>
+      <pubDate>Sun, 12 May 2024 06:20:48 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始:20240512 星期日</strong><br>
+<strong>结束:20240517 星期五</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十一周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十一周</source>
+      <description>日期: 开始: 20240505 星期日 结束: 20240511 星期六 本周内容: 1.期中表彰大会 本次召开期中表彰大会(星期五),包括但不限于 老式的套路:各种念名字,各种心理鸡汤(点名代表发言) 超长的环节:12个环节,没错,又是高中和初中一起开. 但是还有各种&amp;quot;名言金句&amp;quot;这边就不放了,其他的以前都吐槽过了. 这周有点水 #The End</description>
+      <pubDate>Sun, 05 May 2024 05:43:25 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240505 星期日</strong><br>
+<strong>结束: 20240511 星期六</strong></p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十周</source>
+      <description>日期: 开始: 20240427 星期六 结束: 20240430 星期二 本周内容: 1.回来专程期中考试. 说到上回学校被举报一事情,被迫放了一天假期.这一回回来就专程为个期中考试.好吧,有一天也算不错了. 2.期中考试难度去世. 这一回期中考试,难度直接让人去世,包括但不限于物理大题全错,语文大题全靠蒙,数学直接懵逼.反正难度就....... 3...</description>
+      <pubDate>Sat, 27 Apr 2024 05:11:20 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20240427 星期六</strong><br>
+<strong>结束: 20240430 星期二</strong></p>
 ]]></content:encoded>
     </item>
   </channel>
