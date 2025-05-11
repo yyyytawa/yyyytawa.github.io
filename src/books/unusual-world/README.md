@@ -1,5 +1,5 @@
 ---
-title: 奇怪志
+title: 奇怪传
 feed: false
 ---
 
