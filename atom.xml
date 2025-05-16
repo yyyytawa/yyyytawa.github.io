@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-05-11T07:50:15.428Z</updated>
+  <updated>2025-05-16T13:50:46.392Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -530,15 +530,63 @@ Wu后续还讨论我是抖M,又是默认的不说=同意.<br>
     <title type="text">第十四周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/14_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/14_week.html"/>
-    <updated>2025-05-09T15:30:25.000Z</updated>
+    <updated>2025-05-16T13:48:56.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 20250511 星期日</strong><br>
+<strong>结束: 20250516 星期五</strong></p>
+<h2>本周内容:</h2>
+<p>首先,你需要知道的是本周没有啥太大事情就是了.所以说这里原本其他内容的栏目也一起分开了成一个个小标题了.</p>
+<h3>1. 占考场</h3>
+<p>高一会考又占咱考场了,代价就是搬东西和提前2小时放学,还有不占考场的地方好像很少.<br>
+然后又一次被当"志愿者"了.<br>
+DOCS-TSHS-LP 也跑路了.</p>
+<h3>2. 妈妈的爱</h3>
+<p>简单来说就是 DOCS-TSHS-WCF 妈妈送了点樱桃(类似物,后续称"樱桃",或许和大课间玩白板被逮有关),然后给部分人分了分,期间洗完的樱桃掉到地上,对此某人评价到:</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250511 星期日</strong><br>
+<strong>结束: 20250516 星期五</strong></p>
+<h2>本周内容:</h2>
+<p>首先,你需要知道的是本周没有啥太大事情就是了.所以说这里原本其他内容的栏目也一起分开了成一个个小标题了.</p>
+<h3>1. 占考场</h3>
+<p>高一会考又占咱考场了,代价就是搬东西和提前2小时放学,还有不占考场的地方好像很少.<br>
+然后又一次被当"志愿者"了.<br>
+DOCS-TSHS-LP 也跑路了.</p>
+<h3>2. 妈妈的爱</h3>
+<p>简单来说就是 DOCS-TSHS-WCF 妈妈送了点樱桃(类似物,后续称"樱桃",或许和大课间玩白板被逮有关),然后给部分人分了分,期间洗完的樱桃掉到地上,对此某人评价到:</p>
+<blockquote>
+<p>你是这样对待你妈妈的爱的吗?</p>
+</blockquote>
+<p><s>监督分樱桃(bushi)</s><br>
+我不多做评价,人死于话多.后续事件大概率是把樱桃分完了,这东西确实放不住.</p>
+<h3>3. 快点走</h3>
+<p>下午第二节快结束的时候 DOCS-TSHS-CFFA 想早点走,然后这货32到37,动了一下茶杯,作业也是不写,急着走,被 ZH-CN 老师给发现然后给说了一顿,当然马老师也看见了.惩罚好像是早到.</p>
+<h3>4. 威胁</h3>
+<p>应某人要求此处不写.<br>
+回旋镖 2.0</p>
+<h3>5. 打赌和Master</h3>
+<p>DOCS-TSHS-WCF 要改名了,不再当某人的主人了.<br>
+好像还打赌了,具体内容不写了.</p>
+<h3>6. SEEWOO之战</h3>
+<p>和某人争SEEWOO了,然后一个视频展台直接送走,以后也不会有了,毕竟 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 也不会再玩了.<br>
+然后后面不理我了,不理更好,安静许多,毕竟本身不是多数闲聊类话题的主动发起者.<br>
+后续我也懒得去理了.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-03-29T10:51:15.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第十五周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/15_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/15_week.html"/>
+    <updated>2025-05-16T13:48:56.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250518 星期日</strong><br>
 <strong>结束: 202505xx 星期五</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250511 星期日</strong><br>
+<p><strong>开始: 20250518 星期日</strong><br>
 <strong>结束: 202505xx 星期五</strong></p>
 <h2>本周内容:</h2>
 <h2>The End</h2>
@@ -2979,26 +3027,5 @@ but我们班只有1-2秒的时间.<br>
 <strong>结束: 20240511 星期六</strong></p>
 ]]></content>
     <published>2024-05-05T05:43:25.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/10_week.html"/>
-    <updated>2024-05-19T06:23:31.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始: 20240427 星期六</strong><br>
-<strong>结束: 20240430 星期二</strong></h2>
-<h3>本周内容:</h3>
-<p>1.回来专程期中考试.<br>
-说到上回学校被举报一事情,被迫放了一天假期.这一回回来就专程为个期中考试.好吧,有一天也算不错了.</p>
-<p>2.期中考试难度去世.<br>
-这一回期中考试,难度直接让人去世,包括但不限于物理大题全错,语文大题全靠蒙,数学直接懵逼.反正难度就.......</p>
-<p>3.五一假期.<br>
-这个我不介绍了吧,懂得都懂.(但是我作业没写完:((()</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240427 星期六</strong><br>
-<strong>结束: 20240430 星期二</strong></p>
-]]></content>
-    <published>2024-04-27T05:11:20.000Z</published>
   </entry>
 </feed>
