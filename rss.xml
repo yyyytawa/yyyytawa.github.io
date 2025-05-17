@@ -6,14 +6,61 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 16 May 2025 13:50:46 GMT</pubDate>
-    <lastBuildDate>Fri, 16 May 2025 13:50:46 GMT</lastBuildDate>
+    <pubDate>Sat, 17 May 2025 02:54:19 GMT</pubDate>
+    <lastBuildDate>Sat, 17 May 2025 02:54:19 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>人民云灵车测评</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/05/170.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/05/170.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">人民云灵车测评</source>
+      <description>产品信息: 美国马纳萨斯LXC CPU 1vCore 内存 512MiB 磁盘 5GiB NVMe 带宽 2.5Gbps共享 地址 NATv4+IPv6/128 流量 2TiB 架构 LXC(Linux Containers) 2 CNY/月 简评: 低价灵车 spiritysdx 融合怪: IP质量: IPv4不知道为啥部分奥地利部分美国,不过不咋影...</description>
+      <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>产品信息:</h2>
+<p>美国马纳萨斯LXC<br>
+CPU 1vCore<br>
+内存 512MiB<br>
+磁盘 5GiB NVMe<br>
+带宽 2.5Gbps共享<br>
+地址 NATv4+IPv6/128<br>
+流量 2TiB<br>
+架构 LXC(Linux Containers)</p>
+<p>2 CNY/月</p>
+<p>简评: 低价灵车</p>
+<h2>spiritysdx 融合怪:</h2>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">测评频道:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https://t.me/vps_reviews</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">                    </span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">VPS融合怪版本：2025.04.12</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Shell项目地址：https://github.com/spiritLHLS/ecs</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Go项目地址</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> [推荐]：https://github.com/oneclickvirt/ecs</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>人死于&amp;quot;话多&amp;quot;</title>
+      <link>https://docs.yyyyt.top/articles/research/2025/05/160.html</link>
+      <guid>https://docs.yyyyt.top/articles/research/2025/05/160.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">人死于&amp;quot;话多&amp;quot;</source>
+      <description>反派死于话多,正派也死于话多. ——Unknown P0. 序言 此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵. 本文中&amp;quot;话多&amp;quot;既可以指广义上的&amp;quot;话多&amp;quot;,也可以指狭义上的&amp;quot;话多&amp;quot;. 要感谢某个人了,回旋镖旋到自己头上来了,东窗事发2.0了.也结合一下自己的所见所闻,讨论一下最近发生的...</description>
+      <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
+      <content:encoded><![CDATA[<div style="text-align:center">
+<blockquote>
+<p>反派死于话多,正派也死于话多. ——Unknown</p>
+</blockquote>
+</div>
+<h2>P0. 序言</h2>
+<p>此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵.<br>
+本文中"话多"既可以指广义上的"话多",也可以指狭义上的"话多".<br>
+要感谢某个人了,回旋镖旋到自己头上来了,东窗事发2.0了.也结合一下自己的所见所闻,讨论一下最近发生的事情.</p>
+<h2>P1. 何为"话多"</h2>
+<p>如同序言所说一样,但是又不止序言所说.<br>
+"话多"可以是我在现实中说的话,也可以是我在网上说的话,更可以是说的一切话.未来都有可能成为回旋镖,然后成功旋到自己头上.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>又有一人走了</title>
       <link>https://docs.yyyyt.top/articles/daily/2025/05/100.html</link>
@@ -1139,6 +1186,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -1201,28 +1270,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1461,32 +1508,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </div>]]></content:encoded>
     </item>
     <item>
-      <title>第八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.张同学和石同学和土豆</h3>
-<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>7月</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/07/</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/07/</guid>
@@ -1532,6 +1553,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <guid>https://docs.yyyyt.top/articles/daily/2024/10/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">10月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>第八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
+      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.张同学和石同学和土豆</h3>
+<p>张同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content:encoded>
     </item>
     <item>
       <title>群规</title>
@@ -2169,30 +2216,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始:20240519 星期日</strong><br>
 <strong>结束:20240525 星期六</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十二周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/12_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
-      <description>日期: 开始:20240512 星期日 结束:20240517 星期五 本周内容: 1.温度再次上升,学校不开空调 随着夏天的到来,温度再次上升.直接干到了35度往上.然鹅学校还是不开空调...... 2.会考考试,学校提前放假. 题还是样的简单.还是熟悉的考场睡觉.总结就是白送. #The End</description>
-      <pubDate>Sun, 12 May 2024 06:20:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始:20240512 星期日</strong><br>
-<strong>结束:20240517 星期五</strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十一周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/11_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十一周</source>
-      <description>日期: 开始: 20240505 星期日 结束: 20240511 星期六 本周内容: 1.期中表彰大会 本次召开期中表彰大会(星期五),包括但不限于 老式的套路:各种念名字,各种心理鸡汤(点名代表发言) 超长的环节:12个环节,没错,又是高中和初中一起开. 但是还有各种&amp;quot;名言金句&amp;quot;这边就不放了,其他的以前都吐槽过了. 这周有点水 #The End</description>
-      <pubDate>Sun, 05 May 2024 05:43:25 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240505 星期日</strong><br>
-<strong>结束: 20240511 星期六</strong></p>
 ]]></content:encoded>
     </item>
   </channel>
