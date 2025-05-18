@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 18 May 2025 03:39:50 GMT</pubDate>
-    <lastBuildDate>Sun, 18 May 2025 03:39:50 GMT</lastBuildDate>
+    <pubDate>Sun, 18 May 2025 07:20:26 GMT</pubDate>
+    <lastBuildDate>Sun, 18 May 2025 07:20:26 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -44,17 +44,17 @@ CPU 1vCore<br>
       <link>https://docs.yyyyt.top/articles/research/2025/05/160.html</link>
       <guid>https://docs.yyyyt.top/articles/research/2025/05/160.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">人死于&amp;quot;话多&amp;quot;</source>
-      <description>反派死于话多,正派也死于话多. ——Unknown ![warning] 本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为. P0. 序言 此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵. 本文中&amp;quot;话多&amp;quot;既可以指广义上的&amp;quot;话多&amp;quot;,也可以指狭义上的&amp;quot;话多&amp;quot;. 要感谢某个人了,回旋...</description>
+      <description>反派死于话多,正派也死于话多. ——Unknown 注意 本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为. P0. 序言 此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵. 本文中&amp;quot;话多&amp;quot;既可以指广义上的&amp;quot;话多&amp;quot;,也可以指狭义上的&amp;quot;话多&amp;quot;. 要感谢某个人了,回旋镖旋到自己头上来...</description>
       <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
       <content:encoded><![CDATA[<div style="text-align:center">
 <blockquote>
 <p>反派死于话多,正派也死于话多. ——Unknown</p>
 </blockquote>
 </div>
-<blockquote>
-<p>![warning]<br>
-本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为.</p>
-</blockquote>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为.</p>
+</div>
 <h2>P0. 序言</h2>
 <p>此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵.<br>
 本文中"话多"既可以指广义上的"话多",也可以指狭义上的"话多".<br>
