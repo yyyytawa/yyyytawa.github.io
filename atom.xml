@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-05-23T17:06:56.405Z</updated>
+  <updated>2025-05-24T14:31:03.155Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,76 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">CF Workers和CF Pages优选IP</title>
+    <id>https://docs.yyyyt.top/articles/tech/2025/0524.html</id>
+    <link href="https://docs.yyyyt.top/articles/tech/2025/0524.html"/>
+    <updated>2025-05-24T14:30:02.000Z</updated>
+    <summary type="html"><![CDATA[<p>众所周知,cf不优选晚高峰体验懂得都懂,延迟几千ms(v6),下载速度几十KB/s,至于为啥你可以大胆问运营商.<br>
+优选后极大改善了访问体验,至少在我cf图床上比较明显,晚高峰从原来几十KB/s完全没法用到现在1-2MB/s能用了,不过最终解决大陆访问慢的方案就是国内服务器,或者是换个对大陆路由优化好的线路,but 需要加钱!(PS: CF企业版貌似也救不了,毕竟线路就那样了)<br>
+本教程会先从相对简单的开始,到后面复杂的难一些的,都无需额外付费(应该没个人能用完免费额度吧),但是有些需要绑支付方式(烂尾工程),看你自己需求了.</p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>阅读此教程之前我们默认您拥有一定的网络基础并且会使用cf的服务,本教程不解决过于小白的问题.</p>
+</div>]]></summary>
+    <content type="html"><![CDATA[<p>众所周知,cf不优选晚高峰体验懂得都懂,延迟几千ms(v6),下载速度几十KB/s,至于为啥你可以大胆问运营商.<br>
+优选后极大改善了访问体验,至少在我cf图床上比较明显,晚高峰从原来几十KB/s完全没法用到现在1-2MB/s能用了,不过最终解决大陆访问慢的方案就是国内服务器,或者是换个对大陆路由优化好的线路,but 需要加钱!(PS: CF企业版貌似也救不了,毕竟线路就那样了)<br>
+本教程会先从相对简单的开始,到后面复杂的难一些的,都无需额外付费(应该没个人能用完免费额度吧),但是有些需要绑支付方式(烂尾工程),看你自己需求了.</p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>阅读此教程之前我们默认您拥有一定的网络基础并且会使用cf的服务,本教程不解决过于小白的问题.</p>
+</div>
+<div class="hint-container note">
+<p class="hint-container-title">关于 Edge IP Restricted 说明</p>
+<p>无解,有时候优选CNAME解析到的IP不在cf给你分配的名单里面就会限制,一般这些节点需要加钱(Pro,商业版,企业版)才能用,咱免费用户就别凑热闹了,不过一般过一会就会自行消失,请耐心等待.</p>
+</div>
+<h2>1. CF Workers优选IP</h2>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>此方法无法吃CDN的缓存,可以吃WAF规则.</p>
+</div>
+<p>这个可能是最简单的了,也无需绑卡.<br>
+首先,登录<a href="https://dash.cloudflare.com" target="_blank" rel="noopener noreferrer">cf控制面板</a>,看到侧边栏(手机需要手动展开侧边栏才能看到)<br>
+按照图片说明操作即可.<br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/workers-1.avif" alt="" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/workers-2.avif" alt="" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/workers-3.avif" alt="" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/workers-4.avif" alt="" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/workers-5.avif" alt="" loading="lazy"><br>
+记得添加CNAME的时关闭cdn代理(图片忘记写了,懒得重新截图了).可以去itdog在线ping测试一下效果,如果解析出来很多CF CDN的IP说明成功了.<br>
+你也可以访问来测试.</p>
+<h2>2. CF Pages优选IP</h2>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>此方法无法吃CDN的缓存,也不吃WAF规则.</p>
+</div>
+<p>额外材料:</p>
+<ul>
+<li>支持托管子域的dns服务商.</li>
+</ul>
+<p>cf目前在不花钱的情况下不支持分地域解析,故需要第三方服务商来实现分地域解析.<br>
+其实我更建议国外解析到cf pages 国内解析到netlify的,不过这不是本文的重点.<br>
+本文使用华为云为示例,阿里云也支持子域托管但是不如华为云良心,未满十八无法实名的可以用国际版.</p>
+<p>如果你的域名本来就托管在华为云可以跳过托管到华为云这一步,直接进入cf pages的环节<br>
+首先,登录<a href="https://console.huaweicloud.com/?locale=zh-cn" target="_blank" rel="noopener noreferrer">华为云控制台</a>按照图片中操作即可.<br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-hw-1.avif" alt="1" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-hw-2.avif" alt="2" loading="lazy"><br>
+一般来说添加子域会要求验证,按照提示验证后即可添加.<br>
+接下来是修改NS了,修改子域NS为以下四个就行:  <code>ns1.huaweicloud-dns.org</code>，<code>ns1.huaweicloud-dns.net</code>, <code>ns1.huaweicloud-dns.cn</code>，<code>ns1.huaweicloud-dns.com</code>  一般不需要等多久就能生效.</p>
+<p>接下来到cf pages页面(本教程默认你已经在cf pages有相应网站)按照图片所示操作即可.</p>
+<p><img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-cf-3.avif" alt="3" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-cf-4.avif" alt="4" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-cf-5.avif" alt="5" loading="lazy"><br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-cf-6.avif" alt="6" loading="lazy"></p>
+<p>记得把对应域名换成你自己的,CNAME内容需要记下来,后续会用.接下来到华为云控制台,添加两个CNAME记录,如果是根域的直接留空就行,一个默认线路 解析到cf pages给你的CNAME域名,一个中国大陆(线路类型-&gt;地域解析-&gt;中国大陆) 解析到优选CNAME,本文还是以1.cloudflare.182682.xyz为例,你可以换成你自己满意的优选CNAME.不出意外的话应该会是下面的样子:<br>
+<img src="https://img.yyyyt.top/docs/articles/tech/2025/0524/pages-hw-7.avif" alt="7" loading="lazy"><br>
+现在,稍等一会dns生效后你可以去itdog的http测速测试了,不出意外的话国内解析到的是优选IP国外还是正常解析.本站现在用的也是这种,不过是国内解析到了netlify,国外cf pages.<br>
+这种需要证书续期脚本来自动更新证书,当然你也可以手动更新.<br>
+PS: Netlify电信那边绕NTT了,丢包严重,建议给电信解析到优选地址.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-05-24T14:30:02.000Z</published>
+  </entry>
   <entry>
     <title type="text">第十六周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/16_week.html</id>
@@ -3370,28 +3440,5 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <strong>结束:20240607 星期五</strong></p>
 ]]></content>
     <published>2024-06-01T16:02:36.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十四周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/down_term/14_week.html"/>
-    <updated>2024-06-01T15:56:56.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<h2><strong>开始:20240526 星期日</strong><br>
-<strong>结束:20240601 星期六</strong></h2>
-<h3>本周内容:</h3>
-<p>祝大家儿童节快乐!</p>
-<p>1.月考<br>
-这个相比我都不用太多说了,就是正常的月考,而且还算每回惯例,成绩很低(毕竟专出原题和不会的)<br>
-然后错的就不说了,很烂.</p>
-<p>2.天天挨批<br>
-这个就不细说了,上周也说了个大概,总结来说就是要么迟到/卫生之类的.</p>
-<h3>The End</h3>
-]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始:20240526 星期日</strong><br>
-<strong>结束:20240601 星期六</strong></p>
-]]></content>
-    <published>2024-05-26T00:51:16.000Z</published>
   </entry>
 </feed>
