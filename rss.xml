@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 31 May 2025 02:01:30 GMT</pubDate>
-    <lastBuildDate>Sat, 31 May 2025 02:01:30 GMT</lastBuildDate>
+    <pubDate>Sat, 31 May 2025 02:03:24 GMT</pubDate>
+    <lastBuildDate>Sat, 31 May 2025 02:03:24 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -116,20 +116,24 @@ PS: Netlify电信那边绕NTT了,丢包严重,建议给电信解析到优选地�
 <li>改善假期作业不交问题,要求列出作业清单,写明完成时间,回来检查作业.</li>
 <li>etc.</li>
 </ul>
-<p>对了,就在说完这个改善说纪律的当前午休又有人乱,还是那几个老熟人,这几位底层代码是这样的,劝是没用的,不如学学新加坡"重罚之下必有素质",说话一次罚1000USD就没人敢说了.<br>
+<p>这回是真的留5分钟给你写作业清单和收拾作业的时间了.<br>
+对了,就在说完这个改善说纪律的当前午休又有人乱,还是那几个老熟人,这几位底层代码是这样的,劝是没用的,不如学学新加坡"重罚之下必有素质",说话一次罚1000USD就没人敢说了.<br>
 考完还是日常调位置,然后 DOCS-TSHS-WCF 吐槽说没考好继续做我后面,对此评价: 马老师附近那几个位置你咋不做非要做我后面然后吐槽,是故意的还是不小心的?</p>
 <h3>2. 打赌</h3>
-<p>DOCS-TSHS-WCF 在寝室里面打赌&lt;&lt;进击的巨人&gt;&gt;里面会飞的巨人是哪个,赌注是每人一个小样的糖.和三个人打赌.<br>
+<p>DOCS-TSHS-WCF 在寝室里面打赌&lt;&lt;进击的巨人&gt;&gt;里面会飞的巨人是哪个,赌注是每人一个小样的糖.他和三个人打赌.<br>
 敬请期待结果.</p>
 <h3>3. Frog</h3>
 <p>据说某人长得像青蛙?对此 DOCS-TSHS-WCF 专门找 DOCS-TSHS-YeeHan 问一下具体啥意思?反正我也不知道最终结果就是了.</p>
-<!-- DOCS-TSHS-Z001 你也别跑,还有你,不过他应该看不到注释里面的内容.(毕竟应该也不回去没事翻源码吧)-->
+<!-- DOCS-TSHS-Z001 你也别跑,还有你,不过他应该看不到注释里面的内容.(毕竟应该也不会去没事翻源码吧)-->
 <h3>4. 体育课</h3>
-<p>周四体育课老师专门把全班喊下来强调一下纪律之类的问题.<br>
-要说班里不上体育的也不少,好多留在教室里面.</p>
+<p>周四体育课老师专门把全班喊下来强调一下纪律之类的问题,例如做到办公楼门口楼梯上写作业,跑到教学区玩闹等.<br>
+体育课好多人待在教室里面不出去.<br>
+还有既然某人问了咱也写上去算了, DOCS-TSHS-001 , DOCS-TSHS-Dusty <!--DOCS-TSHS-Z002你也别跑--></p>
 <h3>5. 其他事情</h3>
 <p>DOCS-TSHS-WCF 外号就改名 *淫* 吧,就把 "云" 换成 "淫" 就行,毕竟谈话的淫秽内容也不少是吧.<br>
-DOCS-TSHS-LP 好像出了啥事情,我也不知道,也懒得关心.</p>
+DOCS-TSHS-LP 好像出了啥事情,我也不知道,也懒得关心.<br>
+某人跟我反映网站打不开?我这边实测正常啊.<br>
+然后一看河南+移动,那没事了.墙中墙中墙(GFW+移动白名单(疑似)+河南省墙,河南和移动就是这样的,我也没办法.备案是不可能的,这辈子都不可能).</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
