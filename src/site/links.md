@@ -18,12 +18,6 @@ otherlinks:
    url: https://blog.b84f2246.top/
    preview: https://blog.b84f2246.top/img/screenshot.jpg
 
- - name: butlanys
-   desc: 一个乐于分享的博客
-   logo: https://file.butlanys.de/img/avatar.jpg
-   url: https://blog.butlanys.de/
-   preview: https://img.yyyyt.top/docs/site/links/preview/Butlanys.png
-
  - name: Creeper005の小站
    desc: 坐牢日常
    logo: https://creeper005bili.github.io/img/avatar.png
@@ -163,8 +157,8 @@ otherlinks:
 <iframe src="/docs/site/fc.html" name="iframe_a" scrolling="yes" frameborder="0" width="100%" height="1000" style="border-radius: 30px;"></iframe>
 :::
 
-::: details 待移除
-无
+::: details 移除名单
+butlanys的小站,原因: 移除本站友链
 :::
 
 友链申请:  
