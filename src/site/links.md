@@ -55,6 +55,12 @@ otherlinks:
    url: https://www.nodeloc.com
    preview: https://img.yyyyt.top/docs/site/links/preview/NodeLoc.png
 
+ - name: Pysio
+   desc: 一个温暖的家/一只懒懒的熊猫
+   logo: https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163
+   url: https://www.pysio.online/
+   preview: https://img.yyyyt.top/docs/site/links/preview/Pysio.avif
+
  - name: Qrasa的小站
    desc: 记录一些活着的日常
    logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
