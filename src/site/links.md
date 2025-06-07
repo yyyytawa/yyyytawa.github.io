@@ -192,8 +192,8 @@ us.kg
 ```
  - name: yyyyt的文档站
    desc: Bad or Worse
-   logo: https://img.yyyyt.top/avatar/avatar
+   logo: https://cf-img.yyyyt.top/avatar/avatar
    url: https://docs.yyyyt.top
    repo: yyyytawa/yyyytawa.github.io
-   preview: https://img.yyyyt.top/vuepress/screenshot
+   preview: https://cf-img.yyyyt.top/vuepress/screenshot
 ```
