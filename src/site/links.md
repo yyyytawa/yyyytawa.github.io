@@ -44,8 +44,8 @@ otherlinks:
 
  - name: 沫泽的小站
    desc: 一个技术宅的小窝
-   logo: https://blog.cyberpaws.icu/wp-content/uploads/site.png
-   url: https://blog.cyberpaws.icu
+   logo: https://blog.pmoze.top/wp-content/uploads/site.png
+   url: https://blog.pmoze.top/
    repo: https://github.com/Pisces-Moze
    preview: https://play.cyberpaws.icu:1145/api/image
 
