@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 20 Jun 2025 13:53:26 GMT</pubDate>
-    <lastBuildDate>Fri, 20 Jun 2025 13:53:26 GMT</lastBuildDate>
+    <pubDate>Sat, 21 Jun 2025 12:48:21 GMT</pubDate>
+    <lastBuildDate>Sat, 21 Jun 2025 12:48:21 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -44,6 +44,7 @@
 还有这个随机查询字符串想着击破CDN缓存,可惜的是我这边开了忽略查询字符串所以这招没用,还是会打到CDN的缓存上面.<br>
 <img src="https://img.yyyyt.top/docs/articles/daily/2025/06/01/0/detail-ai.avif" alt="" loading="lazy"><br>
 CF认为是AI BOT然后拦截了,乐.谁家AI BOT请求那么奇怪,引用方来自CIA还附带一堆乱码查询字符串.<br>
+<img src="https://img.yyyyt.top/meme/doro/static/这像话吗.gif" alt="" loading="lazy"><br>
 只能说这个攻击者水平烂的要死,我也无语了,一个静态图床有啥好CC的,下回能力不行也别来挑战CF.</p>
 <h2>The End</h2>
 ]]></content:encoded>
@@ -161,9 +162,12 @@ DOCS-TSHS-WS 借给我伞,竟然还是直接借整个伞 两次! Thanks.<br>
 老师吐槽教育局领导要求总结做题模板(现在高考都是反押题,很活的)<br>
 PE课全无,原因: 下雨.<br>
 对,连续下了2d的雨,不过吐槽一下为啥下雨后还那么热?尤其是屋内,不是听说下雨后很凉快的吗.<br>
-某同学PK两人,一个抢纸一个占座位.(咋感觉 DOCS-TSHS-WS 天天被欺负)</p>
+某同学PK两人,一个抢纸一个占座位.(咋感觉 DOCS-TSHS-WS 天天被欺负)<br>
+牌王又来了,这几位还是周五中午打牌,貌似动静还有点大.<br>
+<img src="https://img.yyyyt.top/meme/doro/static/给社会添乱.gif" alt="" loading="lazy"></p>
 <h2>The End</h2>
 ]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/meme/doro/static/给社会添乱.gif" type="image/gif"/>
     </item>
     <item>
       <title>CF Workers和CF Pages优选IP</title>
@@ -1539,6 +1543,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -1601,28 +1627,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1861,32 +1865,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
   </div>]]></content:encoded>
     </item>
     <item>
-      <title>第八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.某同学和石同学和土豆</h3>
-<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>7月</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/07/</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/07/</guid>
@@ -1932,6 +1910,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <guid>https://docs.yyyyt.top/articles/daily/2024/10/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">10月</source>
       <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>第八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
+      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.某同学和石同学和土豆</h3>
+<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content:encoded>
     </item>
     <item>
       <title>群规</title>
