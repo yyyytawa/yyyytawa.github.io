@@ -93,10 +93,19 @@
 </template>
 
 <script>
-import { downloadZip } from 'client-zip';
-import streamSaver from 'streamsaver';
-
+let downloadZip = null;
+let streamSaver = null;
 let preferredDownloadMethod = null;
+
+if (typeof window !== 'undefined') {
+  import('client-zip').then(module => {
+    downloadZip = module.downloadZip;
+  });
+  import('streamsaver').then(module => {
+    streamSaver = module.default;
+    streamSaver.mitm = 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0';
+  });
+}
 
 export default {
   name: 'Sticker',
@@ -150,9 +159,6 @@ export default {
   },
   mounted() {
     this.fetchStickers();
-    if (typeof window !== 'undefined') {
-      streamSaver.mitm = 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0';
-    }
   },
   methods: {
     async fetchStickers() {
@@ -230,7 +236,6 @@ export default {
         }
         
         this.stickers = stickers;
-        console.log('解析到的表情包:', this.stickers);
       } catch (err) {
         console.error('解析失败:', err);
         this.error = '解析配置失败，请检查YAML格式';
@@ -294,15 +299,12 @@ export default {
     getFileName(sticker, index = 0) {
       const ext = this.getFileExtension(sticker.url);
       
-      // 无名表情包使用时间戳命名
       if (!sticker.name || sticker.name === 'null') {
         return `sticker-${Date.now()}.${ext}`;
       }
 
-      // 有名表情包：直接使用名称 + 处理重名
       const baseName = `${sticker.name}${index > 0 ? `-${index}` : ''}.${ext}`;
       
-      // 检查重名
       if (this.generatedFileNames.includes(baseName)) {
         return this.getFileName(sticker, index + 1);
       }
@@ -311,23 +313,21 @@ export default {
       return baseName;
     },
     async downloadAll() {
-      if (this.downloading) return;
+      if (this.downloading || !downloadZip) return;
       this.downloading = true;
       this.error = null;
-      this.generatedFileNames = []; // 重置文件名记录
+      this.generatedFileNames = [];
       
       try {
         const files = this.selectedStickers.length > 0 
           ? this.selectedStickers 
           : this.stickers;
         
-        // 生成压缩包名称
         const packName = this.title ? 
           `pack-${this.title.replace(/[^\w\u4e00-\u9fa5]/g, '-')}` : 
           'pack-stickers';
         const zipName = `${packName}.zip`;
         
-        // 准备下载项
         const downloadItems = await Promise.all(
           files.map(async sticker => {
             try {
@@ -350,7 +350,6 @@ export default {
           })
         );
 
-        // 智能选择下载方式
         if (preferredDownloadMethod === 'stream' || preferredDownloadMethod === null) {
           try {
             await this.streamDownload(downloadItems, zipName);
@@ -366,7 +365,6 @@ export default {
           }
         }
         
-        // 普通下载
         await this.normalDownload(downloadItems, zipName);
         preferredDownloadMethod = 'normal';
         
@@ -378,6 +376,7 @@ export default {
       }
     },
     async streamDownload(items, fileName) {
+      if (!streamSaver) return;
       const fileStream = streamSaver.createWriteStream(fileName);
       const blob = await downloadZip(items).blob();
       
@@ -385,7 +384,6 @@ export default {
         return blob.stream().pipeTo(fileStream);
       }
       
-      // 兼容旧版浏览器
       const writer = fileStream.getWriter();
       const reader = blob.stream().getReader();
       
@@ -423,7 +421,6 @@ export default {
 </script>
 
 <style scoped>
-/* 保持原有样式不变 */
 .sticker-container {
   border-radius: 12px;
   padding: 24px;
