@@ -96,7 +96,6 @@
 import { downloadZip } from 'client-zip';
 import streamSaver from 'streamsaver';
 
-// 存储下载方法偏好
 let preferredDownloadMethod = null;
 
 export default {
@@ -120,7 +119,8 @@ export default {
       localPageSize: this.page,
       selectedStickers: [],
       selectAll: false,
-      downloading: false
+      downloading: false,
+      generatedFileNames: []
     };
   },
   computed: {
@@ -288,21 +288,46 @@ export default {
         item => this.selectedStickers.includes(item)
       );
     },
+    getFileExtension(url) {
+      return url.split('.').pop()?.toLowerCase() || 'png';
+    },
+    getFileName(sticker, index = 0) {
+      const ext = this.getFileExtension(sticker.url);
+      
+      // 无名表情包使用时间戳命名
+      if (!sticker.name || sticker.name === 'null') {
+        return `sticker-${Date.now()}.${ext}`;
+      }
+
+      // 有名表情包：直接使用名称 + 处理重名
+      const baseName = `${sticker.name}${index > 0 ? `-${index}` : ''}.${ext}`;
+      
+      // 检查重名
+      if (this.generatedFileNames.includes(baseName)) {
+        return this.getFileName(sticker, index + 1);
+      }
+
+      this.generatedFileNames.push(baseName);
+      return baseName;
+    },
     async downloadAll() {
       if (this.downloading) return;
       this.downloading = true;
       this.error = null;
+      this.generatedFileNames = []; // 重置文件名记录
       
       try {
         const files = this.selectedStickers.length > 0 
           ? this.selectedStickers 
           : this.stickers;
         
-        // 生成文件名（使用标题或默认）
-        const packName = this.title ? this.title.replace(/[^\w\u4e00-\u9fa5]/g, '-') : 'sticker-pack';
-        const fileName = `pack-${packName}.zip`;
+        // 生成压缩包名称
+        const packName = this.title ? 
+          `pack-${this.title.replace(/[^\w\u4e00-\u9fa5]/g, '-')}` : 
+          'pack-stickers';
+        const zipName = `${packName}.zip`;
         
-        // 创建下载项数组
+        // 准备下载项
         const downloadItems = await Promise.all(
           files.map(async sticker => {
             try {
@@ -325,10 +350,10 @@ export default {
           })
         );
 
-        // 根据偏好选择下载方法
+        // 智能选择下载方式
         if (preferredDownloadMethod === 'stream' || preferredDownloadMethod === null) {
           try {
-            await this.streamDownload(downloadItems, fileName);
+            await this.streamDownload(downloadItems, zipName);
             preferredDownloadMethod = 'stream';
             return;
           } catch (streamErr) {
@@ -341,8 +366,8 @@ export default {
           }
         }
         
-        // 普通下载方法
-        await this.normalDownload(downloadItems, fileName);
+        // 普通下载
+        await this.normalDownload(downloadItems, zipName);
         preferredDownloadMethod = 'normal';
         
       } catch (err) {
@@ -392,18 +417,13 @@ export default {
         document.body.removeChild(a);
         URL.revokeObjectURL(url);
       }, 100);
-    },
-    getFileName(sticker) {
-      const ext = sticker.url.split('.').pop() || 'png';
-      return sticker.name ? 
-        `${sticker.name.replace(/[^\w\u4e00-\u9fa5]/g, '-')}.${ext}` : 
-        `sticker-${Date.now()}.${ext}`;
     }
   }
 };
 </script>
 
 <style scoped>
+/* 保持原有样式不变 */
 .sticker-container {
   border-radius: 12px;
   padding: 24px;
