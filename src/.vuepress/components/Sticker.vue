@@ -1,34 +1,31 @@
 <template>
   <div class="sticker-container" :style="{ background: backgroundStyle }">
-    <!-- 头部区域 -->
     <div v-if="title" class="sticker-header">
       <h2>{{ title }}</h2>
       <p v-if="desc">{{ desc }}</p>
     </div>
-    
-    <!-- 分页控制 -->
+
     <div class="controls-section">
       <div class="page-size-selector">
         <span>每页数量：</span>
-        <input 
-          type="number" 
-          v-model.number="localPageSize" 
-          min="1" 
+        <input
+          type="number"
+          v-model.number="localPageSize"
+          min="1"
           max="200"
           @change="validatePageSize"
         >
       </div>
-      
+
       <div class="pagination-controls">
         <button @click="prevPage" :disabled="currentPage === 1">上一页</button>
         <span>第 {{ currentPage }} 页 / 共 {{ totalPages }} 页</span>
         <button @click="nextPage" :disabled="currentPage === totalPages">下一页</button>
       </div>
     </div>
-    
-    <!-- 表情包展示区 -->
+
     <div v-if="loading" class="loading">加载表情包配置中...</div>
-    
+
     <div v-else-if="stickers.length === 0" class="empty-message">
       <template v-if="configError">
         {{ configError }}
@@ -37,20 +34,20 @@
         没有找到表情包，请检查配置文件
       </template>
     </div>
-    
+
     <div v-else class="sticker-grid">
       <div v-for="(sticker, index) in paginatedStickers" :key="index" class="sticker-item">
         <div class="sticker-checkbox">
-          <input 
-            type="checkbox" 
-            v-model="selectedStickers" 
+          <input
+            type="checkbox"
+            v-model="selectedStickers"
             :value="sticker"
             @change="updateSelectAll"
           >
         </div>
         <div class="sticker-img-container">
-          <img 
-            :src="getStickerUrl(sticker.url)" 
+          <img
+            :src="getStickerUrl(sticker.url)"
             :alt="sticker.name || '表情包'"
             loading="lazy"
             @error="handleImageError(sticker)"
@@ -62,30 +59,34 @@
         </div>
       </div>
     </div>
-    
-    <!-- 底部下载控制区 -->
+
     <div v-if="stickers.length > 0" class="download-section">
       <div class="select-controls">
         <label>
-          <input 
-            type="checkbox" 
+          <input
+            type="checkbox"
             v-model="selectAll"
             @change="toggleSelectAll"
           > 全选当前页
         </label>
         <span class="selected-count">已选 {{ selectedStickers.length }} 个</span>
+
+        <select v-model="downloadMethod" class="download-method">
+          <option value="stream">流式下载(推荐)</option>
+          <option value="blob">普通下载</option>
+        </select>
       </div>
-      
-      <button 
-        @click="downloadAll" 
-        :disabled="downloading || selectedStickers.length === 0" 
+
+      <button
+        @click="downloadAll"
+        :disabled="downloading || selectedStickers.length === 0"
         class="download-btn"
       >
         <span v-if="downloading">打包中...</span>
         <span v-else>下载选中表情包 ({{ selectedStickers.length || '全部' }})</span>
       </button>
     </div>
-    
+
     <div v-if="error" class="error-message">
       {{ error }}
     </div>
@@ -93,25 +94,12 @@
 </template>
 
 <script>
-let downloadZip = null;
-let streamSaver = null;
-let preferredDownloadMethod = null;
-
-if (typeof window !== 'undefined') {
-  import('client-zip').then(module => {
-    downloadZip = module.downloadZip;
-  });
-  import('streamsaver').then(module => {
-    streamSaver = module.default;
-    streamSaver.mitm = 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0';
-  });
-}
-
 export default {
   name: 'Sticker',
   props: {
     title: { type: String, default: '' },
     desc: { type: String, default: '' },
+    // 将 link 的默认值改为指向 .json 文件
     link: { type: String, required: true },
     background: { type: String, default: '' },
     page: { type: Number, default: 20 },
@@ -129,6 +117,7 @@ export default {
       selectedStickers: [],
       selectAll: false,
       downloading: false,
+      downloadMethod: 'stream',
       generatedFileNames: []
     };
   },
@@ -157,270 +146,195 @@ export default {
       this.selectAll = false;
     }
   },
-  mounted() {
+  async mounted() {
+    await this.initDownloadLibs();
     this.fetchStickers();
   },
   methods: {
+    async initDownloadLibs() {
+      if (typeof window === 'undefined') return;
+
+      try {
+        const zipModule = await import('client-zip');
+        this.$downloadZip = zipModule.downloadZip;
+
+        const streamModule = await import('streamsaver');
+        this.$streamSaver = streamModule.default;
+        this.$streamSaver.mitm = 'https://jimmywarting.github.io/StreamSaver.js/mitm.html?version=2.0.0';
+      } catch (err) {
+        console.error('加载下载库失败:', err);
+        this.downloadMethod = 'blob';
+      }
+    },
+
     async fetchStickers() {
       try {
         this.loading = true;
-        this.configError = null;
-        
-        const response = await fetch(this.link, {
-          credentials: 'same-origin',
-          headers: {
-            'Accept': 'application/yaml, text/yaml'
-          }
-        });
-        
-        if (response.status === 404) {
-          this.configError = `配置文件不存在 (404): 请检查路径 ${this.link}`;
-          return;
-        }
-        
-        if (response.status === 403) {
-          this.configError = `无权限访问配置文件 (403): ${this.link}`;
-          return;
-        }
-        
+        const response = await fetch(this.link, { credentials: 'same-origin' });
+
         if (!response.ok) {
-          this.configError = `获取配置文件失败 (${response.status}): ${this.link}`;
+          this.configError = `获取配置失败: HTTP ${response.status}`;
           return;
         }
+
+        // --- 核心修改：从 response.json() 获取数据 ---
+        const jsonData = await response.json();
         
-        const yamlText = await response.text();
-        this.parseYaml(yamlText);
+        // 验证数据是否为数组，并包含必要的结构
+        if (Array.isArray(jsonData) && jsonData.every(item => typeof item === 'object' && item !== null && item.url)) {
+          this.stickers = jsonData;
+          this.configError = null; // 成功加载后清除错误
+        } else {
+          this.configError = 'JSON 配置格式不正确，期望一个包含 {url: "..."} 对象的数组。';
+          this.stickers = []; // 清空数据
+        }
+        // --- 核心修改结束 ---
+
       } catch (err) {
-        console.error('加载失败:', err);
-        this.configError = `加载配置文件失败: ${err.message}`;
+        // 如果解析 JSON 失败（例如响应不是有效的 JSON），会捕获到这里
+        this.configError = `加载或解析配置失败: ${err.message}`;
       } finally {
         this.loading = false;
       }
     },
-    parseYaml(yamlText) {
-      try {
-        const lines = yamlText.split('\n').filter(line => {
-          const trimmed = line.trim();
-          return trimmed && !trimmed.startsWith('#');
-        });
-        
-        const stickers = [];
-        let currentSticker = {};
-        
-        for (const line of lines) {
-          const trimmedLine = line.trim();
-          
-          if (trimmedLine.startsWith('-')) {
-            if (currentSticker.url) {
-              stickers.push(currentSticker);
-            }
-            currentSticker = { error: false };
-            continue;
-          }
-          
-          const colonIndex = trimmedLine.indexOf(':');
-          if (colonIndex > 0) {
-            const key = trimmedLine.substring(0, colonIndex).trim();
-            let value = trimmedLine.substring(colonIndex + 1).trim();
-            
-            value = value.replace(/^['"`]|['"`]$/g, '');
-            
-            if (key && value !== '') {
-              currentSticker[key] = value;
-            }
-          }
-        }
-        
-        if (currentSticker.url) {
-          stickers.push(currentSticker);
-        }
-        
-        this.stickers = stickers;
-      } catch (err) {
-        console.error('解析失败:', err);
-        this.error = '解析配置失败，请检查YAML格式';
-      }
-    },
+
     getStickerUrl(url) {
       if (!url) return '';
-      
       try {
-        let encodedUrl = url;
-        try {
-          encodedUrl = decodeURIComponent(url);
-        } catch (e) {}
-        encodedUrl = encodeURI(encodedUrl);
-        
-        if (encodedUrl.startsWith('/')) {
-          return encodedUrl;
-        }
-        
-        const cleanPrefix = this.prefix.replace(/\/+$/, '');
-        const cleanUrl = encodedUrl.replace(/^\/+/, '');
-        
-        return cleanPrefix ? `${cleanPrefix}/${cleanUrl}` : cleanUrl;
-      } catch (e) {
-        console.error('URL处理失败:', e);
+        const encoded = encodeURI(decodeURIComponent(url));
+        return this.prefix && !url.startsWith('/')
+          ? `${this.prefix.replace(/\/+$/, '')}/${encoded.replace(/^\/+/, '')}`
+          : encoded;
+      } catch {
         return url;
       }
     },
+
     handleImageError(sticker) {
-      console.error('图片加载失败:', sticker.url);
       this.$set(sticker, 'error', true);
     },
+
     validatePageSize() {
-      if (this.localPageSize < 1) this.localPageSize = 1;
-      if (this.localPageSize > 200) this.localPageSize = 200;
+      this.localPageSize = Math.min(200, Math.max(1, this.localPageSize));
       this.currentPage = 1;
     },
+
     prevPage() {
       if (this.currentPage > 1) this.currentPage--;
     },
+
     nextPage() {
       if (this.currentPage < this.totalPages) this.currentPage++;
     },
+
     toggleSelectAll() {
-      if (this.selectAll) {
-        this.selectedStickers = [...new Set([...this.selectedStickers, ...this.paginatedStickers])];
-      } else {
-        this.selectedStickers = this.selectedStickers.filter(
-          s => !this.paginatedStickers.includes(s)
-        );
-      }
+      const pageItems = this.paginatedStickers;
+      this.selectedStickers = this.selectAll
+        ? [...new Set([...this.selectedStickers, ...pageItems])]
+        : this.selectedStickers.filter(s => !pageItems.includes(s));
     },
+
     updateSelectAll() {
-      this.selectAll = this.paginatedStickers.every(
-        item => this.selectedStickers.includes(item)
+      this.selectAll = this.paginatedStickers.every(item =>
+        this.selectedStickers.includes(item)
       );
     },
+
     getFileExtension(url) {
-      return url.split('.').pop()?.toLowerCase() || 'png';
+      // 兼容可能没有扩展名的情况，或者 url 是数据 URI 等
+      const parts = url.split(/[#?]/)[0].split('.');
+      return parts.length > 1 ? parts.pop().toLowerCase() : 'png'; // 默认 png
     },
-    getFileName(sticker, index = 0) {
+
+    getFileName(sticker) {
       const ext = this.getFileExtension(sticker.url);
-      
-      if (!sticker.name || sticker.name === 'null') {
-        return `sticker-${Date.now()}.${ext}`;
+      const base = sticker.name || `sticker-${Date.now()}`; // 依然使用 sticker.name
+      let name = `${base}.${ext}`;
+      let counter = 1;
+
+      // 确保生成的图片名在当前下载批次中是唯一的
+      while (this.generatedFileNames.includes(name)) {
+        name = `${base}_${counter++}.${ext}`;
       }
 
-      const baseName = `${sticker.name}${index > 0 ? `-${index}` : ''}.${ext}`;
-      
-      if (this.generatedFileNames.includes(baseName)) {
-        return this.getFileName(sticker, index + 1);
-      }
-
-      this.generatedFileNames.push(baseName);
-      return baseName;
+      this.generatedFileNames.push(name);
+      return name;
     },
+
     async downloadAll() {
-      if (this.downloading || !downloadZip) return;
+      if (this.downloading || !this.$downloadZip) return;
+
       this.downloading = true;
       this.error = null;
-      this.generatedFileNames = [];
-      
-      try {
-        const files = this.selectedStickers.length > 0 
-          ? this.selectedStickers 
-          : this.stickers;
-        
-        const packName = this.title ? 
-          `pack-${this.title.replace(/[^\w\u4e00-\u9fa5]/g, '-')}` : 
-          'pack-stickers';
-        const zipName = `${packName}.zip`;
-        
-        const downloadItems = await Promise.all(
-          files.map(async sticker => {
-            try {
-              const response = await fetch(this.getStickerUrl(sticker.url), {
-                credentials: 'same-origin'
-              });
-              
-              if (!response.ok) {
-                throw new Error(`HTTP ${response.status}`);
-              }
-              
-              return {
-                name: this.getFileName(sticker),
-                input: await response.blob()
-              };
-            } catch (err) {
-              console.error(`下载 ${sticker.url} 失败:`, err);
-              throw new Error(`图片下载失败: ${sticker.url}`);
-            }
-          })
-        );
+      this.generatedFileNames = []; // 每次下载前清空，确保本批次文件名唯一
 
-        if (preferredDownloadMethod === 'stream' || preferredDownloadMethod === null) {
-          try {
-            await this.streamDownload(downloadItems, zipName);
-            preferredDownloadMethod = 'stream';
+      try {
+        const filesToDownload = this.selectedStickers.length > 0
+          ? this.selectedStickers
+          : this.stickers;
+
+        if (filesToDownload.length === 0) {
+            this.error = '没有可下载的表情包。';
             return;
-          } catch (streamErr) {
-            console.log('流式下载失败，尝试普通下载:', streamErr);
-            if (preferredDownloadMethod === null) {
-              preferredDownloadMethod = 'normal';
-            } else {
-              throw streamErr;
-            }
-          }
         }
-        
-        await this.normalDownload(downloadItems, zipName);
-        preferredDownloadMethod = 'normal';
-        
+
+        const items = await Promise.all(filesToDownload.map(async sticker => {
+          // 检查 sticker.url 是否有效
+          if (!sticker.url) {
+            console.warn('跳过无效URL的表情包:', sticker);
+            return null; // 返回 null，稍后过滤掉
+          }
+
+          try {
+            const response = await fetch(this.getStickerUrl(sticker.url));
+            if (!response.ok) {
+              throw new Error(`HTTP ${response.status} for ${sticker.url}`);
+            }
+            return {
+              name: this.getFileName(sticker),
+              input: await response.blob(),
+              lastModified: new Date()
+            };
+          } catch (fetchErr) {
+            console.error(`下载表情包失败: ${sticker.url}`, fetchErr);
+            this.error = `部分表情包下载失败: ${fetchErr.message}`; // 提供用户反馈
+            return null; // 返回 null
+          }
+        })).then(results => results.filter(item => item !== null)); // 过滤掉下载失败的项
+
+        if (items.length === 0) {
+          this.error = '没有成功下载的表情包用于打包。';
+          return;
+        }
+
+        const zipName = `sticker-pack-${Date.now()}.zip`;
+
+        if (this.downloadMethod === 'stream' && this.$streamSaver) {
+          const fileStream = this.$streamSaver.createWriteStream(zipName);
+          await this.$downloadZip(items).body.pipeTo(fileStream);
+        } else {
+          const blob = await this.$downloadZip(items).blob();
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement('a');
+          a.href = url;
+          a.download = zipName;
+          document.body.appendChild(a); // 某些浏览器需要将a标签添加到DOM
+          a.click();
+          document.body.removeChild(a); // 使用后移除
+          setTimeout(() => URL.revokeObjectURL(url), 100);
+        }
       } catch (err) {
-        console.error('打包失败:', err);
-        this.error = `打包失败: ${err.message}`;
+        this.error = `打包下载失败: ${err.message}`;
       } finally {
         this.downloading = false;
       }
-    },
-    async streamDownload(items, fileName) {
-      if (!streamSaver) return;
-      const fileStream = streamSaver.createWriteStream(fileName);
-      const blob = await downloadZip(items).blob();
-      
-      if (blob.stream && blob.stream().pipeTo) {
-        return blob.stream().pipeTo(fileStream);
-      }
-      
-      const writer = fileStream.getWriter();
-      const reader = blob.stream().getReader();
-      
-      return new Promise((resolve, reject) => {
-        const pump = () => {
-          reader.read().then(({ value, done }) => {
-            if (done) {
-              writer.close();
-              resolve();
-              return;
-            }
-            writer.write(value);
-            pump();
-          }).catch(reject);
-        };
-        pump();
-      });
-    },
-    async normalDownload(items, fileName) {
-      const blob = await downloadZip(items).blob();
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = fileName;
-      document.body.appendChild(a);
-      a.click();
-      
-      setTimeout(() => {
-        document.body.removeChild(a);
-        URL.revokeObjectURL(url);
-      }, 100);
     }
   }
 };
 </script>
 
 <style scoped>
+/* 样式保持不变 */
 .sticker-container {
   border-radius: 12px;
   padding: 24px;
@@ -562,6 +476,12 @@ export default {
   gap: 10px;
 }
 
+.download-method {
+  padding: 5px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+}
+
 .selected-count {
   color: #666;
   font-size: 0.9em;
@@ -606,7 +526,7 @@ export default {
   .sticker-grid {
     grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
   }
-  
+
   .controls-section, .download-section {
     flex-direction: column;
     align-items: stretch;
