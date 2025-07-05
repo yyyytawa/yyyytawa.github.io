@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 13:12:42 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 13:12:42 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 13:18:07 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 13:18:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -19,7 +19,10 @@
       <link>https://docs.yyyyt.top/album/stickers/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html</link>
       <guid>https://docs.yyyyt.top/album/stickers/Qrasa%E5%90%8C%E4%BA%BA%E8%A1%A8%E6%83%85%E5%8C%85.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">Qrasa同人表情包</source>
+      <description>作者: 五郎(KM)</description>
       <pubDate>Sat, 05 Jul 2025 13:11:54 GMT</pubDate>
+      <content:encoded><![CDATA[<p>作者: 五郎(KM)</p>
+]]></content:encoded>
     </item>
     <item>
       <title>DORO</title>
