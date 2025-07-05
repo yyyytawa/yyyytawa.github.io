@@ -1,8 +1,13 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
+import { getDirname, path } from "vuepress/utils";
 
 export default defineUserConfig({
   base: "/",
+
+  alias: {
+    "@Sticker": path.resolve(__dirname, "components/Sticker.vue"),
+  },
 
   lang: "zh-CN",
   title: "yyyyt的文档站",
