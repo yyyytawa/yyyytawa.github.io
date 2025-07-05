@@ -6,14 +6,48 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 05 Jul 2025 05:10:36 GMT</pubDate>
-    <lastBuildDate>Sat, 05 Jul 2025 05:10:36 GMT</lastBuildDate>
+    <pubDate>Sat, 05 Jul 2025 05:18:49 GMT</pubDate>
+    <lastBuildDate>Sat, 05 Jul 2025 05:18:49 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>DORO</title>
+      <link>https://docs.yyyyt.top/album/stickers/doro.html</link>
+      <guid>https://docs.yyyyt.top/album/stickers/doro.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">DORO</source>
+      <description>静态</description>
+      <pubDate>Sat, 05 Jul 2025 05:18:03 GMT</pubDate>
+      <content:encoded><![CDATA[<p>静态</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>彩羽ひでり</title>
+      <link>https://docs.yyyyt.top/album/stickers/hysteria-hideri.html</link>
+      <guid>https://docs.yyyyt.top/album/stickers/hysteria-hideri.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">彩羽ひでり</source>
+      <description>有文字版</description>
+      <pubDate>Sat, 05 Jul 2025 05:18:03 GMT</pubDate>
+      <content:encoded><![CDATA[<p>有文字版</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第二十二周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/22_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/22_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第二十二周</source>
+      <description>日期: 开始: 20250706 星期日 结束: 202507xx 星期四 本周内容: The True End</description>
+      <pubDate>Sat, 05 Jul 2025 05:18:03 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250706 星期日</strong><br>
+<strong>结束: 202507xx 星期四</strong></p>
+<h2>本周内容:</h2>
+<h2>The True End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>小新喵</title>
       <link>https://docs.yyyyt.top/album/stickers/%E5%B0%8F%E6%96%B0%E5%96%B5.html</link>
@@ -2521,35 +2555,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 邮箱: <a href="mailto:support@yyyyt.top" target="_blank" rel="noopener noreferrer">support@yyyyt.top</a></p>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/avatar/avatar =50x55" type="image/"/>
-    </item>
-    <item>
-      <title>上学期</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">上学期</source>
-      <pubDate>Mon, 15 Jul 2024 12:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20240711 结束: 20240901 这里放的是暑假的内容 学校水卡退费 20240712 由于搬回老校区,故原先水卡需要退费</description>
-      <pubDate>Fri, 12 Jul 2024 11:49:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期:</strong><br>
-<strong>开始: 20240711</strong><br>
-<strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>高二年级</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">高二年级</source>
-      <description>这里放的是高二的内容</description>
-      <pubDate>Fri, 12 Jul 2024 11:49:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这里放的是高二的内容</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>

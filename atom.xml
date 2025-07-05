@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-07-05T05:10:36.935Z</updated>
+  <updated>2025-07-05T05:18:49.469Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,47 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">DORO</title>
+    <id>https://docs.yyyyt.top/album/stickers/doro.html</id>
+    <link href="https://docs.yyyyt.top/album/stickers/doro.html"/>
+    <updated>2025-07-05T05:18:03.000Z</updated>
+    <summary type="html"><![CDATA[<p>静态</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>静态</p>
+]]></content>
+    <published>2025-07-05T05:18:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">彩羽ひでり</title>
+    <id>https://docs.yyyyt.top/album/stickers/hysteria-hideri.html</id>
+    <link href="https://docs.yyyyt.top/album/stickers/hysteria-hideri.html"/>
+    <updated>2025-07-05T05:18:03.000Z</updated>
+    <summary type="html"><![CDATA[<p>有文字版</p>
+]]></summary>
+    <content type="html"><![CDATA[<p>有文字版</p>
+]]></content>
+    <published>2025-07-05T05:18:03.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第二十二周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/22_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/22_week.html"/>
+    <updated>2025-07-05T05:18:03.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250706 星期日</strong><br>
+<strong>结束: 202507xx 星期四</strong></p>
+<h2>本周内容:</h2>
+<h2>The True End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20250706 星期日</strong><br>
+<strong>结束: 202507xx 星期四</strong></p>
+<h2>本周内容:</h2>
+<h2>The True End</h2>
+]]></content>
+    <published>2025-07-05T05:18:03.000Z</published>
+  </entry>
   <entry>
     <title type="text">小新喵</title>
     <id>https://docs.yyyyt.top/album/stickers/%E5%B0%8F%E6%96%B0%E5%96%B5.html</id>
@@ -3641,41 +3682,5 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 ]]></content>
     <category term="站点"/>
     <published>2024-07-21T11:11:08.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">上学期</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/"/>
-    <updated>2024-07-15T23:39:52.000Z</updated>
-    <published>2024-07-15T12:55:12.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">暑假</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/first_grade/summerholiday.html"/>
-    <updated>2025-01-23T10:46:09.000Z</updated>
-    <summary type="html"><![CDATA[<h2><strong>日期:</strong><br>
-<strong>开始: 20240711</strong><br>
-<strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></h2>
-<p>这里放的是暑假的内容</p>
-<h3>学校水卡退费 20240712</h3>
-<p>由于搬回老校区,故原先水卡需要退费</p>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>日期:</strong><br>
-<strong>开始: 20240711</strong><br>
-<strong>结束: 20240901 <s>(但是20240831就要报道)</s></strong></p>
-]]></content>
-    <published>2024-07-12T11:49:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">高二年级</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/"/>
-    <updated>2024-07-12T11:49:38.000Z</updated>
-    <summary type="html"><![CDATA[<p>这里放的是高二的内容</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>这里放的是高二的内容</p>
-]]></content>
-    <published>2024-07-12T11:49:38.000Z</published>
   </entry>
 </feed>
