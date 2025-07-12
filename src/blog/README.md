@@ -1,6 +1,9 @@
 ---
 title: 博客
 index: false
+feed: false
+timeline: false
+article: false
 ---
 
 该目录是关于我博客的内容   
