@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-07-14T13:44:47.777Z</updated>
+  <updated>2025-07-15T14:06:34.320Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -12,18 +12,66 @@
   <category term="技术"/>
   <category term="站点"/>
   <entry>
-    <title type="text">重复率疑似有点太高了</title>
+    <title type="text">头像系列</title>
+    <id>https://docs.yyyyt.top/album/avatar.html</id>
+    <link href="https://docs.yyyyt.top/album/avatar.html"/>
+    <updated>2025-07-15T14:05:49.000Z</updated>
+    <summary type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
+<h3>白龙</h3>
+<p>来源: &lt;&lt;千与千寻&gt;&gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
+<s>你不会真的以为这位是女的吧,至少我小学看电影的时候就认为是女的后面看才发现其实是男的.</s></p>
+]]></summary>
+    <content type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
+<h3>白龙</h3>
+<p>来源: &lt;&lt;千与千寻&gt;&gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
+<s>你不会真的以为这位是女的吧,至少我小学看电影的时候就认为是女的后面看才发现其实是男的.</s></p>
+]]></content>
+    <published>2025-07-15T14:05:49.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">2025年</title>
+    <id>https://docs.yyyyt.top/album/acg/2025.html</id>
+    <link href="https://docs.yyyyt.top/album/acg/2025.html"/>
+    <updated>2025-07-15T14:05:49.000Z</updated>
+    <summary type="html"><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用.</p>
+</div>
+<p>作者: 佚名,完整图片由句号拼接而来.</p>
+<div style="text-align:center">
+<figure><img src="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div>]]></summary>
+    <content type="html"><![CDATA[<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用.</p>
+</div>
+<p>作者: 佚名,完整图片由句号拼接而来.</p>
+<div style="text-align:center">
+<figure><img src="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
+</div>
+]]></content>
+    <published>2025-07-15T14:05:49.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">暑假作业事故盒订本</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/07/140.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/07/140.html"/>
-    <updated>2025-07-14T13:43:55.000Z</updated>
-    <summary type="html"><![CDATA[<p>生物做到一堆重复的题,重复的有点离谱了,遇到过一页都是重复的,其中甚至有道题重复三次,离谱.具体请看图.</p>
+    <updated>2025-07-15T14:05:49.000Z</updated>
+    <summary type="html"><![CDATA[<h2>重复率疑似有点太高了</h2>
+<p>生物做到一堆重复的题,重复的有点离谱了,遇到过一页都是重复的,其中甚至有道题重复三次,离谱.具体请看图.</p>
 <p><img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/1.avif" alt="1" loading="lazy"><br>
 <img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/2.avif" alt="2" loading="lazy"><br>
 <img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/4.avif" alt="4" loading="lazy"></p>]]></summary>
-    <content type="html"><![CDATA[<p>生物做到一堆重复的题,重复的有点离谱了,遇到过一页都是重复的,其中甚至有道题重复三次,离谱.具体请看图.</p>
+    <content type="html"><![CDATA[<h2>重复率疑似有点太高了</h2>
+<p>生物做到一堆重复的题,重复的有点离谱了,遇到过一页都是重复的,其中甚至有道题重复三次,离谱.具体请看图.</p>
 <p><img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/1.avif" alt="1" loading="lazy"><br>
 <img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/2.avif" alt="2" loading="lazy"><br>
 <img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/4.avif" alt="4" loading="lazy"></p>
+<h2>图去哪了?</h2>
+<p>物理你图去哪了?</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/图去哪了.avif" alt="Where is the image" tabindex="0" loading="lazy"><figcaption>Where is the image</figcaption></figure>
+<p>我作业帮看看</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/daily/2025/07/14/0/原题.avif" alt="作业帮" tabindex="0" loading="lazy"><figcaption>作业帮</figcaption></figure>
 <h2>The End</h2>
 ]]></content>
     <published>2025-07-14T13:43:55.000Z</published>
@@ -3484,82 +3532,5 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
 ]]></content>
     <published>2024-08-20T15:34:03.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">测试文章</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/07/202407280.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/07/202407280.html"/>
-    <updated>2025-02-08T09:32:37.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
-<h1>这是一级标题</h1>
-<h2>这是二级标题</h2>
-<h3>这是三级标题</h3>
-<h4>这是四级标题</h4>
-<p><em>这是斜体</em><br>
-<strong>这是粗体</strong><br>
-<em><strong>这是斜粗体</strong></em><br>
-<s>我被删了</s><br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
-[转意](<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">https://docs.yyyyt.top</a>)</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文写于 20240728-20240728</p>
-<h1>这是一级标题</h1>
-<h2>这是二级标题</h2>
-<h3>这是三级标题</h3>
-<h4>这是四级标题</h4>
-<p><em>这是斜体</em><br>
-<strong>这是粗体</strong><br>
-<em><strong>这是斜粗体</strong></em><br>
-<s>我被删了</s><br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">我是超链接</a><br>
-[转意](<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer">https://docs.yyyyt.top</a>)</p>
-<p>示例图片:<br>
-<img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" loading="lazy"><br>
-示例图片(带跳转链接):<br>
-<a href="https://docs.yyyyt.top" target="_blank" rel="noopener noreferrer"><img src="https://img.yyyyt.top/avatar/avatar" alt="avatar" loading="lazy"></a></p>
-<p>你被骗了(小心流量):d<br>
-<img src="https://img.yyyyt.top/yh/never_15fps.gif" alt="never" loading="lazy"></p>
-<p>order: ~~ 2024(年份) 0728(月+日)~~28(日) 0(第一个文章,第二个就是1,第三个就是2...)</p>
-<h2>End</h2>
-]]></content>
-    <published>2024-07-28T09:32:23.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">关于我</title>
-    <id>https://docs.yyyyt.top/site/about_me.html</id>
-    <link href="https://docs.yyyyt.top/site/about_me.html"/>
-    <updated>2025-03-29T10:51:15.000Z</updated>
-    <summary type="html"><![CDATA[<blockquote>
-<p>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~</p>
-</blockquote>
-<p>![avatar](<a href="https://img.yyyyt.top/avatar/avatar" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/avatar/avatar</a> =50x55)<br>
-<s>由于头像301热更新机制因此此处不会再写来源</s> 请看对应目录下的README.md文件<br>
-真名: 不愿透露<br>
-一个高中生(2024年),生活在河南<br>
-平时比较忙,可能周六周日才有空(也可能没空)<br>
-注:目前图标,背景还在考虑</p>]]></summary>
-    <content type="html"><![CDATA[<blockquote>
-<p>Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵~</p>
-</blockquote>
-<p>![avatar](<a href="https://img.yyyyt.top/avatar/avatar" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/avatar/avatar</a> =50x55)<br>
-<s>由于头像301热更新机制因此此处不会再写来源</s> 请看对应目录下的README.md文件<br>
-真名: 不愿透露<br>
-一个高中生(2024年),生活在河南<br>
-平时比较忙,可能周六周日才有空(也可能没空)<br>
-注:目前图标,背景还在考虑</p>
-<p><a href="https://status.yyyyt.top" target="_blank" rel="noopener noreferrer">本站状态监控</a></p>
-<h2>一些话</h2>
-<p>这个站点也只是在无聊时候创建的,当然也只是玩玩而已.<br>
-对于现实中的朋友,如果你很好奇这个站点如何搭建的话,也不要来问我.<br>
-<s>因为我也不会教你.</s><br>
-我只会告诉你用的<a href="https://theme-hope.vuejs.press/zh/" target="_blank" rel="noopener noreferrer">Vuepress-theme-hope</a>+<a href="https://www.cloudflare.com/developer-platform/products/pages/" target="_blank" rel="noopener noreferrer">Cloudflare Pages</a>,其实我这边更推荐<a href="https://www.netlify.com/" target="_blank" rel="noopener noreferrer">Netlify</a>,对于大陆访客更友好,<s>但是我这边不知道为啥注册就封我的号.</s><br>
-<s>当然我现实中的人大概率也不知道这个网站吧......</s><br>
-希望这个站点就安安静静的度过去就行了,反正也不指望啥.<br>
-毕竟本来就是玩玩的东西,不需要费太多精力在上面.</p>
-<h2>联系方式:</h2>
-<p>QQ,微信,电话号码等涉及个人隐私的联系方式不会在这里展示.<br>
-邮箱: <a href="mailto:support@yyyyt.top" target="_blank" rel="noopener noreferrer">support@yyyyt.top</a></p>
-]]></content>
-    <category term="站点"/>
-    <published>2024-07-21T11:11:08.000Z</published>
   </entry>
 </feed>
