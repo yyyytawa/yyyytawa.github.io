@@ -8,14 +8,12 @@ category:
 
 > Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵\~  
 
-![avatar](https://img.yyyyt.top/avatar/avatar =50x55)  
+![avatar =50x50](https://img.yyyyt.top/avatar/avatar)  
 ~~由于头像301热更新机制因此此处不会再写来源~~ 请看对应目录下的README.md文件  
 真名: 不愿透露  
 一个高中生(2024年),生活在河南  
 平时比较忙,可能周六周日才有空(也可能没空)  
 注:目前图标,背景还在考虑  
-
-[本站状态监控](https://status.yyyyt.top)
 
 ## 一些话  
 
