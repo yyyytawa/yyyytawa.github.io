@@ -24,7 +24,7 @@ DOCS-TSHS-WCF 在周一的时候收到了个米糊.这东西不知道味道咋�
 因为这个 DOCS-TSHS-WCF 都被说了好几次了.然后"米糊"也被称为"糖糊"了,所以得名外号"糖葫芦".  
 说一下两位的新外号:  
 DOCS-TSHS-DAYDREAM 得名 "我想导" (WXD = 我想导)  
-DOCS-TSHS-WCF 得名 "吴淫秽" (WYH = 吴淫秽)  
+DOCS-TSHS-WCF 得名 "吴淫秽" (WYH = 吴淫秽) 和 "嫖嫖Gay" (PPG=嫖嫖Gay).  
 
 ### 3. 骑马与砍杀
 
