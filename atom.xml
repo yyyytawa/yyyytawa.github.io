@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-07-16T10:29:12.413Z</updated>
+  <updated>2025-07-16T11:27:50.466Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -22,18 +22,24 @@
     <title type="text">头像系列</title>
     <id>https://docs.yyyyt.top/album/avatar.html</id>
     <link href="https://docs.yyyyt.top/album/avatar.html"/>
-    <updated>2025-07-16T02:22:31.000Z</updated>
+    <updated>2025-07-16T11:27:02.000Z</updated>
     <summary type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
-<h3>雪绒</h3>
-<p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
-<img src="https://img.yyyyt.top/avatar/avatar" alt="Qanipalaat" loading="lazy"></p>
+<h3>未知1</h3>
+<p>来源: 网络<br>
+<img src="https://img.yyyyt.top/avatar/Unknown_1/1080x1080.avif" alt="Unknown_1" loading="lazy"></p>
 <details class="hint-container details"><summary>完整原图</summary>
-<figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
+<figure><img src="https://img.yyyyt.top/avatar/Unknown_1/origin.png" alt="Unknown_1_origin" tabindex="0" loading="lazy"><figcaption>Unknown_1_origin</figcaption></figure>
 </details>]]></summary>
     <content type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
+<h3>未知1</h3>
+<p>来源: 网络<br>
+<img src="https://img.yyyyt.top/avatar/Unknown_1/1080x1080.avif" alt="Unknown_1" loading="lazy"></p>
+<details class="hint-container details"><summary>完整原图</summary>
+<figure><img src="https://img.yyyyt.top/avatar/Unknown_1/origin.png" alt="Unknown_1_origin" tabindex="0" loading="lazy"><figcaption>Unknown_1_origin</figcaption></figure>
+</details>
 <h3>雪绒</h3>
 <p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
-<img src="https://img.yyyyt.top/avatar/avatar" alt="Qanipalaat" loading="lazy"></p>
+<img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_1024x1024.avif" alt="Qanipalaat" loading="lazy"></p>
 <details class="hint-container details"><summary>完整原图</summary>
 <figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
 </details>
@@ -2460,35 +2466,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
@@ -2575,6 +2552,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -2903,6 +2909,41 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
+    <updated>2025-06-02T08:21:11.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.某同学和石同学和土豆</h3>
+<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
     <title type="text">7月</title>
     <id>https://docs.yyyyt.top/articles/daily/2024/07/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/07/"/>
@@ -2960,41 +3001,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <id>https://docs.yyyyt.top/articles/daily/2024/10/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/10/"/>
     <updated>2025-02-04T06:14:52.000Z</updated>
-    <published>2024-10-26T15:43:45.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2025-06-02T08:21:11.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.某同学和石同学和土豆</h3>
-<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
