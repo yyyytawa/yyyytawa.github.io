@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 15 Jul 2025 14:06:34 GMT</pubDate>
-    <lastBuildDate>Tue, 15 Jul 2025 14:06:34 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 02:23:17 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 02:23:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -19,31 +19,33 @@
       <link>https://docs.yyyyt.top/album/avatar.html</link>
       <guid>https://docs.yyyyt.top/album/avatar.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">头像系列</source>
-      <description>按照时间顺序倒序排列: 白龙 来源: &amp;lt;&amp;lt;千与千寻&amp;gt;&amp;gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.</description>
+      <description>按照时间顺序倒序排列: 雪绒 来源: &amp;lt;&amp;lt;明日方舟&amp;gt;&amp;gt;,英文名 Qanipalaat,头像如下: Qanipalaat 完整原图 Qanipalaat_originQanipalaat_origin 白龙 来源: &amp;lt;&amp;lt;千与千寻&amp;gt;&amp;gt;,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.</description>
       <pubDate>Tue, 15 Jul 2025 14:05:49 GMT</pubDate>
       <content:encoded><![CDATA[<p>按照时间顺序倒序排列:</p>
+<h3>雪绒</h3>
+<p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
+<img src="https://img.yyyyt.top/avatar/avatar" alt="Qanipalaat" loading="lazy"></p>
+<details class="hint-container details"><summary>完整原图</summary>
+<figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
+</details>
 <h3>白龙</h3>
-<p>来源: &lt;&lt;千与千寻&gt;&gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
+<p>来源: &lt;&lt;千与千寻&gt;&gt;,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
 <s>你不会真的以为这位是女的吧,至少我小学看电影的时候就认为是女的后面看才发现其实是男的.</s></p>
 ]]></content:encoded>
+      <enclosure url="https://img.yyyyt.top/avatar/avatar" type="image/"/>
     </item>
     <item>
       <title>2025年</title>
       <link>https://docs.yyyyt.top/album/acg/2025.html</link>
       <guid>https://docs.yyyyt.top/album/acg/2025.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">2025年</source>
-      <description>注意 这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用. 作者: 佚名,完整图片由句号拼接而来.</description>
+      <description>作者: 佚名. 明日方舟相关. 注意 这个图片是情头拼接而成,在意相关背景的慎重使用. 作者: 佚名,完整图片由句号拼接而来. 吐槽 总感觉像是我看到朋友吃东西时的样子.</description>
       <pubDate>Tue, 15 Jul 2025 14:05:49 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用.</p>
-</div>
-<p>作者: 佚名,完整图片由句号拼接而来.</p>
-<div style="text-align:center">
-<figure><img src="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</div>
+      <content:encoded><![CDATA[<p>作者: 佚名.<br>
+明日方舟相关.<br>
+<img src="https://img.yyyyt.top/docs/album/acg/2025/mrfz_1.webp" alt="" loading="lazy"></p>
 ]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" type="image/webp"/>
+      <enclosure url="https://img.yyyyt.top/docs/album/acg/2025/mrfz_1.webp" type="image/webp"/>
     </item>
     <item>
       <title>暑假作业事故盒订本</title>
@@ -1244,15 +1246,15 @@ DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-
 你-&gt;递归DNS服务器-&gt;CF的NS服务器(国外)-&gt;SOA服务器(返回解析结果)</p>
 <p>举个例子:<br>
 yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该下面的样子:</p>
-<p>![dns查询yyyyt.us.kg国内](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg</a> "国内查询" =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg" alt="dns查询yyyyt.us.kg国内" width="150" height="350" tabindex="0" loading="lazy"><figcaption>国内查询</figcaption></figure>
 <p>国外查询应该是这样的:</p>
-<p>![dns查询yyyyt.us.kg国外](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg</a> "国外查询" =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg" alt="dns查询yyyyt.us.kg国外" width="150" height="350" tabindex="0" loading="lazy"><figcaption>国外查询</figcaption></figure>
 <p>发现了没有?外国查询没有SOA记录.</p>
 <p>同样的,我们看一下cloudns的免费二级域名:</p>
-<p>![dns查询cloudns免费二级域名](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg</a> =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg" alt="dns查询cloudns免费二级域名" width="150" height="350" tabindex="0" loading="lazy"><figcaption>dns查询cloudns免费二级域名</figcaption></figure>
 <p>发现没有,SOA记录不是cf那边的.<br>
 而正常的一级域名:</p>
-<p>![dns查询yyyyt.top](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg</a> =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg" alt="dns查询yyyyt.top" width="150" height="350" tabindex="0" loading="lazy"><figcaption>dns查询yyyyt.top</figcaption></figure>
 <p>而cloudns那边需要双向解析,我这个操作也需要双向解析.<br>
 实际上你去itdog ping会发现你在cf那边设置的解析记录不生效.</p>
 <p><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/test.yyyyt.us.kg_cf.png" alt="cf记录" loading="lazy"><br>
@@ -1262,7 +1264,7 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 <p>PS: 有人会想问为啥cf那边NS记录托管到别的dns服务商就能按照正常的解析出来了,例如说我的docs.yyyyt.top就是通过子域名NS记录来托管华为云的,这个我猜测应该是cf那边做了特殊处理,所以可以正常托管,而华为云把SOA权限给锁的比较死,而且没有做特殊处理(或许是二级域名的问题),导致海外ns解析到cf后cf上的记录无法生效.我只能猜测到这里了.</p>
 <h2>The End</h2>
 ]]></content:encoded>
-      <enclosure url="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg &quot;国内查询&quot; =150x350" type="image/"/>
+      <enclosure url="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg &quot;国内查询&quot;" type="image/"/>
     </item>
     <item>
       <title>第四周</title>

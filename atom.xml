@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-07-15T14:06:34.320Z</updated>
+  <updated>2025-07-16T02:23:17.439Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -15,15 +15,23 @@
     <title type="text">头像系列</title>
     <id>https://docs.yyyyt.top/album/avatar.html</id>
     <link href="https://docs.yyyyt.top/album/avatar.html"/>
-    <updated>2025-07-15T14:05:49.000Z</updated>
+    <updated>2025-07-16T02:22:31.000Z</updated>
     <summary type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
-<h3>白龙</h3>
-<p>来源: &lt;&lt;千与千寻&gt;&gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
-<s>你不会真的以为这位是女的吧,至少我小学看电影的时候就认为是女的后面看才发现其实是男的.</s></p>
-]]></summary>
+<h3>雪绒</h3>
+<p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
+<img src="https://img.yyyyt.top/avatar/avatar" alt="Qanipalaat" loading="lazy"></p>
+<details class="hint-container details"><summary>完整原图</summary>
+<figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
+</details>]]></summary>
     <content type="html"><![CDATA[<p>按照时间顺序倒序排列:</p>
+<h3>雪绒</h3>
+<p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
+<img src="https://img.yyyyt.top/avatar/avatar" alt="Qanipalaat" loading="lazy"></p>
+<details class="hint-container details"><summary>完整原图</summary>
+<figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
+</details>
 <h3>白龙</h3>
-<p>来源: &lt;&lt;千与千寻&gt;&gt; ,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
+<p>来源: &lt;&lt;千与千寻&gt;&gt;,英文名 Haku,由于远古时代图床数据丢失这里不展示头像了.<br>
 <s>你不会真的以为这位是女的吧,至少我小学看电影的时候就认为是女的后面看才发现其实是男的.</s></p>
 ]]></content>
     <published>2025-07-15T14:05:49.000Z</published>
@@ -32,23 +40,22 @@
     <title type="text">2025年</title>
     <id>https://docs.yyyyt.top/album/acg/2025.html</id>
     <link href="https://docs.yyyyt.top/album/acg/2025.html"/>
-    <updated>2025-07-15T14:05:49.000Z</updated>
-    <summary type="html"><![CDATA[<div class="hint-container warning">
+    <updated>2025-07-16T02:22:31.000Z</updated>
+    <summary type="html"><![CDATA[<p>作者: 佚名.<br>
+明日方舟相关.<br>
+<img src="https://img.yyyyt.top/docs/album/acg/2025/mrfz_1.webp" alt="" loading="lazy"></p>
+<hr>
+<div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用.</p>
+<p>这个图片是情头拼接而成,在意相关背景的慎重使用.</p>
 </div>
 <p>作者: 佚名,完整图片由句号拼接而来.</p>
 <div style="text-align:center">
 <figure><img src="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
 </div>]]></summary>
-    <content type="html"><![CDATA[<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>这个图片是闺(蜜)类型头像拼接而成,在意相关背景的慎重使用.</p>
-</div>
-<p>作者: 佚名,完整图片由句号拼接而来.</p>
-<div style="text-align:center">
-<figure><img src="https://img.yyyyt.top/docs/album/acg/2025/img_20250715.webp" alt="" tabindex="0" loading="lazy"><figcaption></figcaption></figure>
-</div>
+    <content type="html"><![CDATA[<p>作者: 佚名.<br>
+明日方舟相关.<br>
+<img src="https://img.yyyyt.top/docs/album/acg/2025/mrfz_1.webp" alt="" loading="lazy"></p>
 ]]></content>
     <published>2025-07-15T14:05:49.000Z</published>
   </entry>
@@ -1797,7 +1804,7 @@ DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-
     <title type="text">4.部分二级域名实现cf优选IP</title>
     <id>https://docs.yyyyt.top/articles/tech/2025/0301.4.%E9%83%A8%E5%88%86%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0cf%E4%BC%98%E9%80%89IP.html</id>
     <link href="https://docs.yyyyt.top/articles/tech/2025/0301.4.%E9%83%A8%E5%88%86%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0cf%E4%BC%98%E9%80%89IP.html"/>
-    <updated>2025-03-02T07:53:35.000Z</updated>
+    <updated>2025-07-16T02:22:31.000Z</updated>
     <summary type="html"><![CDATA[<p>如题,本文将使用华为云的dns的分地域解析功能实现域名优选cf cdn ip.</p>
 <div class="hint-container caution">
 <p class="hint-container-title">警告</p>
@@ -1834,15 +1841,15 @@ DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-
 你-&gt;递归DNS服务器-&gt;CF的NS服务器(国外)-&gt;SOA服务器(返回解析结果)</p>
 <p>举个例子:<br>
 yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该下面的样子:</p>
-<p>![dns查询yyyyt.us.kg国内](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg</a> "国内查询" =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_cn.jpg" alt="dns查询yyyyt.us.kg国内" width="150" height="350" tabindex="0" loading="lazy"><figcaption>国内查询</figcaption></figure>
 <p>国外查询应该是这样的:</p>
-<p>![dns查询yyyyt.us.kg国外](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg</a> "国外查询" =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.us.kg_global.jpg" alt="dns查询yyyyt.us.kg国外" width="150" height="350" tabindex="0" loading="lazy"><figcaption>国外查询</figcaption></figure>
 <p>发现了没有?外国查询没有SOA记录.</p>
 <p>同样的,我们看一下cloudns的免费二级域名:</p>
-<p>![dns查询cloudns免费二级域名](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg</a> =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.ip-ddns.com.jpg" alt="dns查询cloudns免费二级域名" width="150" height="350" tabindex="0" loading="lazy"><figcaption>dns查询cloudns免费二级域名</figcaption></figure>
 <p>发现没有,SOA记录不是cf那边的.<br>
 而正常的一级域名:</p>
-<p>![dns查询yyyyt.top](<a href="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg" target="_blank" rel="noopener noreferrer">https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg</a> =150x350)</p>
+<figure><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/dns_yyyyt.top.jpg" alt="dns查询yyyyt.top" width="150" height="350" tabindex="0" loading="lazy"><figcaption>dns查询yyyyt.top</figcaption></figure>
 <p>而cloudns那边需要双向解析,我这个操作也需要双向解析.<br>
 实际上你去itdog ping会发现你在cf那边设置的解析记录不生效.</p>
 <p><img src="https://img.yyyyt.top/docs/articles/tech/2025/0301/test.yyyyt.us.kg_cf.png" alt="cf记录" loading="lazy"><br>
