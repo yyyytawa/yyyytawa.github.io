@@ -4,10 +4,17 @@ title: 头像系列
 
 按照时间顺序倒序排列:  
 
+### 未知1
+来源: 网络  
+![Unknown_1](https://img.yyyyt.top/avatar/Unknown_1/1080x1080.avif)  
+::: details 完整原图
+![Unknown_1_origin](https://img.yyyyt.top/avatar/Unknown_1/origin.png)  
+:::
+
 ### 雪绒
 
 来源: <<明日方舟>>,英文名 Qanipalaat,头像如下:  
-![Qanipalaat](https://img.yyyyt.top/avatar/avatar)  
+![Qanipalaat](https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_1024x1024.avif)  
 ::: details 完整原图
 ![Qanipalaat_origin](https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png)  
 :::
