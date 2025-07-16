@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-07-16T04:47:50.010Z</updated>
+  <updated>2025-07-16T10:29:12.413Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,13 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">AC</title>
+    <id>https://docs.yyyyt.top/album/stickers/ac.html</id>
+    <link href="https://docs.yyyyt.top/album/stickers/ac.html"/>
+    <updated>2025-07-16T10:28:25.000Z</updated>
+    <published>2025-07-16T10:28:25.000Z</published>
+  </entry>
   <entry>
     <title type="text">头像系列</title>
     <id>https://docs.yyyyt.top/album/avatar.html</id>
@@ -3511,33 +3518,5 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p><strong>Counting Stars</strong></p>
 ]]></content>
     <published>2024-08-27T12:47:21.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">乱象吐槽</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/08/202408190.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/08/202408190.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>]]></summary>
-    <content type="html"><![CDATA[<p>本文写于 20240819-20240820<br>
-本文如标题一样,用于写一些乱象</p>
-<h2>网络部分</h2>
-<h3>1. 色情擦边球类</h3>
-<p>这种就不多吐槽了,现在好多人打擦边球博取人们的眼球,博取流量(某两个短视频平台).还有其他的我就这边不说了,反正都是搞软色情博取流量的那种.真的,我都不想说啥了.要是发现你的短视频推荐里面有美女之类的还有软色情的话建议换个号吧,这个号的个性化推荐被污染了,还有就等头像软色情的那种见了也恶心</p>
-<h3>2. 营销号</h3>
-<p>这个不用说都懂,抖音快手西瓜上面到处都是,典型就是视频是盗来的,语音是合成的,一天可以更不知道多少视频.还有食品安全方面的营销号,多人共用同一个记忆,共用同一辆车这类啼笑皆非的事情,然后制造贩卖焦虑,营造食品不安全的假象.咱就说,你这个多人共用的毛病是一点也不改是吧,合计着还都开同一辆车是吧.甚至说的话都一样或者是差不多.还有就是营销号批量盗视频,就是碰运气那个能火,然后涨粉卖账号是吧.只能说营销号必须给我死,扰乱平台秩序.</p>
-<h3>3. 谣言类</h3>
-<p>食品方面,还是各种方面的,都有.还有侮辱英烈的(这个可刑)这边就不细说了,只能说都见过危害性.</p>
-<h3>4. 辱骂</h3>
-<p>抖音快手,反正只要小学生多的地方大概率会有,还有就是某些成年人脸皮太厚,不遵守道德伦理</p>
-<h3>5. 未成年保护不到位</h3>
-<p>没错,上面这些未成年人也能遇到,而且辱骂谣言这类举报不一定有效的.</p>
-]]></content>
-    <published>2024-08-20T15:34:03.000Z</published>
   </entry>
 </feed>
