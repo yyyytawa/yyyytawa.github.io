@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 16 Jul 2025 11:27:50 GMT</pubDate>
-    <lastBuildDate>Wed, 16 Jul 2025 11:27:50 GMT</lastBuildDate>
+    <pubDate>Wed, 16 Jul 2025 12:58:13 GMT</pubDate>
+    <lastBuildDate>Wed, 16 Jul 2025 12:58:13 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -26,7 +26,7 @@
       <link>https://docs.yyyyt.top/album/avatar.html</link>
       <guid>https://docs.yyyyt.top/album/avatar.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">头像系列</source>
-      <description>按照时间顺序倒序排列: 未知1 来源: 网络 Unknown_1 完整原图 Unknown_1_originUnknown_1_origin 雪绒 来源: &amp;lt;&amp;lt;明日方舟&amp;gt;&amp;gt;,英文名 Qanipalaat,头像如下: Qanipalaat 完整原图 Qanipalaat_originQanipalaat_origin 白龙 来源: &amp;lt;&amp;lt;千与千寻&amp;gt;&amp;gt;,英文...</description>
+      <description>按照时间顺序倒序排列: 未知1 来源: 网络 Unknown_1 完整原图 Unknown_1_originUnknown_1_origin 雪绒 来源: X,英文名 Qanipalaat,头像如下: Qanipalaat 完整原图 Qanipalaat_originQanipalaat_origin 白龙 来源: &amp;lt;&amp;lt;千与千寻&amp;gt;&amp;gt;,英文名 Haku,...</description>
       <pubDate>Tue, 15 Jul 2025 14:05:49 GMT</pubDate>
       <content:encoded><![CDATA[<p>按照时间顺序倒序排列:</p>
 <h3>未知1</h3>
@@ -36,7 +36,7 @@
 <figure><img src="https://img.yyyyt.top/avatar/Unknown_1/origin.png" alt="Unknown_1_origin" tabindex="0" loading="lazy"><figcaption>Unknown_1_origin</figcaption></figure>
 </details>
 <h3>雪绒</h3>
-<p>来源: &lt;&lt;明日方舟&gt;&gt;,英文名 Qanipalaat,头像如下:<br>
+<p>来源: <a href="https://x.com/sanmuyyb/status/1867226223367348680" target="_blank" rel="noopener noreferrer">X</a>,英文名 Qanipalaat,头像如下:<br>
 <img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_1024x1024.avif" alt="Qanipalaat" loading="lazy"></p>
 <details class="hint-container details"><summary>完整原图</summary>
 <figure><img src="https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png" alt="Qanipalaat_origin" tabindex="0" loading="lazy"><figcaption>Qanipalaat_origin</figcaption></figure>
