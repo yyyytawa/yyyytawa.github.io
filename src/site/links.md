@@ -76,7 +76,7 @@ otherlinks:
  - name: r1a dev
    desc: r1a的开发记录/博客
    logo: https://dev.oneall.eu.org/favicon.webp
-   url: https://dev.oneall.eu.org/
+   url: https://blog.oneall.eu.org/
    preview: https://img.yyyyt.top/docs/site/links/preview/R1a_dev.png
 
  - name: XiaoPang的个人博客
