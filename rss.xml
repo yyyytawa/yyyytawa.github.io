@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 10 Aug 2025 13:34:43 GMT</pubDate>
-    <lastBuildDate>Sun, 10 Aug 2025 13:34:43 GMT</lastBuildDate>
+    <pubDate>Mon, 18 Aug 2025 13:44:41 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 13:44:41 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -51,7 +51,7 @@
 <a href="https://tools.yyyyt.top/yh_info_monitor/main.py" target="_blank" rel="noopener noreferrer">main.py</a></p>
 <h3>环境要求:</h3>
 <p>推荐Python 3.12+版本(实测可以正常运行).<br>
-额外依赖要求: requests</p>
+额外依赖要求: httpx</p>
 <h3>配置文件:</h3>
 <p>文档仅供参考,实际使用请以实际为准.跨版本的配置文件可能不兼容.</p>
 <p>bot_token 填写机器人的token,可以在<a href="https://www.yhchat.com/control" target="_blank" rel="noopener noreferrer">云湖控制台</a>获取.<br>

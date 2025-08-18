@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-08-10T13:34:43.577Z</updated>
+  <updated>2025-08-18T13:44:41.085Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -38,7 +38,7 @@
     <title type="text">云湖信息监视机器人</title>
     <id>https://docs.yyyyt.top/guide/my_project/yh_info_monitor.html</id>
     <link href="https://docs.yyyyt.top/guide/my_project/yh_info_monitor.html"/>
-    <updated>2025-08-01T02:24:37.000Z</updated>
+    <updated>2025-08-18T13:43:45.000Z</updated>
     <summary type="html"><![CDATA[<p><s>别问为啥现在才出教程,别问.</s></p>
 <h2>来源:</h2>
 <p>hehe以前制作过一个云湖用户信息监视机器人,看到这个代码实在不想说于是写了一个重构版并且额外添加了一些功能.<br>
@@ -65,7 +65,7 @@
 <a href="https://tools.yyyyt.top/yh_info_monitor/main.py" target="_blank" rel="noopener noreferrer">main.py</a></p>
 <h3>环境要求:</h3>
 <p>推荐Python 3.12+版本(实测可以正常运行).<br>
-额外依赖要求: requests</p>
+额外依赖要求: httpx</p>
 <h3>配置文件:</h3>
 <p>文档仅供参考,实际使用请以实际为准.跨版本的配置文件可能不兼容.</p>
 <p>bot_token 填写机器人的token,可以在<a href="https://www.yhchat.com/control" target="_blank" rel="noopener noreferrer">云湖控制台</a>获取.<br>
