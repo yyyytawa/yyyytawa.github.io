@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-08-18T13:44:41.085Z</updated>
+  <updated>2025-08-27T03:12:09.996Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,25 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">暑假似乎要结束了</title>
+    <id>https://docs.yyyyt.top/articles/daily/2025/08/270.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/08/270.html"/>
+    <updated>2025-08-27T03:02:10.000Z</updated>
+    <summary type="html"><![CDATA[<p>已经8月27号了,离9月1号开学差不了几天了.<br>
+<s>暑假要结束了.</s><br>
+<s>新高一8月22报道(但是我是新高三的).</s><br>
+啊啊啊啊啊啊.</p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p>已经8月27号了,离9月1号开学差不了几天了.<br>
+<s>暑假要结束了.</s><br>
+<s>新高一8月22报道(但是我是新高三的).</s><br>
+啊啊啊啊啊啊.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-08-27T03:02:10.000Z</published>
+  </entry>
   <entry>
     <title type="text">程序员讨厌的4件事情</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/08/100.html</id>
@@ -2683,6 +2702,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
@@ -2769,35 +2817,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -3124,41 +3143,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
-    <title type="text">第八周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
-    <updated>2025-06-02T08:21:11.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.某同学和石同学和土豆</h3>
-<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content>
-    <published>2024-10-26T15:43:45.000Z</published>
-  </entry>
-  <entry>
     <title type="text">7月</title>
     <id>https://docs.yyyyt.top/articles/daily/2024/07/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/07/"/>
@@ -3216,6 +3200,41 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <id>https://docs.yyyyt.top/articles/daily/2024/10/</id>
     <link href="https://docs.yyyyt.top/articles/daily/2024/10/"/>
     <updated>2025-02-04T06:14:52.000Z</updated>
+    <published>2024-10-26T15:43:45.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第八周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html"/>
+    <updated>2025-06-02T08:21:11.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.某同学和石同学和土豆</h3>
+<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content>
     <published>2024-10-26T15:43:45.000Z</published>
   </entry>
   <entry>
@@ -3562,76 +3581,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
     <id>https://docs.yyyyt.top/guide/my_project/</id>
     <link href="https://docs.yyyyt.top/guide/my_project/"/>
     <updated>2024-09-16T18:20:15.000Z</updated>
-    <published>2024-09-16T18:18:53.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">merge.html</title>
-    <id>https://docs.yyyyt.top/guide/my_project/merge.html</id>
-    <link href="https://docs.yyyyt.top/guide/my_project/merge.html"/>
-    <updated>2025-03-08T16:20:38.000Z</updated>
-    <summary type="html"><![CDATA[<p><em>merge.html</em>是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).</p>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)</p>
-</div>
-<h2>参数:</h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.<br>
-if参数和il参数必须有其中一个,而且两个不能共存</p>
-</div>]]></summary>
-    <content type="html"><![CDATA[<p><em>merge.html</em>是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).</p>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)</p>
-</div>
-<h2>参数:</h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.<br>
-if参数和il参数必须有其中一个,而且两个不能共存</p>
-</div>
-<h3>if参数:</h3>
-<p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>
-<p><strong>示例:</strong></p>
-<p>合并单个文件(一般不用,相当于直接下载单个文件):</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>合并多个文件:</p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>多个链接请使用","隔开,例如xxxx?if=链接1,链接2,链接3,链接N</p>
-</div>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
-</div>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h3>of参数:</h3>
-<p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>
-<strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>
-<h3>il参数:</h3>
-<p>输入一个inputlist,全名叫inputlist(输入列表)<br>
-相当于多个输入链接,但是链接都存在一个文件里面</p>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
-</div>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>li.txt内容:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span># 使用#来注释内容</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>proxy参数:</h3>
-<p>指定下载代理服务器,<a href="http://xn--nm2-uc0ep96b.runoneall.us.kg" target="_blank" rel="noopener noreferrer">例如nm2.runoneall.us.kg</a></p>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>实际请求的时会变成这样 <a href="https://nm2.runoneall.us.kg/https://example.com" target="_blank" rel="noopener noreferrer">https://nm2.runoneall.us.kg/https://example.com</a></p>
-]]></content>
     <published>2024-09-16T18:18:53.000Z</published>
   </entry>
 </feed>
