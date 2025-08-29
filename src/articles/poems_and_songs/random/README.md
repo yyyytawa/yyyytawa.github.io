@@ -2,6 +2,10 @@
 title: 随手写写
 order: 1
 index: false
+feed: false
+sitemap: false
+timeline: false
+article: false
 dir:
     link: true
 ---
