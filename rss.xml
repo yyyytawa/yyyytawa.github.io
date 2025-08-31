@@ -6,14 +6,27 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 30 Aug 2025 12:50:10 GMT</pubDate>
-    <lastBuildDate>Sat, 30 Aug 2025 12:50:10 GMT</lastBuildDate>
+    <pubDate>Sun, 31 Aug 2025 00:02:14 GMT</pubDate>
+    <lastBuildDate>Sun, 31 Aug 2025 00:02:14 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>失联通告</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/08/310.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/08/310.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">失联通告</source>
+      <description>失联时间: 2025年至2026年寒假的非节假日以及额外在校时间. 失联原因: 开学(8月31日上午报道). 有效期至: 2026年寒假. The End</description>
+      <pubDate>Sun, 31 Aug 2025 00:00:42 GMT</pubDate>
+      <content:encoded><![CDATA[<p>失联时间: 2025年至2026年寒假的非节假日以及额外在校时间.<br>
+失联原因: 开学(8月31日上午报道).<br>
+有效期至: 2026年寒假.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>暑假</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
@@ -2644,21 +2657,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
 <p>P2. 骂人</p>
 <p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人"福利",月考/周考考的差还会"即兴演讲"+"认真"反思 我真的是服了</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第二周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第二周</source>
-      <description>日期: 开始: 20240908 星期日 结束: 20240915 星期六 本周内容: 本周没啥特别内容,也就曲某人更加疯癫了,或许你可以期待一下这周出来的特别篇? The End</description>
-      <pubDate>Sun, 15 Sep 2024 09:22:06 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240908 星期日</strong><br>
-<strong>结束: 20240915 星期六</strong></p>
-<h3>本周内容:</h3>
-<p>本周没啥特别内容,也就曲某人更加疯癫了,或许你可以期待一下这周出来的特别篇?</p>
-<h3>The End</h3>
 ]]></content:encoded>
     </item>
   </channel>

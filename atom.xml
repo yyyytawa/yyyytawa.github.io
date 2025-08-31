@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-08-30T12:50:10.493Z</updated>
+  <updated>2025-08-31T00:02:14.598Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,23 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">失联通告</title>
+    <id>https://docs.yyyyt.top/articles/daily/2025/08/310.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/08/310.html"/>
+    <updated>2025-08-31T00:00:42.000Z</updated>
+    <summary type="html"><![CDATA[<p>失联时间: 2025年至2026年寒假的非节假日以及额外在校时间.<br>
+失联原因: 开学(8月31日上午报道).<br>
+有效期至: 2026年寒假.</p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p>失联时间: 2025年至2026年寒假的非节假日以及额外在校时间.<br>
+失联原因: 开学(8月31日上午报道).<br>
+有效期至: 2026年寒假.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-08-31T00:00:42.000Z</published>
+  </entry>
   <entry>
     <title type="text">暑假</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</id>
@@ -3744,27 +3761,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
 <p>P2. 骂人</p>
 <p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人"福利",月考/周考考的差还会"即兴演讲"+"认真"反思 我真的是服了</p>
-]]></content>
-    <published>2024-09-15T09:22:06.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第二周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/2_week.html"/>
-    <updated>2024-09-15T09:22:06.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240908 星期日</strong><br>
-<strong>结束: 20240915 星期六</strong></p>
-<h3>本周内容:</h3>
-<p>本周没啥特别内容,也就曲某人更加疯癫了,或许你可以期待一下这周出来的特别篇?</p>
-<h3>The End</h3>
-]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240908 星期日</strong><br>
-<strong>结束: 20240915 星期六</strong></p>
-<h3>本周内容:</h3>
-<p>本周没啥特别内容,也就曲某人更加疯癫了,或许你可以期待一下这周出来的特别篇?</p>
-<h3>The End</h3>
 ]]></content>
     <published>2024-09-15T09:22:06.000Z</published>
   </entry>
