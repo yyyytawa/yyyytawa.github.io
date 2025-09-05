@@ -6,14 +6,29 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 31 Aug 2025 00:11:20 GMT</pubDate>
-    <lastBuildDate>Sun, 31 Aug 2025 00:11:20 GMT</lastBuildDate>
+    <pubDate>Fri, 05 Sep 2025 16:14:09 GMT</pubDate>
+    <lastBuildDate>Fri, 05 Sep 2025 16:14:09 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>第二周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第二周</source>
+      <description>日期: 开始: 2025 09 07 星期日 结束: 2025 09 0x 星期五 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Fri, 05 Sep 2025 16:13:15 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 09 07 星期日</strong><br>
+<strong>结束: 2025 09 0x 星期五</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>失联通告</title>
       <link>https://docs.yyyyt.top/articles/daily/2025/08/310.html</link>
@@ -24,20 +39,6 @@
       <content:encoded><![CDATA[<p>失联时间: 2025年8月31日至2026年寒假的非节假日以及额外在校时间.<br>
 失联原因: 开学(8月31日上午报道).<br>
 有效期至: 2026年寒假.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -102,11 +103,25 @@ Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">http
 ]]></content:encoded>
     </item>
     <item>
+      <title>暑假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
+      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第一周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/1_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/1_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第一周</source>
-      <description>日期: 开始: 2025 09 01 星期一 结束: 2025 09 05 星期五 本周内容: 1. 又要开学了 缅怀 2025 年暑假同志. 希望能考出来个好成绩! (不过好消息是我还在 B01)</description>
+      <description>日期: 开始: 2025 09 01 星期一 结束: 2025 09 05 星期五 本周内容: 1. 又要开学了 缅怀 2025 年暑假同志. 希望能考出来个好成绩! (不过好消息是我还在 B01,似乎就下面的班简单调整了一下,上面的班没咋变,班里面还多出来了两位新同学). 2. 寝室 宿舍总算是不用爬楼了,这回直接在一楼. 温馨提示: 半夜去一楼寝室...</description>
       <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 01 星期一 <s>(2025 08 31就要报道了)</s></strong><br>
@@ -116,7 +131,30 @@ Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">http
 <p>缅怀 2025 年暑假同志.<br>
 <s>要开启快乐又努力的高三学习生活了</s> 希望能考出来个好成绩!<br>
 <s>8月31号早上8:00-10:00报道,so...</s><br>
-(不过好消息是我还在 B01)</p>
+<s>高二是下午报道.</s><br>
+(不过好消息是我还在 B01,似乎就下面的班简单调整了一下,上面的班没咋变,班里面还多出来了两位新同学).</p>
+<h3>2. 寝室</h3>
+<p>宿舍总算是不用爬楼了,这回直接在一楼.<br>
+温馨提示: 半夜去一楼寝室的厕所的时候小心忽然出现的水流声把人吓死.<br>
+DOCS-TSHS-DAYDREAM 在周二还是周三偷偷换回这个寝室了,宿管到周四要求登记信息的时候才发现.甚至在换之前看到"校长"在寝室里面还很诧异(注: 开始的时候"校长"在这个寝),所以说一家人又一次团聚了.<br>
+震惊,学校居然翻新宿舍的空调了!空调外机总算是装外面了,整个楼都换新空调了,不再是清朝五级+能效的老空调了,阳台免费桑拿房无了.<br>
+本周周四晚上特别篇是--谁是卧底.好像也没啥了写的,人与人的恩怨情仇,号召投某人(?),还有那个说词的时候不知名的怪笑,让人直接怀疑是不是卧底了.</p>
+<h3>3. 93阅兵</h3>
+<p>不多说,9月3日晚上看了93阅兵的视频,好像里面有金正恩?<br>
+许多武器都是第一次亮相,还有那个"手电筒",照明用的,就是功率有点太高容易烧伤.</p>
+<h3>4. 开学典礼</h3>
+<p>又是每学期必有的开学典礼+表彰大会,基本上都是那个套路懒得说了,本次开会50分钟左右.</p>
+<h3>5. 其他</h3>
+<p>又双叒叕缺书了,上学期缺的书这学期还在缺.夹子也忘带了,卷子一来直接就乱了.<br>
+六楼真是太好了,担心学生缺乏锻炼,安排到六楼,强行每天爬楼锻炼,强健体魄(不要想电梯,老师领导专用).更有吃饭赛跑,当然六楼你跑的再快到三四楼肯定是会被堵住的,跑得快能让你拿个1-2楼的优势,能抢个略微好点的饭(虽然学校的饭也就那样了),来得晚的就......建议自己想办法解决吃饭问题,不要天天依靠学校来解决吃饭问题(bushi).<br>
+<s>这剧情咋和初三有点像,吃饭难度高了亿点而已.</s><br>
+白板是海康威视的,我看 CPU 好像是 12450H?然后这个白板的 WiFi 奇差无比,基本上搜不到啥 WiFi, 这个 B 东西就算是在面前开热点搜到的信号都不定是满格的.网口在里面,有线连接就暂时别想了,似乎涉及到拆卸了.隔壁 A02 白板也压根没联网,偷不了 WiFi 密码.总结: 别想着联网了.<br>
+教室内配的有音响,条件比教学楼那边好了点.<br>
+厕所么...啥时候能把男厕的灯给修一下啊啊啊啊啊!男厕和女厕只差一墙之隔了,然后这个大便池鬼知道咋修的,男厕和女厕的大便池那个下水口都是共用的一个,推测就是女厕那边拐了个弯然后转到男厕那边的下水口.<br>
+下周到校时间改为3:30了,提前了30min.<br>
+据说下周要开始搞自愿自习了?反正看情况吧.<br>
+然后似乎没啥可说的了.</p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -1972,6 +2010,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -2034,28 +2094,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2263,32 +2301,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <enclosure url="https://img.yyyyt.top/meme/yhchat/9120256/图标梗/勇敢去做.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>第八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241027 星期日</strong><br>
-<strong>结束: 20241102 星期六</strong></p>
-<h3>本周内容:</h3>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
-</div>
-<h3>1.联考</h3>
-<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
-<h3>2.Nothing is impossible</h3>
-<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
-<h3>3.有人微机课旷课打球</h3>
-<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
-<h3>4.某同学和石同学和土豆</h3>
-<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>同学间的爱恨情仇</title>
       <link>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</link>
       <guid>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</guid>
@@ -2311,6 +2323,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 </div>
 <p>具体原因未知,可能与某个人有关(据说)?<br>
 但是已经弄到影响写作业了,看样子不轻</p>
+<h3>The End</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
+      <description>日期: 开始: 20241027 星期日 结束: 20241102 星期六 本周内容: 注意 本周有离谱内容 1.联考 在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了...... 2.Nothing is impossible 有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241027 星期日</strong><br>
+<strong>结束: 20241102 星期六</strong></p>
+<h3>本周内容:</h3>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>本周有离谱内容 <s>(其实本来想丢到个人文章目录的)</s></p>
+</div>
+<h3>1.联考</h3>
+<p>在老师的努力教导之下,成功物理大题几乎全军覆没(磁都不会写).其他科目也没有好到哪里去了......</p>
+<h3>2.Nothing is impossible</h3>
+<p>有位学生上英语课把书碰到了,然后在他收拾书的时候刚好那边来巡查了,巡查的老师拿着手机指着那位同学.同学吓得赶紧回去,老师也说了几句(但是没骂人) hhhhha</p>
+<h3>3.有人微机课旷课打球</h3>
+<p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
+<h3>4.某同学和石同学和土豆</h3>
+<p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
 <h3>The End</h3>
 ]]></content:encoded>
     </item>
@@ -2643,21 +2681,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/special/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">特别篇</source>
       <pubDate>Sun, 15 Sep 2024 09:22:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>特别篇-1: 我的班主任与老师们</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/special/special_1.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">特别篇-1: 我的班主任与老师们</source>
-      <description>本文开始写于20240915 以下可能适用于某人: P1. 教龄四年 震惊,四年的教龄.我这一届是第二届,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三? P2. 骂人 骂的是真tmd恨 骂的又多又狠,附带时不时喊人&amp;quot;福利&amp;quot;,月考/周考考的差还会&amp;quot;即兴演讲&amp;quot;+&amp;quot;认真&amp;quot;反思 我真的是服了</description>
-      <pubDate>Sun, 15 Sep 2024 09:22:06 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>本文开始写于20240915</strong></p>
-<p>以下可能适用于某人:</p>
-<p>P1. 教龄四年</p>
-<p>震惊,四年的教龄.我这一届是第二届<s>小白鼠</s>,而且还是教最好的班,我真的想不到咋做到的,可能会带这一届的高三?</p>
-<p>P2. 骂人</p>
-<p>骂的是真tmd恨 骂的又多又狠,附带时不时喊人"福利",月考/周考考的差还会"即兴演讲"+"认真"反思 我真的是服了</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
