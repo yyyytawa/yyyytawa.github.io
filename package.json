@@ -17,9 +17,9 @@
     "@vuepress/plugin-pwa": "2.0.0-rc.112",
     "artplayer": "^5.2.5",
     "client-zip": "^2.5.0",
-    "sass-embedded": "^1.91.0",
+    "sass-embedded": "^1.92.0",
     "streamsaver": "^2.0.6",
-    "vue": "^3.5.20",
+    "vue": "^3.5.21",
     "vuepress": "2.0.0-rc.24",
     "vuepress-theme-hope": "2.0.0-rc.94"
   },
