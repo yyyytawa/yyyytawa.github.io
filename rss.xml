@@ -6,14 +6,29 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 05 Sep 2025 16:14:09 GMT</pubDate>
-    <lastBuildDate>Fri, 05 Sep 2025 16:14:09 GMT</lastBuildDate>
+    <pubDate>Sun, 07 Sep 2025 03:49:33 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Sep 2025 03:49:33 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>赛博修仙</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/09/070.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/09/070.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">赛博修仙</source>
+      <description>5202年,有个兽前来修仙. 经过 114514 年的努力后,这个兽准备接受考验. 第一个考验的是个不知道叫啥的人,法力是会使云闪耀,这个兽准备迎接考验的时候,忽然弹出了个--正在验证您是否是真人. 这把这个兽吓得够呛,这个兽仔细打量了一下这个弹窗,只见一直转着圈圈,过了一会还多出个文字&amp;quot;卡住了?发送反馈.&amp;quot;,这个兽苦等许久之后,还是卡在这里.这个兽不...</description>
+      <pubDate>Sun, 07 Sep 2025 03:48:50 GMT</pubDate>
+      <content:encoded><![CDATA[<p>5202年,有个兽前来修仙.<br>
+经过 114514 年的努力后,这个兽准备接受考验.<br>
+第一个考验的是个不知道叫啥的人,法力是会使云闪耀,这个兽准备迎接考验的时候,忽然弹出了个--正在验证您是否是真人. 这把这个兽吓得够呛,这个兽仔细打量了一下这个弹窗,只见一直转着圈圈,过了一会还多出个文字"卡住了?发送反馈.",这个兽苦等许久之后,还是卡在这里.这个兽不得已只能重新挑战,第二次又是这个的弹窗,这个兽想着这货葫芦里面买着什么药哪,又是苦等了一会之后显示失败.就这样,第一个挑战又一次失败了.<br>
+这个兽不甘心,过了一个月后准备进行第三次挑战,刚准备去挑战的时候只见弹出来了个错误提示: 502 Bad Gateway.这个兽一连懵逼,后续看到公告说仙界那边最近3个月天天遭受 DDoS 攻击, CC攻击.源站服务器都炸了,据说很快修复,等了一会之后总算是正常了,这个兽准备去进行第一个挑战,一样的弹窗又出来了,只不过过了一会变成了失败,这个兽还是不死心继续挑战,结果还是失败.<br>
+第四次路途中国际线路爆炸,直接半路丢包直接无了.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>第二周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html</link>
@@ -39,6 +54,20 @@
       <content:encoded><![CDATA[<p>失联时间: 2025年8月31日至2026年寒假的非节假日以及额外在校时间.<br>
 失联原因: 开学(8月31日上午报道).<br>
 有效期至: 2026年寒假.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>暑假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
+      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -99,20 +128,6 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -2010,28 +2025,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -2094,6 +2087,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2301,32 +2316,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <enclosure url="https://img.yyyyt.top/meme/yhchat/9120256/图标梗/勇敢去做.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>同学间的爱恨情仇</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">同学间的爱恨情仇</source>
-      <description>本文写于 20241026-20241026 P1.土豆和某同学与石同学 土豆(王同学的外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容: 某同学: 土豆你为啥给石同学讲题,不给我讲题? 土豆: 那是你选的时间不好,刚好就是在我忙的时候 某同学: 我看你就是喜欢她 据说某同学还曾经抱怨过土豆讲题讲错 P2.赵同学抄生物笔记 ...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本文写于 20241026-20241026</p>
-<div style="text-align:center">
-<h3>P1.土豆和某同学与石同学</h3>
-</div>
-<p>土豆(王同学的<s>CNAME</s>外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
-<blockquote>
-<p>某同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
-土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
-某同学: 我看你就是喜欢她</p>
-</blockquote>
-<p>据说某同学还曾经抱怨过土豆讲题讲错</p>
-<div style="text-align:center">
-<h3>P2.赵同学抄生物笔记</h3>
-</div>
-<p>具体原因未知,可能与某个人有关(据说)?<br>
-但是已经弄到影响写作业了,看样子不轻</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>第八周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
@@ -2349,6 +2338,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 <p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
 <h3>4.某同学和石同学和土豆</h3>
 <p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>同学间的爱恨情仇</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">同学间的爱恨情仇</source>
+      <description>本文写于 20241026-20241026 P1.土豆和某同学与石同学 土豆(王同学的外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容: 某同学: 土豆你为啥给石同学讲题,不给我讲题? 土豆: 那是你选的时间不好,刚好就是在我忙的时候 某同学: 我看你就是喜欢她 据说某同学还曾经抱怨过土豆讲题讲错 P2.赵同学抄生物笔记 ...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文写于 20241026-20241026</p>
+<div style="text-align:center">
+<h3>P1.土豆和某同学与石同学</h3>
+</div>
+<p>土豆(王同学的<s>CNAME</s>外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
+<blockquote>
+<p>某同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
+土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
+某同学: 我看你就是喜欢她</p>
+</blockquote>
+<p>据说某同学还曾经抱怨过土豆讲题讲错</p>
+<div style="text-align:center">
+<h3>P2.赵同学抄生物笔记</h3>
+</div>
+<p>具体原因未知,可能与某个人有关(据说)?<br>
+但是已经弄到影响写作业了,看样子不轻</p>
 <h3>The End</h3>
 ]]></content:encoded>
     </item>
@@ -2674,13 +2689,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <s>可能是我第一次线下见到一个很有名的人物.</s></p>
 <h3>The End</h3>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>特别篇</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/special/</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/special/</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">特别篇</source>
-      <pubDate>Sun, 15 Sep 2024 09:22:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
