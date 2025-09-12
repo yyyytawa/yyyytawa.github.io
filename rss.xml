@@ -6,14 +6,30 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 07 Sep 2025 03:49:33 GMT</pubDate>
-    <lastBuildDate>Sun, 07 Sep 2025 03:49:33 GMT</lastBuildDate>
+    <pubDate>Fri, 12 Sep 2025 14:46:00 GMT</pubDate>
+    <lastBuildDate>Fri, 12 Sep 2025 14:46:00 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>第三周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第三周</source>
+      <description>日期: 开始: 2025 09 14 星期日 结束: 2025 09 1x 星期五 额外自习: 2025 09 1x 星期六 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Fri, 12 Sep 2025 14:45:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 09 14 星期日</strong><br>
+<strong>结束: 2025 09 1x 星期五</strong><br>
+<strong>额外自习: 2025 09 1x 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>赛博修仙</title>
       <link>https://docs.yyyyt.top/articles/daily/2025/09/070.html</link>
@@ -34,13 +50,29 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第二周</source>
-      <description>日期: 开始: 2025 09 07 星期日 结束: 2025 09 0x 星期五 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2025 09 07 星期日 结束: 2025 09 12 星期五 额外自习: 2025 09 13 星期六 本周内容: 1. 自习 本周开始&amp;quot;自愿&amp;quot;到校自习,根据老师的说法是强烈不推荐周五放学留校自习,强烈推荐周六到校自习,自习时间为早上8:00-下午5:30.周五留校的是6:30到学校自习至10:00寝室/回家休息. 周五晚上食堂不...</description>
       <pubDate>Fri, 05 Sep 2025 16:13:15 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 07 星期日</strong><br>
-<strong>结束: 2025 09 0x 星期五</strong></p>
+<strong>结束: 2025 09 12 星期五</strong><br>
+<strong>额外自习: 2025 09 13 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
+<h3>1. 自习</h3>
+<p>本周开始"自愿"到校自习,根据老师的说法是强烈不推荐周五放学留校自习,强烈推荐周六到校自习,自习时间为早上8:00-下午5:30.周五留校的是6:30到学校自习至10:00寝室/回家休息.<br>
+周五晚上食堂不管饭,需要自行出去吃饭.周六食堂只管中午饭,当然你也可以请假出去吃/家长送饭/自备食品.<br>
+据悉本周上午为数学自习时间,下午为物理自习时间,期间大概率会有考试.<br>
+学校内需穿校服,和正常上学规定差不多.<br>
+自习期间会有老师巡逻看管.</p>
+<h3>2. 天气</h3>
+<p>这个天气......好几天都是下雨,体育课-1.<br>
+就算是下大雨还是要上体育课的精神,hhha.</p>
+<h3>3. 其他</h3>
+<p>吃饭时间简单调整了一下,2,3,4楼是比咱提前5分钟吃饭,楼上的还是继续正常时间.所以说就导致一个事情,跑得快也不一定能抢到好饭了,毕竟人家比咱提前5分钟吃饭,不过楼道堵塞程度和排队好了点.<br>
+这个生物资料好多都有缺页问题,不幸的是我也有,只能到文印室去换了.<br>
+sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabindex="-1"><s>为啥总感觉似乎某人在我背后说啥?</s></span>.给我座位安排到"校长"和"马老师"旁边了.<br>
+我们的白板实现三网接入了,蹭了 A02,A03,学校的网. byd 这个 Windows 系统网卡真 TMD 的差,我在白板面前开热点信号都只有两三格,倒是这个安卓还好,甚至网卡都是 WiFi6 的,就是开机不会自动联网,初步怀疑是原生安卓那边网络状态检测用的是谷歌的,国内网络环境特殊导致系统认为此 WiFi 无法正常联网,不触发自动连接.后续需使用 ADB 修改安卓网络检测的服务器来验证此猜测.<br>
+本周寝室无周四晚上特别篇.<br>
+据说9月28日会进行联考.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -2671,23 +2703,6 @@ if参数和il参数必须有其中一个,而且两个不能共存</p>
 <p><strong>示例:</strong></p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>实际请求的时会变成这样 <a href="https://nm2.runoneall.us.kg/https://example.com" target="_blank" rel="noopener noreferrer">https://nm2.runoneall.us.kg/https://example.com</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第三周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第三周</source>
-      <description>日期: 开始: 20240917 星期二 结束: 20240921 星期六 本周内容: 1.学校请来了个名人 具体名称就不说了,说了就暴露了.但是参会的就我那一个高中(还有一个初中,剩下的全是小学)+第九排全员小丑(没礼品),有点无语. The End</description>
-      <pubDate>Sun, 15 Sep 2024 09:24:17 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20240917 星期二</strong><br>
-<strong>结束: 20240921 星期六</strong></p>
-<h3>本周内容:</h3>
-<p>1.学校请来了个名人<br>
-具体名称就不说了,说了就暴露了.但是参会的就我那一个高中(还有一个初中,剩下的全是小学)+第九排全员小丑(没礼品),有点无语.<br>
-<s>可能是我第一次线下见到一个很有名的人物.</s></p>
-<h3>The End</h3>
 ]]></content:encoded>
     </item>
   </channel>

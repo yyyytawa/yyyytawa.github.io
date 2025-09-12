@@ -6,6 +6,17 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "第三周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html",
+      "summary": "日期: 开始: 2025 09 14 星期日 结束: 2025 09 1x 星期五 额外自习: 2025 09 1x 星期六 本周内容: 1. 我是标题 The End",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2025 09 14 星期日</strong><br>\n<strong>结束: 2025 09 1x 星期五</strong><br>\n<strong>额外自习: 2025 09 1x 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 我是标题</h3>\n<h2>The End</h2>\n",
+      "date_published": "2025-09-12T14:45:13.000Z",
+      "date_modified": "2025-09-12T14:45:13.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "赛博修仙",
       "url": "https://docs.yyyyt.top/articles/daily/2025/09/070.html",
       "id": "https://docs.yyyyt.top/articles/daily/2025/09/070.html",
@@ -20,10 +31,10 @@
       "title": "第二周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/2_week.html",
-      "summary": "日期: 开始: 2025 09 07 星期日 结束: 2025 09 0x 星期五 本周内容: 1. 我是标题 The End",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2025 09 07 星期日</strong><br>\n<strong>结束: 2025 09 0x 星期五</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 我是标题</h3>\n<h2>The End</h2>\n",
+      "summary": "日期: 开始: 2025 09 07 星期日 结束: 2025 09 12 星期五 额外自习: 2025 09 13 星期六 本周内容: 1. 自习 本周开始\"自愿\"到校自习,根据老师的说法是强烈不推荐周五放学留校自习,强烈推荐周六到校自习,自习时间为早上8:00-下午5:30.周五留校的是6:30到学校自习至10:00寝室/回家休息. 周五晚上食堂不...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2025 09 07 星期日</strong><br>\n<strong>结束: 2025 09 12 星期五</strong><br>\n<strong>额外自习: 2025 09 13 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 自习</h3>\n<p>本周开始\"自愿\"到校自习,根据老师的说法是强烈不推荐周五放学留校自习,强烈推荐周六到校自习,自习时间为早上8:00-下午5:30.周五留校的是6:30到学校自习至10:00寝室/回家休息.<br>\n周五晚上食堂不管饭,需要自行出去吃饭.周六食堂只管中午饭,当然你也可以请假出去吃/家长送饭/自备食品.<br>\n据悉本周上午为数学自习时间,下午为物理自习时间,期间大概率会有考试.<br>\n学校内需穿校服,和正常上学规定差不多.<br>\n自习期间会有老师巡逻看管.</p>\n<h3>2. 天气</h3>\n<p>这个天气......好几天都是下雨,体育课-1.<br>\n就算是下大雨还是要上体育课的精神,hhha.</p>\n<h3>3. 其他</h3>\n<p>吃饭时间简单调整了一下,2,3,4楼是比咱提前5分钟吃饭,楼上的还是继续正常时间.所以说就导致一个事情,跑得快也不一定能抢到好饭了,毕竟人家比咱提前5分钟吃饭,不过楼道堵塞程度和排队好了点.<br>\n这个生物资料好多都有缺页问题,不幸的是我也有,只能到文印室去换了.<br>\nsleepy被巡逻了逮了,然后又被迫换位了, <span class=\"spoiler\" tabindex=\"-1\"><s>为啥总感觉似乎某人在我背后说啥?</s></span>.给我座位安排到\"校长\"和\"马老师\"旁边了.<br>\n我们的白板实现三网接入了,蹭了 A02,A03,学校的网. byd 这个 Windows 系统网卡真 TMD 的差,我在白板面前开热点信号都只有两三格,倒是这个安卓还好,甚至网卡都是 WiFi6 的,就是开机不会自动联网,初步怀疑是原生安卓那边网络状态检测用的是谷歌的,国内网络环境特殊导致系统认为此 WiFi 无法正常联网,不触发自动连接.后续需使用 ADB 修改安卓网络检测的服务器来验证此猜测.<br>\n本周寝室无周四晚上特别篇.<br>\n据说9月28日会进行联考.</p>\n<h2>The End</h2>\n",
       "date_published": "2025-09-05T16:13:15.000Z",
-      "date_modified": "2025-09-05T16:13:15.000Z",
+      "date_modified": "2025-09-12T14:45:13.000Z",
       "authors": [],
       "tags": []
     },
@@ -1132,17 +1143,6 @@
       "content_html": "<p><em>merge.html</em>是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)</p>\n</div>\n<h2>参数:</h2>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.<br>\nif参数和il参数必须有其中一个,而且两个不能共存</p>\n</div>\n<h3>if参数:</h3>\n<p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>\n<p><strong>示例:</strong></p>\n<p>合并单个文件(一般不用,相当于直接下载单个文件):</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>合并多个文件:</p>\n<div class=\"hint-container tip\">\n<p class=\"hint-container-title\">提示</p>\n<p>多个链接请使用\",\"隔开,例如xxxx?if=链接1,链接2,链接3,链接N</p>\n</div>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><h3>of参数:</h3>\n<p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>\n<strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>\n<h3>il参数:</h3>\n<p>输入一个inputlist,全名叫inputlist(输入列表)<br>\n相当于多个输入链接,但是链接都存在一个文件里面</p>\n<div class=\"hint-container warning\">\n<p class=\"hint-container-title\">注意</p>\n<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>\n</div>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>li.txt内容:</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span># 使用#来注释内容</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>\n<span class=\"line\"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h3>proxy参数:</h3>\n<p>指定下载代理服务器,<a href=\"http://xn--nm2-uc0ep96b.runoneall.us.kg\" target=\"_blank\" rel=\"noopener noreferrer\">例如nm2.runoneall.us.kg</a></p>\n<p><strong>示例:</strong></p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>实际请求的时会变成这样 <a href=\"https://nm2.runoneall.us.kg/https://example.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://nm2.runoneall.us.kg/https://example.com</a></p>\n",
       "date_published": "2024-09-16T18:18:53.000Z",
       "date_modified": "2025-03-08T16:20:38.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "第三周",
-      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html",
-      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/3_week.html",
-      "summary": "日期: 开始: 20240917 星期二 结束: 20240921 星期六 本周内容: 1.学校请来了个名人 具体名称就不说了,说了就暴露了.但是参会的就我那一个高中(还有一个初中,剩下的全是小学)+第九排全员小丑(没礼品),有点无语. The End",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20240917 星期二</strong><br>\n<strong>结束: 20240921 星期六</strong></p>\n<h3>本周内容:</h3>\n<p>1.学校请来了个名人<br>\n具体名称就不说了,说了就暴露了.但是参会的就我那一个高中(还有一个初中,剩下的全是小学)+第九排全员小丑(没礼品),有点无语.<br>\n<s>可能是我第一次线下见到一个很有名的人物.</s></p>\n<h3>The End</h3>\n",
-      "date_published": "2024-09-15T09:24:17.000Z",
-      "date_modified": "2025-08-29T14:00:31.000Z",
       "authors": [],
       "tags": []
     }
