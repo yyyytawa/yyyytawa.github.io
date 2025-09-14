@@ -6,14 +6,56 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Sep 2025 14:46:00 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Sep 2025 14:46:00 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2025 04:36:06 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2025 04:36:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>海康威视教学白板简单探索</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/09/140.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/09/140.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">海康威视教学白板简单探索</source>
+      <description>简要说明 首先,我这边的情况是不推荐用 Windows 系统直接联网的.(当然要是你那边有线的话无所谓) 有冰点还原,导致存储到 C 盘的东西会自动消失,包括 WiFi 的设置(似乎这个冰点可以加白名单,关闭要密码,加白名单不要密码). Windows 网卡有点差,信号差的要死,我在面前开热点信号都能掉到一两格了. 增加隐蔽性,安卓系统联网 Windo...</description>
+      <pubDate>Sun, 14 Sep 2025 04:35:18 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>简要说明</h3>
+<p>首先,我这边的情况是不推荐用 Windows 系统直接联网的.(当然要是你那边有线的话无所谓)</p>
+<ol>
+<li>有冰点还原,导致存储到 C 盘的东西会自动消失,包括 WiFi 的设置(似乎这个冰点可以加白名单,关闭要密码,加白名单不要密码).</li>
+<li>Windows 网卡有点差,信号差的要死,我在面前开热点信号都能掉到一两格了.</li>
+<li>增加隐蔽性,安卓系统联网 Windows 也会自动联网(显示的是有线连接,网络6),刚好和那个插着的网线对应(但是这个网线插得似乎不是一体机,是监控),让老师察觉不到是蹭隔壁 WiFi 的.</li>
+</ol>
+<p>Windows 系统这边不多说,我这边的那台 CPU 是 i5-12450H,系统 Windows 10(没看具体版本号),其他的没啥好说的了.<br>
+有冰点还原,只在 C 盘启用了,关闭要密码,但是添加排除白名单不要密码(最多50个目录,总大小最大 10 GB),so许多改系统设置的都用不了了,重启就还原了.</p>
+<p>安卓这边似乎没啥可玩性,配置 2G 内存+16G 闪存.<br>
+但是好在 WiFi 的网卡比那个 Windows 好了不是一点半点,甚至都可以搜到门卫室的信号(虽然说只有一格),还能搜到学校的网以及 A03 的网,也支持 WiFi6.<br>
+安卓系统有个热点,默认开启的,想关其实也可以awa.</p>
+<h3>开启 ADB 方法</h3>
+<p>关键词: 海康威视, 安卓, ADB</p>
+<p>设置-关于-系统版本(内容类似 X.X Build xxxx),多点击几下,把弹出的菜单中的 ADB 调试打开即可.<br>
+友情链接:<br>
+<a href="https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn" target="_blank" rel="noopener noreferrer">ADB下载页面</a><br>
+<a href="https://googledownloads.cn/android/repository/platform-tools-latest-windows.zip" target="_blank" rel="noopener noreferrer">ADB下载(直链)</a></p>
+<h3>卡出原生安卓的 WLAN 界面</h3>
+<p>方法很简单,到设置里面的无线网络,下面有个添加,加密类型选择带 802.1.x 就可以卡出来原生安卓的 WLAN 页面了.<br>
+当然你也可以使用创建快捷方式等软件直接打开原生安卓的设置.</p>
+<h3>修复无网络连接的问题</h3>
+<p>众所周知,由于原生安卓默认使用的是谷歌的服务器,而谷歌在大陆被墙了所以会显示无互联网链接,需要手动修改检测服务器地址.<br>
+删除原有的服务器地址:</p>
+<div class="language-shell line-numbers-mode" data-highlighter="shiki" data-ext="shell" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-shell"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">adb</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> shell</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> settings</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> delete</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> captive_portal_https_url</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">adb</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> shell</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> settings</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> delete</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> captive_portal_http_url</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>设置新的检测服务器地址:</p>
+<div class="language-shell line-numbers-mode" data-highlighter="shiki" data-ext="shell" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-shell"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">adb</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> shell</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> settings</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> put</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> captive_portal_http_url</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "http://connect.rom.miui.com/generate_204"</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">adb</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> shell</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> settings</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> put</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> captive_portal_https_url</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> "https://connect.rom.miui.com/generate_204"</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>当然也可以用其他的例如说华为的.<br>
+<code>http://connectivitycheck.platform.hicloud.com/generate_204</code><br>
+<code>https://connectivitycheck.platform.hicloud.com/generate_204</code></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>第三周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html</link>
@@ -62,7 +104,8 @@
 周五晚上食堂不管饭,需要自行出去吃饭.周六食堂只管中午饭,当然你也可以请假出去吃/家长送饭/自备食品.<br>
 据悉本周上午为数学自习时间,下午为物理自习时间,期间大概率会有考试.<br>
 学校内需穿校服,和正常上学规定差不多.<br>
-自习期间会有老师巡逻看管.</p>
+自习期间会有老师巡逻看管.<br>
+NMD作业真多,一天的自习都还没写完作业.</p>
 <h3>2. 天气</h3>
 <p>这个天气......好几天都是下雨,体育课-1.<br>
 就算是下大雨还是要上体育课的精神,hhha.</p>
@@ -70,7 +113,8 @@
 <p>吃饭时间简单调整了一下,2,3,4楼是比咱提前5分钟吃饭,楼上的还是继续正常时间.所以说就导致一个事情,跑得快也不一定能抢到好饭了,毕竟人家比咱提前5分钟吃饭,不过楼道堵塞程度和排队好了点.<br>
 这个生物资料好多都有缺页问题,不幸的是我也有,只能到文印室去换了.<br>
 sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabindex="-1"><s>为啥总感觉似乎某人在我背后说啥?</s></span>.给我座位安排到"校长"和"马老师"旁边了.<br>
-我们的白板实现三网接入了,蹭了 A02,A03,学校的网. byd 这个 Windows 系统网卡真 TMD 的差,我在白板面前开热点信号都只有两三格,倒是这个安卓还好,甚至网卡都是 WiFi6 的,就是开机不会自动联网,初步怀疑是原生安卓那边网络状态检测用的是谷歌的,国内网络环境特殊导致系统认为此 WiFi 无法正常联网,不触发自动连接.后续需使用 ADB 修改安卓网络检测的服务器来验证此猜测.<br>
+我们的白板实现三网接入了,蹭了 A02,A03,学校的网. byd 这个 Windows 系统网卡真 TMD 的差,我在白板面前开热点信号都只有两三格,倒是这个安卓还好,甚至网卡都是支持 WiFi6 的,就是开机不会自动联网,初步怀疑是原生安卓那边网络状态检测用的是谷歌的,国内网络环境特殊导致系统认为此 WiFi 无法正常联网,不触发自动连接.后续需使用 ADB 修改安卓网络检测的服务器来验证此猜测.<br>
+对了,海康威视的教学一体机安卓系统开启 ADB 的方法是到设置-关于里面,里面有个系统版本(内容类似 XX Build xxxxxx)多点几下,弹出的菜单中把 ADB 打开.到 Windows 系统上安装 ADB 直接连接即可.<br>
 本周寝室无周四晚上特别篇.<br>
 据说9月28日会进行联考.</p>
 <h2>The End</h2>
@@ -2644,66 +2688,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
       <guid>https://docs.yyyyt.top/guide/my_project/</guid>
       <source url="https://docs.yyyyt.top/rss.xml">我的项目</source>
       <pubDate>Mon, 16 Sep 2024 18:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>merge.html</title>
-      <link>https://docs.yyyyt.top/guide/my_project/merge.html</link>
-      <guid>https://docs.yyyyt.top/guide/my_project/merge.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">merge.html</source>
-      <description>merge.html是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等). 注意 merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)...</description>
-      <pubDate>Mon, 16 Sep 2024 18:18:53 GMT</pubDate>
-      <content:encoded><![CDATA[<p><em>merge.html</em>是负责合并文件的的html文件,可以将多个分割的文件合并为一个文件.通过使用StreamSaver.js实现文件合并,文件处理合并全在浏览器本地完成的.需要支持流式传输,所以不支持流式传输的无法使用(例如第三方下载器,安卓webview等).</p>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>merge.html目前存在Cors跨域请求问题,目前没法解决(浏览器安全策略限制)</p>
-</div>
-<h2>参数:</h2>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请求链接最好不要有中文,特殊字符等,如果有的话建议先编码.不能有空格.处理的时候会默认删除所有空格来防止出错.<br>
-if参数和il参数必须有其中一个,而且两个不能共存</p>
-</div>
-<h3>if参数:</h3>
-<p>if参数是要合并的文件的url/链接,全名叫 inputfile(输入文件)</p>
-<p><strong>示例:</strong></p>
-<p>合并单个文件(一般不用,相当于直接下载单个文件):</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>合并多个文件:</p>
-<div class="hint-container tip">
-<p class="hint-container-title">提示</p>
-<p>多个链接请使用","隔开,例如xxxx?if=链接1,链接2,链接3,链接N</p>
-</div>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
-</div>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt,https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/SteamSetup.exe-0</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><h3>of参数:</h3>
-<p>输出的文件名称,可以不写这个参数(不写这输出文件名为默认的merged.bin),全名叫outputfile(输出文件)</p>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?if=https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg&amp;of=test.jpg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>这时候输出的文件名就变成了test.jpg<br>
-<strong>暂时不支持多文件输出,一次只能合并为一个文件</strong></p>
-<h3>il参数:</h3>
-<p>输入一个inputlist,全名叫inputlist(输入列表)<br>
-相当于多个输入链接,但是链接都存在一个文件里面</p>
-<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>请注意链接的顺序,错误的顺序会导致合并出来的文件不可用</p>
-</div>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>li.txt内容:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span># 使用#来注释内容</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/01bc022d1b538a6dc9c279021fe61392.jpg #文件1</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/8016baea9047d39fc26d1da51a82612e.jpg #文件2</span></span>
-<span class="line"><span>https://chat-img.jwznb.com/814b2cfa2066ca51b04c30189eb0665b.jpg #文件3 #URL默认会删掉inputlist里面的所有空格,建议使用编码后URL</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h3>proxy参数:</h3>
-<p>指定下载代理服务器,<a href="http://xn--nm2-uc0ep96b.runoneall.us.kg" target="_blank" rel="noopener noreferrer">例如nm2.runoneall.us.kg</a></p>
-<p><strong>示例:</strong></p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>https://tools.yyyyt.top/merge.html?il=https://alist.yyyyt.top/d/%E5%85%AC%E5%BC%80%E5%88%86%E4%BA%AB/temp_share/il.txt&amp;of=steam.exe&amp;proxy=https://nm2.runoneall.us.kg</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>实际请求的时会变成这样 <a href="https://nm2.runoneall.us.kg/https://example.com" target="_blank" rel="noopener noreferrer">https://nm2.runoneall.us.kg/https://example.com</a></p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
