@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-09-14T06:20:46.712Z</updated>
+  <updated>2025-09-19T15:40:47.021Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -12,10 +12,31 @@
   <category term="技术"/>
   <category term="站点"/>
   <entry>
+    <title type="text">第四周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/4_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/4_week.html"/>
+    <updated>2025-09-19T15:39:52.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 09 21 星期日</strong><br>
+<strong>结束: 2025 09 2x 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 09 21 星期日</strong><br>
+<strong>结束: 2025 09 2x 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The End</h2>
+]]></content>
+    <published>2025-09-19T15:39:52.000Z</published>
+  </entry>
+  <entry>
     <title type="text">海康威视教学白板简单探索</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/09/140.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/09/140.html"/>
-    <updated>2025-09-14T04:35:18.000Z</updated>
+    <updated>2025-09-19T15:39:52.000Z</updated>
     <summary type="html"><![CDATA[<h3>简要说明</h3>
 <p>首先,我这边的情况是不推荐用 Windows 系统直接联网的.(当然要是你那边有线的话无所谓)</p>
 <ol>
@@ -37,7 +58,11 @@
 安卓系统有个热点,默认开启的,想关其实也可以awa.</p>
 <h3>开启 ADB 方法</h3>
 <p>关键词: 海康威视, 安卓, ADB</p>
-<p>设置-关于-系统版本(内容类似 X.X Build xxxx),多点击几下,把弹出的菜单中的 ADB 调试打开即可.<br>
+<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>部分设备固件可能存在严重 BUG,只要进入了高级设置就会自动开启单双分屏且无法关闭,需要手动恢复出厂设置来解决.</p>
+</div>
+<p>设置-关于-设备固件版本(内容类似 X.X Build xxxx),多点击几下,把弹出的菜单中的 ADB 调试打开即可.<br>
 友情链接:<br>
 <a href="https://developer.android.google.cn/tools/releases/platform-tools?hl=zh-cn" target="_blank" rel="noopener noreferrer">ADB下载页面</a><br>
 <a href="https://googledownloads.cn/android/repository/platform-tools-latest-windows.zip" target="_blank" rel="noopener noreferrer">ADB下载(直链)</a></p>
@@ -45,6 +70,10 @@
 <p>方法很简单,到设置里面的无线网络,下面有个添加,加密类型选择带 802.1.x 就可以卡出来原生安卓的 WLAN 页面了.<br>
 当然你也可以使用创建快捷方式等软件直接打开原生安卓的设置.</p>
 <h3>修复无网络连接的问题</h3>
+<div class="hint-container tip">
+<p class="hint-container-title">提示</p>
+<p>新版固件似乎已经修复开机安卓系统不会自动连接 WiFi 的问题,如果你这边无相关问题可以不管.</p>
+</div>
 <p>众所周知,由于原生安卓默认使用的是谷歌的服务器,而谷歌在大陆被墙了所以会显示无互联网链接,需要手动修改检测服务器地址.<br>
 删除原有的服务器地址:</p>
 <div class="language-shell line-numbers-mode" data-highlighter="shiki" data-ext="shell" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-shell"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">adb</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> shell</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> settings</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> delete</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> global</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> captive_portal_https_url</span></span>
@@ -63,21 +92,36 @@
     <title type="text">第三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/3_week.html"/>
-    <updated>2025-09-12T14:45:13.000Z</updated>
+    <updated>2025-09-19T15:39:52.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 14 星期日</strong><br>
-<strong>结束: 2025 09 1x 星期五</strong><br>
-<strong>额外自习: 2025 09 1x 星期六</strong></p>
+<strong>结束: 2025 09 20 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
-<h2>The End</h2>
-]]></summary>
+<h3>1. 自习</h3>
+<p>又是哪个班在卷了?是5楼某些班级带头周五自愿~~(强制)~~留校自习,然后搞得楼上楼下纷纷学习搞周五强制留校自习了.<br>
+据说好像是曲老师的班带头的?<br>
+然后我们班也是不出意料的周五晚上强制留校自习了(好像对外说是自愿),不想留需要请假说明情况.隔壁 A01 也差不多,而且只有六个请假名额.<br>
+由于看似自愿实质上强制(在无特殊情况下),因此日期的"额外自习"栏目也是直接删了算了.<br>
+双休-无,被卷无的.<br>
+<s>手机是别想带了,露头就秒.</s><br>
+我这个心脏折腾不起半夜寝室玩手机(bushi).</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 14 星期日</strong><br>
-<strong>结束: 2025 09 1x 星期五</strong><br>
-<strong>额外自习: 2025 09 1x 星期六</strong></p>
+<strong>结束: 2025 09 20 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
+<h3>1. 自习</h3>
+<p>又是哪个班在卷了?是5楼某些班级带头周五自愿~~(强制)~~留校自习,然后搞得楼上楼下纷纷学习搞周五强制留校自习了.<br>
+据说好像是曲老师的班带头的?<br>
+然后我们班也是不出意料的周五晚上强制留校自习了(好像对外说是自愿),不想留需要请假说明情况.隔壁 A01 也差不多,而且只有六个请假名额.<br>
+由于看似自愿实质上强制(在无特殊情况下),因此日期的"额外自习"栏目也是直接删了算了.<br>
+双休-无,被卷无的.<br>
+<s>手机是别想带了,露头就秒.</s><br>
+我这个心脏折腾不起半夜寝室玩手机(bushi).</p>
+<h3>2. 白板固件 BUG</h3>
+<p>可恶的海康威视的白板固件出了恶性 BUG,只要你进入了高级设置不管你有没有开启单双分屏,重启后机器必定变成单双分屏并且需要恢复出厂设置才能恢复正常,这个恶性 BUG 属实坑.</p>
+<h3>3. 其他</h3>
+<p>最近雨真多,好几天都在下雨,好消息是没碰到体育课,全保住了.<br>
+体育课上某位同学随口说的"大便哥"要来了然后真来了...,随机巡查抓到打牌的,然后一堆人逃窜到别的地方,就算是这样仍然无法阻止打牌的精神(以前拍毕业照的时间还顶风作案).</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-09-12T14:45:13.000Z</published>
@@ -3790,12 +3834,5 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <h3>The End</h3>
 ]]></content>
     <published>2024-09-21T15:36:26.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">我的项目</title>
-    <id>https://docs.yyyyt.top/guide/my_project/</id>
-    <link href="https://docs.yyyyt.top/guide/my_project/"/>
-    <updated>2024-09-16T18:20:15.000Z</updated>
-    <published>2024-09-16T18:18:53.000Z</published>
   </entry>
 </feed>
