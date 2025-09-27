@@ -6,14 +6,21 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 26 Sep 2025 16:03:14 GMT</pubDate>
-    <lastBuildDate>Fri, 26 Sep 2025 16:03:14 GMT</lastBuildDate>
+    <pubDate>Sat, 27 Sep 2025 07:12:06 GMT</pubDate>
+    <lastBuildDate>Sat, 27 Sep 2025 07:12:06 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>神经表情包</title>
+      <link>https://docs.yyyyt.top/album/stickers/%E7%A5%9E%E7%BB%8F%E8%A1%A8%E6%83%85%E5%8C%85.html</link>
+      <guid>https://docs.yyyyt.top/album/stickers/%E7%A5%9E%E7%BB%8F%E8%A1%A8%E6%83%85%E5%8C%85.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">神经表情包</source>
+      <pubDate>Sat, 27 Sep 2025 07:11:17 GMT</pubDate>
+    </item>
     <item>
       <title>第四周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/4_week.html</link>
@@ -34,7 +41,7 @@
 二中笑传之Crowd Crowd Body(人挤人).<br>
 <s>话说六层楼只有两个楼梯合理吗?</s></p>
 <h3>3. 其他</h3>
-<p>周日开始联考,一天半时间~~(为啥不是一天极速版)~~.<br>
+<p>周日开始联考,一天半时间 <s>(为啥不是一天极速版)</s>.<br>
 体育课又因为下雨无了一节.<br>
 <s>又被叫去当志愿者填表了,填助学金申请的表.</s><br>
 体检费忘带了,班里有一半人都没带上,我也忘了,草.<br>
@@ -2716,20 +2723,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <p>1.下周联考</p>
 <p>乐死了,又要考试</p>
 <h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://docs.yyyyt.top/site/links.html</link>
-      <guid>https://docs.yyyyt.top/site/links.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">友情链接</source>
-      <description>我自己的站点 其他站点友链</description>
-      <category>站点</category>
-      <pubDate>Sat, 21 Sep 2024 17:27:33 GMT</pubDate>
-      <content:encoded><![CDATA[<p>我自己的站点</p>
-<div class="vp-card-container">
-</div>
-<p>其他站点友链</p>
 ]]></content:encoded>
     </item>
   </channel>

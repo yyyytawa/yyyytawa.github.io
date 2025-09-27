@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-09-26T16:03:14.786Z</updated>
+  <updated>2025-09-27T07:12:06.229Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -12,10 +12,17 @@
   <category term="技术"/>
   <category term="站点"/>
   <entry>
+    <title type="text">神经表情包</title>
+    <id>https://docs.yyyyt.top/album/stickers/%E7%A5%9E%E7%BB%8F%E8%A1%A8%E6%83%85%E5%8C%85.html</id>
+    <link href="https://docs.yyyyt.top/album/stickers/%E7%A5%9E%E7%BB%8F%E8%A1%A8%E6%83%85%E5%8C%85.html"/>
+    <updated>2025-09-27T07:11:17.000Z</updated>
+    <published>2025-09-27T07:11:17.000Z</published>
+  </entry>
+  <entry>
     <title type="text">第四周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/4_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/4_week.html"/>
-    <updated>2025-09-26T16:02:27.000Z</updated>
+    <updated>2025-09-27T07:11:17.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 21 星期日</strong><br>
 <strong>结束: 2025 09 26 星期五</strong></p>
@@ -41,7 +48,7 @@
 二中笑传之Crowd Crowd Body(人挤人).<br>
 <s>话说六层楼只有两个楼梯合理吗?</s></p>
 <h3>3. 其他</h3>
-<p>周日开始联考,一天半时间~~(为啥不是一天极速版)~~.<br>
+<p>周日开始联考,一天半时间 <s>(为啥不是一天极速版)</s>.<br>
 体育课又因为下雨无了一节.<br>
 <s>又被叫去当志愿者填表了,填助学金申请的表.</s><br>
 体检费忘带了,班里有一半人都没带上,我也忘了,草.<br>
@@ -3837,23 +3844,5 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <h3>The End</h3>
 ]]></content>
     <published>2024-10-04T02:01:13.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">友情链接</title>
-    <id>https://docs.yyyyt.top/site/links.html</id>
-    <link href="https://docs.yyyyt.top/site/links.html"/>
-    <updated>2025-07-18T23:36:58.000Z</updated>
-    <summary type="html"><![CDATA[<p>我自己的站点</p>
-<div class="vp-card-container">
-</div>
-<p>其他站点友链</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>我自己的站点</p>
-<div class="vp-card-container">
-</div>
-<p>其他站点友链</p>
-]]></content>
-    <category term="站点"/>
-    <published>2024-09-21T17:27:33.000Z</published>
   </entry>
 </feed>
