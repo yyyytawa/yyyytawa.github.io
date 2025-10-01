@@ -6,14 +6,29 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 30 Sep 2025 13:23:50 GMT</pubDate>
-    <lastBuildDate>Tue, 30 Sep 2025 13:23:50 GMT</lastBuildDate>
+    <pubDate>Wed, 01 Oct 2025 14:51:40 GMT</pubDate>
+    <lastBuildDate>Wed, 01 Oct 2025 14:51:40 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>公告</category>
     <category>技术</category>
     <category>站点</category>
+    <item>
+      <title>第六周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/6_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/6_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第六周</source>
+      <description>日期: 开始: 2025 10 08 星期三 结束: 2025 10 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 10 08 星期三</strong><br>
+<strong>结束: 2025 10 xx 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>神经表情包</title>
       <link>https://docs.yyyyt.top/album/stickers/%E7%A5%9E%E7%BB%8F%E8%A1%A8%E6%83%85%E5%8C%85.html</link>
@@ -54,13 +69,34 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/5_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/5_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第五周</source>
-      <description>日期: 开始: 2025 09 27 星期六 结束: 2025 09 2x 星期六 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2025 09 27 星期六 结束: 2025 09 30 星期二 本周内容: 1. 联考 这回卷子标题不叫 XX 大联考了,叫啥&amp;quot;顶尖计划&amp;quot;了. 当然我们的联考还是一如既往的&amp;quot;创&amp;quot;(把人创死的那种)新,分数么......你猜吧. 周日就开始考试了,到周一中午结束. 2. 周一特别篇 本次周一特别篇为-谁是卧底,但是有点升级的版本.推出...</description>
       <pubDate>Fri, 19 Sep 2025 15:39:52 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 09 27 星期六</strong><br>
-<strong>结束: 2025 09 2x 星期六</strong></p>
+<strong>结束: 2025 09 30 星期二</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
+<h3>1. 联考</h3>
+<p>这回卷子标题不叫 XX 大联考了,叫啥"顶尖计划"了.<br>
+当然我们的联考还是一如既往的"创"(把人创死的那种)新,分数么......你猜吧.<br>
+周日就开始考试了,到周一中午结束.<br>
+<s>不是月考那种一天极速版我不认可.</s></p>
+<h3>2. 周一特别篇</h3>
+<p><s>这回不是周四特别篇了,改名周一特别篇了.</s><br>
+本次周一特别篇为-谁是卧底,但是有点升级的版本.推出了大乱斗模式,规则这边懒得说了,反正就是升级版本.<br>
+DOCS-TSHS-DAYDREAM 开始的时候还不小心把自己的词念出来的,然后开始的时候更逆天,"宋词"听成"松子","唐诗"听成"唐氏",把 DOCS-TSHS-WCF 搞得一脸懵逼重新给大家说词了.后面甚至还给 DOCS-TSHS-DAYDREAM 分词分了个"鸡巴".<s>当然后面肯定还有必不可少的互相报复环节.</s><br>
+当然有的猜词还是比较难的,例如说"行李箱"和"旅行箱",说实话就言语描述比较难以找到啥区别了.<br>
+然后剩下的不说了.</p>
+<h3>3. 国庆</h3>
+<p>国庆八天假,据说后面还要调休.<br>
+这回最后一节课刚好是体育课,提前收拾好东西然后上完体育课就可以直接跑路了.<br>
+笑话之某同学(不是我)在体育课能比较自由的玩手机但是到家里就要严格管控了.<br>
+想到一个事情,物理卷子好几次都是少一堆想着可以不写了,结果后面课代表又去复印了一些补上了,所以说卷子还是跑不了啊.<br>
+数学卷子到差不多快最后了才送到,然后作业额外喜提一张卷子.<br>
+反正老师布置了"适量"作业.</p>
+<h3>4. 其他</h3>
+<p>河南教育考试院出了个啥高考之友?我这边全都要的话要180(120+60,就是物理类的要比历史类的每个多贵20),然后等高考之后才能拿到书,自愿订购.<br>
+下周要重新排位了,然后那边老师还准备搞个单人单桌的位置专门给那些爱说话的.<br>
+然后没啥可写的了,散会.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -209,6 +245,20 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
 ]]></content:encoded>
     </item>
     <item>
+      <title>暑假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
+      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Github 的 SSH 被阻断以及部分解决方法</title>
       <link>https://docs.yyyyt.top/articles/tech/2025/0829.html</link>
       <guid>https://docs.yyyyt.top/articles/tech/2025/0829.html</guid>
@@ -265,20 +315,6 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -713,7 +749,7 @@ DOCS-TSHS-WS 还拿无人机搞偷拍.<br>
 <h3>3. 心理测评</h3>
 <p>这个不多说,周四搞得心理测评填表.班里一半多人都登不上,密码是123456结果一堆人是123456+后面的班级,原因是后面班级的表和密码挨的太近,让人误以为是这个了,还有没记班级号的等.也有输错密码把自己账号锁住的.(me)总的来说就是各种都有,后面周五统一又给那些登不上的重新回去填表了.</p>
 <h3>4. 宠物</h3>
-<p>众所周知, DOCS-TSHS-WCF 在周一的时候逮了个壁虎,然后带到了寝室里面,对此某人<!--DOCS-TSHS-Z001-->特别反感说了一堆.周二早上又逮到一只.周四还逮到个虫.<br>
+<p>众所周知, DOCS-TSHS-WCF 在周一的时候逮了个壁虎,然后带到了寝室里面,对此某人<!-- DOCS-TSHS-Z001 -->特别反感说了一堆.周二早上又逮到一只.周四还逮到个虫.<br>
 有天 DOCS-TSHS-WCF 下午去找壁虎把 DOCS-TSHS-DUSTY 吓了一跳,原因是壁虎就在他肩膀上面.<br>
 还给壁虎喂糖糊,把壁虎全给染白了.也有把壁虎搞断尾的,还有拽着壁虎尾巴转圈圈,对此 DOCS-TSHS-WS 都感觉有点初生了.<br>
 玩壁虎玩的了.</p>
@@ -721,7 +757,7 @@ DOCS-TSHS-WS 还拿无人机搞偷拍.<br>
 <p>又是来到了本周周五特别篇,那么本周的主题是:<br>
 谁 是 卧 底 !<br>
 据说还要加真心话大冒险但是后面说不要了.<br>
-某人&lt;!--DOCS-TSHS-Z001&gt;和 DOCS-TSHS-DAYDREAM 一起联合票 DOCS-TSHS-WCF .不管是不是卧底先投票票出去再说.<br>
+某人<!-- DOCS-TSHS-Z001 -->和 DOCS-TSHS-DAYDREAM 一起联合票 DOCS-TSHS-WCF .不管是不是卧底先投票票出去再说.<br>
 整个游戏氛围非常的好笑.</p>
 <h3>6. 其他</h3>
 <p>下周三就要期末考试了.</p>
@@ -2180,28 +2216,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -2264,6 +2278,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2471,32 +2507,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
       <enclosure url="https://img.yyyyt.top/meme/yhchat/9120256/图标梗/勇敢去做.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>同学间的爱恨情仇</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">同学间的爱恨情仇</source>
-      <description>本文写于 20241026-20241026 P1.土豆和某同学与石同学 土豆(王同学的外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容: 某同学: 土豆你为啥给石同学讲题,不给我讲题? 土豆: 那是你选的时间不好,刚好就是在我忙的时候 某同学: 我看你就是喜欢她 据说某同学还曾经抱怨过土豆讲题讲错 P2.赵同学抄生物笔记 ...</description>
-      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本文写于 20241026-20241026</p>
-<div style="text-align:center">
-<h3>P1.土豆和某同学与石同学</h3>
-</div>
-<p>土豆(王同学的<s>CNAME</s>外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
-<blockquote>
-<p>某同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
-土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
-某同学: 我看你就是喜欢她</p>
-</blockquote>
-<p>据说某同学还曾经抱怨过土豆讲题讲错</p>
-<div style="text-align:center">
-<h3>P2.赵同学抄生物笔记</h3>
-</div>
-<p>具体原因未知,可能与某个人有关(据说)?<br>
-但是已经弄到影响写作业了,看样子不轻</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
       <title>第八周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/8_week.html</guid>
@@ -2519,6 +2529,32 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 <p>牛同学,刘同学和赵同学周三第四节微机课旷课出去打球.班长上微机课总感觉少了啥人,然后一查人刚好查到那三位.喜提班主任喊出去罚站一天+给家长打电话(A01同学: 啥时候班主任允许出去打球了?)</p>
 <h3>4.某同学和石同学和土豆</h3>
 <p>某同学觉得土豆给搞出来许多负面东西(具体内容不列了).也觉得石同学像是喜欢他上了一样(或许)</p>
+<h3>The End</h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>同学间的爱恨情仇</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/10/202410260.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">同学间的爱恨情仇</source>
+      <description>本文写于 20241026-20241026 P1.土豆和某同学与石同学 土豆(王同学的外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容: 某同学: 土豆你为啥给石同学讲题,不给我讲题? 土豆: 那是你选的时间不好,刚好就是在我忙的时候 某同学: 我看你就是喜欢她 据说某同学还曾经抱怨过土豆讲题讲错 P2.赵同学抄生物笔记 ...</description>
+      <pubDate>Sat, 26 Oct 2024 15:43:45 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文写于 20241026-20241026</p>
+<div style="text-align:center">
+<h3>P1.土豆和某同学与石同学</h3>
+</div>
+<p>土豆(王同学的<s>CNAME</s>外号)(男)和某同学(男)就给石同学(女)讲题一事而争吵,以下为部分聊天内容:</p>
+<blockquote>
+<p>某同学: 土豆你为啥给石同学讲题,不给我讲题?<br>
+土豆: 那是你选的时间不好,刚好就是在我忙的时候<br>
+某同学: 我看你就是喜欢她</p>
+</blockquote>
+<p>据说某同学还曾经抱怨过土豆讲题讲错</p>
+<div style="text-align:center">
+<h3>P2.赵同学抄生物笔记</h3>
+</div>
+<p>具体原因未知,可能与某个人有关(据说)?<br>
+但是已经弄到影响写作业了,看样子不轻</p>
 <h3>The End</h3>
 ]]></content:encoded>
     </item>
@@ -2710,22 +2746,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <p>2.体检</p>
 <p>讲个笑话 我猜知道我是低血压(120/50)<br>
 还有就是我也才知道我是色弱(一大堆人都是)</p>
-<h3>The End</h3>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第七周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/7_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第七周</source>
-      <description>日期: 开始: 20241020 星期日 结束: 20241026 星期六 本周内容: 1.下周联考 乐死了,又要考试 The End</description>
-      <pubDate>Fri, 04 Oct 2024 02:01:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241020 星期日</strong><br>
-<strong>结束: 20241026 星期六</strong></p>
-<h3>本周内容:</h3>
-<p>1.下周联考</p>
-<p>乐死了,又要考试</p>
 <h3>The End</h3>
 ]]></content:encoded>
     </item>
