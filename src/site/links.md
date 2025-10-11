@@ -96,7 +96,7 @@ otherlinks:
    logo: https://blog.yeqing.net/upload/ea055268c8792945de3b9c8d00e1cd08.jpeg
    url: https://blog.yeqing.net/
    repo: https://github.com/Yeqingky/
-   preview: https://blog.yeqing.net/upload/72a978981def056c292a8ed1709f8387_1.webp
+   preview: https://list.yeqing.net/d/cos/image/45ad978e8d0e49b401704e93d0d790f7.png
 ---
 
 我自己的站点
