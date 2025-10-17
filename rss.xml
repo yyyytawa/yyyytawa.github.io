@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 12 Oct 2025 02:30:06 GMT</pubDate>
-    <lastBuildDate>Sun, 12 Oct 2025 02:30:06 GMT</lastBuildDate>
+    <pubDate>Fri, 17 Oct 2025 10:24:34 GMT</pubDate>
+    <lastBuildDate>Fri, 17 Oct 2025 10:24:34 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -71,10 +71,35 @@ Byd DOCS-TSHS-CFFA 在周六中午躲在桌子后面玩手机,然后那时候马
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/7_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/7_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第七周</source>
-      <description>日期: 开始: 2025 10 12 星期日 结束: 2025 10 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2025 10 12 星期日 结束: 2025 10 18 星期六 本周内容: 1. 作业多 后面几天作业是真 TM 多,写到死也写不完. 大家都没写完啊,那没事了. 2. 监控来了 没错,我们班主任来装监控了(就是不知道哪来的网,盲猜隔壁的). 这个监控在被看的时候状态灯似乎会变红? 3. 其他 王 GIF 又在中午偷偷玩手机了,为啥...</description>
       <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 10 12 星期日</strong><br>
+<strong>结束: 2025 10 18 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 作业多</h3>
+<p>后面几天作业是真 TM 多,写到死也写不完.<br>
+大家都没写完啊,那没事了.</p>
+<h3>2. 监控来了</h3>
+<p>没错,我们班主任来装监控了(就是不知道哪来的网,盲猜隔壁的).<br>
+这个监控在被看的时候状态灯似乎会变红?</p>
+<h3>3. 其他</h3>
+<p>王 GIF 又在中午偷偷玩手机了,为啥周五中午不玩了?原来是装监控了.<br>
+听说这位晚上打瓦打到11:00-2:00,然后早上语文英语睡觉.<br>
+下周又要联考了,复习速度跟不上考试速度了属于是.<br>
+<s>这回别想这周五半夜偷偷在寝室里面玩手机了,一方面蒋冬青半夜逮玩手机了,另一方面就是出去吃饭时间结束后就要上交了.</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第八周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/8_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/8_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
+      <description>日期: 开始: 2025 10 19 星期日 结束: 2025 10 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 10 19 星期日</strong><br>
 <strong>结束: 2025 10 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -2711,57 +2736,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 优先级: 1<br>
 转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
 </blockquote>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>隐私政策</title>
-      <link>https://docs.yyyyt.top/site/privacy.html</link>
-      <guid>https://docs.yyyyt.top/site/privacy.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">隐私政策</source>
-      <description>本网站部分功能可能涉及您的隐私,建议您完整阅读 概述: &amp;quot;我们&amp;quot;,&amp;quot;我&amp;quot;在此处均指本站 对于协议里面的关键内容我们会使用加粗表示. 信息的收集 我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务 评论系统基于gis...</description>
-      <category>站点</category>
-      <pubDate>Fri, 04 Oct 2024 16:23:29 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本网站部分功能可能涉及您的隐私,建议您完整阅读</p>
-<h1>概述:</h1>
-<ol>
-<li>"我们","我"在此处均指本站</li>
-<li><strong>对于协议里面的关键内容我们会使用加粗表示.</strong></li>
-</ol>
-<h1>信息的收集</h1>
-<ol>
-<li>
-<p>我们会收集您的IP地址,User-Agent(UA),请求URL等基础信息.<strong>这些信息属于网站提供服务的必要基础信息,因此您无法拒绝相关信息收集,如果您拒绝相关信息的收集本站将无法继续提供服务</strong></p>
-</li>
-<li>
-<p>评论系统基于<a href="https://giscus.app/" target="_blank" rel="noopener noreferrer">giscus</a>,如果您使用评论系统将会收集以下信息</p>
-</li>
-</ol>
-<ul>
-<li>IP地址,UA等网站基本功能所必须信息</li>
-<li>您的Github账号的部分信息(如用户名,头像等信息)</li>
-<li>Giscus正常运行的所需其他信息</li>
-</ul>
-<ol start="3">
-<li>
-<p>本网站部署在<a href="https://www.cloudflare.com/developer-platform/pages" target="_blank" rel="noopener noreferrer">Cloudflare Pages</a>,<strong>Cloudflare会收集您的相关信息.包括访问yyyyt.top及子域的所有DNS查询记录</strong>(包括查询名称,查询类型,响应代码,应答服务器的IP等信息).具体内容请查看Cloudflare的隐私政策</p>
-</li>
-<li>
-<p>本站会在本地存储写入一些内容如cf安全防护的相关存储,用于保护网站免受攻击.</p>
-</li>
-</ol>
-<h1>信息的保护</h1>
-<ol>
-<li>
-<p><strong>我们会尽力去保护您的个人信息.由于网络的特殊性,因此无法保证100%不泄露.但是我们会尽力避免泄露事件的发生,如果因我们方面原因失误造成的个人信息泄露由我们负责.对于GitHub等第三方原因造成的泄露我们一概不负责</strong></p>
-</li>
-<li>
-<p><strong>我们原则上不会向任何第三方透露您的信息</strong>,除非</p>
-</li>
-</ol>
-<ul>
-<li>相关法律法规要求将您的信息共享给相关第三方机构.</li>
-<li>回应重大公众事件.</li>
-</ul>
 ]]></content:encoded>
     </item>
   </channel>
