@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 19 Oct 2025 07:26:22 GMT</pubDate>
-    <lastBuildDate>Sun, 19 Oct 2025 07:26:22 GMT</lastBuildDate>
+    <pubDate>Fri, 24 Oct 2025 10:35:18 GMT</pubDate>
+    <lastBuildDate>Fri, 24 Oct 2025 10:35:18 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -89,7 +89,7 @@ Byd DOCS-TSHS-CFFA 在周六中午躲在桌子后面玩手机,然后那时候马
 <s>这回别想这周五半夜偷偷在寝室里面玩手机了,一方面蒋冬青半夜逮玩手机了,另一方面就是出去吃饭时间结束后就要上交了.</s><br>
 当然我们"忘记"了上交,后面晚自习马老师忽然意识到了什么然后主动要收了回去,只是...有的人心念还是不死,有人提出了可以偷偷拿手机,这时候有人问: "要是马老师发现手机少了咋办?","可以周六在马老师来之前偷偷放回去!"有人回答到,于是某人便实施了这个计划.<br>
 只是,周六那天早上有点意外,办公室的门没开,是上锁的.我看到一个人在外面等着,估计是偷偷拿手机的那个,等办公室门开的时候马老师也差不多来了.早上的时候马老师突然喊着一个人,后面似乎早上那个人也被喊了......<br>
-后面老师给第一个被喊的人的家长发消息/打电话,这人可能也拿不到自己的手机了.</p>
+后面老师给第一个被喊的人的家长发消息/打电话,这人可能也拿不到自己的手机了.(后续: 这货手机还是正常活着).</p>
 <p>想到前面老师问家里手机都是咋管理的(类似),然后有位同学的情况是基本上玩不了(家里限制).<br>
 有点惨啊.</p>
 <h3>4. 其他</h3>
@@ -109,10 +109,38 @@ Byd DOCS-TSHS-CFFA 在周六中午躲在桌子后面玩手机,然后那时候马
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/8_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/8_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 2025 10 19 星期日 结束: 2025 10 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2025 10 19 星期日 结束: 2025 10 25 星期六 本周内容: 1. 联考 本次又是联考,联考公司用于创新(创死人的那种). 好消息是这次相对于上回考的还行. 2. 公开课 本周有两节公开课(一节正式一节测试,其实上周也有个测试的,懒得写了). 测试的那节是在 B01 测试,A01 讲课,老师是隔壁的数学老师. 正式的一...</description>
       <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 10 19 星期日</strong><br>
+<strong>结束: 2025 10 25 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 联考</h3>
+<p>本次又是联考,联考公司用于创新(创死人的那种).<br>
+好消息是这次相对于上回考的还行.<br>
+<s>老师吐槽: 化学这个实验题出的不知道干啥的,但是就是一堆错了.</s></p>
+<h3>2. 公开课</h3>
+<p>本周有两节公开课(一节正式一节测试,其实上周也有个测试的,懒得写了).<br>
+测试的那节是在 B01 测试,A01 讲课,老师是隔壁的数学老师.<br>
+正式的一节是在报告厅里面讲课的,老师是五中的某个数学老师.<br>
+公开课 PPT 还出问题了,上课边讲边修.<br>
+感觉正式的那节没有想象中的积极,但是也比平时活跃不少了.</p>
+<h3>3. 自习</h3>
+<p>本周又是喜闻乐见的自愿自习,但是...<br>
+看看时间表吧(注: 只写科目的就是考试):</p>
+<p>|时间|用途|<br>
+|:</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第九周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/9_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/9_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第九周</source>
+      <description>日期: 开始: 2025 10 26 星期日 结束: 2025 10 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 10 26 星期日</strong><br>
 <strong>结束: 2025 10 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -2729,26 +2757,6 @@ PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的
 <p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>
 </div>
 <p>Enjoy it</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>版权声明</title>
-      <link>https://docs.yyyyt.top/site/copyright.html</link>
-      <guid>https://docs.yyyyt.top/site/copyright.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">版权声明</source>
-      <description>本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明 以下为各目录所所使用的第三方转载授权需要遵循的协议/要求: 如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高) 如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则 &amp;quot;*&amp;quot;表示适用于该目录(URL)下所有的文件 目录: /* 优先级: 1 转载前...</description>
-      <category>站点</category>
-      <pubDate>Sun, 06 Oct 2024 13:42:25 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本站写作的文章版权均为yyyyt所有,转载前请遵循版权声明</p>
-<p>以下为各目录所所使用的第三方转载授权需要遵循的协议/要求:</p>
-<p>如果有多个规则同时适用的时候优先遵循优先级高的要求(数字越大表示优先级越高)<br>
-如果文章有写明相关版权要求的优先按照文章上标注的要求来,否则就按照下述规则<br>
-"*"表示适用于该目录(URL)下所有的文件</p>
-<blockquote>
-<p>目录: /*<br>
-优先级: 1<br>
-转载前遵循<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans" target="_blank" rel="noopener noreferrer">CC BY-NC-SA 4.0</a>许可协议</p>
-</blockquote>
 ]]></content:encoded>
     </item>
   </channel>
