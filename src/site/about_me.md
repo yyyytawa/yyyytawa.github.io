@@ -20,7 +20,6 @@ category:
 这个站点也只是在无聊时候创建的,当然也只是玩玩而已.  
 对于现实中的朋友,如果你很好奇这个站点如何搭建的话,也不要来问我.  
 ~~因为我也不会教你.~~  
-我只会告诉你用的[Vuepress-theme-hope](https://theme-hope.vuejs.press/zh/)+[Cloudflare Pages](https://www.cloudflare.com/developer-platform/products/pages/),其实我这边更推荐[Netlify](https://www.netlify.com/),对于大陆访客更友好,~~但是我这边不知道为啥注册就封我的号.~~  
 ~~当然我现实中的人大概率也不知道这个网站吧......~~  
 希望这个站点就安安静静的度过去就行了,反正也不指望啥.  
 毕竟本来就是玩玩的东西,不需要费太多精力在上面.    
