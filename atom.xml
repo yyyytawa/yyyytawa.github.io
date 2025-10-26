@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-10-25T15:37:06.447Z</updated>
+  <updated>2025-10-26T07:18:46.213Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -12,10 +12,32 @@
   <category term="技术"/>
   <category term="站点"/>
   <entry>
+    <title type="text">感觉假期啥也没干</title>
+    <id>https://docs.yyyyt.top/articles/daily/2025/10/260.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/10/260.html"/>
+    <updated>2025-10-26T07:17:51.000Z</updated>
+    <summary type="html"><![CDATA[<p>感觉一天假期啥也没干,啥也干不了,有点无聊了.<br>
+我的双休啊!!!<br>
+被"自愿"自习给杀死了.<br>
+<s>只能在这里吐槽了.</s><br>
+<s>下回该治的就是熬夜和反复确认问题了.</s></p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p>感觉一天假期啥也没干,啥也干不了,有点无聊了.<br>
+我的双休啊!!!<br>
+被"自愿"自习给杀死了.<br>
+<s>只能在这里吐槽了.</s><br>
+<s>下回该治的就是熬夜和反复确认问题了.</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
+    <published>2025-10-26T00:00:00.000Z</published>
+  </entry>
+  <entry>
     <title type="text">国庆假期结束了</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/10/080.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/10/080.html"/>
-    <updated>2025-10-12T02:28:50.000Z</updated>
+    <updated>2025-10-26T07:17:51.000Z</updated>
     <summary type="html"><![CDATA[<p>8天假期结束了,又要返校了(我的假期啊啊啊啊).<br>
 这回4:00返校,而且作业没写完.<br>
 好像见那边高二的门都没开(3:40时候看到是这样的),可能是因为教育局看得严所以说不能提前开门,但是科技楼肯定是开了的,毕竟没有教育局的监控.<br>
@@ -33,7 +55,7 @@
 <h2>The End</h2>
 ]]></content>
     <category term="高中"/>
-    <published>2025-10-08T07:51:02.000Z</published>
+    <published>2025-10-08T00:00:00.000Z</published>
   </entry>
   <entry>
     <title type="text">第六周</title>
@@ -3548,47 +3570,5 @@ PS:这个台子后面还用来开高三的PK赛了</p>
 </section>
 ]]></content>
     <published>2024-10-19T16:22:04.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">2.雨云免费游戏云的一些操作</title>
-    <id>https://docs.yyyyt.top/articles/tech/2024/2.html</id>
-    <link href="https://docs.yyyyt.top/articles/tech/2024/2.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>
-<p>本文写于20241012</p>
-<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>
-<div class="hint-container caution">
-<p class="hint-container-title">警告</p>
-<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>
-</div>]]></summary>
-    <content type="html"><![CDATA[<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>
-<p>本文写于20241012</p>
-<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>
-<div class="hint-container caution">
-<p class="hint-container-title">警告</p>
-<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>
-</div>
-<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>
-顺带重装一下系统(纯环境的就行)<br>
-然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>
-PS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>
-<h3>使用cloudflare tunnel来访问AList:</h3>
-<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>
-<p><a href="http://1.cf" target="_blank" rel="noopener noreferrer">1.cf</a> tunnel安装</p>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-bash"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">curl</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -L</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64'</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> -o</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./cloudflared</span></span>
-<span class="line"></span>
-<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">chmod</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> +x</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> ./cloudflared</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>
-<p><a href="http://2.cf" target="_blank" rel="noopener noreferrer">2.cf</a> tunnel的启动</p>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-bash"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">./cloudflared</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> service</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> install</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 你的Token</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">cf</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> zero</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> trust创建隧道的时候有,install后面的一串乱码就是token</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> 请勿泄露</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">)</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>
-<div class="hint-container note">
-<p class="hint-container-title">注</p>
-<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>
-</div>
-<p>Enjoy it</p>
-]]></content>
-    <category term="技术"/>
-    <published>2024-10-12T16:13:22.000Z</published>
   </entry>
 </feed>

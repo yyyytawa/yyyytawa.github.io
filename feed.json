@@ -6,13 +6,26 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "感觉假期啥也没干",
+      "url": "https://docs.yyyyt.top/articles/daily/2025/10/260.html",
+      "id": "https://docs.yyyyt.top/articles/daily/2025/10/260.html",
+      "summary": "感觉一天假期啥也没干,啥也干不了,有点无聊了. 我的双休啊!!! 被\"自愿\"自习给杀死了. The End",
+      "content_html": "<p>感觉一天假期啥也没干,啥也干不了,有点无聊了.<br>\n我的双休啊!!!<br>\n被\"自愿\"自习给杀死了.<br>\n<s>只能在这里吐槽了.</s><br>\n<s>下回该治的就是熬夜和反复确认问题了.</s></p>\n<h2>The End</h2>\n",
+      "date_published": "2025-10-26T00:00:00.000Z",
+      "date_modified": "2025-10-26T07:17:51.000Z",
+      "authors": [],
+      "tags": [
+        "高中"
+      ]
+    },
+    {
       "title": "国庆假期结束了",
       "url": "https://docs.yyyyt.top/articles/daily/2025/10/080.html",
       "id": "https://docs.yyyyt.top/articles/daily/2025/10/080.html",
       "summary": "8天假期结束了,又要返校了(我的假期啊啊啊啊). 这回4:00返校,而且作业没写完. 好像见那边高二的门都没开(3:40时候看到是这样的),可能是因为教育局看得严所以说不能提前开门,但是科技楼肯定是开了的,毕竟没有教育局的监控. 下周六见(可恶的调休). 然后没啥话可以说的了. The End",
       "content_html": "<p>8天假期结束了,又要返校了(我的假期啊啊啊啊).<br>\n这回4:00返校,而且作业没写完.<br>\n好像见那边高二的门都没开(3:40时候看到是这样的),可能是因为教育局看得严所以说不能提前开门,但是科技楼肯定是开了的,毕竟没有教育局的监控.<br>\n<s>我好像忘了选座这个事了.</s><br>\n下周六见(可恶的调休).<br>\n然后没啥话可以说的了.</p>\n<h2>The End</h2>\n",
-      "date_published": "2025-10-08T07:51:02.000Z",
-      "date_modified": "2025-10-12T02:28:50.000Z",
+      "date_published": "2025-10-08T00:00:00.000Z",
+      "date_modified": "2025-10-26T07:17:51.000Z",
       "authors": [],
       "tags": [
         "高中"
@@ -1128,19 +1141,6 @@
       "date_modified": "2024-12-14T15:00:05.000Z",
       "authors": [],
       "tags": []
-    },
-    {
-      "title": "2.雨云免费游戏云的一些操作",
-      "url": "https://docs.yyyyt.top/articles/tech/2024/2.html",
-      "id": "https://docs.yyyyt.top/articles/tech/2024/2.html",
-      "summary": "使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等 本文写于20241012 众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?) 警告 以下操作可能涉及违反相关用户协议...",
-      "content_html": "<p><strong>使用雨云的免费游戏云(MCSM面板)搭建自己的AList/Cloudreve等</strong></p>\n<p>本文写于20241012</p>\n<p>众所周知,雨云给了个积分兑换的功能,但是没有云服务器 只有游戏云还能看点(配置还算不错?只可惜是个面板) 所以本期搞个活 在游戏云的MCSM面板上尝试搭建AList(当然你也可以试试其他的,例如说远程命令?)</p>\n<div class=\"hint-container caution\">\n<p class=\"hint-container-title\">警告</p>\n<p>以下操作可能涉及违反相关用户协议,请谨慎操作</p>\n</div>\n<p>首先,我们先弄一个游戏云玩玩(MCSM面板的)<br>\n顺带重装一下系统(纯环境的就行)<br>\n然后登入面板 找到启动脚本修改一下就行(记得修改alist文件的权限)<br>\nPS:雨云貌似阻断了所有http的入站连接(也就是NAT映射是不行的),所以你需要看下面的教程来解决访问问题</p>\n<h3>使用cloudflare tunnel来访问AList:</h3>\n<p>这边只演示cloudflare tunnel的,FRP的应该我不需要教吧......</p>\n<p><a href=\"http://1.cf\" target=\"_blank\" rel=\"noopener noreferrer\">1.cf</a> tunnel安装</p>\n<div class=\"language-bash line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"bash\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-bash\"><span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">curl</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> -L</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> 'https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-amd64'</span><span style=\"--shiki-light:#986801;--shiki-dark:#D19A66\"> -o</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> ./cloudflared</span></span>\n<span class=\"line\"></span>\n<span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">chmod</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> +x</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> ./cloudflared</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><p>上面内容复制到启动脚本里面 执行一下 如果遇到Github不能访问的话可以试一下mirror</p>\n<p><a href=\"http://2.cf\" target=\"_blank\" rel=\"noopener noreferrer\">2.cf</a> tunnel的启动</p>\n<div class=\"language-bash line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"bash\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-bash\"><span class=\"line\"><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">./cloudflared</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> service</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> install</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> 你的Token</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">(</span><span style=\"--shiki-light:#4078F2;--shiki-dark:#61AFEF\">cf</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> zero</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> trust创建隧道的时候有,install后面的一串乱码就是token</span><span style=\"--shiki-light:#50A14F;--shiki-dark:#98C379\"> 请勿泄露</span><span style=\"--shiki-light:#383A42;--shiki-dark:#ABB2BF\">)</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div></div></div><p>也是复制到启动脚本前面启动一下就行</p>\n<div class=\"hint-container note\">\n<p class=\"hint-container-title\">注</p>\n<p>记得把cf tunnel的启动命令复制到启动脚本的前面,不然cf tunnel不会随着自启动</p>\n</div>\n<p>Enjoy it</p>\n",
-      "date_published": "2024-10-12T16:13:22.000Z",
-      "date_modified": "2025-02-04T06:14:52.000Z",
-      "authors": [],
-      "tags": [
-        "技术"
-      ]
     }
   ]
 }
