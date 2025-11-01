@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 31 Oct 2025 10:33:29 GMT</pubDate>
-    <lastBuildDate>Fri, 31 Oct 2025 10:33:29 GMT</lastBuildDate>
+    <pubDate>Sat, 01 Nov 2025 15:46:27 GMT</pubDate>
+    <lastBuildDate>Sat, 01 Nov 2025 15:46:27 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -169,7 +169,7 @@ Byd DOCS-TSHS-CFFA 在周六中午躲在桌子后面玩手机,然后那时候马
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/9_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/9_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第九周</source>
-      <description>日期: 开始: 2025 10 26 星期日 结束: 2025 11 01 星期六 本周内容: 1. 作业多xN 还是日常作业多了,日常写不完. 好消息是马老师知道关心学生,进行一定的鼓励. 2. 其他事情 周四莫名奇妙不跑操?其他班都跑了就咱班没跑,不知道为啥,反正只是按照老师的要求照做了. 马老师体育课被留到楼上了,原因是马老师数学不及格导致马老师...</description>
+      <description>日期: 开始: 2025 10 26 星期日 结束: 2025 11 01 星期六 本周内容: 1. 作业多xN 还是日常作业多了,日常写不完. 好消息是马老师知道关心学生,进行一定的鼓励. &amp;quot;自愿&amp;quot;自习又是一堆考试. 2. 表白墙事件 V2.0 本次是由于某人(课代表)因为不往记作业的本上写当天作业,被人挂到了学校的表白墙上,还是&amp;quot;匿名&amp;quot;投稿的. 这...</description>
       <pubDate>Wed, 01 Oct 2025 14:50:50 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 10 26 星期日</strong><br>
@@ -177,11 +177,21 @@ Byd DOCS-TSHS-CFFA 在周六中午躲在桌子后面玩手机,然后那时候马
 <h2>本周内容:</h2>
 <h3>1. 作业多xN</h3>
 <p>还是日常作业多了,日常写不完.<br>
-好消息是马老师知道关心学生,进行一定的鼓励.</p>
-<h3>2. 其他事情</h3>
+好消息是马老师知道关心学生,进行一定的鼓励.<br>
+"自愿"自习又是一堆考试.</p>
+<h3>2. 表白墙事件 V2.0</h3>
+<p>本次是由于某人(课代表)因为不往记作业的本上写当天作业,被人挂到了学校的表白墙上,还是"匿名"投稿的.<br>
+这人周五晚上自习的时候道歉我才知道这个事情的.<br>
+<s>这件事情告诉我们要小心点,不然啥时间得罪到某些人给你挂表白墙上就不好玩了--某人(意思大概是这样的).</s><br>
+<s>所以说把这个事情写到网站上面了,不过放心不会挂人.</s><br>
+<s>毕竟还有某人(不是上文的那位)还想给老师挂小红书上面.</s><br>
+<s>求求你们能不能安省点,留校自习期间喜欢搞一些炸裂的事情搞得又要加更.</s><br>
+以前也有人在上面骂老师被查的.</p>
+<h3>3. 其他事情</h3>
 <p>周四莫名奇妙不跑操?其他班都跑了就咱班没跑,不知道为啥,反正只是按照老师的要求照做了.<br>
 马老师体育课被留到楼上了,原因是马老师数学不及格导致马老师被说了,于是马老师给马老师补习数学.<br>
-高二周三周四联考.周四中午-可能是最顺心的午饭,至少能用非一次性筷子了.</p>
+高二周三周四联考.周四中午-可能是最顺心的午饭,至少能用非一次性筷子了.<br>
+感谢物理课代表把周六考试的卷子给压下来了,周六没有物理考试.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -271,7 +281,7 @@ DOCS-TSHS-DAYDREAM 开始的时候还不小心把自己的词念出来的,然后
 <li>增加隐蔽性,安卓系统联网 Windows 也会自动联网(显示的是有线连接,网络6),刚好和那个插着的网线对应(但是这个网线插得似乎不是一体机,是监控),让老师察觉不到是蹭隔壁 WiFi 的.</li>
 </ol>
 <p>Windows 系统这边不多说,我这边的那台 CPU 是 i5-12450H,系统 Windows 10(没看具体版本号),其他的没啥好说的了.<br>
-有冰点还原,只在 C 盘启用了,关闭要密码,但是添加排除白名单不要密码(最多50个目录,总大小最大 10 GB),so许多改系统设置的都用不了了,重启就还原了.</p>
+有冰点还原,只在 C 盘启用了,关闭要密码,so许多改系统设置的都用不了了,重启就还原了.</p>
 <p>安卓这边似乎没啥可玩性,配置 2G 内存+16G 闪存.<br>
 但是好在 WiFi 的网卡比那个 Windows 好了不是一点半点,甚至都可以搜到门卫室的信号(虽然说只有一格),还能搜到学校的网以及 A03 的网,也支持 WiFi6.<br>
 安卓系统有个热点,默认开启的,想关其实也可以awa.</p>
