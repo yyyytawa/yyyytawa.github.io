@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-11-16T07:25:35.137Z</updated>
+  <updated>2025-11-21T10:33:09.531Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -112,16 +112,52 @@ DOCS-TSHS-DAYDREAM 在阳台洗漱,但是几次都没有偷袭成功.<br>
     <title type="text">第十二周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/12_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/12_week.html"/>
-    <updated>2025-11-16T07:24:44.000Z</updated>
+    <updated>2025-11-21T10:32:22.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 11 16 星期日</strong><br>
+<strong>结束: 2025 11 22 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 二百日誓师大会兼期中表彰大会</h3>
+<p>学校周五上午第三四节课开了200日誓师大会以及期中表彰大会.<br>
+期中表彰大会内容就那样,宣誓阶段又是二中话筒传统艺能(断联).这个话筒声音大了似乎会直接断联?<br>
+比较特别的是 B03,曲老师也在读宣誓词.还有一个班女的读的宣誓词(那个班男的就2个...).<br>
+开完会直接吃饭.</p>
+<h3>2. 调位置</h3>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 11 16 星期日</strong><br>
+<strong>结束: 2025 11 22 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 二百日誓师大会兼期中表彰大会</h3>
+<p>学校周五上午第三四节课开了200日誓师大会以及期中表彰大会.<br>
+期中表彰大会内容就那样,宣誓阶段又是二中话筒传统艺能(断联).这个话筒声音大了似乎会直接断联?<br>
+比较特别的是 B03,曲老师也在读宣誓词.还有一个班女的读的宣誓词(那个班男的就2个...).<br>
+开完会直接吃饭.</p>
+<h3>2. 调位置</h3>
+<p>日常期中调位,不过 DOCS-TSHS-LP 和 DOCS-TSHS-WCF 不让坐的太靠近防止说话.<br>
+<s>DOCS-TSHS-WCF: 剩下的位置我没得选.</s><br>
+还有两边都是单人单桌了.<br>
+DOCS-TSHS-LP 有时候还是乱,不过比以前好了些.<br>
+DOCS-TSHS-WS 也调到附近了.</p>
+<h3>3. 其他</h3>
+<p>DOCS-TSHS-WS 迷上玩 PVZ 了,早饭和晚饭时间搁那玩,写这个文章的时候好像打到泳池白天了,估计很快就能通关.<s>(下回丢个有点难度的改版给他玩)</s>.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-10-31T10:32:36.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第十三周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/13_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/13_week.html"/>
+    <updated>2025-11-21T10:32:22.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 11 23 星期日</strong><br>
 <strong>结束: 2025 11 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2025 11 16 星期日</strong><br>
+<p><strong>开始: 2025 11 23 星期日</strong><br>
 <strong>结束: 2025 11 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -635,25 +671,6 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
     <published>2025-08-31T00:00:42.000Z</published>
   </entry>
   <entry>
-    <title type="text">暑假</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html"/>
-    <updated>2025-08-29T14:00:31.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
-<h2>The End</h2>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
-<h2>The End</h2>
-]]></content>
-    <published>2025-08-29T14:00:31.000Z</published>
-  </entry>
-  <entry>
     <title type="text">Github 的 SSH 被阻断以及部分解决方法</title>
     <id>https://docs.yyyyt.top/articles/tech/2025/0829.html</id>
     <link href="https://docs.yyyyt.top/articles/tech/2025/0829.html"/>
@@ -714,6 +731,25 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-08-29T14:00:31.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">暑假</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html"/>
+    <updated>2025-08-29T14:00:31.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-08-29T14:00:31.000Z</published>
@@ -3172,6 +3208,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
@@ -3258,35 +3323,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -3534,17 +3570,6 @@ PS:这个台子后面还用来开高三的PK赛了</p>
     <summary type="html"><![CDATA[<p><s>至于为什么书与诗歌目录会在这下面我也不知道,反正都算文章</s></p>
 ]]></summary>
     <content type="html"><![CDATA[<p><s>至于为什么书与诗歌目录会在这下面我也不知道,反正都算文章</s></p>
-]]></content>
-    <published>2024-11-02T15:33:50.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">公告</title>
-    <id>https://docs.yyyyt.top/site/notice/</id>
-    <link href="https://docs.yyyyt.top/site/notice/"/>
-    <updated>2024-12-08T06:41:56.000Z</updated>
-    <summary type="html"><![CDATA[<p>请看侧边栏</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>请看侧边栏</p>
 ]]></content>
     <published>2024-11-02T15:33:50.000Z</published>
   </entry>
