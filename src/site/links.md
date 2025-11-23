@@ -27,14 +27,8 @@ otherlinks:
  - name: Hehe
    desc: 收录各种破解工具
    logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
-   url: https://hehenya.qrasa.top
+   url: https://heheqz.dpdns.org/
    preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
-
- - name: 机不可失的小站
-   desc: 机不可失的个人网站/博客
-   logo: https://blog.jibukeshi.tech/upload/avatar.jpg
-   url: https://blog.jibukeshi.tech/
-   preview: https://blog.jibukeshi.tech/upload/userbg.png
 
  - name: 龙窝
    desc: 人生近看是悲剧，远看是喜剧
@@ -66,12 +60,18 @@ otherlinks:
    logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
    url: https://blog.qrasa.cn/
    preview: https://img.yyyyt.top/docs/site/links/preview/Qrasa.png
+ 
+ - name: 轻雨Purainity的小站
+   desc: 一位热爱钻研技术、分享经验的互联网爱好者
+   logo: https://jibukeshi.dpdns.org/assets/avatar.png
+   url: https://jibukeshi.dpdns.org/
+   preview: https://jibukeshi.dpdns.org/assets/head-background.jpg
 
- - name: Runoneall の 小破站
-   desc: 一个混迹互联网的普通人
-   logo: https://filecdn.runoneall.nyc.mn/BlogResource/avatar.webp
-   url: https://runoneall.nyc.mn
-   preview: https://img.yyyyt.top/docs/site/links/preview/Runoneall.png
+ - name: QL的blog
+   desc: 额...我没什么想说的...
+   logo: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
+   url: https://blog.qianlinjiaxi.qzz.io
+   preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
  - name: r1a dev
    desc: r1a的开发记录/博客
@@ -87,8 +87,8 @@ otherlinks:
 
  - name: 一个一个一个小站（悲
    desc: 114514个三连的站
-   logo: https://sanlian114514.eu.org/favicon.ico
-   url: https://sanlian114514.eu.org/
+   logo: https://sanlian.qzz.io/favicon.ico
+   url: https://sanlian.qzz.io
    preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
 
  - name: 夜轻Blog
