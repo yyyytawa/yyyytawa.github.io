@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2025-12-14T03:33:00.354Z</updated>
+  <updated>2025-12-14T07:24:12.425Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,68 @@
   <category term="公告"/>
   <category term="技术"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">市墙封锁探究记录</title>
+    <id>https://docs.yyyyt.top/articles/research/2025/12/140.html</id>
+    <link href="https://docs.yyyyt.top/articles/research/2025/12/140.html"/>
+    <updated>2025-12-14T07:23:27.000Z</updated>
+    <summary type="html"><![CDATA[<h3>前情提要:</h3>
+<p>更换新宽带后无法复现,本文仅作以前研究的记录.<br>
+24年(大概)某一天发现自己家宽搭建的 DoT 无法使用,访问自己家宽搭建的网站出现 RST,后续经过测试发现以下现象.<br>
+手机流量,家宽均属于同一个实名用户下的.<br>
+文中举例搭建 DoT 的域名为 <a href="http://dns.example.com" target="_blank" rel="noopener noreferrer">dns.example.com</a>.</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">来源</th>
+<th style="text-align:center">访问目标</th>
+<th style="text-align:center">结果</th>
+<th style="text-align:center">备注</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">本地流量</td>
+<td style="text-align:center">别的正常域名</td>
+<td style="text-align:center">成功</td>
+<td style="text-align:center">解析到家宽 IP 也行</td>
+</tr>
+<tr>
+<td style="text-align:center">本地流量</td>
+<td style="text-align:center"><a href="http://dns.example.com" target="_blank" rel="noopener noreferrer">dns.example.com</a></td>
+<td style="text-align:center">RST</td>
+<td style="text-align:center">解析家宽 IP,其他国内 IP 和国外 IP 都 RST,非80 443也封</td>
+</tr>
+<tr>
+<td style="text-align:center">本地流量</td>
+<td style="text-align:center">*.example.com</td>
+<td style="text-align:center">RST</td>
+<td style="text-align:center">同上</td>
+</tr>
+<tr>
+<td style="text-align:center">本地流量</td>
+<td style="text-align:center">家宽 IP 直接访问</td>
+<td style="text-align:center">成功</td>
+<td style="text-align:center">无</td>
+</tr>
+<tr>
+<td style="text-align:center">家宽</td>
+<td style="text-align:center">正常域名</td>
+<td style="text-align:center">成功</td>
+<td style="text-align:center">无</td>
+</tr>
+</tbody>
+</table>]]></summary>
+    <content type="html"><![CDATA[<h3>前情提要:</h3>
+<p>更换新宽带后无法复现,本文仅作以前研究的记录.<br>
+24年(大概)某一天发现自己家宽搭建的 DoT 无法使用,访问自己家宽搭建的网站出现 RST,后续经过测试发现以下现象.<br>
+手机流量,家宽均属于同一个实名用户下的.<br>
+文中举例搭建 DoT 的域名为 <a href="http://dns.example.com" target="_blank" rel="noopener noreferrer">dns.example.com</a>.</p>
+<p>|来源|访问目标|结果|备注|<br>
+|:</p>
+]]></content>
+    <published>2025-12-14T07:23:27.000Z</published>
+  </entry>
   <entry>
     <title type="text">第十五周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/15_week.html</id>
@@ -800,6 +862,25 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
     <published>2025-08-31T00:00:42.000Z</published>
   </entry>
   <entry>
+    <title type="text">暑假</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html"/>
+    <updated>2025-08-29T14:00:31.000Z</updated>
+    <summary type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2025-08-29T14:00:31.000Z</published>
+  </entry>
+  <entry>
     <title type="text">Github 的 SSH 被阻断以及部分解决方法</title>
     <id>https://docs.yyyyt.top/articles/tech/2025/0829.html</id>
     <link href="https://docs.yyyyt.top/articles/tech/2025/0829.html"/>
@@ -860,25 +941,6 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
-<h2>The End</h2>
-]]></content>
-    <published>2025-08-29T14:00:31.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">暑假</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html"/>
-    <updated>2025-08-29T14:00:31.000Z</updated>
-    <summary type="html"><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
-<h2>The End</h2>
-]]></summary>
-    <content type="html"><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-08-29T14:00:31.000Z</published>
@@ -3337,35 +3399,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
-    <title type="text">会考后感受</title>
-    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
-    <updated>2025-02-04T06:14:52.000Z</updated>
-    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
-    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
-]]></content>
-    <category term="高中"/>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
     <title type="text">第十七周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
@@ -3452,6 +3485,35 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
 ]]></content>
+    <published>2025-01-02T13:52:38.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">会考后感受</title>
+    <id>https://docs.yyyyt.top/articles/daily/2024/12/290.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2024/12/290.html"/>
+    <updated>2025-02-04T06:14:52.000Z</updated>
+    <summary type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>]]></summary>
+    <content type="html"><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content>
+    <category term="高中"/>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
   <entry>
@@ -3619,18 +3681,5 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <h2>The End</h2>
 ]]></content>
     <published>2024-11-23T15:46:37.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">书</title>
-    <id>https://docs.yyyyt.top/books/</id>
-    <link href="https://docs.yyyyt.top/books/"/>
-    <updated>2025-07-18T23:36:58.000Z</updated>
-    <summary type="html"><![CDATA[<h2>目录:</h2>
-<p><a href="/books/unusual-world/" target="_blank">奇怪志</a></p>
-]]></summary>
-    <content type="html"><![CDATA[<h2>目录:</h2>
-<p><a href="/books/unusual-world/" target="_blank">奇怪志</a></p>
-]]></content>
-    <published>2024-11-16T18:02:28.000Z</published>
   </entry>
 </feed>
