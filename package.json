@@ -12,16 +12,16 @@
   },
   "devDependencies": {
     "@types/streamsaver": "^2.0.5",
-    "@vuepress/bundler-vite": "2.0.0-rc.24",
-    "@vuepress/plugin-feed": "2.0.0-rc.112",
-    "@vuepress/plugin-pwa": "2.0.0-rc.112",
+    "@vuepress/bundler-vite": "2.0.0-rc.26",
+    "@vuepress/plugin-feed": "2.0.0-rc.121",
+    "@vuepress/plugin-pwa": "2.0.0-rc.121",
     "artplayer": "^5.3.0",
     "client-zip": "^2.5.0",
-    "sass-embedded": "^1.93.2",
+    "sass-embedded": "^1.96.0",
     "streamsaver": "^2.0.6",
-    "vue": "^3.5.22",
-    "vuepress": "2.0.0-rc.24",
-    "vuepress-theme-hope": "2.0.0-rc.94"
+    "vue": "^3.5.25",
+    "vuepress": "2.0.0-rc.26",
+    "vuepress-theme-hope": "2.0.0-rc.99"
   },
   "packageManager": "pnpm@9.15.5"
 }
