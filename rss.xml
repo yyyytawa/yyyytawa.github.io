@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 14 Dec 2025 07:24:12 GMT</pubDate>
-    <lastBuildDate>Sun, 14 Dec 2025 07:24:12 GMT</lastBuildDate>
+    <pubDate>Fri, 19 Dec 2025 10:33:05 GMT</pubDate>
+    <lastBuildDate>Fri, 19 Dec 2025 10:33:05 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -63,10 +63,30 @@
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/16_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/16_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第十六周</source>
-      <description>日期: 开始: 2025 12 14 星期日 结束: 2025 12 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2025 12 14 星期日 结束: 2025 12 20 星期六 本周内容: 1. 联考 又是每个月基本上不会少的联考,本次是- 去 TM(QTM) 大联考. 我们 QTM 大联考实在是太厉害了,数学少有的时间充足(指的是大题好多不会写,除了第二个大题以外的大题只能做个第一问了).英语又是被七选五炸飞,阅读+七选五总共错5个中七选五贡...</description>
       <pubDate>Fri, 05 Dec 2025 15:32:53 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2025 12 14 星期日</strong><br>
+<strong>结束: 2025 12 20 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 联考</h3>
+<p>又是每个月基本上不会少的联考,本次是- 去 TM(QTM) 大联考.<br>
+我们 QTM 大联考实在是太厉害了,数学少有的时间充足(指的是大题好多不会写,除了第二个大题以外的大题只能做个第一问了).英语又是被七选五炸飞,阅读+七选五总共错5个中七选五贡献三个.化学出的也是离谱,最后一个大题.....算了没时间做,答案有点小离谱.语文少有的前两个选择全错.生物总体难度还行.物理也还行,70多.联考日常罢了.</p>
+<h3>2. 宿舍</h3>
+<p>众所周知, DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 经常有点小打小闹,所以说周四晚上又打起来了 <s>(董卓与吕布)</s>.起因就是 DOCS-TSHS-WCF 的一句挑衅.然后就这样的打起来了,当然也没有赢家就是了.</p>
+<h3>3. 其他</h3>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十七周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/17_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/17_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十七周</source>
+      <description>日期: 开始: 2025 12 21 星期日 结束: 2025 12 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <pubDate>Fri, 05 Dec 2025 15:32:53 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2025 12 21 星期日</strong><br>
 <strong>结束: 2025 12 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -627,20 +647,6 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
 ]]></content:encoded>
     </item>
     <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Github 的 SSH 被阻断以及部分解决方法</title>
       <link>https://docs.yyyyt.top/articles/tech/2025/0829.html</link>
       <guid>https://docs.yyyyt.top/articles/tech/2025/0829.html</guid>
@@ -697,6 +703,20 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>暑假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
+      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -2599,6 +2619,28 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 ]]></content:encoded>
     </item>
     <item>
+      <title>会考后感受</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
+      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
+      <category>高中</category>
+      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
+      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
+然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
+当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
+政治课不出意外就以后永远无了</p>
+<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
+<p>先说一下感受,简单</p>
+<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
+<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
+<p>只能说难度降亿点而已<br>
+还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
+<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>第十七周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</guid>
@@ -2661,28 +2703,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>3.本周无体育课<br>
 这一点不解释,体育课全无</p>
 <h2>The True End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2774,28 +2794,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <h3>3.部分错误理解</h3>
 <p>评价不好=诬陷<br>
 这个我不做评价</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十二周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
-      <description>日期: 开始: 20241124 星期日 结束: 20241130 星期六 本周内容: 1.学校粉刷墙 据悉,学校开展大面积粉刷墙,据说为了领导检查 2.食堂二楼电灯掉落 食堂二楼的某一角电灯忽然脱落(其中的一根线掉落),所幸没有伤人(差点就砸到学生了) 3.被占考场 所以下回能不能选个好时间啊,为啥非要周日占没法多放假 4.家长会 所以是那个大聪明决...</description>
-      <pubDate>Sat, 23 Nov 2024 15:46:37 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241124 星期日</strong><br>
-<strong>结束: 20241130 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.学校粉刷墙<br>
-据悉,学校开展大面积粉刷墙,据说为了领导检查</p>
-<p>2.食堂二楼电灯掉落<br>
-食堂二楼的某一角电灯忽然脱落(其中的一根线掉落),所幸没有伤人(差点就砸到学生了)</p>
-<p>3.被占考场<br>
-所以下回能不能选个好时间啊,为啥非要周日占没法多放假</p>
-<p>4.家长会<br>
-所以是那个大聪明决定周日下午2:30开啊?住校生要哭死</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
