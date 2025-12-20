@@ -28,5 +28,3 @@ category:
 QQ,微信,电话号码等涉及个人隐私的联系方式不会在这里展示.  
 邮箱: [support@yyyyt.top](mailto:support@yyyyt.top)<Badge text="不常看" type="warning"/>
 GitHub: [yyyytawa](https://github.com/yyyytawa)<Badge text="有通知会看" type="note"/>  
-云湖: [yyyyt](https://www.yhchat.com/user/homepage/7354488)<Badge text="没事勿扰" type="danger"/>  
-[文档站交流群](https://yhfx.jwznb.com/share?key=AzLufUpeqlvP&ts=1726939457)<Badge text="不推荐" type="note"/>  
