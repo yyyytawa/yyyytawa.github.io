@@ -6,20 +6,23 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 28 Dec 2025 02:45:55 GMT</pubDate>
-    <lastBuildDate>Sun, 28 Dec 2025 02:45:55 GMT</lastBuildDate>
+    <pubDate>Sun, 28 Dec 2025 03:14:46 GMT</pubDate>
+    <lastBuildDate>Sun, 28 Dec 2025 03:14:46 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <category>研究与探索</category>
     <category>高中</category>
-    <category>公告</category>
     <category>技术</category>
+    <category>观点</category>
+    <category>公告</category>
     <category>站点</category>
     <item>
       <title>市墙封锁探究记录</title>
-      <link>https://docs.yyyyt.top/articles/research/2025/12/140.html</link>
-      <guid>https://docs.yyyyt.top/articles/research/2025/12/140.html</guid>
+      <link>https://docs.yyyyt.top/articles/daily/2025/12/140.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/12/140.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">市墙封锁探究记录</source>
       <description>前情提要: 更换新宽带后无法复现,本文仅作以前研究的记录. 24年(大概)某一天发现自己家宽搭建的 DoT 无法使用,访问自己家宽搭建的网站出现 RST,后续经过测试发现以下现象. 手机流量,家宽均属于同一个实名用户下的. 文中举例搭建 DoT 的域名为 dns.example.com. 而且这个 RST 似乎只要是 TLS 流量而且 SNI 是 ex...</description>
+      <category>研究与探索</category>
       <pubDate>Sun, 14 Dec 2025 07:23:27 GMT</pubDate>
       <content:encoded><![CDATA[<h3>前情提要:</h3>
 <p>更换新宽带后无法复现,本文仅作以前研究的记录.<br>
@@ -684,11 +687,26 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
 ]]></content:encoded>
     </item>
     <item>
+      <title>暑假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
+      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
+      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
+<strong>开始: 20250710</strong><br>
+<strong>结束: 20250831</strong></p>
+<p>本学期暑假没有啥值的记载的大事情.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Github 的 SSH 被阻断以及部分解决方法</title>
-      <link>https://docs.yyyyt.top/articles/tech/2025/0829.html</link>
-      <guid>https://docs.yyyyt.top/articles/tech/2025/0829.html</guid>
+      <link>https://docs.yyyyt.top/articles/daily/2025/08/290.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/08/290.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">Github 的 SSH 被阻断以及部分解决方法</source>
       <description>众所周知,我那边 Github 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 Github 部分 IP 的22惨遭阻断,于是就诞生了这篇文章. 1. 改 IP 部分 IP 的 SSH 22端口尚未阻断,可以通过修改 Hosts 文件,或者是修改 DNS 的返回结果等方式指定到这些 IP 来解决阻断问题. Hosts 文件内容如下....</description>
+      <category>技术</category>
       <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>众所周知,我那边 Github 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 Github 部分 IP 的22惨遭阻断,于是就诞生了这篇文章.</p>
 <h2>1. 改 IP</h2>
@@ -740,20 +758,6 @@ MacOS: <code>/etc/hosts</code></p>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
 也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>暑假</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/summerHoliday.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">暑假</source>
-      <description>日期: 开始: 20250710 结束: 20250831 本学期暑假没有啥值的记载的大事情. The End</description>
-      <pubDate>Fri, 29 Aug 2025 14:00:31 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>日期</strong>:<br>
-<strong>开始: 20250710</strong><br>
-<strong>结束: 20250831</strong></p>
-<p>本学期暑假没有啥值的记载的大事情.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -1403,11 +1407,12 @@ PE课全无,原因: 下雨.<br>
     </item>
     <item>
       <title>CF Workers和CF Pages优选IP</title>
-      <link>https://docs.yyyyt.top/articles/tech/2025/0524.html</link>
-      <guid>https://docs.yyyyt.top/articles/tech/2025/0524.html</guid>
+      <link>https://docs.yyyyt.top/articles/daily/2025/05/240.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/05/240.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">CF Workers和CF Pages优选IP</source>
       <description>众所周知,cf不优选晚高峰体验懂得都懂,延迟几千ms(v6),下载速度几十KB/s,至于为啥你可以大胆问运营商. 优选后极大改善了访问体验,至少在我cf图床上比较明显,晚高峰从原来几十KB/s完全没法用到现在1-2MB/s能用了,不过最终解决大陆访问慢的方案就是国内服务器,或者是换个对大陆路由优化好的线路,but 需要加钱!(PS: CF企业版貌似也救...</description>
-      <pubDate>Sat, 24 May 2025 14:30:02 GMT</pubDate>
+      <category>技术</category>
+      <pubDate>Sat, 24 May 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>众所周知,cf不优选晚高峰体验懂得都懂,延迟几千ms(v6),下载速度几十KB/s,至于为啥你可以大胆问运营商.<br>
 优选后极大改善了访问体验,至少在我cf图床上比较明显,晚高峰从原来几十KB/s完全没法用到现在1-2MB/s能用了,不过最终解决大陆访问慢的方案就是国内服务器,或者是换个对大陆路由优化好的线路,but 需要加钱!(PS: CF企业版貌似也救不了,毕竟线路就那样了)<br>
 本教程会先从相对简单的开始,到后面复杂的难一些的,都无需额外付费(应该没个人能用完免费额度吧),但是有些需要绑支付方式(烂尾工程),看你自己需求了.</p>
@@ -1512,45 +1517,22 @@ DOCS-TSHS-LP 好像出了啥事情,我也不知道,也懒得关心.<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>人民云灵车测评</title>
-      <link>https://docs.yyyyt.top/articles/daily/2025/05/170.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2025/05/170.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">人民云灵车测评</source>
-      <description>警告 服务商因经营不善，收不回成本，服务器母鸡将于2025年11月23日到期并不再续费。 产品信息: 美国马纳萨斯LXC CPU 1vCore 内存 512MiB 磁盘 5GiB NVMe 带宽 2.5Gbps共享 地址 NATv4+IPv6/128 流量 2TiB 架构 LXC(Linux Containers) 现在涨到 5 CNY/月 简评: 低...</description>
-      <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container caution">
-<p class="hint-container-title">警告</p>
-<p>服务商因经营不善，收不回成本，服务器母鸡将于2025年11月23日到期并不再续费。</p>
-</div>
-<h2>产品信息:</h2>
-<p>美国马纳萨斯LXC<br>
-CPU 1vCore<br>
-内存 512MiB<br>
-磁盘 5GiB NVMe<br>
-带宽 2.5Gbps共享<br>
-地址 NATv4+IPv6/128<br>
-流量 2TiB<br>
-架构 LXC(Linux Containers)</p>
-<p><s>2 CNY/月</s> 现在涨到 5 CNY/月</p>
-<p>简评: 低价灵车</p>
-<h2>spiritysdx 融合怪:</h2>
-<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-bash"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">测评频道:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https://t.me/vps_reviews</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">                    </span></span>
-<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">VPS融合怪版本：2025.04.12</span></span>
-<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Shell项目地址：https://github.com/spiritLHLS/ecs</span></span>
-<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Go项目地址</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> [推荐]：https://github.com/oneclickvirt/ecs</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
-    </item>
-    <item>
       <title>人死于&amp;quot;话多&amp;quot;</title>
-      <link>https://docs.yyyyt.top/articles/research/2025/05/160.html</link>
-      <guid>https://docs.yyyyt.top/articles/research/2025/05/160.html</guid>
+      <link>https://docs.yyyyt.top/articles/daily/2025/05/160.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/05/160.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">人死于&amp;quot;话多&amp;quot;</source>
-      <description>反派死于话多,正派也死于话多. ——Unknown 注意 本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为. P0. 序言 此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵. 本文中&amp;quot;话多&amp;quot;既可以指广义上的&amp;quot;话多&amp;quot;,也可以指狭义上的&amp;quot;话多&amp;quot;. 要感谢某个人了,回旋镖旋到自己头上来...</description>
+      <description>反派死于话多,正派也死于话多. ——Unknown 注 文章写的有亿点烂. 注意 本文仅针对相关事件讨论,对事不对人,站点也不提倡挂人行为. P0. 序言 此文在学校的时候就已经在想过了,但是苦于无时间去写,趁着周末有时间便去写一写吧,第一次写长文可能不是很好,望多包涵. 本文中&amp;quot;话多&amp;quot;既可以指广义上的&amp;quot;话多&amp;quot;,也可以指狭义上的&amp;quot;话多&amp;quot;. 要感谢某个人...</description>
+      <category>研究与探索</category>
+      <category>观点</category>
       <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
       <content:encoded><![CDATA[<div style="text-align:center">
 <blockquote>
 <p>反派死于话多,正派也死于话多. ——Unknown</p>
 </blockquote>
+</div>
+<div class="hint-container note">
+<p class="hint-container-title">注</p>
+<p>文章写的有亿点烂.</p>
 </div>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
@@ -1627,6 +1609,35 @@ CPU 1vCore<br>
 不要去随意吐槽这些人,他们争取到的权利或许也能影响到每一个人身上.也希望草台班子,土皇帝这样类似的事件能少一些.</p>
 <h2>The End</h2>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>人民云灵车测评</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/05/170.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/05/170.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">人民云灵车测评</source>
+      <description>警告 服务商因经营不善，收不回成本，服务器母鸡将于2025年11月23日到期并不再续费。 产品信息: 美国马纳萨斯LXC CPU 1vCore 内存 512MiB 磁盘 5GiB NVMe 带宽 2.5Gbps共享 地址 NATv4+IPv6/128 流量 2TiB 架构 LXC(Linux Containers) 现在涨到 5 CNY/月 简评: 低...</description>
+      <pubDate>Sat, 17 May 2025 02:52:52 GMT</pubDate>
+      <content:encoded><![CDATA[<div class="hint-container caution">
+<p class="hint-container-title">警告</p>
+<p>服务商因经营不善，收不回成本，服务器母鸡将于2025年11月23日到期并不再续费。</p>
+</div>
+<h2>产品信息:</h2>
+<p>美国马纳萨斯LXC<br>
+CPU 1vCore<br>
+内存 512MiB<br>
+磁盘 5GiB NVMe<br>
+带宽 2.5Gbps共享<br>
+地址 NATv4+IPv6/128<br>
+流量 2TiB<br>
+架构 LXC(Linux Containers)</p>
+<p><s>2 CNY/月</s> 现在涨到 5 CNY/月</p>
+<p>简评: 低价灵车</p>
+<h2>spiritysdx 融合怪:</h2>
+<div class="language-bash line-numbers-mode" data-highlighter="shiki" data-ext="bash" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-bash"><span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">测评频道:</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379"> https://t.me/vps_reviews</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">                    </span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">VPS融合怪版本：2025.04.12</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Shell项目地址：https://github.com/spiritLHLS/ecs</span></span>
+<span class="line"><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">Go项目地址</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> [推荐]：https://github.com/oneclickvirt/ecs</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div>]]></content:encoded>
     </item>
     <item>
       <title>又有一人走了</title>
@@ -1815,12 +1826,13 @@ R1A 要来批判,男同管理不得行.<br>
 ]]></content:encoded>
     </item>
     <item>
-      <title>5.自建图床</title>
-      <link>https://docs.yyyyt.top/articles/tech/2025/0404.5.%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A.html</link>
-      <guid>https://docs.yyyyt.top/articles/tech/2025/0404.5.%E8%87%AA%E5%BB%BA%E5%9B%BE%E5%BA%8A.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">5.自建图床</source>
+      <title>自建图床</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/04/041.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/04/041.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">自建图床</source>
       <description>概述: 图床对于一个文档来说是必不可少的一部分,对于markdown来说也非常重要,毕竟要插入图片之类的.本教程教你如何用自己的服务器自建图床. 本教程中将使用Caddy作为web服务端,系统为debian12.你也可以选择使用NGINX和其他系统. 本教程只写了80,443可用的情况,实际情况可能会更复杂. 1.安装Caddy 非常简单,几行命令就能...</description>
-      <pubDate>Fri, 04 Apr 2025 06:38:50 GMT</pubDate>
+      <category>技术</category>
+      <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<h2>概述:</h2>
 <p>图床对于一个文档来说是必不可少的一部分,对于markdown来说也非常重要,毕竟要插入图片之类的.本教程教你如何用自己的服务器自建图床.<br>
 本教程中将使用Caddy作为web服务端,系统为debian12.你也可以选择使用NGINX和其他系统.<br>
@@ -1876,25 +1888,6 @@ Caddy默认开启http重定向https, HTTP/2和HTTP/3,这点好评.</p>
 <h2>The End</h2>
 ]]></content:encoded>
       <enclosure url="https://img.yyyyt.top/docs/articles/tech/2025/5/welcome_to_caddy.png" type="image/png"/>
-    </item>
-    <item>
-      <title>&amp;quot;河里&amp;quot;的用户协议</title>
-      <link>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</link>
-      <guid>https://docs.yyyyt.top/articles/research/2025/03/290.2.Unsuitable-terms-of-service.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">&amp;quot;河里&amp;quot;的用户协议</source>
-      <description>警告 本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读. 你好,欢迎你使用我们的产品. 一.概述 &amp;quot;我&amp;quot;,&amp;quot;我们&amp;quot;在本协议中均为&amp;quot;河里无限无责公司&amp;quot;. 对于本条款中的重要内容我们会使用加粗表示</description>
-      <pubDate>Sat, 29 Mar 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container caution">
-<p class="hint-container-title">警告</p>
-<p>本文中的名称均为瞎写,如有雷同纯属巧合.本文中内容未涉及,未提及任何公司,组织等,禁止过度解读.</p>
-</div>
-<p>你好,欢迎你使用我们的产品.</p>
-<h2>一.概述</h2>
-<ol>
-<li>"我","我们"在本协议中均为"河里无限无责公司".</li>
-<li><strong>对于本条款中的重要内容我们会使用加粗表示</strong></li>
-</ol>
-]]></content:encoded>
     </item>
     <item>
       <title>第十周</title>
@@ -2192,16 +2185,16 @@ DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-
 ]]></content:encoded>
     </item>
     <item>
-      <title>4.部分二级域名实现cf优选IP</title>
-      <link>https://docs.yyyyt.top/articles/tech/2025/0301.4.%E9%83%A8%E5%88%86%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0cf%E4%BC%98%E9%80%89IP.html</link>
-      <guid>https://docs.yyyyt.top/articles/tech/2025/0301.4.%E9%83%A8%E5%88%86%E4%BA%8C%E7%BA%A7%E5%9F%9F%E5%90%8D%E5%AE%9E%E7%8E%B0cf%E4%BC%98%E9%80%89IP.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">4.部分二级域名实现cf优选IP</source>
-      <description>如题,本文将使用华为云的dns的分地域解析功能实现域名优选cf cdn ip. 警告 cf的用户协议中禁止优选IP,请自行判断相关风险.目前仅测试us.kg域名,其他二级域名理论可用.一级域名据说检查whois的ns故可能无法使用.已测试(二级域名修改1天左右后没出现掉有效状态,一级域名未测试) 准备材料: cf账号一枚 一个域名 开始操作: 1.先把...</description>
-      <pubDate>Sat, 01 Mar 2025 15:12:41 GMT</pubDate>
+      <title>部分二级域名实现cf优选IP</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/03/010.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/03/010.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">部分二级域名实现cf优选IP</source>
+      <description>如题,本文将使用华为云的dns的分地域解析功能实现域名优选cf cdn ip. 警告 cf的用户协议中禁止优选IP,请自行判断相关风险.目前仅测试us.kg域名,其他二级域名理论可用.一级域名据说检查whois的ns故可能无法使用,实测二级会掉有效状态(但是间隔时间较长),一级域名未测试) 准备材料: cf账号一枚 一个域名 开始操作: 1.先把你的域...</description>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 GMT</pubDate>
       <content:encoded><![CDATA[<p>如题,本文将使用华为云的dns的分地域解析功能实现域名优选cf cdn ip.</p>
 <div class="hint-container caution">
 <p class="hint-container-title">警告</p>
-<p>cf的用户协议中禁止优选IP,请自行判断相关风险.目前仅测试us.kg域名,其他二级域名理论可用.一级域名据说检查whois的ns故可能无法使用.已测试(二级域名修改1天左右后没出现掉有效状态,一级域名未测试)</p>
+<p>cf的用户协议中禁止优选IP,请自行判断相关风险.目前仅测试us.kg域名,其他二级域名理论可用.一级域名据说检查whois的ns故可能无法使用,实测二级会掉有效状态(但是间隔时间较长),一级域名未测试)</p>
 </div>
 <h2>准备材料:</h2>
 <p>cf账号一枚<br>
@@ -2397,56 +2390,6 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 ]]></content:encoded>
     </item>
     <item>
-      <title>1.福瑞文化是如何流行起来的?</title>
-      <link>https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html</link>
-      <guid>https://docs.yyyyt.top/articles/research/2025/02/080.1-How-furry-fandom-get-popular.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">1.福瑞文化是如何流行起来的?</source>
-      <description>注意 本文仅作研究与探讨目的,作者本人不喜欢福瑞相关内容.这个文章仅从相对中立的角度出发.(感觉这个福瑞文化总是有点怪.) 引言: 这个文章的想法是从朋友讨论同学用梯子上外网看的东西而引起的,包括我的许多网友都是福瑞控或者喜欢相关文化.故决定去研究一下,但是不计划深入研究. 相关聊天记录(大致意思): 朋友: 我有个朋友在学校拿梯子上外网,看那种R18...</description>
-      <pubDate>Sat, 08 Feb 2025 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<div class="hint-container warning">
-<p class="hint-container-title">注意</p>
-<p>本文仅作研究与探讨目的,作者本人不喜欢福瑞相关内容.这个文章仅从相对中立的角度出发.(感觉这个福瑞文化总是有点怪.)</p>
-</div>
-<h3>引言:</h3>
-<p>这个文章的想法是从朋友讨论同学用梯子上外网看的东西而引起的,包括我的许多网友都是福瑞控或者喜欢相关文化.故决定去研究一下,但是不计划深入研究.</p>
-<details class="hint-container details"><summary>相关聊天记录(大致意思):</summary>
-<blockquote>
-<p>朋友: 我有个朋友在学校拿梯子上外网,看那种R18的东西,他在哪看不好,在学校里面看.<br>
-我: 离谱,在学校看.<br>
-朋友: 还喜欢看那种拟人的动物.感觉XP也很怪.<br>
-我: 你说的那是福瑞?<br>
-朋友: 对,上外网看.<br>
-我: 我记得福瑞这东西国内分级不是R18吗?<br>
-朋友: 啥啊,真正意义的R18的那种 (作者补充: 估计是涉及NSFW之类的了)<br>
-我: 那没事了<br>
-朋友: 他有时候发这种图片(补充:QQ不让保存,但是是国内能发的)<br>
-我: 其实我也不太喜欢福瑞,一定程度上感到厌烦.</p>
-</blockquote>
-</details>
-<h3>由来与发现:</h3>
-<p>据维基百科所言,福瑞相关文化起源于1970年代,后续经过多轮迭代发展为现在的样子.但是我发现像是福瑞,二次元这种亚文化有个明显一点的特征--多集中于经济发达地区如一二线城市,两广地区等.反而像是我这种三线城市的反而倒是没有明显看到太多,在风气相对封闭的学校(例如说我所在的高中)也是<s>几乎</s>没有.这种亚文化基本上只能在发达地区流行了.<br>
-当然看这个趋势国内应该有不少的,据说也有不少的兽展之类的,但是也是一样多集中于发达地区,像是三四线小城市就没有,不过这个文化在三四线小城市都没有多少生存的空间就是了,风气偏向保守一点.<br>
-流行的原因我也不太好推断,但是可以从别的地方窥探一些端倪:<br>
-1.首先就是偏向于可爱一些的画风,不过漫画这东西的画风好多本身也是偏向可爱的,确实画的丑是有点难度在里面的.就比如说二次元的角色就比现实中的人好看了许多这一点.主要还是画的简单可爱一些的原因在里面的.但是也仍然有一些离谱东西如(NSFW),此处不做过多讨论.<br>
-2.大城市等经济发达地区的年轻人对于精神方面的追求或是寻求一些认同.我曾经在语文老师发的<a href="https://zqb.cyol.com/pc/content/202412/20/content_404430.html" target="_blank" rel="noopener noreferrer">某一期&lt;&lt;中国青年报&gt;&gt;</a>中看到一个关于大城市年轻人的新消费报道,其中提到了二次元相关的新消费如谷子(Goods,即商品的音译,指的是二次元相关周边及衍生品)和吧唧(Badge,即徽章的音译,也是二次元相关的一些周边和衍生品.)的火爆(PS:那个文章里面还提到一些其他文化的内容).其中有一句话是这样说的:</p>
-<blockquote>
-<p>《中国二次元内容行业白皮书》的数据显示，我国泛二次元用户规模不断增长，预计到2026年，泛二次元人群将突破5.2亿人。对于年轻消费者来说，“吃谷”不只是简单的购买行为，更重要的是获取情感需求和文化认同。<em>(本文在此处仅作引用)</em></p>
-</blockquote>
-<p>那么我就思考福瑞是否和上文描述的一样?人们在参与进去的时候同时也可以获得情感需求和文化认同.或许与之相关.<br>
-3.为啥就是非要发达地区的地方比较流行?首先我猜测发达地区的人收入相对而言比较高,消费力较强,物质上的相对富足.对精神上的要求也相对高了一些,也喜欢追随一些新的东西.寻找属于自己的群体,满足自己的精神需求.<br>
-4.其他特殊的原因?例如说朋友喜欢然后拉着一块去了?或者是宣传/短视频(我这边有一个网友就是短视频然后到这个圈子里面的)反正这个我也不知道.</p>
-<h3>我看到的存在问题:</h3>
-<p>1.新的矛盾与吵架,例如说福瑞和反福瑞这两个群体间的吵架,本文在此处不细说.(我遇到的吵得还挺凶)<br>
-2.NSFW.例如说外网的真·18+图片和部分开黄腔问题.据说是个普遍问题来着?反正见好多不喜欢的也提到了这一点.<br>
-3.部分过度宣传,过度张扬.有的人乱说,我不信没有.我遇到过.<br>
-4.未成年保护问题(建议国内分级18+).</p>
-<h3>参考资料:</h3>
-<p><a href="https://zh.wikipedia.org/wiki/%E7%8D%B8%E8%BF%B7" target="_blank" rel="noopener noreferrer">https://zh.wikipedia.org/wiki/獸迷</a><br>
-<a href="https://zqb.cyol.com/pc/content/202412/20/content_404430.html" target="_blank" rel="noopener noreferrer">https://zqb.cyol.com/pc/content/202412/20/content_404430.html</a></p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>站点更换cdn</title>
       <link>https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html</link>
       <guid>https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html</guid>
@@ -2458,15 +2401,14 @@ yyyyt.us.kg解析托管在华为云国际版上.如果你在国内查询应该�
 ]]></content:encoded>
     </item>
     <item>
-      <title>3.一次文档的构建失败</title>
-      <link>https://docs.yyyyt.top/articles/tech/2025/0204.3.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</link>
-      <guid>https://docs.yyyyt.top/articles/tech/2025/0204.3.%E4%B8%80%E6%AC%A1%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">3.一次文档的构建失败</source>
-      <description>本文写于 2025 02 04 速通版: 如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用. 解决方法(参考 https://github.com/npm/cli/issues/8075 ): 设置环境变量 COREPACK_INTEGRITY_KEYS=0 更新corepack版本 重新运行pnpm即可 Githu...</description>
+      <title>一次文档的构建失败</title>
+      <link>https://docs.yyyyt.top/articles/daily/2025/02/040.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2025/02/040.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">一次文档的构建失败</source>
+      <description>速通版: 如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用. 解决方法(参考 https://github.com/npm/cli/issues/8075 ): 设置环境变量 COREPACK_INTEGRITY_KEYS=0 更新corepack版本 重新运行pnpm即可 Github action的把指令添加到工...</description>
       <category>技术</category>
-      <pubDate>Tue, 04 Feb 2025 06:14:52 GMT</pubDate>
-      <content:encoded><![CDATA[<p>本文写于 2025 02 04</p>
-<h2>速通版:</h2>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2>速通版:</h2>
 <p>如果你的pnpm出现了和我这个差不多/一样的报错,我这个解决方法可能在你那边可以适用.</p>
 <div class="language-ts line-numbers-mode" data-highlighter="shiki" data-ext="ts" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-ts"><span class="line"><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">opt</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">hostedtoolcache</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">22.13</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">1</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">x64</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">node_modules</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">corepack</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">dist</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">lib</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2">/</span><span style="--shiki-light:#383A42;--shiki-dark:#E5C07B">corepack</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#E45649;--shiki-dark:#E06C75">cjs</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">:</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66">21535</span></span>
 <span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">  if</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> (</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75">key</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ||</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signature</span><span style="--shiki-light:#0184BC;--shiki-dark:#56B6C2"> ==</span><span style="--shiki-light:#986801;--shiki-dark:#D19A66"> null</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">) </span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">throw</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD"> new</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF"> Error</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">(</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`Cannot find matching keyid: </span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">${</span><span style="--shiki-light:#986801;--shiki-dark:#E5C07B">JSON</span><span style="--shiki-light:#50A14F;--shiki-dark:#ABB2BF">.</span><span style="--shiki-light:#4078F2;--shiki-dark:#61AFEF">stringify</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">({</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> signatures</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">,</span><span style="--shiki-light:#383A42;--shiki-dark:#E06C75"> keys</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> })</span><span style="--shiki-light:#CA1243;--shiki-dark:#C678DD">}</span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">`</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">);</span></span>
@@ -2810,6 +2752,49 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>本周假期周六周日举行会考,但是周日下午四点返校.所以.......政治课无(微机课要等到微机会考完之后就无了)全变成自习</p>
 <p>2.占考场</p>
 <p>当然也是喜闻乐见的被占考场了,所以被留下来当工具人收拾考场了</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>某同学家长来了?!</title>
+      <link>https://docs.yyyyt.top/articles/daily/2024/11/240.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2024/11/240.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">某同学家长来了?!</source>
+      <description>本文写于 20241124,编辑于20241130,20250129 时间: 星期五 某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把某同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究 1.未知的泄密? 据说某...</description>
+      <category>高中</category>
+      <pubDate>Sun, 24 Nov 2024 06:46:43 GMT</pubDate>
+      <content:encoded><![CDATA[<p>本文写于 20241124,编辑于20241130,20250129</p>
+<p>时间: 星期五<br>
+某个同学的家长(两个都来了)到达了学校,还带了花去见班主任.据说中午的时候那位同学和她的家长和班主任谈话.后续还把某同学和土豆也叫过去谈话了.可能是与这位同学成绩下降有关?具体原因我不做过多推测.但是可能是说的太多了出了因果了?反正这边不深究</p>
+<h3>1.未知的泄密?</h3>
+<p>据说某同学说有人在泄密(石同学知道某同学在宿舍说的事情)<s>(我绝对没有往班里传)</s></p>
+<h3>2.到处乱传</h3>
+<p>这点就不说了.全班(大部分)女生都知道了(有的女生就是这样的).甚至A01那边都知道了可还行.有人不知道但是听说了还去问了(某同学以前对此十分恼火)</p>
+<h3>3.部分错误理解</h3>
+<p>评价不好=诬陷<br>
+这个我不做评价</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第十二周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/12_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第十二周</source>
+      <description>日期: 开始: 20241124 星期日 结束: 20241130 星期六 本周内容: 1.学校粉刷墙 据悉,学校开展大面积粉刷墙,据说为了领导检查 2.食堂二楼电灯掉落 食堂二楼的某一角电灯忽然脱落(其中的一根线掉落),所幸没有伤人(差点就砸到学生了) 3.被占考场 所以下回能不能选个好时间啊,为啥非要周日占没法多放假 4.家长会 所以是那个大聪明决...</description>
+      <pubDate>Sat, 23 Nov 2024 15:46:37 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 20241124 星期日</strong><br>
+<strong>结束: 20241130 星期六</strong></p>
+<h2>本周内容:</h2>
+<p>1.学校粉刷墙<br>
+据悉,学校开展大面积粉刷墙,据说为了领导检查</p>
+<p>2.食堂二楼电灯掉落<br>
+食堂二楼的某一角电灯忽然脱落(其中的一根线掉落),所幸没有伤人(差点就砸到学生了)</p>
+<p>3.被占考场<br>
+所以下回能不能选个好时间啊,为啥非要周日占没法多放假</p>
+<p>4.家长会<br>
+所以是那个大聪明决定周日下午2:30开啊?住校生要哭死</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
