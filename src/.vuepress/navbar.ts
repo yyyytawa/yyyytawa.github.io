@@ -19,7 +19,7 @@ export default navbar([
   {
         text: "文章",
         prefix: "/articles/",
-        children: ["daily/", "tech/","poems_and_songs/", "research/"],
+        children: ["daily/", "poems_and_songs/"],
   },
   {
       text: "站点",
