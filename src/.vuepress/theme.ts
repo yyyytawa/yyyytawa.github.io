@@ -166,7 +166,7 @@ export default hopeTheme({
     //   cacheHTML: true,
     //   cacheImage: true,
        appendBase: true,
-       maxSize: 2048,
+       maxSize: 100,
        update: "hint",
        apple: {
          icon: "https://img.yyyyt.top/avatar/avatar",
