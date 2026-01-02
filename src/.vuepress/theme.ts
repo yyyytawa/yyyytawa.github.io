@@ -117,11 +117,6 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     blog: true,
-    git: {
-      contributors: {
-        avatar: true,
-      },
-    },
     // 你应该自行生成自己的评论服务
     comment: {
       provider: "Giscus",
@@ -129,6 +124,9 @@ export default hopeTheme({
       repoId: "R_kgDOLKM3yw",
       category: "Announcements",
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
+    },
+    copyCode: {
+      showInMobile: true
     },
     notice: [
       {
