@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-01-02T14:20:50.893Z</updated>
+  <updated>2026-01-11T07:27:37.778Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -34,16 +34,56 @@
     <title type="text">第十九周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/19_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/19_week.html"/>
-    <updated>2026-01-01T14:01:58.000Z</updated>
+    <updated>2026-01-11T07:26:47.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2026 01 03 星期日</strong><br>
+<p><strong>开始: 2026 01 03 星期六</strong><br>
+<strong>结束: 2026 01 10 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 红脚泡枣</h3>
+<p>指的是 DOCS-TSHS-WCF 拿洗脚水跑牛奶(边洗脚边泡牛奶,脚和牛奶在一个盆里面).连续两天都这样干,然后最后他自己还真喝了用洗脚水泡的牛奶.<br>
+至于为啥标题叫这个......来源就是某同学的"红脚泡枣".<br>
+疑似有点过于抽象了.</p>
+<h3>2. 饮水机</h3>
+<p>B01 班的饮水机故障了,一次扣五分但是扣钱频率还是没变,相当于水费涨了五倍.其他班还是正常<br>
+<s>穷的只能去教室办公室蹭水了.</s><br>
+几天前都给马老师报了现在还没修.<br>
+据"哈哈"所说茶水房的水还能接出来虫卵,这下茶水房的水我也不敢喝了.</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 01 03 星期六</strong><br>
+<strong>结束: 2026 01 10 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 红脚泡枣</h3>
+<p>指的是 DOCS-TSHS-WCF 拿洗脚水跑牛奶(边洗脚边泡牛奶,脚和牛奶在一个盆里面).连续两天都这样干,然后最后他自己还真喝了用洗脚水泡的牛奶.<br>
+至于为啥标题叫这个......来源就是某同学的"红脚泡枣".<br>
+疑似有点过于抽象了.</p>
+<h3>2. 饮水机</h3>
+<p>B01 班的饮水机故障了,一次扣五分但是扣钱频率还是没变,相当于水费涨了五倍.其他班还是正常<br>
+<s>穷的只能去教室办公室蹭水了.</s><br>
+几天前都给马老师报了现在还没修.<br>
+据"哈哈"所说茶水房的水还能接出来虫卵,这下茶水房的水我也不敢喝了.</p>
+<h3>3. Z 同学 <s>(橘雪莉)</s> 被关外面</h3>
+<p><s>不要问为啥叫橘雪莉,别问.</s><br>
+宿管周五晚上到寝里面问 Z 同学在哪里了,寝室里面人表示不太知道,宿管表示都看见有 Z 同学来过的痕迹,然后报的住宿名单里面也有此人,DOCS-TSHS-DUSTY 猜测是被锁到外面了,但是按道理来说被锁外面 Z 同学至少会有点反应不至于发现不了......然后后面事情就是这位真的被锁外面了......无言以对.周六早上这位被马老师给喊了问干啥了,后面就不写了.</p>
+<h3>4. 其他</h3>
+<p>某人和 DOCS-TSHS-DUSTY 的情仇......算了不说了,结束.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2026-01-01T14:01:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第二十周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/20_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/20_week.html"/>
+    <updated>2026-01-11T07:26:47.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 01 11 星期日</strong><br>
 <strong>结束: 2026 01 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2026 01 03 星期日</strong><br>
+<p><strong>开始: 2026 01 11 星期日</strong><br>
 <strong>结束: 2026 01 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -3621,35 +3661,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <h2>本周内容:</h2>
 <p>1.月考<br>
 这个不多说,考成屎了.基础题能错成这样我是没有想到的</p>
-<h2>The End</h2>
-]]></content>
-    <published>2024-11-30T15:01:06.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十五周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/15_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/15_week.html"/>
-    <updated>2024-12-22T07:33:10.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241215 星期日</strong><br>
-<strong>结束: 20241221 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.老师调位</p>
-<p>这个不具体说了,和以前一样</p>
-<p>2.会考准备</p>
-<p>准备会考,但是考场好像还没有公布(政治课危)</p>
-<p>byd为啥星期五下午2:20~2:30有情侣在三楼公开亲嘴啊</p>
-<h2>The End</h2>
-]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241215 星期日</strong><br>
-<strong>结束: 20241221 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.老师调位</p>
-<p>这个不具体说了,和以前一样</p>
-<p>2.会考准备</p>
-<p>准备会考,但是考场好像还没有公布(政治课危)</p>
-<p>byd为啥星期五下午2:20~2:30有情侣在三楼公开亲嘴啊</p>
 <h2>The End</h2>
 ]]></content>
     <published>2024-11-30T15:01:06.000Z</published>
