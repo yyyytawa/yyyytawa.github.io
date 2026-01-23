@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-01-18T07:18:12.143Z</updated>
+  <updated>2026-01-23T10:37:51.221Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -117,16 +117,47 @@ DOCS-TSHS-WCF 又在继续"红脚泡枣"Next.</p>
     <title type="text">第二十一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html"/>
-    <updated>2026-01-16T10:30:25.000Z</updated>
+    <updated>2026-01-23T10:36:46.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 01 18 星期日</strong><br>
+<strong>结束: 2026 01 24 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 饮水机修好了</h3>
+<p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>
+这机器修了两次才修好,第一次没修好被马老师打电话让维修的重修过来修一下.</p>
+<h3>2. 大雪</h3>
+<p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>
+直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 01 18 星期日</strong><br>
+<strong>结束: 2026 01 24 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 饮水机修好了</h3>
+<p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>
+这机器修了两次才修好,第一次没修好被马老师打电话让维修的重修过来修一下.</p>
+<h3>2. 大雪</h3>
+<p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>
+直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>
+<h3>3. 期末考试</h3>
+<p>这个不多说,日常考成 shit.这回考试时间安排稍微宽松了点.</p>
+<h2>The End</h2>
+]]></content>
+    <published>2026-01-01T14:01:58.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">第二十二周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html"/>
+    <updated>2026-01-23T10:36:46.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 01 25 星期日</strong><br>
 <strong>结束: 2026 01 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
 <h2>The End</h2>
 ]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 2026 01 18 星期日</strong><br>
+<p><strong>开始: 2026 01 25 星期日</strong><br>
 <strong>结束: 2026 01 xx 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 我是标题</h3>
@@ -3659,32 +3690,5 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <h2>The True End</h2>
 ]]></content>
     <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十三周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/13_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/13_week.html"/>
-    <updated>2024-12-08T04:23:10.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241201 星期日</strong><br>
-<strong>结束: 20241207 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.下周月考<br>
-这个就不说了,还有月考,联考,期末三个考试</p>
-<p>2.领导检查<br>
-这个就不说了,领导检查.但是好像还没检查完.反正学校已经搞了好多东西来应对检查</p>
-<h2>The End</h2>
-]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241201 星期日</strong><br>
-<strong>结束: 20241207 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.下周月考<br>
-这个就不说了,还有月考,联考,期末三个考试</p>
-<p>2.领导检查<br>
-这个就不说了,领导检查.但是好像还没检查完.反正学校已经搞了好多东西来应对检查</p>
-<h2>The End</h2>
-]]></content>
-    <published>2024-11-30T15:01:06.000Z</published>
   </entry>
 </feed>
