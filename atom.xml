@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-01-23T10:37:51.221Z</updated>
+  <updated>2026-01-25T03:21:21.296Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -117,14 +117,14 @@ DOCS-TSHS-WCF 又在继续"红脚泡枣"Next.</p>
     <title type="text">第二十一周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html"/>
-    <updated>2026-01-23T10:36:46.000Z</updated>
+    <updated>2026-01-25T03:20:28.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 01 18 星期日</strong><br>
 <strong>结束: 2026 01 24 星期六</strong></p>
 <h2>本周内容:</h2>
 <h3>1. 饮水机修好了</h3>
 <p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>
-这机器修了两次才修好,第一次没修好被马老师打电话让维修的重修过来修一下.</p>
+这机器修了两次才修好,第一次没修好被马老师打电话让维修的重新过来修一下.</p>
 <h3>2. 大雪</h3>
 <p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>
 直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>]]></summary>
@@ -134,12 +134,18 @@ DOCS-TSHS-WCF 又在继续"红脚泡枣"Next.</p>
 <h2>本周内容:</h2>
 <h3>1. 饮水机修好了</h3>
 <p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>
-这机器修了两次才修好,第一次没修好被马老师打电话让维修的重修过来修一下.</p>
+这机器修了两次才修好,第一次没修好被马老师打电话让维修的重新过来修一下.</p>
 <h3>2. 大雪</h3>
 <p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>
 直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>
 <h3>3. 期末考试</h3>
-<p>这个不多说,日常考成 shit.这回考试时间安排稍微宽松了点.</p>
+<p>这个不多说,日常考成 shit.这回考试时间安排稍微宽松了点.第一天就考个语文和数学,第二天就是英语物理和四选二.然后又是众所周知的数学成屎,语文还行,物理赌狗全错环节,英语语篇爆炸环节,化学生物选择还行大题去世...</p>
+<h3>4. 其他</h3>
+<p>寒假作业,可以自己打印也可以直接到文印室买,直接买的话 40 CNY.<br>
+咱班因为上周六中午请假人太多显得教室太空,然后马老师被主任打电话批评了,所以说这周六......中午基本上请不了假(除了极特殊或者是有辅导班,辅导班请假的要和家长确认),只能去吃食堂的饭.(But 食堂只开两个窗口.)<br>
+所以说 MZZ 同学自习那天因为说话被逮几次了?我记不清了.<br>
+寝室里面 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 又在乱了,然后 DOCS-TSHS-WCF 的眼镜腿成功炸了.前几天还搞摸东西猜是啥的时候给 DOCS-TSHS-DAYDREAM 摸灰斗(当然 DOCS-TSHS-DAYDREAM 也给 DOCS-TSHS-WCF 摸拖鞋),反正这一堆真的是"苦命鸳鸯"了.<br>
+然后没啥写的了.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2026-01-01T14:01:58.000Z</published>
@@ -1380,54 +1386,6 @@ log_file 日志文件名称,留空不保存日志文件</p>
     <published>2025-07-31T06:02:17.000Z</published>
   </entry>
   <entry>
-    <title type="text">cf规模性封号</title>
-    <id>https://docs.yyyyt.top/articles/daily/2025/07/300.html</id>
-    <link href="https://docs.yyyyt.top/articles/daily/2025/07/300.html"/>
-    <updated>2025-07-30T06:53:02.000Z</updated>
-    <summary type="html"><![CDATA[<p>cf规模性封号,NodeSeek和Linuxdo上面有许多帖子反映账户被暂停,我的号也被扬了.<br>
-不过好像貌似只是不让添加新的域名,已有的服务不影响,其他限制暂时不知道.<br>
-申诉估计也没用,实在不行换号吧,cf貌似没封域名.<br>
-违反ToS的建议先停一停避避风头.<br>
-听说付费用户被封的就很少?<br>
-补充:<br>
-目前已知可能的封号原因:</p>
-<ol>
-<li>滥用Worker(反代,代理,其他没提到的违规)</li>
-<li>优选IP</li>
-<li>绑假卡/共享卡(据说是主要原因)</li>
-</ol>
-<p>我好像三个都占了&gt;_&lt;.</p>]]></summary>
-    <content type="html"><![CDATA[<p>cf规模性封号,NodeSeek和Linuxdo上面有许多帖子反映账户被暂停,我的号也被扬了.<br>
-不过好像貌似只是不让添加新的域名,已有的服务不影响,其他限制暂时不知道.<br>
-申诉估计也没用,实在不行换号吧,cf貌似没封域名.<br>
-违反ToS的建议先停一停避避风头.<br>
-听说付费用户被封的就很少?<br>
-补充:<br>
-目前已知可能的封号原因:</p>
-<ol>
-<li>滥用Worker(反代,代理,其他没提到的违规)</li>
-<li>优选IP</li>
-<li>绑假卡/共享卡(据说是主要原因)</li>
-</ol>
-<p>我好像三个都占了&gt;_&lt;.</p>
-<p>邮件原文:</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>您好，</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>与电子邮件地址 ***@***.*** 关联的 Cloudflare 帐户已被暂停，因为可能违反服务条款。Cloudflare 服务条款</span></span>
-<span class="line"><span>位于 https://www.cloudflare.com/terms/。</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>暂停此帐户不会影响、禁用或删除您当前的服务。但在对此事件进行审查期间，会阻止您向 Cloudflare 帐户添加新域。</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>如果您对此次暂停有任何疑问，请通过 abusereply@cloudflare.com 联系 Cloudflare 的信任与安全团队，对此进行讨论。</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>谢谢，</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>Cloudflare 团队</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>The End</h2>
-]]></content>
-    <published>2025-07-30T03:21:36.000Z</published>
-  </entry>
-  <entry>
     <title type="text">句号</title>
     <id>https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html</id>
     <link href="https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html"/>
@@ -1474,6 +1432,54 @@ log_file 日志文件名称,留空不保存日志文件</p>
 人们从何去.<br>
 人们从何去~</p>
 </div>
+]]></content>
+    <published>2025-07-30T03:21:36.000Z</published>
+  </entry>
+  <entry>
+    <title type="text">cf规模性封号</title>
+    <id>https://docs.yyyyt.top/articles/daily/2025/07/300.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2025/07/300.html"/>
+    <updated>2025-07-30T06:53:02.000Z</updated>
+    <summary type="html"><![CDATA[<p>cf规模性封号,NodeSeek和Linuxdo上面有许多帖子反映账户被暂停,我的号也被扬了.<br>
+不过好像貌似只是不让添加新的域名,已有的服务不影响,其他限制暂时不知道.<br>
+申诉估计也没用,实在不行换号吧,cf貌似没封域名.<br>
+违反ToS的建议先停一停避避风头.<br>
+听说付费用户被封的就很少?<br>
+补充:<br>
+目前已知可能的封号原因:</p>
+<ol>
+<li>滥用Worker(反代,代理,其他没提到的违规)</li>
+<li>优选IP</li>
+<li>绑假卡/共享卡(据说是主要原因)</li>
+</ol>
+<p>我好像三个都占了&gt;_&lt;.</p>]]></summary>
+    <content type="html"><![CDATA[<p>cf规模性封号,NodeSeek和Linuxdo上面有许多帖子反映账户被暂停,我的号也被扬了.<br>
+不过好像貌似只是不让添加新的域名,已有的服务不影响,其他限制暂时不知道.<br>
+申诉估计也没用,实在不行换号吧,cf貌似没封域名.<br>
+违反ToS的建议先停一停避避风头.<br>
+听说付费用户被封的就很少?<br>
+补充:<br>
+目前已知可能的封号原因:</p>
+<ol>
+<li>滥用Worker(反代,代理,其他没提到的违规)</li>
+<li>优选IP</li>
+<li>绑假卡/共享卡(据说是主要原因)</li>
+</ol>
+<p>我好像三个都占了&gt;_&lt;.</p>
+<p>邮件原文:</p>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext="" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>您好，</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>与电子邮件地址 ***@***.*** 关联的 Cloudflare 帐户已被暂停，因为可能违反服务条款。Cloudflare 服务条款</span></span>
+<span class="line"><span>位于 https://www.cloudflare.com/terms/。</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>暂停此帐户不会影响、禁用或删除您当前的服务。但在对此事件进行审查期间，会阻止您向 Cloudflare 帐户添加新域。</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>如果您对此次暂停有任何疑问，请通过 abusereply@cloudflare.com 联系 Cloudflare 的信任与安全团队，对此进行讨论。</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>谢谢，</span></span>
+<span class="line"><span></span></span>
+<span class="line"><span>Cloudflare 团队</span></span></code></pre>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>The End</h2>
 ]]></content>
     <published>2025-07-30T03:21:36.000Z</published>
   </entry>
