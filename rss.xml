@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sun, 25 Jan 2026 03:21:21 GMT</pubDate>
-    <lastBuildDate>Sun, 25 Jan 2026 03:21:21 GMT</lastBuildDate>
+    <pubDate>Sat, 31 Jan 2026 13:46:07 GMT</pubDate>
+    <lastBuildDate>Sat, 31 Jan 2026 13:46:07 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>研究与探索</category>
@@ -16,6 +16,21 @@
     <category>观点</category>
     <category>公告</category>
     <category>站点</category>
+    <item>
+      <title>第二十三周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第二十三周</source>
+      <description>日期: 开始: 2026 02 01 星期日 结束: 2026 02 xx 星期六 本周内容: 1. 我是标题 The True End</description>
+      <pubDate>Sat, 31 Jan 2026 13:45:17 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 02 01 星期日</strong><br>
+<strong>结束: 2026 02 xx 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The True End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>干掉 Windows 有线网络的网络发现弹窗</title>
       <link>https://docs.yyyyt.top/articles/daily/2026/01/020.turn-off-windows-ethernet-network-discovery-pop-up.html</link>
@@ -113,6 +128,7 @@ DOCS-TSHS-WCF 又在继续"红脚泡枣"Next.</p>
 咱班因为上周六中午请假人太多显得教室太空,然后马老师被主任打电话批评了,所以说这周六......中午基本上请不了假(除了极特殊或者是有辅导班,辅导班请假的要和家长确认),只能去吃食堂的饭.(But 食堂只开两个窗口.)<br>
 所以说 MZZ 同学自习那天因为说话被逮几次了?我记不清了.<br>
 寝室里面 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 又在乱了,然后 DOCS-TSHS-WCF 的眼镜腿成功炸了.前几天还搞摸东西猜是啥的时候给 DOCS-TSHS-DAYDREAM 摸灰斗(当然 DOCS-TSHS-DAYDREAM 也给 DOCS-TSHS-WCF 摸拖鞋),反正这一堆真的是"苦命鸳鸯"了.<br>
+周六中午楼上厕所还没水了,据说是楼下水管冻炸了.<br>
 然后没啥写的了.</p>
 <h2>The End</h2>
 ]]></content:encoded>
@@ -122,13 +138,34 @@ DOCS-TSHS-WCF 又在继续"红脚泡枣"Next.</p>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第二十二周</source>
-      <description>日期: 开始: 2026 01 25 星期日 结束: 2026 01 xx 星期六 本周内容: 1. 我是标题 The End</description>
+      <description>日期: 开始: 2026 01 25 星期日 结束: 2026 01 31 星期六 本周内容: 1. 雨夹雪 又是烦人的雨夹雪,去餐厅脚又湿了,烦人. 好在没啥积雪. 2. 体育课 周三那节课体育老师有事没法来,所以说是体育课代表自己组织课堂的. 众所周知的是体育课居民楼那边的&amp;quot;神人&amp;quot;比较多,周二那节还见带打火机被逮的,周三有吹笛子玩手机的. 所以说 ...</description>
       <pubDate>Thu, 01 Jan 2026 14:01:58 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 01 25 星期日</strong><br>
-<strong>结束: 2026 01 xx 星期六</strong></p>
+<strong>结束: 2026 01 31 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
+<h3>1. 雨夹雪</h3>
+<p>又是烦人的雨夹雪,去餐厅脚又湿了,烦人.<br>
+好在没啥积雪.</p>
+<h3>2. 体育课</h3>
+<p>周三那节课体育老师有事没法来,所以说是体育课代表自己组织课堂的.<br>
+众所周知的是体育课居民楼那边的"神人"比较多,周二那节还见带打火机被逮的,周三有吹笛子玩手机的.<br>
+所以说 DOCS-TSHS-WS 是什么运气?衣服被鸟屎砸中了,他问我本为啥湿了我一看为啥胳膊上有坨鸟屎然后赶紧洗手.<br>
+<s>鸽子吃的的饭的味道.</s></p>
+<h3>3. 调位</h3>
+<p>又是期终考完之后调位,我还是做原来的位置, DOCS-TSHS-WS 又一次坐到了哈哈的旁边.不过哈哈好像不咋理 DOCS-TSHS-WS.</p>
+<h3>4. 联考谣言</h3>
+<p>有人传下周要联考的谣言,后续查证二中下周不搞联考.<br>
+然呢你猜消息来源是啥?其他学校啊......那没事了......<br>
+<span class="spoiler" tabindex="-1">所以说期末之后还要再联考......高三就是这样的.</span></p>
+<h3>5. 其他</h3>
+<p>龙头因为在外面闹事被派出所拘留了,直接导致有一天上午没来.<br>
+<span class="spoiler" tabindex="-1">不是哥们你真砍人啊? 盲猜大概率是假的.</span><br>
+周六那天来了个女生来班里自习,原因未知.<br>
+好像 Yee Tomorrow 的手机被家长收了.<br>
+所以说参加联考要收费的啊,一次差不多 10 CNY,总共收了 61 CNY.文印费 TMD 300 多块钱, vocal.<br>
+各种二轮复习资料要准备去买了.<br>
+然后剩下的懒得写了.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -1047,36 +1084,6 @@ log_file 日志文件名称,留空不保存日志文件</p>
 ]]></content:encoded>
     </item>
     <item>
-      <title>句号</title>
-      <link>https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html</link>
-      <guid>https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">句号</source>
-      <description>让我们一起点上句号. 为这一切的闹剧结尾, 不要回头重来. 三连总是香草句号, 究竟是不是屈原, 这一切都是未知数. 就像是你为何从来. 让我们一起一起句号,红温从来不是人. 红温还是红烧好吃?红温的人更加红温. 是谁在搞文字狱?又是谁在添加黑名单? 让我们一起点上一点, 不要回笔破坏文字. 又是谁在天天吵架? 10万用户牌,还有谁没有领取? 全员群管...</description>
-      <pubDate>Wed, 30 Jul 2025 03:21:36 GMT</pubDate>
-      <content:encoded><![CDATA[<div style="text-align:center">
-<p>让我们一起点上句号.<br>
-为这一切的闹剧结尾, 不要回头重来.<br>
-三连总是香草句号,<br>
-究竟是不是屈原,<br>
-这一切都是未知数.<br>
-就像是你为何从来.<br>
-让我们一起一起句号,红温从来不是人.<br>
-红温还是红烧好吃?红温的人更加红温.<br>
-是谁在搞文字狱?又是谁在添加黑名单?<br>
-让我们一起点上一点, 不要回笔破坏文字.<br>
-又是谁在天天吵架?<br>
-10万用户牌,还有谁没有领取?<br>
-全员群管理不知从何消失?<br>
-还是吵架.</p>
-<p>为什么草句号?<br>
-我们也不知.<br>
-但是三连草,<br>
-人们从何去.<br>
-人们从何去~</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
       <title>cf规模性封号</title>
       <link>https://docs.yyyyt.top/articles/daily/2025/07/300.html</link>
       <guid>https://docs.yyyyt.top/articles/daily/2025/07/300.html</guid>
@@ -1110,6 +1117,36 @@ log_file 日志文件名称,留空不保存日志文件</p>
 <span class="line"><span></span></span>
 <span class="line"><span>Cloudflare 团队</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>句号</title>
+      <link>https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html</link>
+      <guid>https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">句号</source>
+      <description>让我们一起点上句号. 为这一切的闹剧结尾, 不要回头重来. 三连总是香草句号, 究竟是不是屈原, 这一切都是未知数. 就像是你为何从来. 让我们一起一起句号,红温从来不是人. 红温还是红烧好吃?红温的人更加红温. 是谁在搞文字狱?又是谁在添加黑名单? 让我们一起点上一点, 不要回笔破坏文字. 又是谁在天天吵架? 10万用户牌,还有谁没有领取? 全员群管...</description>
+      <pubDate>Wed, 30 Jul 2025 03:21:36 GMT</pubDate>
+      <content:encoded><![CDATA[<div style="text-align:center">
+<p>让我们一起点上句号.<br>
+为这一切的闹剧结尾, 不要回头重来.<br>
+三连总是香草句号,<br>
+究竟是不是屈原,<br>
+这一切都是未知数.<br>
+就像是你为何从来.<br>
+让我们一起一起句号,红温从来不是人.<br>
+红温还是红烧好吃?红温的人更加红温.<br>
+是谁在搞文字狱?又是谁在添加黑名单?<br>
+让我们一起点上一点, 不要回笔破坏文字.<br>
+又是谁在天天吵架?<br>
+10万用户牌,还有谁没有领取?<br>
+全员群管理不知从何消失?<br>
+还是吵架.</p>
+<p>为什么草句号?<br>
+我们也不知.<br>
+但是三连草,<br>
+人们从何去.<br>
+人们从何去~</p>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -2807,31 +2844,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <p>2.联考<br>
 1月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>
 <h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第十九周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第十九周</source>
-      <description>日期: 开始: 20250112 星期日 结束: 20250121 星期二 本周内容: 1.期末考试 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽! 2.本周周六周日不放假 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假( 学校装都没装...... 然后周五周六周日一堆人请假的 3...</description>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250112 星期日</strong><br>
-<strong>结束: 20250121 星期二</strong></p>
-<h2>本周内容:</h2>
-<p>1.期末考试<br>
-这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>
-<s>就是卷子出了一大堆课本上的题</s><br>
-<s>至于假期作业还是老样子,但是天天检查</s><br>
-<s>还有元旦假期直接无了</s></p>
-<p>2.本周周六周日不放假<br>
-没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>
-学校装都没装......<br>
-然后周五周六周日一堆人请假的</p>
-<p>3.本周无体育课<br>
-这一点不解释,体育课全无</p>
-<h2>The True End</h2>
 ]]></content:encoded>
     </item>
   </channel>

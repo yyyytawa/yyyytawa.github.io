@@ -6,6 +6,17 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "第二十三周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html",
+      "summary": "日期: 开始: 2026 02 01 星期日 结束: 2026 02 xx 星期六 本周内容: 1. 我是标题 The True End",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 02 01 星期日</strong><br>\n<strong>结束: 2026 02 xx 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 我是标题</h3>\n<h2>The True End</h2>\n",
+      "date_published": "2026-01-31T13:45:17.000Z",
+      "date_modified": "2026-01-31T13:45:17.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "干掉 Windows 有线网络的网络发现弹窗",
       "url": "https://docs.yyyyt.top/articles/daily/2026/01/020.turn-off-windows-ethernet-network-discovery-pop-up.html",
       "id": "https://docs.yyyyt.top/articles/daily/2026/01/020.turn-off-windows-ethernet-network-discovery-pop-up.html",
@@ -43,9 +54,9 @@
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/21_week.html",
       "summary": "日期: 开始: 2026 01 18 星期日 结束: 2026 01 24 星期六 本周内容: 1. 饮水机修好了 B01 教室的饮水机总算是修好了,扣钱速度正常了. 这机器修了两次才修好,第一次没修好被马老师打电话让维修的重新过来修一下. 2. 大雪 周一下大雪了,雪不是一般的大.(懒得用语言描述了.) 直接导致周一周二晚上放学时间提前(走读 9:2...",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 01 18 星期日</strong><br>\n<strong>结束: 2026 01 24 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 饮水机修好了</h3>\n<p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>\n这机器修了两次才修好,第一次没修好被马老师打电话让维修的重新过来修一下.</p>\n<h3>2. 大雪</h3>\n<p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>\n直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>\n<h3>3. 期末考试</h3>\n<p>这个不多说,日常考成 shit.这回考试时间安排稍微宽松了点.第一天就考个语文和数学,第二天就是英语物理和四选二.然后又是众所周知的数学成屎,语文还行,物理赌狗全错环节,英语语篇爆炸环节,化学生物选择还行大题去世...</p>\n<h3>4. 其他</h3>\n<p>寒假作业,可以自己打印也可以直接到文印室买,直接买的话 40 CNY.<br>\n咱班因为上周六中午请假人太多显得教室太空,然后马老师被主任打电话批评了,所以说这周六......中午基本上请不了假(除了极特殊或者是有辅导班,辅导班请假的要和家长确认),只能去吃食堂的饭.(But 食堂只开两个窗口.)<br>\n所以说 MZZ 同学自习那天因为说话被逮几次了?我记不清了.<br>\n寝室里面 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 又在乱了,然后 DOCS-TSHS-WCF 的眼镜腿成功炸了.前几天还搞摸东西猜是啥的时候给 DOCS-TSHS-DAYDREAM 摸灰斗(当然 DOCS-TSHS-DAYDREAM 也给 DOCS-TSHS-WCF 摸拖鞋),反正这一堆真的是\"苦命鸳鸯\"了.<br>\n然后没啥写的了.</p>\n<h2>The End</h2>\n",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 01 18 星期日</strong><br>\n<strong>结束: 2026 01 24 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 饮水机修好了</h3>\n<p>B01 教室的饮水机总算是修好了,扣钱速度正常了.<br>\n这机器修了两次才修好,第一次没修好被马老师打电话让维修的重新过来修一下.</p>\n<h3>2. 大雪</h3>\n<p>周一下大雪了,雪不是一般的大.(懒得用语言描述了.)<br>\n直接导致周一周二晚上放学时间提前(走读 9:20,住校周一是 9:50,周二正常时间)和到校时间推迟到 7:50,但是住校的 6:50 就要起床(那边学校要求 7:10 寝室的人全走完)然后吃早饭接着到教室.</p>\n<h3>3. 期末考试</h3>\n<p>这个不多说,日常考成 shit.这回考试时间安排稍微宽松了点.第一天就考个语文和数学,第二天就是英语物理和四选二.然后又是众所周知的数学成屎,语文还行,物理赌狗全错环节,英语语篇爆炸环节,化学生物选择还行大题去世...</p>\n<h3>4. 其他</h3>\n<p>寒假作业,可以自己打印也可以直接到文印室买,直接买的话 40 CNY.<br>\n咱班因为上周六中午请假人太多显得教室太空,然后马老师被主任打电话批评了,所以说这周六......中午基本上请不了假(除了极特殊或者是有辅导班,辅导班请假的要和家长确认),只能去吃食堂的饭.(But 食堂只开两个窗口.)<br>\n所以说 MZZ 同学自习那天因为说话被逮几次了?我记不清了.<br>\n寝室里面 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 又在乱了,然后 DOCS-TSHS-WCF 的眼镜腿成功炸了.前几天还搞摸东西猜是啥的时候给 DOCS-TSHS-DAYDREAM 摸灰斗(当然 DOCS-TSHS-DAYDREAM 也给 DOCS-TSHS-WCF 摸拖鞋),反正这一堆真的是\"苦命鸳鸯\"了.<br>\n周六中午楼上厕所还没水了,据说是楼下水管冻炸了.<br>\n然后没啥写的了.</p>\n<h2>The End</h2>\n",
       "date_published": "2026-01-01T14:01:58.000Z",
-      "date_modified": "2026-01-25T03:20:28.000Z",
+      "date_modified": "2026-01-31T13:45:17.000Z",
       "authors": [],
       "tags": []
     },
@@ -53,10 +64,10 @@
       "title": "第二十二周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/22_week.html",
-      "summary": "日期: 开始: 2026 01 25 星期日 结束: 2026 01 xx 星期六 本周内容: 1. 我是标题 The End",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 01 25 星期日</strong><br>\n<strong>结束: 2026 01 xx 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 我是标题</h3>\n<h2>The End</h2>\n",
+      "summary": "日期: 开始: 2026 01 25 星期日 结束: 2026 01 31 星期六 本周内容: 1. 雨夹雪 又是烦人的雨夹雪,去餐厅脚又湿了,烦人. 好在没啥积雪. 2. 体育课 周三那节课体育老师有事没法来,所以说是体育课代表自己组织课堂的. 众所周知的是体育课居民楼那边的\"神人\"比较多,周二那节还见带打火机被逮的,周三有吹笛子玩手机的. 所以说 ...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 01 25 星期日</strong><br>\n<strong>结束: 2026 01 31 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 雨夹雪</h3>\n<p>又是烦人的雨夹雪,去餐厅脚又湿了,烦人.<br>\n好在没啥积雪.</p>\n<h3>2. 体育课</h3>\n<p>周三那节课体育老师有事没法来,所以说是体育课代表自己组织课堂的.<br>\n众所周知的是体育课居民楼那边的\"神人\"比较多,周二那节还见带打火机被逮的,周三有吹笛子玩手机的.<br>\n所以说 DOCS-TSHS-WS 是什么运气?衣服被鸟屎砸中了,他问我本为啥湿了我一看为啥胳膊上有坨鸟屎然后赶紧洗手.<br>\n<s>鸽子吃的的饭的味道.</s></p>\n<h3>3. 调位</h3>\n<p>又是期终考完之后调位,我还是做原来的位置, DOCS-TSHS-WS 又一次坐到了哈哈的旁边.不过哈哈好像不咋理 DOCS-TSHS-WS.</p>\n<h3>4. 联考谣言</h3>\n<p>有人传下周要联考的谣言,后续查证二中下周不搞联考.<br>\n然呢你猜消息来源是啥?其他学校啊......那没事了......<br>\n<span class=\"spoiler\" tabindex=\"-1\">所以说期末之后还要再联考......高三就是这样的.</span></p>\n<h3>5. 其他</h3>\n<p>龙头因为在外面闹事被派出所拘留了,直接导致有一天上午没来.<br>\n<span class=\"spoiler\" tabindex=\"-1\">不是哥们你真砍人啊? 盲猜大概率是假的.</span><br>\n周六那天来了个女生来班里自习,原因未知.<br>\n好像 Yee Tomorrow 的手机被家长收了.<br>\n所以说参加联考要收费的啊,一次差不多 10 CNY,总共收了 61 CNY.文印费 TMD 300 多块钱, vocal.<br>\n各种二轮复习资料要准备去买了.<br>\n然后剩下的懒得写了.</p>\n<h2>The End</h2>\n",
       "date_published": "2026-01-01T14:01:58.000Z",
-      "date_modified": "2026-01-23T10:36:46.000Z",
+      "date_modified": "2026-01-31T13:45:17.000Z",
       "authors": [],
       "tags": []
     },
@@ -420,17 +431,6 @@
       "tags": []
     },
     {
-      "title": "句号",
-      "url": "https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html",
-      "id": "https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html",
-      "summary": "让我们一起点上句号. 为这一切的闹剧结尾, 不要回头重来. 三连总是香草句号, 究竟是不是屈原, 这一切都是未知数. 就像是你为何从来. 让我们一起一起句号,红温从来不是人. 红温还是红烧好吃?红温的人更加红温. 是谁在搞文字狱?又是谁在添加黑名单? 让我们一起点上一点, 不要回笔破坏文字. 又是谁在天天吵架? 10万用户牌,还有谁没有领取? 全员群管...",
-      "content_html": "<div style=\"text-align:center\">\n<p>让我们一起点上句号.<br>\n为这一切的闹剧结尾, 不要回头重来.<br>\n三连总是香草句号,<br>\n究竟是不是屈原,<br>\n这一切都是未知数.<br>\n就像是你为何从来.<br>\n让我们一起一起句号,红温从来不是人.<br>\n红温还是红烧好吃?红温的人更加红温.<br>\n是谁在搞文字狱?又是谁在添加黑名单?<br>\n让我们一起点上一点, 不要回笔破坏文字.<br>\n又是谁在天天吵架?<br>\n10万用户牌,还有谁没有领取?<br>\n全员群管理不知从何消失?<br>\n还是吵架.</p>\n<p>为什么草句号?<br>\n我们也不知.<br>\n但是三连草,<br>\n人们从何去.<br>\n人们从何去~</p>\n</div>\n",
-      "date_published": "2025-07-30T03:21:36.000Z",
-      "date_modified": "2025-07-30T03:21:36.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
       "title": "cf规模性封号",
       "url": "https://docs.yyyyt.top/articles/daily/2025/07/300.html",
       "id": "https://docs.yyyyt.top/articles/daily/2025/07/300.html",
@@ -438,6 +438,17 @@
       "content_html": "<p>cf规模性封号,NodeSeek和Linuxdo上面有许多帖子反映账户被暂停,我的号也被扬了.<br>\n不过好像貌似只是不让添加新的域名,已有的服务不影响,其他限制暂时不知道.<br>\n申诉估计也没用,实在不行换号吧,cf貌似没封域名.<br>\n违反ToS的建议先停一停避避风头.<br>\n听说付费用户被封的就很少?<br>\n补充:<br>\n目前已知可能的封号原因:</p>\n<ol>\n<li>滥用Worker(反代,代理,其他没提到的违规)</li>\n<li>优选IP</li>\n<li>绑假卡/共享卡(据说是主要原因)</li>\n</ol>\n<p>我好像三个都占了&gt;_&lt;.</p>\n<p>邮件原文:</p>\n<div class=\"language- line-numbers-mode\" data-highlighter=\"shiki\" data-ext=\"\" style=\"--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34\"><pre class=\"shiki shiki-themes one-light one-dark-pro vp-code\"><code class=\"language-\"><span class=\"line\"><span>您好，</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>与电子邮件地址 ***@***.*** 关联的 Cloudflare 帐户已被暂停，因为可能违反服务条款。Cloudflare 服务条款</span></span>\n<span class=\"line\"><span>位于 https://www.cloudflare.com/terms/。</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>暂停此帐户不会影响、禁用或删除您当前的服务。但在对此事件进行审查期间，会阻止您向 Cloudflare 帐户添加新域。</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>如果您对此次暂停有任何疑问，请通过 abusereply@cloudflare.com 联系 Cloudflare 的信任与安全团队，对此进行讨论。</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>谢谢，</span></span>\n<span class=\"line\"><span></span></span>\n<span class=\"line\"><span>Cloudflare 团队</span></span></code></pre>\n<div class=\"line-numbers\" aria-hidden=\"true\" style=\"counter-reset:line-number 0\"><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div><div class=\"line-number\"></div></div></div><h2>The End</h2>\n",
       "date_published": "2025-07-30T03:21:36.000Z",
       "date_modified": "2025-07-30T06:53:02.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
+      "title": "句号",
+      "url": "https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html",
+      "id": "https://docs.yyyyt.top/articles/poems_and_songs/random/2025/juhao.html",
+      "summary": "让我们一起点上句号. 为这一切的闹剧结尾, 不要回头重来. 三连总是香草句号, 究竟是不是屈原, 这一切都是未知数. 就像是你为何从来. 让我们一起一起句号,红温从来不是人. 红温还是红烧好吃?红温的人更加红温. 是谁在搞文字狱?又是谁在添加黑名单? 让我们一起点上一点, 不要回笔破坏文字. 又是谁在天天吵架? 10万用户牌,还有谁没有领取? 全员群管...",
+      "content_html": "<div style=\"text-align:center\">\n<p>让我们一起点上句号.<br>\n为这一切的闹剧结尾, 不要回头重来.<br>\n三连总是香草句号,<br>\n究竟是不是屈原,<br>\n这一切都是未知数.<br>\n就像是你为何从来.<br>\n让我们一起一起句号,红温从来不是人.<br>\n红温还是红烧好吃?红温的人更加红温.<br>\n是谁在搞文字狱?又是谁在添加黑名单?<br>\n让我们一起点上一点, 不要回笔破坏文字.<br>\n又是谁在天天吵架?<br>\n10万用户牌,还有谁没有领取?<br>\n全员群管理不知从何消失?<br>\n还是吵架.</p>\n<p>为什么草句号?<br>\n我们也不知.<br>\n但是三连草,<br>\n人们从何去.<br>\n人们从何去~</p>\n</div>\n",
+      "date_published": "2025-07-30T03:21:36.000Z",
+      "date_modified": "2025-07-30T03:21:36.000Z",
       "authors": [],
       "tags": []
     },
@@ -1137,17 +1148,6 @@
       "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250105 星期日</strong><br>\n<strong>结束: 20250111 星期六</strong></p>\n<h2>本周内容:</h2>\n<p>1.微机会考<br>\n星期三星期四(我的是星期三),题还是如同模拟考一样简单.Excel没有rank没有vlookup,只是算点东西+画个图标.Python基本上流程图都给了,填几个空就行了.代码缺的东西很容易就补出来.可以说我这个非常简单.前面选择填空随便蒙吧,反正会让你过的.但是班长就非常不幸了,抽到了个用python画三角形(字符串t),两个循环+代码就给了两行.<s>但是我不是</s></p>\n<p>2.联考<br>\n1月10号(周五)到11号(周六)举行六校联考. <s>(为什么不在周三周四,因为微机模拟考试)</s> 考完直接放假,爽!</p>\n<h2>The End</h2>\n",
       "date_published": "2025-01-02T13:52:38.000Z",
       "date_modified": "2025-04-25T14:42:45.000Z",
-      "authors": [],
-      "tags": []
-    },
-    {
-      "title": "第十九周",
-      "url": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
-      "id": "https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/19_week.html",
-      "summary": "日期: 开始: 20250112 星期日 结束: 20250121 星期二 本周内容: 1.期末考试 这个就不多说了吧,考成那个了.但是好在考完直接放假,爽! 2.本周周六周日不放假 没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假( 学校装都没装...... 然后周五周六周日一堆人请假的 3...",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 20250112 星期日</strong><br>\n<strong>结束: 20250121 星期二</strong></p>\n<h2>本周内容:</h2>\n<p>1.期末考试<br>\n这个就不多说了吧,考成那个了.但是好在考完直接放假,爽!<br>\n<s>就是卷子出了一大堆课本上的题</s><br>\n<s>至于假期作业还是老样子,但是天天检查</s><br>\n<s>还有元旦假期直接无了</s></p>\n<p>2.本周周六周日不放假<br>\n没错,本周周六周日不放假,但是周日7:30之前进班(对于走读的相当于放了一个半小时),对于住校的相当于没放假(<br>\n学校装都没装......<br>\n然后周五周六周日一堆人请假的</p>\n<p>3.本周无体育课<br>\n这一点不解释,体育课全无</p>\n<h2>The True End</h2>\n",
-      "date_published": "2025-01-02T13:52:38.000Z",
-      "date_modified": "2025-01-23T10:46:09.000Z",
       "authors": [],
       "tags": []
     }
