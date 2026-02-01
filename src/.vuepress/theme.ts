@@ -77,6 +77,11 @@ export default hopeTheme({
     tasklist: true,
     vPre: true,
 
+    highlighter: {
+        type: "shiki",
+        collapsedLines: 20
+    },
+
     // 取消注释它们如果你需要 TeX 支持
     // markdownMath: {
     //   // 启用前安装 katex
