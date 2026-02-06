@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-02-01T03:54:25.569Z</updated>
+  <updated>2026-02-06T16:23:12.980Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -13,6 +13,27 @@
   <category term="观点"/>
   <category term="公告"/>
   <category term="站点"/>
+  <entry>
+    <title type="text">第二十四周</title>
+    <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/24_week.html</id>
+    <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/24_week.html"/>
+    <updated>2026-02-06T16:22:20.000Z</updated>
+    <summary type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 02 08 星期日</strong><br>
+<strong>结束: 2026 02 09 星期一</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The True End</h2>
+]]></summary>
+    <content type="html"><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 02 08 星期日</strong><br>
+<strong>结束: 2026 02 09 星期一</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 我是标题</h3>
+<h2>The True End</h2>
+]]></content>
+    <published>2026-02-06T16:22:20.000Z</published>
+  </entry>
   <entry>
     <title type="text">Alice 机器折腾 IPv4 出口记录</title>
     <id>https://docs.yyyyt.top/articles/daily/2026/02/010.add-ipv4-outbound-for-alice-vps.html</id>
@@ -218,20 +239,48 @@
     <title type="text">第二十三周</title>
     <id>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html</id>
     <link href="https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/23_week.html"/>
-    <updated>2026-01-31T13:45:17.000Z</updated>
+    <updated>2026-02-06T16:22:20.000Z</updated>
     <summary type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 02 01 星期日</strong><br>
-<strong>结束: 2026 02 xx 星期六</strong></p>
+<strong>结束: 2026 02 07 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
-<h2>The True End</h2>
-]]></summary>
+<h3>1. 最近安排</h3>
+<p>本次安排如下:<br>
+高三周六下午放假,周日上午开家长会,学生周日下午到校,下周一下午上完四节课(原本两节)后放寒假.<br>
+然鹅高二周五考完直接放假......<br>
+所以说咱高三学生还有救吗?<br>
+听说隔壁五中周日下午放寒假.</p>
+<h3>2. 串联式大便池</h3>
+<p>又是老生常谈的问题了,只不过这周......炸的次数有点多,炸了两次了.有一次是在周二还是周三的半夜爆炸的,另一次是在周五上午爆炸的.<br>
+内容有点恶心,那边爆炸直接把粪以及卫生纸给喷出来了,沿着坑位喷了一地,学校也不进行改造从根源解决爆炸的问题.<br>
+只能说这个基础设施多少有点抽象了.</p>]]></summary>
     <content type="html"><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 02 01 星期日</strong><br>
-<strong>结束: 2026 02 xx 星期六</strong></p>
+<strong>结束: 2026 02 07 星期六</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
-<h2>The True End</h2>
+<h3>1. 最近安排</h3>
+<p>本次安排如下:<br>
+高三周六下午放假,周日上午开家长会,学生周日下午到校,下周一下午上完四节课(原本两节)后放寒假.<br>
+然鹅高二周五考完直接放假......<br>
+所以说咱高三学生还有救吗?<br>
+听说隔壁五中周日下午放寒假.</p>
+<h3>2. 串联式大便池</h3>
+<p>又是老生常谈的问题了,只不过这周......炸的次数有点多,炸了两次了.有一次是在周二还是周三的半夜爆炸的,另一次是在周五上午爆炸的.<br>
+内容有点恶心,那边爆炸直接把粪以及卫生纸给喷出来了,沿着坑位喷了一地,学校也不进行改造从根源解决爆炸的问题.<br>
+只能说这个基础设施多少有点抽象了.</p>
+<h3>3. 答案历险记</h3>
+<p>龙头抄起"橘雪莉"的英语 168 答案直接往外面扔,运气不好的是扔到了车子棚上面,我有点无语.后面龙头请的外援把答案给弄下来了.</p>
+<h3>4. 寝室</h3>
+<p>DOCS-TSHS-WCF 还在进行他的"牛脚泡奶".<br>
+至于 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 的苦命情也不用多说,又是在正常的玩闹,虽然说声音有点大就是了.</p>
+<h3>5. 其他</h3>
+<p>那个上周六来的女生还在这里面学习,原因未知.<br>
+似乎是 T+7 的同学,看她和 T+7 玩的还挺好的.<br>
+就是为啥高二临近期末了还能上体育课啊?!难道说这届高三主任就是这样的?受苦的一届.<br>
+然后这这次周五放学时间推迟 20 min,据说是为了和高二错峰.<br>
+周五大课间领寒假作业,总共三本,但是我选择自己打印.<br>
+至于为啥这个 The True End 被划掉了吗......意料之外,情理之中.本来以为是最后一周了没想到学校还能让我加个第二十四周.二中就是这样的.</p>
+<h2><s>The True End</s> The Bad End</h2>
 ]]></content>
     <published>2026-01-31T13:45:17.000Z</published>
   </entry>
@@ -3855,35 +3904,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
 <h2>The End</h2>
 ]]></content>
     <category term="高中"/>
-    <published>2025-01-02T13:52:38.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十七周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/up_term/17_week.html"/>
-    <updated>2025-01-05T10:28:35.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241229 星期日</strong><br>
-<strong>结束: 20250102 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.高一高三元旦放假<br>
-这个不说了,高二成小丑了,餐厅一楼也是放元旦假期(二楼不放),所以那几天都快堵死了.高三好像放到了一月二号来着?(看上去),高二直接趁着九省联考占考场直接调休</p>
-<p>2.又双叒叕被占考场了<br>
-自从上周被占考场之后这周又被占了,而且整个楼几乎都被占了(只有两个空的,然而一个是仓库,另一个是教师办公室,所以......箱子叠箱子)或者丢科技楼一楼大厅/宿舍</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20241229 星期日</strong><br>
-<strong>结束: 20250102 星期六</strong></p>
-<h2>本周内容:</h2>
-<p>1.高一高三元旦放假<br>
-这个不说了,高二成小丑了,餐厅一楼也是放元旦假期(二楼不放),所以那几天都快堵死了.高三好像放到了一月二号来着?(看上去),高二直接趁着九省联考占考场直接调休</p>
-<p>2.又双叒叕被占考场了<br>
-自从上周被占考场之后这周又被占了,而且整个楼几乎都被占了(只有两个空的,然而一个是仓库,另一个是教师办公室,所以......箱子叠箱子)或者丢科技楼一楼大厅/宿舍</p>
-<p>3.元旦晚会<br>
-班级开展元旦晚会,这个到时候到文章里面去细说吧,至少办的还是不错的</p>
-<p>4.信息技术考试</p>
-<p>当然本次是模拟考试,下周就是正式考试.然后你就会发现你只有最后两个题会做(但是肯定能让你过就是了)</p>
-<h2>The End</h2>
-]]></content>
     <published>2025-01-02T13:52:38.000Z</published>
   </entry>
 </feed>
