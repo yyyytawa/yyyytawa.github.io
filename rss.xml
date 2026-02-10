@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 07 Feb 2026 16:01:54 GMT</pubDate>
-    <lastBuildDate>Sat, 07 Feb 2026 16:01:54 GMT</lastBuildDate>
+    <pubDate>Tue, 10 Feb 2026 05:55:37 GMT</pubDate>
+    <lastBuildDate>Tue, 10 Feb 2026 05:55:37 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>技术</category>
@@ -15,19 +15,56 @@
     <category>高中</category>
     <category>观点</category>
     <category>公告</category>
-    <category>站点</category>
+    <item>
+      <title>寒假</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/winterholiday.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/winterholiday.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">寒假</source>
+      <description>日期: 开始: 2026 02 09 星期一 结束: 2026 03 04 星期三(正月十六) 1. 万恶的综合素质评价 又是每次必不可少的&amp;quot;综合素质评价&amp;quot;,但是没有&amp;quot;六个一&amp;quot;了,这会的&amp;quot;综合素质评价&amp;quot;还要补上一学期的. 然后这个&amp;quot;综合素质评价&amp;quot;平台又来折腾人了,上来先让你改掉初始密码,OK 没问题,然后再登录一次让你改账号名,名称还必须同时存在英文和...</description>
+      <pubDate>Tue, 10 Feb 2026 05:54:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 02 09 星期一</strong><br>
+<strong>结束: 2026 03 04 星期三(正月十六)</strong></p>
+<h3>1. 万恶的综合素质评价</h3>
+<p>又是每次必不可少的"综合素质评价",但是没有"六个一"了,这会的"综合素质评价"还要补上一学期的.<br>
+然后这个"综合素质评价"平台又来折腾人了,上来先让你改掉初始密码,OK 没问题,然后再登录一次让你改账号名,名称还必须同时存在英文和数字,长度 6-10 位,改完之后还 TM 要退出重新登录,我 TM.</p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>第一周</title>
+      <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/1_week.html</link>
+      <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/1_week.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">第一周</source>
+      <description>日期: 开始: 2026 03 04 星期三 结束: 2026 03 0x 星期六 本周内容: 1. 本周内容 The End</description>
+      <pubDate>Tue, 10 Feb 2026 05:54:50 GMT</pubDate>
+      <content:encoded><![CDATA[<h3>日期:</h3>
+<p><strong>开始: 2026 03 04 星期三</strong><br>
+<strong>结束: 2026 03 0x 星期六</strong></p>
+<h2>本周内容:</h2>
+<h3>1. 本周内容</h3>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>第二十四周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/24_week.html</link>
       <guid>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/up_term/24_week.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">第二十四周</source>
-      <description>日期: 开始: 2026 02 08 星期日 结束: 2026 02 09 星期一 本周内容: 1. 我是标题 The True End</description>
+      <description>日期: 开始: 2026 02 08 星期日 结束: 2026 02 09 星期一 本周内容: 1. 最后一周 这周上完之后直接放寒假,本次由于过年时间比较晚所以说放假时间也晚,也就同时导致下学期开学时间变得非常晚,开学时距离高考不到 100 天,开学两周就要一模了. 周一早上下雪了但是不大,下小一会就停了. 第一次坐上学校的电梯. 我相信应该不会有啥...</description>
       <pubDate>Fri, 06 Feb 2026 16:22:20 GMT</pubDate>
       <content:encoded><![CDATA[<h3>日期:</h3>
 <p><strong>开始: 2026 02 08 星期日</strong><br>
 <strong>结束: 2026 02 09 星期一</strong></p>
 <h2>本周内容:</h2>
-<h3>1. 我是标题</h3>
+<h3>1. 最后一周</h3>
+<p>这周上完之后直接放寒假,本次由于过年时间比较晚所以说放假时间也晚,也就同时导致下学期开学时间变得非常晚,开学时距离高考不到 100 天,开学两周就要一模了.<br>
+周一早上下雪了但是不大,下小一会就停了.<br>
+第一次坐上学校的电梯.<br>
+我相信应该不会有啥人真的把书全搬走吧?大部分书下周还要用.<br>
+家长: 两天三去三回真的有病.<br>
+然后又是万恶的"综合素质评价",还要补录上学期的.不过这会没有"六个一"了.<br>
+或许应该没啥值得写的了吧.</p>
 <h2>The True End</h2>
 ]]></content:encoded>
     </item>
@@ -2997,50 +3034,6 @@ byd谁tm在学校宿舍女装啊.是这样的,就是那么离谱<br>
       <content:encoded><![CDATA[<p>近期图床暂时发生不可用(表现为打开图片文件提示403)<br>
 后续经排查为根目录只读导致nginx无法访问图片文件,现已修复</p>
 <p>参考解决方法: <a href="https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command" target="_blank" rel="noopener noreferrer">https://help.aliyun.com/zh/ecs/support/how-do-i-fix-the-su-faild-to-execute-or-bin-or-bash-permission-denied-error-when-i-switch-users-by-running-the-su-command</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>FAQ</title>
-      <link>https://docs.yyyyt.top/site/faq.html</link>
-      <guid>https://docs.yyyyt.top/site/faq.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">FAQ</source>
-      <description>关于一些词语的解释: 本站中&amp;quot;中国&amp;quot;无特殊指明均指中国内地地区. URL相关规范: 总体原则上以英文优先,其次中文和拼音,最后是其他语言. 要尽可能的避免url转码,减少兼容性问题和增强可读性. /avatar/ 头像目录命名原则上也是以英文优先,如果没有英文名其次是中文,再次之是其他语言. 英文开头首字母大写. 例如说&amp;quot;雪绒&amp;quot;的官方英文名&amp;quot;Qanip...</description>
-      <category>站点</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>关于一些词语的解释:</strong></p>
-<p>本站中"中国"无特殊指明均指<strong>中国内地</strong>地区.</p>
-<p>URL相关规范:</p>
-<p>总体原则上以英文优先,其次中文和拼音,最后是其他语言.<br>
-要尽可能的避免url转码,减少兼容性问题和增强可读性.</p>
-<p>/avatar/</p>
-<p>头像目录命名原则上也是以英文优先,如果没有英文名其次是中文,再次之是其他语言.<br>
-英文开头首字母大写.<br>
-例如说"雪绒"的官方英文名"Qanipalaat"官方日文名为"カニパラート",优先取英文.<br>
-那么url应该写为 /avatar/Qanipalaat/xxxxx</p>
-<p>/meme/</p>
-<p>同上,能用英文建议优先使用英文,此处要求全小写字母.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>会考后感受</title>
-      <link>https://docs.yyyyt.top/articles/daily/2024/12/290.html</link>
-      <guid>https://docs.yyyyt.top/articles/daily/2024/12/290.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">会考后感受</source>
-      <description>不出意外的话这应该是2024年最后一个文章了 然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间. 当然考场在自己学校的就美了,直接不用回了,待在学校里面吧 政治课不出意外就以后永远无了 当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了 先说一下感受,简单 出的要么初中要么小学难度,即使是高中的...</description>
-      <category>高中</category>
-      <pubDate>Thu, 02 Jan 2025 13:52:38 GMT</pubDate>
-      <content:encoded><![CDATA[<p>不出意外的话这应该是2024年最后一个文章了 <s>(同时也是24年12月第一个文章)</s><br>
-然而周日下午4:00返校+1.5小时的路程......所以考完直接送回学校,不给在家里面待的时间.<br>
-当然考场在自己学校的就美了,直接不用回了,待在学校里面吧<br>
-政治课不出意外就以后永远无了</p>
-<p><em>当12:00那愉快钟声响起的那一刻,我知道我终于暂时的解放了</em></p>
-<p>先说一下感受,简单</p>
-<p>出的要么初中要么小学难度,即使是高中的也简单到要死</p>
-<p>物理和初中物理的几乎没有区别,只是考的内容换成了高中.需要思考的题基本上没有,纯算就行了.数学也是同理,但是全高一,难度也是没啥.语文则是小学水平(满分100分+90分钟) <s>语文极速版</s> 题型感觉差不多了.政治只管写就行了,改卷老师不会太为难人,基本上都会过.英语则是满分100+90分钟,题型精简了许多,听力难度也降了亿点.</p>
-<p>只能说难度降亿点而已<br>
-还有考试时候打铃(估计那边忘改了),考着考着忽然来个"同学们,下课时间到了" 乐</p>
-<p>下周计划写个长点的故事(估计这个长度只能算故事?反正bzd),可以期待一下 <s>(bushi)</s></p>
-<h2>The End</h2>
 ]]></content:encoded>
     </item>
   </channel>
