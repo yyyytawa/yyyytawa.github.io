@@ -26,7 +26,7 @@ order: 19
 ### 3. Bed War
 
 ~~起床战争~~  
-DOCS-TSHS-DAYDREAM 和 DOCS-TSHS-WCF 在宿舍玩枕头打仗了,然后出现了下面一个.  
+DOCS-TSHS-DAYDREAM 和 DOCS-TSHS-WCF 在宿舍玩枕头大战了,然后出现了下面画面.  
 打三次一次都没打到.hhha  
 甚至都还有日本武士和中国功夫.  
 所以说这两个是中国人还是日本人?我不知道.  
