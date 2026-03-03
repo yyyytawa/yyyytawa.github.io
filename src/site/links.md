@@ -158,14 +158,13 @@ otherlinks:
 </div>
 :::
 
-::: details RSS:
-[外部链接查看](https://docs.yyyyt.top/docs/site/fc.html)
-<iframe src="/docs/site/fc.html" name="iframe_a" scrolling="yes" frameborder="0" width="100%" height="1000" style="border-radius: 30px;"></iframe>
-:::
-
 ::: details 移除名单
 butlanys的小站,原因: 移除本站友链
 :::
+
+本站 RSS: [RSS.XML](/rss.xml)  
+~~如果被 CF 拦截了我也没招,自动程序攻击模式不能通过 WAF 绕过,直接关掉的话会降低对一些攻击的拦截效果.~~  
+被拦截建议爬 cf pages 的: yyyytawa-github-io[.]pages[.]dev
 
 友链申请:  
 要求支持HTTPS(必须支持TLS1.3 or Later)  
