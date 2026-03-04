@@ -6,8 +6,8 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 Mar 2026 15:37:41 GMT</pubDate>
-    <lastBuildDate>Tue, 03 Mar 2026 15:37:41 GMT</lastBuildDate>
+    <pubDate>Wed, 04 Mar 2026 02:22:17 GMT</pubDate>
+    <lastBuildDate>Wed, 04 Mar 2026 02:22:17 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
@@ -32,9 +32,9 @@ BGM: EmA-常-<br>
 按道理应该会上到下周六放假,当然具体情况具体讨论就是了.<br>
 好消息是寒假作业基本上写完了,剩下的最多就是后面几天没写.<br>
 <s>盲猜这回高二明天下午返校.</s><br>
-失联时间: 2026 年 3 月 4 日 8:00-6 月 9 日 18:15<br>
+失联时间: 2026 年 3 月 4 日上午到校-6 月 9 日 18:15<br>
 失联原因: 高三开学<br>
-死亡讯息: 二中周报不更新</p>
+<span class="spoiler" tabindex="-1">如果要是这个期间内二中周报不更了说明我死了,死亡讯息不一定会留.</span></p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
@@ -1227,6 +1227,7 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
       <guid>https://docs.yyyyt.top/articles/daily/2025/08/310.html</guid>
       <source url="https://docs.yyyyt.top/rss.xml">失联通告</source>
       <description>失联时间: 2025年8月31日至2026年寒假的非节假日以及额外在校时间. 失联原因: 开学(8月31日上午报道). 有效期至: 2026年寒假. The End</description>
+      <category>高中</category>
       <pubDate>Sun, 31 Aug 2025 00:00:42 GMT</pubDate>
       <content:encoded><![CDATA[<p>失联时间: 2025年8月31日至2026年寒假的非节假日以及额外在校时间.<br>
 失联原因: 开学(8月31日上午报道).<br>

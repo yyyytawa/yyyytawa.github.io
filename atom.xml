@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-03-03T15:37:41.625Z</updated>
+  <updated>2026-03-04T02:22:17.848Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -16,7 +16,7 @@
     <title type="text">2026 寒假开学失联通告</title>
     <id>https://docs.yyyyt.top/articles/daily/2026/03/030.go-school.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2026/03/030.go-school.html"/>
-    <updated>2026-03-03T15:36:10.000Z</updated>
+    <updated>2026-03-04T02:21:25.000Z</updated>
     <summary type="html"><![CDATA[<p>首先,祝大家元旦快乐!<br>
 <span class="spoiler" tabindex="-1">忘记给大家拜年了.</span><br>
 热烈缅怀 2026 年寒假同志,上一回发类似的通知已经是将近 6 个月之前了,时间过得真快.<br>
@@ -26,9 +26,9 @@ BGM: EmA-常-<br>
 按道理应该会上到下周六放假,当然具体情况具体讨论就是了.<br>
 好消息是寒假作业基本上写完了,剩下的最多就是后面几天没写.<br>
 <s>盲猜这回高二明天下午返校.</s><br>
-失联时间: 2026 年 3 月 4 日 8:00-6 月 9 日 18:15<br>
+失联时间: 2026 年 3 月 4 日上午到校-6 月 9 日 18:15<br>
 失联原因: 高三开学<br>
-死亡讯息: 二中周报不更新</p>]]></summary>
+<span class="spoiler" tabindex="-1">如果要是这个期间内二中周报不更了说明我死了,死亡讯息不一定会留.</span></p>]]></summary>
     <content type="html"><![CDATA[<p>首先,祝大家元旦快乐!<br>
 <span class="spoiler" tabindex="-1">忘记给大家拜年了.</span><br>
 热烈缅怀 2026 年寒假同志,上一回发类似的通知已经是将近 6 个月之前了,时间过得真快.<br>
@@ -38,9 +38,9 @@ BGM: EmA-常-<br>
 按道理应该会上到下周六放假,当然具体情况具体讨论就是了.<br>
 好消息是寒假作业基本上写完了,剩下的最多就是后面几天没写.<br>
 <s>盲猜这回高二明天下午返校.</s><br>
-失联时间: 2026 年 3 月 4 日 8:00-6 月 9 日 18:15<br>
+失联时间: 2026 年 3 月 4 日上午到校-6 月 9 日 18:15<br>
 失联原因: 高三开学<br>
-死亡讯息: 二中周报不更新</p>
+<span class="spoiler" tabindex="-1">如果要是这个期间内二中周报不更了说明我死了,死亡讯息不一定会留.</span></p>
 <h2>The End</h2>
 ]]></content>
     <category term="高中"/>
@@ -1589,7 +1589,7 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
     <title type="text">失联通告</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/08/310.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/08/310.html"/>
-    <updated>2026-02-13T15:39:21.000Z</updated>
+    <updated>2026-03-04T02:21:25.000Z</updated>
     <summary type="html"><![CDATA[<p>失联时间: 2025年8月31日至2026年寒假的非节假日以及额外在校时间.<br>
 失联原因: 开学(8月31日上午报道).<br>
 有效期至: 2026年寒假.</p>
@@ -1600,6 +1600,7 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
 有效期至: 2026年寒假.</p>
 <h2>The End</h2>
 ]]></content>
+    <category term="高中"/>
     <published>2025-08-31T00:00:42.000Z</published>
   </entry>
   <entry>
