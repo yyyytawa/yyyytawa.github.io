@@ -24,6 +24,13 @@ otherlinks:
    url: https://creeper005bili.github.io
    preview: https://img.yyyyt.top/docs/site/links/preview/Creeper005.png
 
+ - name: 德二吹风机的博客
+   desc: 德二吹风机的博客！分享有趣的技术和疑难杂症解决方式！
+   logo: https://www.tasaed.top/blog/assets/logos/T832.png
+   url: https://www.tasaed.top/blog/
+   repo: https://github.com/TASA-Ed/tasa-ed-blog
+   preview: https://api.tasaed.top/get/bingtoday/?type=f
+
  - name: Hehe
    desc: 收录各种破解工具
    logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
