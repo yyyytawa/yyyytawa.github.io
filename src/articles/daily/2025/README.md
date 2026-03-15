@@ -13,5 +13,5 @@ dir:
 2025年的内容
 
 <div class="catalog-display-container">
-  <Catalog base='/articles/daily/2025/' />
+  <Catalog />
 </div>
