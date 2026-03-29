@@ -6,6 +6,17 @@
   "description": "yyyyt的文档站",
   "items": [
     {
+      "title": "第五周",
+      "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/5_week.html",
+      "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/5_week.html",
+      "summary": "日期: 开始: 2026 03 29 星期日 结束: 2026 04 0x 星期六 本周内容: 1. 本周内容 The End",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 03 29 星期日</strong><br>\n<strong>结束: 2026 04 0x 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 本周内容</h3>\n<h2>The End</h2>\n",
+      "date_published": "2026-03-29T00:48:26.000Z",
+      "date_modified": "2026-03-29T00:48:26.000Z",
+      "authors": [],
+      "tags": []
+    },
+    {
       "title": "2026 寒假开学失联通告",
       "url": "https://docs.yyyyt.top/articles/daily/2026/03/030.go-school.html",
       "id": "https://docs.yyyyt.top/articles/daily/2026/03/030.go-school.html",
@@ -88,10 +99,10 @@
       "title": "第四周",
       "url": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/4_week.html",
       "id": "https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/4_week.html",
-      "summary": "日期: 开始: 2026 03 22 星期日 结束: 2026 03 0x 星期六 本周内容: 1. 本周内容 The End",
-      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 03 22 星期日</strong><br>\n<strong>结束: 2026 03 0x 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 本周内容</h3>\n<h2>The End</h2>\n",
+      "summary": "日期: 开始: 2026 03 22 星期日 结束: 2026 03 28 星期六 本周内容: 1. 毛玻璃贴纸无了 男生寝室外面都毛玻璃贴纸无了,然后看外面看到很清楚(从来没有这样清楚过,当然外面看里面也清楚),而且最 NB 都是厕所的也揭了.意味着你能在外面看到厕所都所有内容,加上男寝本身就在中央,人还多......应该没人管这个. 2. 体育课下...",
+      "content_html": "<h3>日期:</h3>\n<p><strong>开始: 2026 03 22 星期日</strong><br>\n<strong>结束: 2026 03 28 星期六</strong></p>\n<h2>本周内容:</h2>\n<h3>1. 毛玻璃贴纸无了</h3>\n<p>男生寝室外面都毛玻璃贴纸无了,然后看外面看到很清楚(从来没有这样清楚过,当然外面看里面也清楚),而且最 NB 都是厕所的也揭了.意味着你能在外面看到厕所都所有内容,加上男寝本身就在中央,人还多......应该没人管这个.</p>\n<h3>2. 体育课下雨</h3>\n<p>下着雨不影响上课,毛毛细雨不足为惧.有人还想着跑回教室最后没成功.<br>\n这会两只猫都刷出来了,一只耷拉着耳朵的和一只灰猫,这两只猫似乎打过架,耷拉着耳朵都那只鼻子上面有被抓伤的痕迹.也难怪为啥灰猫不跑车库门口了,估计是抢地盘没打过.然后体育课刷鸽子了,但是还是怕人.</p>\n<h3>3. 家长会</h3>\n<p>本周家长会在周日上午九点开,所以说又要开始折腾家长了吗?</p>\n<h3>4. 其他</h3>\n<p>本周六只有二楼餐厅开放.众所周知餐厅喜欢那个好吃撤那个,然后剩下的都是啥东西啊.<br>\n课表又改了,把周三和周四下午的课换了一下,原因是老师认为连续两天数学连排让学生遭罪(也确实挺遭罪的),然后体育课就跑到周四去了.<br>\n周五还要跑操,但是听到的时候已经晚了,直接都不跑了.<br>\n然后想不到写啥了.</p>\n<h2>The End</h2>\n",
       "date_published": "2026-02-10T05:54:50.000Z",
-      "date_modified": "2026-03-22T04:49:34.000Z",
+      "date_modified": "2026-03-29T00:48:26.000Z",
       "authors": [],
       "tags": []
     },
@@ -1132,19 +1143,6 @@
       "date_modified": "2025-12-20T15:18:50.000Z",
       "authors": [],
       "tags": []
-    },
-    {
-      "title": "站点更换cdn",
-      "url": "https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html",
-      "id": "https://docs.yyyyt.top/site/notice/archive/2025/0205_use-nodeloc-free-cdn.html",
-      "summary": "站点现在已更换NodeLoc的免费cdn,大陆访问速度更快(itdog的http测试很绿)",
-      "content_html": "<p>站点现在已更换NodeLoc的免费cdn,大陆访问速度更快(itdog的http测试很绿)</p>\n",
-      "date_published": "2025-02-05T13:30:40.000Z",
-      "date_modified": "2025-02-23T06:53:14.000Z",
-      "authors": [],
-      "tags": [
-        "公告"
-      ]
     }
   ]
 }
