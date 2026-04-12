@@ -22,6 +22,7 @@ export default hopeTheme({
   // 侧边栏
   sidebar,
 
+  sidebarSorter: ["readme", "order", "date-desc", "title", "filename"],
   // 页脚
   footer: "11451419180",
   displayFooter: true,
