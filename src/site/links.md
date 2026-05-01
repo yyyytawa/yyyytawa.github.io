@@ -80,11 +80,11 @@ otherlinks:
    url: https://blog.qianlinjiaxi.qzz.io
    preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
- - name: r1a dev
-   desc: r1a的开发记录/博客
-   logo: https://dev.oneall.eu.org/favicon.webp
-   url: https://blog.oneall.eu.org/
-   preview: https://img.yyyyt.top/docs/site/links/preview/R1a_dev.png
+ - name: Runoneall Develop
+   desc: 我的开发记录、随笔、以及其他...
+   logo: https://rdev.qzz.io/favicon.webp
+   url: https://rdev.qzz.io/
+   preview: https://image.thum.io/get/width/1280/crop/720/https://rdev.qzz.io/
 
  - name: XiaoPang的个人博客
    desc: 追随梦想需竭尽全力
