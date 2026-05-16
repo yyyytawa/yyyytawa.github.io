@@ -103,7 +103,7 @@ otherlinks:
    desc: 我的开发记录、随笔、以及其他...
    logo: https://rdev.qzz.io/favicon.webp
    url: https://vcblog.eu.cc/
-   repo: MyGmailCloudflareAccount/vcblog
+   repo: https://github.com/MyGmailCloudflareAccount/vcblog
    preview: https://s3.bmp.ovh/2026/05/16/RvGYAJDQ.png
 ---
 
@@ -201,6 +201,6 @@ us.kg
    desc: Bad or Worse
    logo: https://cf-img.yyyyt.top/avatar/avatar
    url: https://docs.yyyyt.top
-   repo: yyyytawa/yyyytawa.github.io
+   repo: https://github.com/yyyytawa/yyyytawa.github.io
    preview: https://cf-img.yyyyt.top/vuepress/screenshot
 ```
