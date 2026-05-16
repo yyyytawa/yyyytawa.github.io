@@ -80,12 +80,6 @@ otherlinks:
    url: https://blog.qianlinjiaxi.qzz.io
    preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
- - name: Runoneall Develop
-   desc: 我的开发记录、随笔、以及其他...
-   logo: https://rdev.qzz.io/favicon.webp
-   url: https://rdev.qzz.io/
-   preview: https://image.thum.io/get/width/1280/crop/720/https://rdev.qzz.io/
-
  - name: XiaoPang的个人博客
    desc: 追随梦想需竭尽全力
    logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
@@ -104,6 +98,13 @@ otherlinks:
    url: https://blog.yeqing.net/
    repo: https://github.com/Yeqingky/
    preview: https://list.yeqing.net/d/cos/image/45ad978e8d0e49b401704e93d0d790f7.png
+
+ - name: 维C博客
+   desc: 我的开发记录、随笔、以及其他...
+   logo: https://rdev.qzz.io/favicon.webp
+   url: https://vcblog.eu.cc/
+   repo: MyGmailCloudflareAccount/vcblog
+   preview: https://s3.bmp.ovh/2026/05/16/RvGYAJDQ.png
 ---
 
 我自己的站点
@@ -153,8 +154,8 @@ otherlinks:
 <VPCard
   title="Runoneall"
   desc="提供了本站图床的SaaS优选"
-  logo="https://dev.oneall.eu.org/favicon.webp"
-  link="https://dev.oneall.eu.org"
+  logo="https://rdev.qzz.io/favicon.webp"
+  link="https://vcblog.eu.cc"
 />
 <VPCard
   title="Netlify"
