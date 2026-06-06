@@ -1,5 +1,5 @@
 ---
-title: 二中周报
+title: 二中随记
 index: false
 feed: false
 sitemap: false
