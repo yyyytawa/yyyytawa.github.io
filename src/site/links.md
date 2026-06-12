@@ -101,10 +101,10 @@ otherlinks:
 
  - name: 维C博客
    desc: 我的开发记录、随笔、以及其他...
-   logo: https://rdev.qzz.io/favicon.webp
+   logo: https://s3.bmp.ovh/2026/06/12/MKCsE8LS.webp
    url: https://vcblog.eu.cc/
-   repo: https://github.com/MyGmailCloudflareAccount/vcblog
-   preview: https://s3.bmp.ovh/2026/05/16/RvGYAJDQ.png
+   repo: https://github.com/partxic/vcblog
+   preview: https://s3.bmp.ovh/2026/06/12/nhuxj2Ns.png
 ---
 
 我自己的站点
@@ -154,7 +154,7 @@ otherlinks:
 <VPCard
   title="Runoneall"
   desc="提供了本站图床的SaaS优选"
-  logo="https://rdev.qzz.io/favicon.webp"
+  logo="https://s3.bmp.ovh/2026/06/12/MKCsE8LS.webp"
   link="https://vcblog.eu.cc"
 />
 <VPCard
