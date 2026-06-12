@@ -31,6 +31,13 @@ otherlinks:
    repo: https://github.com/TASA-Ed/tasa-ed-blog
    preview: https://api.tasaed.top/get/bingtoday/?type=f
 
+ - name: FayeDerolex
+   desc: 你最爱的DerolexTV，现在在互联网上。
+   logo: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVaOpqLAeEW-T9q8KEP7S0zI8JxixfQQAC_iIAAkkrYFXTY3PRB8NuvTwE.jpeg
+   url: https://fayederolex.top/
+   repo: https://github.com/digitalbaka
+   preview: https://fayederolex.top/zb_users/upload/2026/06/20260612211841178127032134877.png
+
  - name: Hehe
    desc: 收录各种破解工具
    logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
