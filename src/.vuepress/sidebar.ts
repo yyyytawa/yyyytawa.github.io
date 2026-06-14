@@ -12,6 +12,8 @@ export default sidebar({
   "/articles/research/": "structure",
   // 奇怪志
   "/books/unusual-world/": "structure",
+  // 白日梦
+  "/books/daydream/": "structure",
   // 诗和歌
   "/articles/poems_and_songs/": "structure",
   //图册
