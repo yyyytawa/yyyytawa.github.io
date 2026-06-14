@@ -6,14 +6,29 @@
     <link>https://docs.yyyyt.top/</link>
     <description>yyyyt的文档站</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 12 Jun 2026 13:32:38 GMT</pubDate>
-    <lastBuildDate>Fri, 12 Jun 2026 13:32:38 GMT</lastBuildDate>
+    <pubDate>Sun, 14 Jun 2026 14:57:08 GMT</pubDate>
+    <lastBuildDate>Sun, 14 Jun 2026 14:57:08 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>高中</category>
     <category>技术</category>
     <category>研究与探索</category>
     <category>观点</category>
+    <item>
+      <title>Neo-manager-bot</title>
+      <link>https://docs.yyyyt.top/articles/daily/2026/06/140.Neo-manager-bot.html</link>
+      <guid>https://docs.yyyyt.top/articles/daily/2026/06/140.Neo-manager-bot.html</guid>
+      <source url="https://docs.yyyyt.top/rss.xml">Neo-manager-bot</source>
+      <description>我写了个云湖机器人,叫做 Neo-manager-bot,对标某个 b...utlanys 的 nmbot,基于 ErisPulse 框架开发. 代码已开源,链接: https://github.com/yyyytawa/Neo-manager-bot ,LICENSE GPL 3.0,写的非常屎. 顺带说一下心得体会,以前过的什么苦日子的,命令要靠正...</description>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 GMT</pubDate>
+      <content:encoded><![CDATA[<p>我写了个云湖机器人,叫做 Neo-manager-bot,对标某个 b...utlanys 的 nmbot,基于 <a href="https://www.erisdev.com/" target="_blank" rel="noopener noreferrer">ErisPulse</a> 框架开发.<br>
+代码已开源,链接: <a href="https://github.com/yyyytawa/Neo-manager-bot" target="_blank" rel="noopener noreferrer">https://github.com/yyyytawa/Neo-manager-bot</a> ,LICENSE GPL 3.0,写的非常屎.<br>
+顺带说一下心得体会,以前过的什么苦日子的,命令要靠正则表达式提取,各种错误都要自己处理,WS 连接之类的逻辑也要自己写,现在直接 <code>epsdk install</code> 安装适配器,命令部分框架帮你提取好了,还有一键获取命令参数的功能,甚至部分错误处理也帮你写了,写出来的代码也简单直观,不需要像以前那样弯弯绕绕了,总结: YingXinche 的恩情还不完\O/!!!!!!!<br>
+如果你要是想要开发一个云湖机器人的话强烈推荐 <a href="https://www.erisdev.com/" target="_blank" rel="noopener noreferrer">ErisPulse</a>!!!!!!<br>
+<s>这不是一个广告.</s></p>
+<h2>The End</h2>
+]]></content:encoded>
+    </item>
     <item>
       <title>第十四周</title>
       <link>https://docs.yyyyt.top/blog/the_second_high_school/third_grade/down_term/14_week.html</link>
@@ -3340,24 +3355,6 @@ DOCS-TSHS-LP 也跑路了.</p>
 DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-DAYDREAM 如何下棋,教室里面具体下的咋样也不知道,反正有点热闹就是了.<br>
 据 DOCS-TSHS-WCF 本人说曾经初中有过不少下棋经验,熟练掌握左右脑互博技术,棋艺也在其中不断长进.<br>
 然后没啥可说了,再总结就发现是小型宫斗剧了.</p>
-<h2>The End</h2>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>第八周</title>
-      <link>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</link>
-      <guid>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/8_week.html</guid>
-      <source url="https://docs.yyyyt.top/rss.xml">第八周</source>
-      <description>日期: 开始: 20250330 星期日 结束: 20250403 星期四 本周内容: 1.火了 对,火了(物理意义上的).学校附近有个房子顶层着火了,黑烟直冒,往高三那边冒.全校好多同学都在围观.一节课过去了还在烧,再过一节消防员来了灭了.整个顶楼都烧没了,附带下面一层遭殃. 2.跑操被查了 首先就是跑操时好多人disappear了,别问,问就是打球...</description>
-      <pubDate>Sat, 29 Mar 2025 10:51:15 GMT</pubDate>
-      <content:encoded><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250330 星期日</strong><br>
-<strong>结束: 20250403 星期四</strong></p>
-<h2>本周内容:</h2>
-<h3>1.火了</h3>
-<p>对,火了(物理意义上的).学校附近有个房子顶层着火了,黑烟直冒,往高三那边冒.全校好多同学都在围观.一节课过去了还在烧,再过一节消防员来了灭了.整个顶楼都烧没了,附带下面一层遭殃.</p>
-<h3>2.跑操被查了</h3>
-<p>首先就是跑操时好多人disappear了,别问,问就是打球去了.跑一半一堆人加入.其次就是被逮了,被叫出去说我们班在那里走,结果转个角发现一堆人在走都看不到,无语😓.</p>
 <h2>The End</h2>
 ]]></content:encoded>
     </item>
