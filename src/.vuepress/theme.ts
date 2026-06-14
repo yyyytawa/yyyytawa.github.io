@@ -79,8 +79,8 @@ export default hopeTheme({
     vPre: true,
 
     highlighter: {
-        type: "shiki",
-        collapsedLines: 20
+      type: "shiki",
+      collapsedLines: 20,
     },
 
     // 取消注释它们如果你需要 TeX 支持
@@ -132,13 +132,14 @@ export default hopeTheme({
       categoryId: "DIC_kwDOLKM3y84Cc2zJ",
     },
     copyCode: {
-      showInMobile: true
+      showInMobile: true,
     },
     notice: [
       {
         path: "/",
         title: "公告",
-        content: "点击下方按钮查看最新公告</br><mark><strong>本站由于\"不可抗力\"因素,不再保证中国大陆的访问</strong></mark></br><blod><strong>在评论区留言即代表同意本站的留言规范</strong></blod>",
+        content:
+          '点击下方按钮查看最新公告</br><mark><strong>本站由于"不可抗力"因素,不再保证中国大陆的访问</strong></mark></br><blod><strong>在评论区留言即代表同意本站的留言规范</strong></blod>',
         actions: [
           {
             text: "跳转公告",
@@ -149,9 +150,9 @@ export default hopeTheme({
         ],
       },
     ],
-//    shiki: {
-//      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'go'],
-//    },
+    //    shiki: {
+    //      langs: ['ts', 'json', 'vue', 'md', 'bash', 'diff', 'go'],
+    //    },
     feed: {
       atom: true,
       json: true,
@@ -165,62 +166,58 @@ export default hopeTheme({
     },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释
-     pwa: {
-       favicon: "https://img.yyyyt.top/avatar/avatar",
-    //   cacheHTML: true,
-    //   cacheImage: true,
-       appendBase: true,
-       maxSize: 100,
-       update: "hint",
-       apple: {
-         icon: "https://img.yyyyt.top/avatar/avatar",
-         statusBarColor: "black",
-       },
-       msTile: {
-         image: "https://img.yyyyt.top/avatar/avatar",
-         color: "#ffffff",
-       },
-       manifest: {
-         icons: [
-           {
-             src: "https://img.yyyyt.top/avatar/avatar",
-             sizes: "512x512",
-             purpose: "maskable",
-             type: "image/png",
-           },
-           {
-             src: "https://img.yyyyt.top/avatar/avatar",
-             sizes: "192x192",
-             purpose: "maskable",
-             type: "image/png",
-           },
-           {
-             src: "https://img.yyyyt.top/avatar/avatar",
-             sizes: "512x512",
-             type: "image/png",
-           },
-           {
-             src: "https://img.yyyyt.top/avatar/avatar",
-             sizes: "192x192",
-             type: "image/png",
-           },
-         ],
-         shortcuts: [
-           {
-             name: "教程",
-             short_name: "教程",
-             url: "/guide/",
-             icons: [
-               {
-                 src: "/assets/icon/guide-maskable.png",
-                 sizes: "192x192",
-                 purpose: "maskable",
-                 type: "image/png",
-               },
-             ],
-           },
-         ],
-       },
-     },
-   },
+    pwa: {
+      favicon: "https://img.yyyyt.top/avatar/avatar",
+      //   cacheHTML: true,
+      //   cacheImage: true,
+      appendBase: true,
+      maxSize: 1, // 尽可能避免缓存,别问,问就是全给你存下来太恶心人了.
+      update: "hint",
+      apple: {
+        icon: "https://img.yyyyt.top/avatar/avatar",
+        statusBarColor: "black",
+      },
+      manifest: {
+        icons: [
+          {
+            src: "https://img.yyyyt.top/avatar/avatar",
+            sizes: "512x512",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "https://img.yyyyt.top/avatar/avatar",
+            sizes: "192x192",
+            purpose: "maskable",
+            type: "image/png",
+          },
+          {
+            src: "https://img.yyyyt.top/avatar/avatar",
+            sizes: "512x512",
+            type: "image/png",
+          },
+          {
+            src: "https://img.yyyyt.top/avatar/avatar",
+            sizes: "192x192",
+            type: "image/png",
+          },
+        ],
+        shortcuts: [
+          {
+            name: "教程",
+            short_name: "教程",
+            url: "/guide/",
+            icons: [
+              {
+                src: "/assets/icon/guide-maskable.png",
+                sizes: "192x192",
+                purpose: "maskable",
+                type: "image/png",
+              },
+            ],
+          },
+        ],
+      },
+    },
+  },
 });

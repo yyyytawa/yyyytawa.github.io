@@ -36,7 +36,7 @@ otherlinks:
    logo: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVaOpqLAeEW-T9q8KEP7S0zI8JxixfQQAC_iIAAkkrYFXTY3PRB8NuvTwE.jpeg
    url: https://fayederolex.top/
    repo: https://github.com/digitalbaka
-   preview: https://fayederolex.top/zb_users/upload/2026/06/20260612211841178127032134877.png
+   preview: https://img.cdn1.vip/i/6a2d856162536_1781368161.webp
 
  - name: Hehe
    desc: 收录各种破解工具
