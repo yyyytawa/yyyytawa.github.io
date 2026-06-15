@@ -171,8 +171,22 @@ export default hopeTheme({
       //   cacheHTML: true,
       //   cacheImage: true,
       appendBase: true,
-      maxSize: 1, // 尽可能避免缓存,别问,问就是全给你存下来太恶心人了.
-      update: "hint",
+      maxSize: 1024,
+      update: "force",
+      generateSWConfig: {
+        globPatterns: [
+          "**/*.css",
+          "**/*.{woff,woff2,ttf,eot}",
+          "index.html",
+          "404.html",
+          "assets/app-*.js",
+          "assets/404.html-*.js",
+          "assets/plugin-vue_export-helper-*.js",
+        ],
+        skipWaiting: true, // 自动跳过等待
+        clientsClaim: true, // 激活后立即接管
+        cleanupOutdatedCaches: true, // 清理旧缓存
+      },
       apple: {
         icon: "https://img.yyyyt.top/avatar/avatar",
         statusBarColor: "black",

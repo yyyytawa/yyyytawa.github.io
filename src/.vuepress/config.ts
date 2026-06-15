@@ -1,6 +1,6 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import { getDirname, path } from "vuepress/utils";
+import { path } from "vuepress/utils";
 
 export default defineUserConfig({
   base: "/",
@@ -15,6 +15,6 @@ export default defineUserConfig({
 
   theme,
   // 和 PWA 一起启用
-   shouldPrefetch: false,
+   shouldPrefetch: true,
   
 });
