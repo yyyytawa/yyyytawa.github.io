@@ -21,8 +21,9 @@ copyright: false
 footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 使用文章内容请遵循版权声明, 版权所有 © 2024-present yyyyt(awa) </br><a href="https://icp.gov.moe/?keyword=20250402" target="_blank">萌ICP备20250402号</a>
 ---
 
-**欢迎来到我的文档站**  
-*~~这不是一个博客~~*  
+**欢迎来到我的文档站.**  
+~~也是我的个人小窝,记录生活+一些技术分享.~~  
+*~~这不是一个博客.~~*  
 
 > [!tip]
 > 想写就写,不想写就不写,随缘更新.
