@@ -3,7 +3,7 @@
   <id>https://docs.yyyyt.top/</id>
   <title>yyyyt的文档站</title>
   <subtitle>yyyyt的文档站</subtitle>
-  <updated>2026-06-14T14:57:08.534Z</updated>
+  <updated>2026-06-15T08:27:09.880Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://docs.yyyyt.top/atom.xml"/>
   <link rel="alternate" href="https://docs.yyyyt.top/"/>
@@ -11,6 +11,34 @@
   <category term="技术"/>
   <category term="研究与探索"/>
   <category term="观点"/>
+  <entry>
+    <title type="text">使用 VPS 自建 GitHub 反代</title>
+    <id>https://docs.yyyyt.top/articles/daily/2026/06/150.github-mirror.html</id>
+    <link href="https://docs.yyyyt.top/articles/daily/2026/06/150.github-mirror.html"/>
+    <updated>2026-06-15T08:25:36.000Z</updated>
+    <summary type="html"><![CDATA[<h2>简言:</h2>
+<p><s>鸽了多久的东西现在才发上来.</s></p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>强烈建议开启验证方式防止 Netcraft 钓鱼投诉,也可以有效避免刷流量等行为.<br>
+此项目 Big powered by AI,不提供任何支持,如有问题自行解决.</p>
+</div>
+<p>项目地址: <a href="https://github.com/yyyytawa/gh-mirror" target="_blank" rel="noopener noreferrer">https://github.com/yyyytawa/gh-mirror</a></p>]]></summary>
+    <content type="html"><![CDATA[<h2>简言:</h2>
+<p><s>鸽了多久的东西现在才发上来.</s></p>
+<div class="hint-container warning">
+<p class="hint-container-title">注意</p>
+<p>强烈建议开启验证方式防止 Netcraft 钓鱼投诉,也可以有效避免刷流量等行为.<br>
+此项目 Big powered by AI,不提供任何支持,如有问题自行解决.</p>
+</div>
+<p>项目地址: <a href="https://github.com/yyyytawa/gh-mirror" target="_blank" rel="noopener noreferrer">https://github.com/yyyytawa/gh-mirror</a></p>
+<p>使用说明: 建议看 <a href="https://github.com/yyyytawa/gh-mirror/blob/main/README.md" target="_blank" rel="noopener noreferrer">README.md</a>,已经写的比较详细了,这边没必要再写一下.<br>
+注意: 如果想要使用域前置功能 SNI 不能填 &quot;&quot;,会报错.<br>
+使用愉快~</p>
+<h2>The End</h2>
+]]></content>
+    <published>2026-06-15T00:00:00.000Z</published>
+  </entry>
   <entry>
     <title type="text">Neo-manager-bot</title>
     <id>https://docs.yyyyt.top/articles/daily/2026/06/140.Neo-manager-bot.html</id>
@@ -2463,35 +2491,35 @@ sleepy被巡逻了逮了,然后又被迫换位了, <span class="spoiler" tabinde
     <published>2025-08-29T14:00:31.000Z</published>
   </entry>
   <entry>
-    <title type="text">Github 的 SSH 被阻断以及部分解决方法</title>
+    <title type="text">GitHub 的 SSH 被阻断以及部分解决方法</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/08/290.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/08/290.html"/>
-    <updated>2026-04-19T06:53:09.000Z</updated>
-    <summary type="html"><![CDATA[<p>众所周知,我那边 Github 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 Github 部分 IP 的22惨遭阻断,于是就诞生了这篇文章.</p>
+    <updated>2026-06-15T08:25:36.000Z</updated>
+    <summary type="html"><![CDATA[<p>众所周知,我那边 GitHub 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 GitHub 部分 IP 的22惨遭阻断,于是就诞生了这篇文章.</p>
 <h2>1. 改 IP</h2>
 <p>部分 IP 的 SSH 22端口尚未阻断,可以通过修改 Hosts 文件,或者是修改 DNS 的返回结果等方式指定到这些 IP 来解决阻断问题.<br>
 Hosts 文件内容如下.</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>20.27.177.113 github.com # 20.27.177.113 这个 IP 可以换成别的 Github 优选 IP</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>20.27.177.113 github.com # 20.27.177.113 这个 IP 可以换成别的 GitHub 优选 IP</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div>]]></summary>
-    <content type="html"><![CDATA[<p>众所周知,我那边 Github 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 Github 部分 IP 的22惨遭阻断,于是就诞生了这篇文章.</p>
+    <content type="html"><![CDATA[<p>众所周知,我那边 GitHub 以往只是在443端口间歇性阻断,22端口的ssh没有啥事情,前几天 GitHub 部分 IP 的22惨遭阻断,于是就诞生了这篇文章.</p>
 <h2>1. 改 IP</h2>
 <p>部分 IP 的 SSH 22端口尚未阻断,可以通过修改 Hosts 文件,或者是修改 DNS 的返回结果等方式指定到这些 IP 来解决阻断问题.<br>
 Hosts 文件内容如下.</p>
-<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>20.27.177.113 github.com # 20.27.177.113 这个 IP 可以换成别的 Github 优选 IP</span></span></code></pre>
+<div class="language- line-numbers-mode" data-highlighter="shiki" data-ext style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>20.27.177.113 github.com # 20.27.177.113 这个 IP 可以换成别的 GitHub 优选 IP</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div></div></div><p>各大系统 Hosts 文件位置:<br>
 Windows: <code>C:\windows\system32\drivers\etc\hosts</code><br>
 Linux: <code>/etc/hosts</code><br>
 MacOS: <code>/etc/hosts</code></p>
 <p>安卓建议通过爱玩机等第三方工具修改(需 ROOT 权限)</p>
-<p>获取其他的 Github IP 方式:</p>
+<p>获取其他的 GitHub IP 方式:</p>
 <ol>
-<li>上网搜(关键词: Github 优选 IP).</li>
+<li>上网搜(关键词: GitHub 优选 IP).</li>
 <li>在 <a href="https://itdog.cn" target="_blank" rel="noopener noreferrer">itdog</a> 上测速输入 <a href="http://github.com" target="_blank" rel="noopener noreferrer">github.com</a>, 然后看看海外解析的地址,建议优先选日本香港等环大陆地区的 IP,然后本地 ping 一下看看效果,效果不错的话就可以用了.</li>
 </ol>
 <h2>2. 挂代理/中转服务器</h2>
 <div class="hint-container warning">
 <p class="hint-container-title">注意</p>
-<p>部分机场为了防止扫爆,会屏蔽 SSH 的22端口,使用之前需要先注意.</p>
+<p>部分机场为了防止扫爆,会屏蔽 SSH 的22端口,使用之前需要先注意.本教程不分享如何搭建代理,自行解决.</p>
 </div>
 <h3>2.1 代理软件的 TUN 模式</h3>
 <p>这个不多说,懂得都懂.用 TUN 模式让 git 的操作通过代理访问.</p>
@@ -2509,7 +2537,7 @@ MacOS: <code>/etc/hosts</code></p>
 <span class="line"><span>  User root</span></span>
 <span class="line"><span>  HostName your_server_ip</span></span>
 <span class="line"><span>  IdentityFile xxx</span></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>proxyserver 就用例如说 HK 地区等可以直连 Github 的服务器.</p>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>proxyserver 就用例如说 HK 地区等可以直连 GitHub 的服务器.</p>
 <h4>通过 socks5 代理</h4>
 <p>~/.ssh/config</p>
 <div class="language- line-numbers-mode" data-highlighter="shiki" data-ext style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-"><span class="line"><span>Host github.com</span></span>
@@ -2519,10 +2547,10 @@ MacOS: <code>/etc/hosts</code></p>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>如果报错没有 ncat 的话请安装.<br>
 命令中的 socks5 代理信息请换成自己的.</p>
 <h2>3. 换个托管平台</h2>
-<p>Gitlab 的仓库支持从 Github 导入和同步,Gitlab 在国内被干扰不严重,可以正常使用.<br>
+<p>Gitlab 的仓库支持从 GitHub 导入和同步,Gitlab 在国内被干扰不严重,可以正常使用.<br>
 <s>账号记得挂代理登录防止遣返国内.</s><br>
 Gitee(<a href="https://gitee.com" target="_blank" rel="noopener noreferrer">https://gitee.com</a>) 也可以但是不太推荐.<br>
-也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 Github 迁移仓库.</p>
+也可以用 <a href="https://codeberg.org" target="_blank" rel="noopener noreferrer">Codeberg</a>. 也支持从 GitHub 迁移仓库.</p>
 <h2>The End</h2>
 ]]></content>
     <category term="技术"/>
@@ -3904,7 +3932,7 @@ R1A 要来批判,男同管理不得行.<br>
     <title type="text">自建图床</title>
     <id>https://docs.yyyyt.top/articles/daily/2025/04/041.html</id>
     <link href="https://docs.yyyyt.top/articles/daily/2025/04/041.html"/>
-    <updated>2026-04-12T05:22:46.000Z</updated>
+    <updated>2026-06-15T08:25:36.000Z</updated>
     <summary type="html"><![CDATA[<h2>概述:</h2>
 <p>图床对于一个文档来说是必不可少的一部分,对于markdown来说也非常重要,毕竟要插入图片之类的.本教程教你如何用自己的服务器自建图床.<br>
 本教程中将使用Caddy作为web服务端,系统为debian12.你也可以选择使用NGINX和其他系统.<br>
@@ -3944,21 +3972,21 @@ R1A 要来批判,男同管理不得行.<br>
 在Caddyfile的后面加上一个 <code>import /etc/caddy/site/*.conf</code>,如下图所示.</p>
 <p>接下来只需要把配置文件丢到site目录下即可.</p>
 <p>建议加上邮箱相关配置来方便Caddy自动申请https证书.</p>
-<div class="language-caddyfile line-numbers-mode" data-highlighter="shiki" data-ext="caddyfile" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-caddyfile"><span class="line"><span>{</span></span>
-<span class="line"><span>    email example@example.com  # 替换为你的邮箱地址</span></span>
-<span class="line"><span>}</span></span></code></pre>
+<div class="language-nginx line-numbers-mode" data-highlighter="shiki" data-ext="nginx" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-nginx"><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">{</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">    email</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> example@example.com  </span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 替换为你的邮箱地址</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>接下来在site目录里面创建一个 <code>images.conf</code> 内容如下:</p>
-<div class="language-conf line-numbers-mode" data-highlighter="shiki" data-ext="conf" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-conf"><span class="line"><span>img.example.com { # 替换为你的域名</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>	# 设置为你的图片保存目录</span></span>
-<span class="line"><span>	root * /www/images</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>	# 启动静态文件服务</span></span>
-<span class="line"><span>	file_server</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>	header Cache-Control "public, max-age=31536000" # 缓存时间按照自己需求设定,可以影响cdn缓存的时间</span></span>
-<span class="line"><span></span></span>
-<span class="line"><span>}</span></span></code></pre>
+<div class="language-nginx line-numbers-mode" data-highlighter="shiki" data-ext="nginx" style="--shiki-light:#383A42;--shiki-dark:#abb2bf;--shiki-light-bg:#FAFAFA;--shiki-dark-bg:#282c34"><pre class="shiki shiki-themes one-light one-dark-pro vp-code"><code class="language-nginx"><span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">img.example.</span><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">com</span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF"> { </span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"># 替换为你的域名</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">	# 设置为你的图片保存目录</span></span>
+<span class="line"><span style="--shiki-light:#A626A4;--shiki-dark:#C678DD">	root </span><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">* /www/images</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic">	# 启动静态文件服务</span></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">	file_server</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">	header Cache-Control </span><span style="--shiki-light:#50A14F;--shiki-dark:#98C379">"public, max-age=31536000"</span><span style="--shiki-light:#A0A1A7;--shiki-light-font-style:italic;--shiki-dark:#7F848E;--shiki-dark-font-style:italic"> # 缓存时间按照自己需求设定,可以影响cdn缓存的时间</span></span>
+<span class="line"></span>
+<span class="line"><span style="--shiki-light:#383A42;--shiki-dark:#ABB2BF">}</span></span></code></pre>
 <div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>记得创建对应目录.</p>
@@ -4194,57 +4222,6 @@ DOCS-TSHS-LP 也跑路了.</p>
 <p>和某人争SEEWOO了,然后一个视频展台直接送走,以后也不会有了,毕竟 DOCS-TSHS-WCF 和 DOCS-TSHS-DAYDREAM 也不会再玩了.<br>
 然后后面不理我了,不理更好,安静许多,毕竟本身不是多数闲聊类话题的主动发起者.<br>
 后续我也懒得去理了.</p>
-<h2>The End</h2>
-]]></content>
-    <published>2025-03-29T10:51:15.000Z</published>
-  </entry>
-  <entry>
-    <title type="text">第十五周</title>
-    <id>https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/15_week.html</id>
-    <link href="https://docs.yyyyt.top/blog/the_second_high_school/second_grade/down_term/15_week.html"/>
-    <updated>2025-05-23T17:05:32.000Z</updated>
-    <summary type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250518 星期日</strong><br>
-<strong>结束: 20250523 星期五</strong></p>
-<h2>本周内容:</h2>
-<h3>1. 学校终于开空调了</h3>
-<p>过了N周了,总算是开空调了.以前温度29摄氏度不符合要求,现在30多符合要求了.<br>
-教室宿舍空调不清灰就开了,现在看貌似没出啥问题?<br>
-宿舍的半夜空调直接被关,早上起来直接热死,然后再一看好像有个蚊子在飞...最好的驱蚊剂是16摄氏度的空调.</p>
-<p>室外机装到阳台貌似是无奈之举,空调外机的管子不够长,只能挂到阳台了.<br>
-还有说安全问题,说支架在外面风吹雨打,容易生锈,外机掉下去砸到学生了会出事.阳台那边没那么多风吹雨打,支架不会生锈那么快,相对安全一些.<br>
-也有个好处就是夏天免费桑拿房服务,开空调阳台热死,衣服干的贼快.<br>
-有些寝室空调坏了学校直接换新了,升级了,从五级能效升级到一级能效了,但是我那边还是原来的清朝老空调,年龄都快赶上我的年龄了,不过制冷效果应该都差不多.</p>]]></summary>
-    <content type="html"><![CDATA[<h3>日期:</h3>
-<p><strong>开始: 20250518 星期日</strong><br>
-<strong>结束: 20250523 星期五</strong></p>
-<h2>本周内容:</h2>
-<h3>1. 学校终于开空调了</h3>
-<p>过了N周了,总算是开空调了.以前温度29摄氏度不符合要求,现在30多符合要求了.<br>
-教室宿舍空调不清灰就开了,现在看貌似没出啥问题?<br>
-宿舍的半夜空调直接被关,早上起来直接热死,然后再一看好像有个蚊子在飞...最好的驱蚊剂是16摄氏度的空调.</p>
-<p>室外机装到阳台貌似是无奈之举,空调外机的管子不够长,只能挂到阳台了.<br>
-还有说安全问题,说支架在外面风吹雨打,容易生锈,外机掉下去砸到学生了会出事.阳台那边没那么多风吹雨打,支架不会生锈那么快,相对安全一些.<br>
-也有个好处就是夏天免费桑拿房服务,开空调阳台热死,衣服干的贼快.<br>
-有些寝室空调坏了学校直接换新了,升级了,从五级能效升级到一级能效了,但是我那边还是原来的清朝老空调,年龄都快赶上我的年龄了,不过制冷效果应该都差不多.</p>
-<h3>2. 下周月考</h3>
-<p>据可靠消息来源通知,下周三周四月考,第十一周考完的期中到第十六周月考,这学期好像7月10号多结束.</p>
-<h3>3. 老牛!</h3>
-<p>老牛!你语文课咋又被叫了.嗷,作业没交啊,那没事了.我还以为 ZH-CN 老师随机挑人背书,结果专找没交作业的.上回是语文课急着收拾东西,被马老师抓了,这回是数学课当着班主任的面收拾,还待是你老牛.<br>
-然后生物课又被提问了,哈哈哈.</p>
-<h3>4. 某人犯贱</h3>
-<p>大概说一下事情,就是某人犯贱然后逃跑,被抓后被真的不小心挖了.<br>
-后续中午某人计划实施打击报复结果偷鸡不成蚀把米,又被反过来给教训了.<br>
-报复的原因很简单: 因为某人被挖了N个痕迹但是我才1-2个不到,认为不公平,所以要来挖我,见我胳膊上有几个痕迹和他一样之后才满意.<br>
-我无语,也不知道咋写了...点到为止.</p>
-<h3>5. 其他事情</h3>
-<p>茶杯不知道为啥乱跑,我觉得应该是自己长腿了,然后跑到别的地方,应该吧.想必是我想东西太多了忘了.<br>
-笔里面笔芯不知道为啥坏了一根,我打开笔盖看到的,据 DOCS-TSHS-WS 所说应该是不小心被摔掉坏了.<br>
-那个小保温杯不知到去哪里了,宿舍也没见,反正就是很灵异.</p>
-<p>高三最近考试好频繁啊,估计是要高考了.<br>
-DOCS-TSHS-WCF 不玩国际象棋改五子棋了,在宿舍里面培训 DOCS-TSHS-DAYDREAM 如何下棋,教室里面具体下的咋样也不知道,反正有点热闹就是了.<br>
-据 DOCS-TSHS-WCF 本人说曾经初中有过不少下棋经验,熟练掌握左右脑互博技术,棋艺也在其中不断长进.<br>
-然后没啥可说了,再总结就发现是小型宫斗剧了.</p>
 <h2>The End</h2>
 ]]></content>
     <published>2025-03-29T10:51:15.000Z</published>
