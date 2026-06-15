@@ -126,8 +126,9 @@ A01 有两个空调,估计是因为教室面积比较大.
 周五下午两点阶梯教室开放自习,有值班老师维持纪律和答疑,自愿自习.凭准考证进入学校,老师也会在群里面发一些解题思路和技巧.  
 后续补充: 周六强对流+槐树,真是太棒了!空气中全是种子,还是带毛的版本,眼睛压根睁不开,骑电车看个考场路上都能让人很费劲.然后语文的古诗文 TM 是风,默写也有风相关,太碰巧了吧?然后这个数学 TMD 难死了,然后更无语的是送分题的分我都没拿全啊啊啊啊啊啊啊啊啊——.  
 对了,写这个总结的这一天是 2026 年 6 月 6 日星期六(6666),祝大家 66 大顺.  
+~~各种意义上最短的一学期.~~  
 本文章是高三上学日的最后一篇文章,顺带送上一首告别曲:  
-<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1wT4y1k7Pw" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
+<iframe src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1wT4y1k7Pw&autoplay=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
 
 最后祝愿大家旗开得胜,金榜题名!!!  
 
