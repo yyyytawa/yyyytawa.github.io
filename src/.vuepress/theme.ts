@@ -158,6 +158,9 @@ export default hopeTheme({
       json: true,
       rss: true,
     },
+    seo: {
+      canonical: "https://docs.yyyyt.top", // 权威地址
+    },
     icon: {
       assets: "fontawesome",
     },
