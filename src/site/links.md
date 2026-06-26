@@ -3,118 +3,113 @@ title: 友情链接
 sidebar: false
 icon: link
 category:
-- 站点
+  - 站点
 
 otherlinks:
- - name: Anran
-   desc: 年更站
-   logo: https://r2.anran.xyz/avatar.jpg
-   url: https://www.anran.xyz
-   preview: https://r2.anran.xyz/avatar.jpg
+  - name: Anran
+    desc: 年更站
+    logo: https://r2.anran.xyz/avatar.jpg
+    url: https://www.anran.xyz
+    preview: https://r2.anran.xyz/avatar.jpg
 
- - name: B84F2246的博客
-   desc: TECH OTAKUS SAVE THE WORLD
-   logo: https://assets.b84f2246.top/img/avatar.png
-   url: https://blog.b84f2246.top/
-   preview: https://blog.b84f2246.top/img/screenshot.jpg
+  - name: B84F2246的博客
+    desc: TECH OTAKUS SAVE THE WORLD
+    logo: https://assets.b84f2246.top/img/avatar.png
+    url: https://blog.b84f2246.top/
+    preview: https://blog.b84f2246.top/img/screenshot.jpg
 
- - name: Creeper005の小站
-   desc: 坐牢日常
-   logo: https://creeper005bili.github.io/img/avatar.png
-   url: https://creeper005bili.github.io
-   preview: https://img.yyyyt.top/docs/site/links/preview/Creeper005.png
+  - name: Creeper005の小站
+    desc: 坐牢日常
+    logo: https://creeper005bili.github.io/img/avatar.png
+    url: https://creeper005bili.github.io
+    preview: https://img.yyyyt.top/docs/site/links/preview/Creeper005.png
 
- - name: 德二吹风机的博客
-   desc: 德二吹风机的博客！分享有趣的技术和疑难杂症解决方式！
-   logo: https://www.tasaed.top/blog/assets/logos/T832.png
-   url: https://www.tasaed.top/blog/
-   repo: https://github.com/TASA-Ed/tasa-ed-blog
-   preview: https://api.tasaed.top/get/bingtoday/?type=f
+  - name: 德二吹风机的博客
+    desc: 德二吹风机的博客！分享有趣的技术和疑难杂症解决方式！
+    logo: https://www.tasaed.top/blog/assets/logos/T832.png
+    url: https://www.tasaed.top/blog/
+    repo: https://github.com/TASA-Ed/tasa-ed-blog
+    preview: https://api.tasaed.top/get/bingtoday/?type=f
 
- - name: FayeDerolex
-   desc: 你最爱的DerolexTV，现在在互联网上。
-   logo: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVaOpqLAeEW-T9q8KEP7S0zI8JxixfQQAC_iIAAkkrYFXTY3PRB8NuvTwE.jpeg
-   url: https://fayederolex.top/
-   repo: https://github.com/digitalbaka
-   preview: https://img.cdn1.vip/i/6a2d856162536_1781368161.webp
+  - name: FayeDerolex
+    desc: 你最爱的DerolexTV，现在在互联网上。
+    logo: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVaOpqLAeEW-T9q8KEP7S0zI8JxixfQQAC_iIAAkkrYFXTY3PRB8NuvTwE.jpeg
+    url: https://fayederolex.top/
+    repo: https://github.com/digitalbaka
+    preview: https://img.cdn1.vip/i/6a2d856162536_1781368161.webp
 
- - name: Hehe
-   desc: 收录各种破解工具
-   logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
-   url: https://heheqz.dpdns.org/
-   preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
+  - name: 龙窝
+    desc: 人生近看是悲剧，远看是喜剧
+    logo: https://blog.245179.xyz/images/atiq.png
+    url: https://blog.245179.xyz/
+    preview: https://blog.245179.xyz/images/web.png
 
- - name: 龙窝
-   desc: 人生近看是悲剧，远看是喜剧
-   logo: https://blog.245179.xyz/images/atiq.png
-   url: https://blog.245179.xyz/
-   preview: https://blog.245179.xyz/images/web.png
+  - name: 沫泽的小站
+    desc: 一个技术宅的小窝
+    logo: https://blog.pmoze.top/wp-content/uploads/site.png
+    url: https://blog.pmoze.top/
+    repo: https://github.com/Pisces-Moze
+    preview: https://play.cyberpaws.icu:1145/api/image
 
- - name: 沫泽的小站
-   desc: 一个技术宅的小窝
-   logo: https://blog.pmoze.top/wp-content/uploads/site.png
-   url: https://blog.pmoze.top/
-   repo: https://github.com/Pisces-Moze
-   preview: https://play.cyberpaws.icu:1145/api/image
+  - name: NodeLoc
+    desc: NodeLoc论坛
+    logo: https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png
+    url: https://www.nodeloc.com
+    preview: https://img.yyyyt.top/docs/site/links/preview/NodeLoc.png
 
- - name: NodeLoc
-   desc: NodeLoc论坛
-   logo: https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png
-   url: https://www.nodeloc.com
-   preview: https://img.yyyyt.top/docs/site/links/preview/NodeLoc.png
+  - name: Pysio
+    desc: 一个温暖的家/一只懒懒的熊猫
+    logo: https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163
+    url: https://www.pysio.online/
+    preview: https://img.yyyyt.top/docs/site/links/preview/Pysio.avif
 
- - name: Pysio
-   desc: 一个温暖的家/一只懒懒的熊猫
-   logo: https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163
-   url: https://www.pysio.online/
-   preview: https://img.yyyyt.top/docs/site/links/preview/Pysio.avif
+  - name: Qrasa的小站
+    desc: 记录一些活着的日常
+    logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
+    url: https://blog.qrasa.cn/
+    preview: https://img.yyyyt.top/docs/site/links/preview/Qrasa.png
 
- - name: Qrasa的小站
-   desc: 记录一些活着的日常
-   logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
-   url: https://blog.qrasa.cn/
-   preview: https://img.yyyyt.top/docs/site/links/preview/Qrasa.png
- 
- - name: 轻雨Purainity的小站
-   desc: 一位热爱钻研技术、分享经验的互联网爱好者
-   logo: https://jibukeshi.dpdns.org/assets/avatar.png
-   url: https://jibukeshi.dpdns.org/
-   preview: https://jibukeshi.dpdns.org/assets/head-background.jpg
+  - name: 轻雨Purainity的小站
+    desc: 一位热爱钻研技术、分享经验的互联网爱好者
+    logo: https://jibukeshi.dpdns.org/assets/avatar.png
+    url: https://jibukeshi.dpdns.org/
+    preview: https://jibukeshi.dpdns.org/assets/head-background.jpg
 
- - name: QL的blog
-   desc: 额...我没什么想说的...
-   logo: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
-   url: https://blog.qianlinjiaxi.qzz.io
-   preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
+  - name: QL的blog
+    desc: 额...我没什么想说的...
+    logo: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
+    url: https://blog.qianlinjiaxi.qzz.io
+    preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
- - name: XiaoPang的个人博客
-   desc: 追随梦想需竭尽全力
-   logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
-   url: https://blog.xpdbk.com 
-   preview: https://img.yyyyt.top/docs/site/links/preview/XiaoPang.png
+  - name: XiaoPang的个人博客
+    desc: 追随梦想需竭尽全力
+    logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
+    url: https://blog.xpdbk.com
+    preview: https://img.yyyyt.top/docs/site/links/preview/XiaoPang.png
 
- - name: 一个一个一个小站（悲
-   desc: 114514个三连的站
-   logo: https://sanlian.qzz.io/favicon.ico
-   url: https://sanlian.qzz.io
-   preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
+  - name: 一个一个一个小站（悲
+    desc: 114514个三连的站
+    logo: https://sanlian.qzz.io/favicon.ico
+    url: https://sanlian.qzz.io
+    preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
 
- - name: 夜轻Blog
-   desc: 一个人
-   logo: https://blog.yeqing.net/upload/ea055268c8792945de3b9c8d00e1cd08.jpeg
-   url: https://blog.yeqing.net/
-   repo: https://github.com/Yeqingky/
-   preview: https://list.yeqing.net/d/cos/image/45ad978e8d0e49b401704e93d0d790f7.png
+  - name: 夜轻Blog
+    desc: 一个人
+    logo: https://blog.yeqing.net/upload/ea055268c8792945de3b9c8d00e1cd08.jpeg
+    url: https://blog.yeqing.net/
+    repo: https://github.com/Yeqingky/
+    preview: https://list.yeqing.net/d/cos/image/45ad978e8d0e49b401704e93d0d790f7.png
 
- - name: 维C博客
-   desc: 我的开发记录、随笔、以及其他...
-   logo: https://s3.bmp.ovh/2026/06/12/MKCsE8LS.webp
-   url: https://vcblog.eu.cc/
-   repo: https://github.com/partxic/vcblog
-   preview: https://s3.bmp.ovh/2026/06/12/nhuxj2Ns.png
+  - name: 维C博客
+    desc: 我的开发记录、随笔、以及其他...
+    logo: https://s3.bmp.ovh/2026/06/12/MKCsE8LS.webp
+    url: https://vcblog.eu.cc/
+    repo: https://github.com/partxic/vcblog
+    preview: https://s3.bmp.ovh/2026/06/12/nhuxj2Ns.png
 ---
 
 我自己的站点
+
 <div class="vp-card-container">
 <VPCard
   title="YYYYT的AList站点"
@@ -133,6 +128,7 @@ otherlinks:
 />
 
 ::: details 鸣谢名单
+
 <div class="vp-card-container">
 <VPCard
   title="Cloudflare"
@@ -174,40 +170,83 @@ otherlinks:
 :::
 
 ::: details 移除名单
+
 butlanys的小站,原因: 移除本站友链
+
 :::
 
-本站 RSS: [RSS.XML](/rss.xml)  
+::: details 失联
+
+如有疑问请到[关于](/site/about_me)联系处理.
+
+---
+
+无法打开 2026 06 24 20:38 测试
+此域名无法查询到 DNS 记录.
+
+```yaml
+- name: Hehe
+  desc: 收录各种破解工具
+  logo: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
+  url: https://heheqz.dpdns.org/
+  preview: https://s3.bmp.ovh/imgs/2025/01/17/69249e4ac9cb8403.jpg
+```
+
+---
+
+:::
+
+## 本站 RSS:
+
+[RSS.XML](/rss.xml)  
+
 ~~如果被 CF 拦截了我也没招,自动程序攻击模式不能通过 WAF 绕过,直接关掉的话会降低对一些攻击的拦截效果.~~  
 被拦截建议爬 cf pages 的: yyyytawa-github-io[.]pages[.]dev
 
-友链申请:  
-要求支持HTTPS(必须支持TLS1.3 or Later)  
-能正常访问,也不能被墙  
-不能有违法违规内容  
-添加本站友链  
+## 友链申请条件:
 
-不能是以下域名后缀:  
-```
-us.kg
-```
+- 支持HTTPS(TLS1.3 or Later)
+- 中国内地可以正常访问
+- 不能有违法违规内容
+- 先行添加本站友链
+- 不能是以下域名后缀
 
-在下方评论区留言即可,格式:  
-```
- - name: 名称
-   desc: 描述
-   logo: 图标
-   url: 链接
-   repo: Github仓库(可不填)
-   preview: 背景(推荐网站主页)
+```text
+暂无
 ```
 
-我的站点信息  
+::: tip 温馨提示
+
+如果上级部门要求移除部分友链情况下本站可以不通知无条件移除,但是会额外标注.  
+
+短时间内到多个站点申请友链可能不会通过(基本不执行,条件: 同一个站点 1 个月内向大于 10 个站点申请友链).  
+
+一个人最多申请两个站点,超过两个则必须放弃先前申请的友链.  
+
+非特殊原因失联超过 6 个月可能会彻底移除.
+
+:::
+
+## 添加友链:
+
+在下方评论区留言即可,格式:
+
+```yaml
+- name: 名称
+  desc: 描述
+  logo: 图标
+  url: 链接
+  repo: Github仓库(可不填)
+  preview: 背景(推荐网站主页)
 ```
- - name: yyyyt的文档站
-   desc: Bad or Worse
-   logo: https://cf-img.yyyyt.top/avatar/avatar
-   url: https://docs.yyyyt.top
-   repo: https://github.com/yyyytawa/yyyytawa.github.io
-   preview: https://cf-img.yyyyt.top/vuepress/screenshot
+
+我的站点信息
+
+```yaml
+- name: yyyyt的文档站
+  desc: Bad or Worse
+  logo: https://cf-img.yyyyt.top/avatar/avatar
+  url: https://docs.yyyyt.top
+  repo: https://github.com/yyyytawa/yyyytawa.github.io
+  preview: https://cf-img.yyyyt.top/vuepress/screenshot
 ```
