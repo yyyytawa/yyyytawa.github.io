@@ -8,7 +8,8 @@ category:
 
 > Hi,不管你是从别的站点的友联过来的,现实中认识的,搜索引擎过来的,还是本文没提及到的地方过来的,都很高兴见到你喵\~
 
-![avatar =50x50](https://img.yyyyt.top/avatar/avatar)  
+![头像 awa =50x50](https://img.yyyyt.top/avatar/avatar)  
+
 ~~由于头像301热更新机制因此此处不会再写来源~~ 请看图册头像系列.  
 真名: 不愿透露  
 高中毕业(2026),生活在河南  
