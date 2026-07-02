@@ -51,7 +51,7 @@ jobs:
           single-commit: true # 保证 gh-pages 没有一堆 commit
 
       - name: 部署至 Cloudflare Workers
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
