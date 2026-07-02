@@ -7,22 +7,22 @@ title: 头像系列
 ### 月代雪
 
 来源: 魔法少女的魔法审判  
-![](https://img.yyyyt.top/avatar/Tsukishiro_Yuki/origin.webp)  
+![](/avatar/Tsukishiro_Yuki/origin.webp)  
 
 ### 未知1
 
 来源: 网络  
-![Unknown_1](https://img.yyyyt.top/avatar/Unknown_1/1080x1080.avif)  
+![Unknown_1](/avatar/Unknown_1/1080x1080.avif)  
 ::: details 完整原图
-![Unknown_1_origin](https://img.yyyyt.top/avatar/Unknown_1/origin.png)  
+![Unknown_1_origin](/avatar/Unknown_1/origin.png)  
 :::
 
 ### 雪绒
 
 来源: [X](https://x.com/sanmuyyb/status/1867226223367348680),英文名 Qanipalaat,头像如下:  
-![Qanipalaat](https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_1024x1024.avif)  
+![Qanipalaat](/avatar/Qanipalaat/Qanipalaat_1024x1024.avif)  
 ::: details 完整原图
-![Qanipalaat_origin](https://img.yyyyt.top/avatar/Qanipalaat/Qanipalaat_origin.png)  
+![Qanipalaat_origin](/avatar/Qanipalaat/Qanipalaat_origin.png)  
 :::
 
 ### 白龙
