@@ -9,8 +9,7 @@
     "enabled": true
   },
   "assets": {
-    "directory": "src/.vuepress/dist",
-    "binding": "ASSETS"
+    "directory": "src/.vuepress/dist"
   },
   "compatibility_flags": [
     "nodejs_compat"
