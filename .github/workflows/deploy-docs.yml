@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 jobs:
-  deploy-gh-pages:
+  deploy-pages:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
