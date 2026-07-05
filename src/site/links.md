@@ -22,7 +22,7 @@ otherlinks:
     desc: 坐牢日常
     logo: https://creeper005bili.github.io/img/avatar.png
     url: https://creeper005bili.github.io
-    preview: https://img.yyyyt.top/docs/site/links/preview/Creeper005.png
+    preview: /docs/site/links/preview/Creeper005.png
 
   - name: 德二吹风机的博客
     desc: 德二吹风机的博客！分享有趣的技术和疑难杂症解决方式！
@@ -53,21 +53,21 @@ otherlinks:
 
   - name: NodeLoc
     desc: NodeLoc论坛
-    logo: https://img.yyyyt.top/docs/site/links/avatar/NodeLoc.png
+    logo: /docs/site/links/avatar/NodeLoc.png
     url: https://www.nodeloc.com
-    preview: https://img.yyyyt.top/docs/site/links/preview/NodeLoc.png
+    preview: /docs/site/links/preview/NodeLoc.png
 
   - name: Pysio
     desc: 一个温暖的家/一只懒懒的熊猫
     logo: https://cdn.akaere.online/https://avatars.githubusercontent.com/u/71202163
     url: https://www.pysio.online/
-    preview: https://img.yyyyt.top/docs/site/links/preview/Pysio.avif
+    preview: /docs/site/links/preview/Pysio.avif
 
   - name: Qrasa的小站
     desc: 记录一些活着的日常
-    logo: https://img.yyyyt.top/docs/site/links/avatar/qrasa.jpg
+    logo: /docs/site/links/avatar/qrasa.jpg
     url: https://blog.qrasa.cn/
-    preview: https://img.yyyyt.top/docs/site/links/preview/Qrasa.png
+    preview: /docs/site/links/preview/Qrasa.png
 
   - name: 轻雨Purainity的小站
     desc: 一位热爱钻研技术、分享经验的互联网爱好者
@@ -85,13 +85,13 @@ otherlinks:
     desc: 追随梦想需竭尽全力
     logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
     url: https://blog.xpdbk.com
-    preview: https://img.yyyyt.top/docs/site/links/preview/XiaoPang.png
+    preview: /docs/site/links/preview/XiaoPang.png
 
   - name: 一个一个一个小站（悲
     desc: 114514个三连的站
     logo: https://sanlian.qzz.io/favicon.ico
     url: https://sanlian.qzz.io
-    preview: https://img.yyyyt.top/docs/site/links/preview/Sanlian.png
+    preview: /docs/site/links/preview/Sanlian.png
 
   - name: 夜轻Blog
     desc: 一个人
@@ -112,9 +112,9 @@ otherlinks:
 
 <div class="vp-card-container">
 <VPCard
-  title="YYYYT的AList站点"
+  title="YYYYT 的 AList站点"
   desc="分享一些视频/文件"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/alist.svg"
+  logo="/docs/site/links/avatar/alist.svg"
   link="https://alist.yyyyt.top"
 />
 </div>
@@ -133,25 +133,25 @@ otherlinks:
 <VPCard
   title="Cloudflare"
   desc="网站性能与防护.提供了本站静态页面服务器(Pages).同时也提供了内网穿透服务"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/CF_logomark.svg"
+  logo="/docs/site/links/avatar/CF_logomark.svg"
   link="https://www.cloudflare.com"
 />
 <VPCard
   title="Github"
   desc="提供了本站的Git存储库"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/github-mark.svg"
+  logo="/docs/site/links/avatar/github-mark.svg"
   link="https://github.com"
 />
 <VPCard
   title="VuePress-Theme-Hope"
   desc="一个具有强大功能的 vuepress 主题✨"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/vuepress-theme-hope.svg"
+  logo="/docs/site/links/avatar/vuepress-theme-hope.svg"
   link="https://theme-hope.vuejs.press/zh/"
 />
 <VPCard
   title="Giscus"
   desc="利用 GitHub Discussions 实现的评论系统"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/giscus.png"
+  logo="/docs/site/links/avatar/giscus.png"
   link="https://giscus.app/"
 />
 <VPCard
@@ -163,7 +163,7 @@ otherlinks:
 <VPCard
   title="Netlify"
   desc="提供了静态网站部署和大陆优化CDN"
-  logo="https://img.yyyyt.top/docs/site/links/avatar/netlify.svg"
+  logo="/docs/site/links/avatar/netlify.svg"
   link="https://www.netlify.com"
 />
 </div>
@@ -205,7 +205,7 @@ butlanys的小站,原因: 移除本站友链
 
 ## 友链申请条件:
 
-- 支持HTTPS(TLS1.3 or Later)
+- 支持 HTTPS(TLS1.3 or Later)
 - 中国内地可以正常访问
 - 不能有违法违规内容
 - 先行添加本站友链
@@ -236,14 +236,14 @@ butlanys的小站,原因: 移除本站友链
   desc: 描述
   logo: 图标
   url: 链接
-  repo: Github仓库(可不填)
+  repo: Github 仓库(可不填)
   preview: 背景(推荐网站主页)
 ```
 
 我的站点信息
 
 ```yaml
-- name: yyyyt的文档站
+- name: yyyyt 的文档站
   desc: Bad or Worse
   logo: https://cf-img.yyyyt.top/avatar/avatar
   url: https://docs.yyyyt.top

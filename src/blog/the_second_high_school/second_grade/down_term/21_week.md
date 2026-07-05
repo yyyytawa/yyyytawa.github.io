@@ -24,7 +24,7 @@ order: 21
 
 > ~~DOCS-TSHS-LP: 老师,瓜太便宜了.~~  
 
-![](https://img.yyyyt.top/meme/doro/static/这像话吗.gif)  
+![](/meme/doro/static/这像话吗.gif)  
 
 ### 3. 心理测评
 
