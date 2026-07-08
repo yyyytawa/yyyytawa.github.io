@@ -18,7 +18,7 @@ actions:
     link: ./blog/
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 使用文章内容请遵循版权声明, 版权所有 © 2024-present yyyyt(awa) </br><a href="https://icp.gov.moe/?keyword=20250402" target="_blank">萌 ICP 备 20250402 号</a> </br><a href="https://beian.miit.gov.cn/" target="_blank">豫 ICP 备 2026029241 号</a>
+footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题搭建 | 使用文章内容请遵循版权声明, 版权所有 © 2024-present yyyyt(awa) </br><a href="https://icp.gov.moe/?keyword=20250402" target="_blank">萌 ICP 备 20250402 号</a> </br><a href="https://beian.miit.gov.cn/" target="_blank">豫ICP备2026029241号-1</a>
 ---
 
 **欢迎来到我的文档站.**  
