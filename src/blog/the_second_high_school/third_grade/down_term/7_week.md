@@ -1,6 +1,7 @@
 ---
 title: 第七周
 order: 7
+article: false
 ---
 
 ### 日期:

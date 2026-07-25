@@ -1,6 +1,7 @@
 ---
 title: 第九周
 order: 9
+article: false
 ---
 
 ### 日期:  

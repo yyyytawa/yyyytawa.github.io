@@ -3,6 +3,7 @@ title: 隐私政策
 icon: lock
 sidebar: false
 index: false
+article: false
 changelog: true
 category:
 - 站点

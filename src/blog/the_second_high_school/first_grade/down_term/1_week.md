@@ -1,6 +1,7 @@
 ---
 title: 第一周
 order: 1
+article: false
 ---
 
 **Daemon prepare to start**   

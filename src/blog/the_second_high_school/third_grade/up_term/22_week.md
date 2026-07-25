@@ -1,6 +1,7 @@
 ---
 title: 第二十二周
 order: 22
+article: false
 ---
 
 ### 日期:

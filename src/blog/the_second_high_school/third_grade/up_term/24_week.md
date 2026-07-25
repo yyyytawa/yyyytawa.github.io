@@ -1,6 +1,7 @@
 ---
 title: 第二十四周
 order: 24
+article: false
 ---
 
 ### 日期:

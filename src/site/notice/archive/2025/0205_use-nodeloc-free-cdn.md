@@ -1,6 +1,5 @@
 ---
 title: 站点更换cdn
-order: -0205
 category:
 - 公告
 ---

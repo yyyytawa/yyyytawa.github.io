@@ -1,6 +1,10 @@
 ---
 title: 群规
-sidebar: false
+index: false
+feed: false
+sitemap: false
+timeline: false
+article: false
 ---
 
 最近更新日期: 20241019    

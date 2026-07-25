@@ -2,6 +2,7 @@
 title: 暑假
 order: 4
 icon: sun
+article: false
 ---
 
 **日期:**  

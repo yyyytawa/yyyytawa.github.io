@@ -1,5 +1,10 @@
 ---
 title: 文章
+index: false
+feed: false
+sitemap: false
+timeline: false
+article: false
 ---
 
 ~~至于为什么书与诗歌目录会在这下面我也不知道,反正都算文章~~  

@@ -1,6 +1,7 @@
 ---
 title: 友情链接
 sidebar: false
+article: false
 icon: link
 category:
   - 站点

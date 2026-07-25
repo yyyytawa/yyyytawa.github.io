@@ -1,5 +1,6 @@
 ---
 title: 奇怪世界
+article: false
 feed: false
 ---
 

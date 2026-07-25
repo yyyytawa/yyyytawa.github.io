@@ -1,6 +1,7 @@
 ---
 title: 第十三周
 order: 13
+article: false
 ---
 
 ### 日期:

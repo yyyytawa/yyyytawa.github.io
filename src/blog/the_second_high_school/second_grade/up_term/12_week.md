@@ -1,6 +1,7 @@
 ---
 title: 第十二周
 order: 12
+article: false
 ---
 
 ### 日期:  

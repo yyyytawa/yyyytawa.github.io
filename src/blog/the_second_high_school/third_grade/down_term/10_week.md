@@ -1,6 +1,7 @@
 ---
 title: 第十周
 order: 10
+article: false
 ---
 
 ### 日期:

@@ -5,6 +5,7 @@ feed: false
 sitemap: false
 timeline: false
 article: false
+draft: true
 ---
 
 ~~写小说之前一定要写设定集,写好了再弄.~~  

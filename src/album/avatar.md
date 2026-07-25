@@ -1,5 +1,6 @@
 ---
 title: 头像系列
+article: false
 ---
 
 按照时间顺序倒序排列:  

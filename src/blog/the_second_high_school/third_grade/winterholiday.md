@@ -2,6 +2,7 @@
 title: 寒假
 icon: snowflake
 order: 2
+article: false
 ---
 
 ### 日期:

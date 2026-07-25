@@ -1,6 +1,7 @@
 ---
 title: 第十七周
 order: 17
+article: false
 ---
 
 ### 日期:

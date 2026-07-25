@@ -1,5 +1,6 @@
 ---
 title: 彩羽ひでり
+article: false
 ---
 有文字版  
 <Sticker

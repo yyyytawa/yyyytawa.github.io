@@ -1,6 +1,7 @@
 ---
 title: 第八周
 order: 8
+article: false
 ---
 
 ### 日期:  

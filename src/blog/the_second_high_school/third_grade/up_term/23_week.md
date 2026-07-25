@@ -1,6 +1,7 @@
 ---
 title: 第二十三周
 order: 23
+article: false
 ---
 
 ### 日期:

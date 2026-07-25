@@ -1,6 +1,7 @@
 ---
 title: 第十九周
 order: 19
+article: false
 ---
 
 ### 日期:  

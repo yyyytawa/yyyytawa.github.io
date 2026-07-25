@@ -1,6 +1,7 @@
 ---
 title: 第六周
 order: 6
+article: false
 ---
 
 ### 日期:  

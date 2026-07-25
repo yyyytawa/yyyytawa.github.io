@@ -1,6 +1,7 @@
 ---
 title: 第三周
 order: 3
+article: false
 ---
 
 ### 日期:

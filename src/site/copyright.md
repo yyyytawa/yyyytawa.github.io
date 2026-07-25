@@ -1,6 +1,7 @@
 ---
 title: 版权声明
 sidebar: false
+article: false
 icon: copyright
 category:
 - 站点

@@ -1,6 +1,7 @@
 ---
 title: 第二十一周
 order: 21
+article: false
 ---
 
 ### 日期:

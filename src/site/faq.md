@@ -2,6 +2,7 @@
 title: FAQ
 icon: question
 sidebar: false
+article: false
 category:
 - 站点
 tags:

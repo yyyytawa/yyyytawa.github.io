@@ -1,5 +1,6 @@
 ---
 title: DORO
+article: false
 ---
 静态  
 <Sticker
