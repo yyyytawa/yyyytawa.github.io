@@ -39,11 +39,11 @@ otherlinks:
     repo: https://github.com/digitalbaka
     preview: https://img.cdn1.vip/i/6a2d856162536_1781368161.webp
 
-  - name: 龙窝
+  - name: 龙星划空
     desc: 人生近看是悲剧，远看是喜剧
-    logo: https://blog.245179.xyz/images/atiq.png
-    url: https://blog.245179.xyz/
-    preview: https://blog.245179.xyz/images/web.png
+    logo: https://blog.furryawa.com/images/atiq.png
+    url: https://blog.furryawa.com/
+    preview: https://blog.furryawa.com/images/web.png
 
   - name: 沫泽的小站
     desc: 一个技术宅的小窝
