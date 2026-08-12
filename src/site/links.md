@@ -82,11 +82,11 @@ otherlinks:
     url: https://blog.qianlinjiaxi.qzz.io
     preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
-  - name: XiaoPang的个人博客
-    desc: 追随梦想需竭尽全力
-    logo: https://img.xpdbk.com/file/imglol/img/avatar.jpg
-    url: https://blog.xpdbk.com
-    preview: /docs/site/links/preview/XiaoPang.png
+  - name: 小胖的博客
+    desc: 想法需慢摇，来个好文摇一摇
+    logo: https://cdn.jsdelivr.net/gh/1x000/zdzy/tp/avatar.jpg
+    url: https://blog.moegeek.com/
+    preview: https://cdn.jsdelivr.net/gh/1x000/zdzy/tp/LAIBEIHAOCHAYAOYIYAO.JPG
 
   - name: 一个一个一个小站（悲
     desc: 114514个三连的站
