@@ -24,6 +24,13 @@ otherlinks:
     logo: https://creeper005bili.github.io/img/avatar.png
     url: https://creeper005bili.github.io
     preview: /docs/site/links/preview/Creeper005.png
+  
+  - name: CyanTea的小站
+    desc: 不定时写点东西（？
+    logo: https://peg195-image.pages.dev/peg195.png
+    url: https://www.allons-y.uk
+    repo: https://gitlab.com/hokkotaru/blog
+    preview: https://ybrinpds.vivaldi.net/wp-content/uploads/sites/57765/2026/08/206bc64b-deb1-4623-9b49-aaf62e9fe0f1.png
 
   - name: 德二吹风机的博客
     desc: 德二吹风机的博客！分享有趣的技术和疑难杂症解决方式！
