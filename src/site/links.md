@@ -42,7 +42,7 @@ otherlinks:
   - name: FayeDerolex
     desc: 你最爱的DerolexTV，现在在互联网上。
     logo: https://img.remit.ee/api/file/BQACAgUAAyEGAASHRsPbAAEVaOpqLAeEW-T9q8KEP7S0zI8JxixfQQAC_iIAAkkrYFXTY3PRB8NuvTwE.jpeg
-    url: https://fayederolex.top/
+    url: https://zhangjiapeng.online
     repo: https://github.com/digitalbaka
     preview: https://img.cdn1.vip/i/6a2d856162536_1781368161.webp
 
