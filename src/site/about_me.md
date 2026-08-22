@@ -33,8 +33,12 @@ QQ,微信,电话号码等涉及个人隐私的联系方式不会在这里展示.
 GitHub: [yyyytawa](https://github.com/yyyytawa)<Badge text="有通知会看" type="note"/>
 云湖群聊: https://yhfx.jwznb.com/share?key=71TTNxbRls2Z&ts=1781667773  
 
-## 赞助
+## 支持本站
 
-~~目前仅支持爱发电.~~  
+声明: **此支持为无偿支持,不提供任何服务/商品,不支持退款.**感谢您的支持!~~一分也是爱 qwq.~~
 
-爱发电: https://afdian.com/a/yyyytawa
+爱发电:  
+https://afdian.com/a/yyyytawa
+
+支付宝(仅支持 0.01, 0.49, 0.99....太多了不列举了,最多 50~~V 我 50~~):  
+https://ur.alipay.com/_54UfLIRdoi9JIEOYUWBvby
