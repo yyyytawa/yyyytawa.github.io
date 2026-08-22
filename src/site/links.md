@@ -89,10 +89,10 @@ otherlinks:
     url: https://blog.qianlinjiaxi.qzz.io
     preview: https://blog.qianlinjiaxi.qzz.io/wp-content/uploads/2025/08/cropped-bf8eea8cbc31b1ea1a5b5424a20f92c2.jpg
 
-  - name: 小胖的博客
-    desc: 想法需慢摇，来个好文摇一摇
+  - name: Xiaopang的博客
+    desc: 硬件居然如此卡脚（物理）
     logo: https://cdn.jsdelivr.net/gh/1x000/zdzy/tp/avatar.jpg
-    url: https://blog.moegeek.com/
+    url: https://blog.xpdbk.com/
     preview: https://cdn.jsdelivr.net/gh/1x000/zdzy/tp/LAIBEIHAOCHAYAOYIYAO.JPG
 
   - name: 一个一个一个小站（悲
