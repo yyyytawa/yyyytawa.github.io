@@ -1,0 +1,1 @@
+var e=`/meme/doro/static/%E8%BF%99%E5%83%8F%E8%AF%9D%E5%90%97.gif`;export{e as t};
