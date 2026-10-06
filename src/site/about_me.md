@@ -42,3 +42,7 @@ https://afdian.com/a/yyyytawa
 
 支付宝(仅支持 0.01, 0.49, 0.99....太多了不列举了,最多 50~~V 我 50~~):  
 https://ur.alipay.com/_54UfLIRdoi9JIEOYUWBvby
+
+微信赞赏码:
+
+![](/docs/site/about_me/donate-by-wechat.avif)
