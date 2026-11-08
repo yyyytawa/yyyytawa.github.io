@@ -103,10 +103,10 @@ otherlinks:
 
   - name: 夜轻Blog
     desc: 一个人
-    logo: https://blog.yeqing.net/upload/ea055268c8792945de3b9c8d00e1cd08.jpeg
-    url: https://blog.yeqing.net/
+    logo: https://list.yppp.net/d/cos/yeqing.jpeg
+    url: https://www.yeqing.net/
     repo: https://github.com/Yeqingky/
-    preview: https://list.yeqing.net/d/cos/image/45ad978e8d0e49b401704e93d0d790f7.png
+    preview: https://cdn.yppp.net/cos/012a4785/7ghz.png
 
   - name: 维C博客
     desc: 我的开发记录、随笔、以及其他...
