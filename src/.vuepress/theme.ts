@@ -24,7 +24,8 @@ export default hopeTheme({
 
   sidebarSorter: ["readme", "order", "date-desc", "title", "filename"],
   // 页脚
-  footer: "11451419180  </br><a href='https://beian.miit.gov.cn/' target='_blank'>豫ICP备2026029241号-1</a>",
+  footer:
+    "11451419180  </br><a href='https://beian.miit.gov.cn/' target='_blank'>豫ICP备2026029241号-1</a>",
   displayFooter: true,
 
   // 加密配置
@@ -164,8 +165,11 @@ export default hopeTheme({
     icon: {
       assets: "fontawesome",
     },
+    media: {
+      artplayer: true,
+    },
     components: {
-      components: ["Badge", "ArtPlayer", "VPCard", "SiteInfo"],
+      components: ["Badge", "VPCard", "SiteInfo"],
     },
 
     // 如果你需要 PWA。安装 @vuepress/plugin-pwa 并取消下方注释

@@ -12,17 +12,17 @@
   },
   "devDependencies": {
     "@types/streamsaver": "^2.0.5",
-    "@vuepress/bundler-vite": "2.0.0-rc.31",
-    "@vuepress/plugin-feed": "2.0.0-rc.132",
-    "@vuepress/plugin-pwa": "2.0.0-rc.131",
-    "@vuepress/plugin-replace-assets": "2.0.0-rc.132",
+    "@vuepress/bundler-vite": "2.0.0-rc.32",
+    "@vuepress/plugin-feed": "2.0.0-rc.137",
+    "@vuepress/plugin-pwa": "2.0.0-rc.137",
+    "@vuepress/plugin-replace-assets": "2.0.0-rc.137",
     "artplayer": "^5.4.0",
-    "client-zip": "^2.5.0",
-    "sass-embedded": "^1.103.1",
+    "client-zip": "^2.5.1",
+    "sass-embedded": "^1.108.2",
     "streamsaver": "^2.0.6",
-    "vue": "^3.5.41",
-    "vuepress": "2.0.0-rc.31",
-    "vuepress-theme-hope": "2.0.0-rc.107"
+    "vue": "^3.5.45",
+    "vuepress": "2.0.0-rc.32",
+    "vuepress-theme-hope": "2.0.0-rc.110"
   },
   "packageManager": "pnpm@10.33.0"
 }
