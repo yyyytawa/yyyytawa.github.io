@@ -163,7 +163,7 @@ export default hopeTheme({
       canonical: "https://docs.yyyyt.top", // 权威地址
     },
     icon: {
-      assets: "fontawesome",
+      prefix: "fa6-solid:",
     },
     media: {
       artplayer: true,
