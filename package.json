@@ -4,6 +4,7 @@
   "version": "2.0.0",
   "license": "CC-BY-SA-NC-4.0",
   "type": "module",
+  "packageManager": "pnpm@12.18.0",
   "scripts": {
     "docs:build": "vuepress-vite build src",
     "docs:clean-dev": "vuepress-vite dev src --clean-cache",
