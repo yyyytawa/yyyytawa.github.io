@@ -112,8 +112,8 @@ otherlinks:
     desc: 我的开发记录、随笔、以及其他...
     logo: https://s3.bmp.ovh/2026/06/12/MKCsE8LS.webp
     url: https://vcblog.eu.cc/
-    repo: https://github.com/partxic/vcblog
-    preview: https://s3.bmp.ovh/2026/06/12/nhuxj2Ns.png
+    repo: https://github.com/runoneall/vcblog/
+    preview: https://s3.bmp.ovh/2026/11/25/dG2dlim3.png
 ---
 
 我自己的站点
